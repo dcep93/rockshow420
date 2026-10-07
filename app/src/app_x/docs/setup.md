@@ -20,8 +20,22 @@ real Google sign-in is performed by automated tests.
    `rockshow420.web.app` and `rockshow420.firebaseapp.com`. Add any actual custom
    Hosting domain. Add `localhost` only if using production Google sign-in from
    local development; the default local test path is the Auth emulator.
-4. From the repository's `app` directory, install dependencies and deploy only
-   the checked-in Firestore rules with an account authorized for this project:
+4. GitHub Actions deploys the checked-in Firestore rules before Hosting on every
+   push to `main`. If rule deployment fails, Hosting is not published. The
+   deployment service account stored in `SA_KEY` needs Firebase Rules Admin in
+   addition to its existing Hosting permissions. A project owner grants this
+   once (using the service account configured by `newapp.sh`):
+
+   ```sh
+   gcloud projects add-iam-policy-binding rockshow420 \
+     --member="serviceAccount:deployer-github@rockshow420.iam.gserviceaccount.com" \
+     --role="roles/firebaserules.admin"
+   ```
+
+   See [Firebase Rules Admin permissions](https://docs.cloud.google.com/iam/docs/roles-permissions/firebaserules).
+   The workflow uses its existing `SA_KEY` secret; local Firebase login is not
+   needed for automatic deployment. To deploy rules manually instead, run from
+   the repository's `app` directory:
 
    ```sh
    npm ci
@@ -29,9 +43,7 @@ real Google sign-in is performed by automated tests.
    npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.json --only firestore:rules
    ```
 
-   There was no active local GCP authentication during implementation. The
-   project owner runs these commands; do not place credentials in the repo.
-   This command does not change the existing automatic Hosting deployment.
+   Do not place credentials in the repo.
 5. Open the deployed app and sign in as **dcep93@gmail.com**. Find this account's
    UID under Authentication → Users. In the Firestore console create
    `admins/<that UID>` containing exactly these authorization fields:
@@ -107,7 +119,7 @@ permissions must be verified after the project owner finishes the setup above.
   care. Refresh the app before deleting records; repair any missing references
   through the admin editor.
 - To revoke admin, set `admins/<UID>.enabled` to `false` using the console.
-  To deploy later rule changes, repeat the same `firestore:rules` command above.
+  To deploy later rule changes, commit and push them to `main`.
 
 ## Browser verification
 
