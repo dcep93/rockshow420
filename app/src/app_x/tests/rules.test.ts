@@ -107,7 +107,7 @@ test("non-Gmail, unverified, and non-Google identities cannot mutate their own d
     ["owner@gmail.com", true, "password"],
   ] as const) {
     const db = account("owner", email, verified, provider);
-    await assertFails(updateDoc(doc(db, "users/owner"), { display_name: "No" }));
+    await assertFails(updateDoc(doc(db, "users/owner"), { future_field: "No" }));
     await assertFails(updateDoc(doc(db, "user_concerts/owner_concert"), { notes: "No" }));
     await assertFails(
       setDoc(doc(db, "user_concerts/owner_other"), { user_id: "owner", concert_id: "other" }),
@@ -119,12 +119,12 @@ test("non-Gmail, unverified, and non-Google identities cannot mutate their own d
 test("verified Gmail owners create, edit, and delete only their matching profile", async () => {
   const db = account("new", "new@gmail.com");
   await assertSucceeds(setDoc(doc(db, "users/new"), { user_id: "new" }));
-  await assertSucceeds(updateDoc(doc(db, "users/new"), { display_name: "New name", future_field: 42 }));
+  await assertSucceeds(updateDoc(doc(db, "users/new"), { future_field: 42 }));
   await assertFails(setDoc(doc(db, "users/impostor"), { user_id: "new" }));
   await assertFails(updateDoc(doc(db, "users/new"), { user_id: "owner" }));
   await assertFails(updateDoc(doc(db, "users/new"), { username: "owner" }));
   await assertFails(updateDoc(doc(db, "users/new"), { email: "new@gmail.com" }));
-  await assertFails(updateDoc(doc(db, "users/owner"), { display_name: "Changed" }));
+  await assertFails(updateDoc(doc(db, "users/owner"), { future_field: "Changed" }));
   await assertFails(deleteDoc(doc(db, "users/owner")));
   await assertSucceeds(deleteDoc(doc(db, "users/new")));
 });
@@ -206,7 +206,7 @@ test("admin manages catalog and other user data while preserving identity invari
     await assertSucceeds(updateDoc(doc(db, path), { unknown_future: 2 }));
     await assertSucceeds(deleteDoc(doc(db, path)));
   }
-  await assertSucceeds(updateDoc(doc(db, "users/owner"), { display_name: "Admin edited" }));
+  await assertSucceeds(updateDoc(doc(db, "users/owner"), { future_field: "Admin edited" }));
   await assertSucceeds(updateDoc(doc(db, "user_concerts/owner_concert"), { notes: "Admin edited" }));
   await assertSucceeds(
     setDoc(doc(db, "user_concerts/other_other"), { user_id: "other", concert_id: "other" }),

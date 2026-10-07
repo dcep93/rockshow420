@@ -129,10 +129,3 @@ export async function saveLog(
 export async function removeLog(uid: string, concertId: string): Promise<void> {
   await deleteDoc(doc(db, "user_concerts", `${uid}_${concertId}`));
 }
-export async function saveProfile(username: string, displayName: string): Promise<void> {
-  const ref = doc(db, "users", username);
-  await runTransaction(db, async (transaction) => {
-    if (!(await transaction.get(ref)).exists()) throw new Error("This profile no longer exists.");
-    transaction.update(ref, { display_name: displayName.trim() });
-  });
-}

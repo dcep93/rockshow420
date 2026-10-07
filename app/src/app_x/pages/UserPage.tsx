@@ -1,5 +1,5 @@
 import { useApp } from "../data/store";
-import type { Concert, Profile, UserConcert } from "../data/model";
+import type { Concert, UserConcert } from "../data/model";
 import { MissingConcert } from "../components/MissingConcert";
 import { ConcertRow } from "../components/ConcertRow";
 import { Empty } from "../components/ui";
@@ -8,12 +8,10 @@ export function UserPage({
   username,
   onAdd,
   onEdit,
-  onProfile,
 }: {
   username: string;
   onAdd: (uid: string) => void;
   onEdit: (concert: Concert, log: UserConcert) => void;
-  onProfile: (profile: Profile) => void;
 }) {
   const { catalog, viewer, isAdmin, loading } = useApp();
   const profile = catalog.profiles.find((item) => item.username === username || item.id === username);
@@ -27,26 +25,16 @@ export function UserPage({
     <>
       <section className="rs-page-heading">
         <div>
-          {profile.display_name && profile.display_name !== username && (
-            <p className="rs-eyebrow">{profile.display_name}</p>
-          )}
           <h1>@{username}</h1>
           <p className="rs-count">
             {rows.length} {rows.length === 1 ? "concert" : "concerts"}
           </p>
         </div>
-        <div className="rs-heading-actions">
-          {canEdit && (
-            <>
-              <button type="button" className="rs-text-button" onClick={() => onProfile(profile)}>
-                Edit profile
-              </button>
-              <button type="button" className="rs-primary" onClick={() => onAdd(profile.user_id)}>
-                Add concert
-              </button>
-            </>
-          )}
-        </div>
+        {canEdit && (
+          <button type="button" className="rs-primary" onClick={() => onAdd(profile.user_id)}>
+            Add concert
+          </button>
+        )}
       </section>
       <section className="rs-concert-list" aria-label={`${username}’s concerts`}>
         {rows.map(({ log, concert }) =>

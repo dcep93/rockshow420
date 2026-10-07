@@ -27,7 +27,6 @@ export interface Profile {
   id: string;
   user_id: string;
   username: string;
-  display_name: string;
 }
 export interface UserConcert {
   id: string;
@@ -107,7 +106,6 @@ export const normalizeProfile = (id: string, raw: Raw): Profile => ({
   id,
   user_id: string(raw.user_id),
   username: string(raw.username) || id,
-  display_name: string(raw.display_name),
 });
 export const normalizeLog = (id: string, raw: Raw): UserConcert => ({
   id,

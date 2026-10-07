@@ -18,7 +18,7 @@ service cloud.firestore {
     function requiredText(data, key) { return text(data, key) && data.get(key, '').size() > 0; }
     function array(data, key) { return data.get(key, []) is list; }
     function profile(data, username) {
-      return requiredText(data, 'user_id') && text(data, 'display_name')
+      return requiredText(data, 'user_id')
         && data.get('username', username) == username
         && !data.keys().hasAny(['email', 'auth_email', 'token', 'access_token', 'refresh_token']);
     }

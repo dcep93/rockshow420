@@ -83,12 +83,6 @@
   align-items: center;
   margin-bottom: 1.5rem;
 }
-.rs-heading-actions {
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-  flex-shrink: 0;
-}
 .rs-concert-list {
   border-top: 0.0625rem solid var(--rs-border);
 }
@@ -303,11 +297,6 @@
     flex-direction: column;
     gap: 1rem;
     margin-bottom: 2rem;
-  }
-  .rs-heading-actions {
-    width: 100%;
-    justify-content: space-between;
-    flex-direction: row-reverse;
   }
   .rs-concert-row {
     gap: 0.9rem;

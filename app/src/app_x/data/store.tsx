@@ -22,7 +22,6 @@ import type { Catalog } from "./model";
 interface Viewer {
   uid: string;
   username: string;
-  displayName: string;
 }
 interface AppState {
   catalog: Catalog;
@@ -113,7 +112,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
             }
             if (current !== generation) return;
             const username = email.slice(0, -10);
-            setViewer({ uid: user.uid, username, displayName: user.displayName || username });
+            setViewer({ uid: user.uid, username });
             setReady(true);
             stopAdmin = onSnapshot(
               doc(db, "admins", user.uid),
@@ -135,7 +134,6 @@ export function AppProvider({ children }: { children: ReactNode }) {
                 transaction.set(ref, {
                   user_id: user.uid,
                   username,
-                  display_name: user.displayName || username,
                 });
             });
           } catch (failure) {

@@ -19,7 +19,7 @@ Use Firestore collections, with IDs from document paths (not redundant editable 
 - concerts: date (Firestore Timestamp), venue_id and artist_id required; supporting_artist_ids defaults to []; setlist_fm_url optional HTTPS setlist.fm link.
 - festivals: name required; concert_ids defaults to [].
 - user_concerts: user_id, concert_id required; document ID is `<uid>_<concertId>`; supporting_artist_ids defaults to []; notes defaults to empty. Selected supporting artists are those seen or planned, from the concert lineup. Ownership and concert identity cannot be reassigned.
-- users: document ID is verified Gmail local-part; user_id required; display_name optional. No auth email/token is stored in this public collection.
+- users: document ID is verified Gmail local-part; user_id required; username is the verified Gmail local-part. There is no display name or profile editor. Existing legacy name fields are ignored. No auth email/token is stored in this public collection.
 - admins: console-managed document ID is Firebase UID; enabled: true, email: dcep93@gmail.com. No client can write this collection. Admin authorization additionally requires the matching verified Gmail Google account.
 
 All application data is publicly readable, including personal notes. Admin registry reads are allowed to its authenticated owner only. Authentication credentials stay in Firebase Auth. Anonymous writes are denied. Only verified Google Gmail accounts can write. Owners can create/update/delete their profile and their user_concerts; admins can edit all application records. Identity checks live in database rules, not only React.

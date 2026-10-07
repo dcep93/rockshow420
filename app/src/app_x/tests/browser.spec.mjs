@@ -28,7 +28,6 @@ async function login(page, email, admin = false) {
   await put(`users/${email.split("@")[0]}`, {
     user_id: uid,
     username: email.split("@")[0],
-    display_name: email.split("@")[0],
   });
   return uid;
 }

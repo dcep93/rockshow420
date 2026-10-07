@@ -1,6 +1,6 @@
 import { Component, useEffect, useState } from "react";
 import type { ReactNode } from "react";
-import type { Concert, EntityKind, Profile, UserConcert } from "./data/model";
+import type { Concert, EntityKind, UserConcert } from "./data/model";
 import { AppProvider, useApp } from "./data/store";
 import { saveLog } from "./data/actions";
 import { Link } from "./components/navigation";
@@ -14,7 +14,6 @@ import { ConcertPicker } from "./forms/ConcertPicker";
 import { LogEditor } from "./forms/LogEditor";
 import { EntityEditor } from "./forms/EntityEditor";
 import { Manager } from "./forms/Manager";
-import { ProfileEditor } from "./forms/ProfileEditor";
 import "./styles/theme.css";
 import "./styles/layout.css";
 import "./styles/forms.css";
@@ -24,7 +23,6 @@ type Overlay =
   | { type: "log"; concert: Concert; log?: UserConcert; uid: string }
   | { type: "entity"; kind: EntityKind; id?: string; addFor?: string }
   | { type: "manager" }
-  | { type: "profile"; profile: Profile }
   | null;
 
 function Shell() {
@@ -115,7 +113,6 @@ function Shell() {
             username={route.id}
             onAdd={(uid) => setOverlay({ type: "picker", uid })}
             onEdit={editLog}
-            onProfile={(profile) => setOverlay({ type: "profile", profile })}
           />
         ) : ["concert", "venue", "artist", "festival"].includes(route.kind) ? (
           <EntityPage kind={route.kind as EntityKind} id={route.id} onEdit={editEntity} onLog={editLog} />
@@ -162,7 +159,6 @@ function Shell() {
           }}
         />
       )}
-      {overlay?.type === "profile" && viewer && <ProfileEditor profile={overlay.profile} onClose={close} />}
     </div>
   );
 }

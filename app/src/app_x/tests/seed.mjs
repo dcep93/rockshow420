@@ -66,8 +66,8 @@ export async function seed() {
       supporting_artist_ids: [],
     },
     "festivals/f1": { name: "A Weekend Outside", concert_ids: ["c1", "c4"] },
-    "users/dcep93": { user_id: "admin-seed", username: "dcep93", display_name: "Daniel" },
-    "users/alice": { user_id: "alice-seed", username: "alice", display_name: "Alice" },
+    "users/dcep93": { user_id: "admin-seed", username: "dcep93" },
+    "users/alice": { user_id: "alice-seed", username: "alice" },
     "user_concerts/admin-seed_c1": {
       user_id: "admin-seed",
       concert_id: "c1",
