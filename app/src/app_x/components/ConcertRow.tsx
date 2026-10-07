@@ -24,7 +24,7 @@ export function ConcertRow({
   const festival = catalog.festivals.find((item) => item.concert_ids.includes(concert.id));
   return (
     <article className="rs-concert-row">
-      <Picture src={artist?.image} name={artist?.name || "♪"} />
+      <Picture src={artist?.image} name={artist?.name || ""} />
       <div className="rs-concert-info">
         <p className="rs-date">{formatConcertDate(concert.date, venue?.timezone || "UTC")}</p>
         <h2>

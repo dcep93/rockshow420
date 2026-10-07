@@ -1,13 +1,11 @@
 import { useEffect, useId, useRef, useState } from "react";
 import type { ReactNode } from "react";
 
-export function Icon({ name }: { name: "plus" | "arrow" | "close" | "music" | "search" }) {
+export function Icon({ name }: { name: "plus" | "arrow" | "close" | "search" }) {
   const paths = {
     plus: "M12 5v14M5 12h14",
     arrow: "M7 17 17 7M7 7h10v10",
     close: "m6 6 12 12M6 18 18 6",
-    music:
-      "M9 18V5l12-2v13M9 8l12-2M9 18a3 3 0 1 1-3-3c1.7 0 3 1.3 3 3ZM21 16a3 3 0 1 1-3-3c1.7 0 3 1.3 3 3Z",
     search: "m21 21-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z",
   };
   return (
@@ -85,9 +83,6 @@ export function Message({ children, error = false }: { children: ReactNode; erro
 export function Empty({ title, children }: { title: string; children?: ReactNode }) {
   return (
     <div className="rs-empty">
-      <span className="rs-empty-icon">
-        <Icon name="music" />
-      </span>
       <h2>{title}</h2>
       {children}
     </div>
@@ -102,7 +97,7 @@ export function Picture({ src, name, large = false }: { src?: string; name: stri
       {safe && failedSrc !== src ? (
         <img src={src} alt="" loading="lazy" referrerPolicy="no-referrer" onError={() => setFailedSrc(src)} />
       ) : (
-        <span>{name.slice(0, 1).toUpperCase() || "♪"}</span>
+        <span>{name.slice(0, 1).toUpperCase()}</span>
       )}
     </div>
   );

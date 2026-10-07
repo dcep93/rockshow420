@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { useApp } from "../data/store";
-import { Link } from "../components/navigation";
-import { Icon, Message } from "../components/ui";
+import { Message } from "../components/ui";
 import { errorMessage } from "../components/errors";
 
 export function Login() {
@@ -10,16 +9,7 @@ export function Login() {
   const [error, setError] = useState("");
   return (
     <section className="rs-login">
-      <div className="rs-login-mark" aria-hidden="true">
-        <Icon name="music" />
-      </div>
-      <p className="rs-eyebrow">GOOD NIGHTS, KEPT CLOSE.</p>
       <h1>rockshow420</h1>
-      <p className="rs-login-copy">
-        The shows you’ve seen.
-        <br />
-        The ones you’re waiting for.
-      </p>
       <button
         className="rs-google-button"
         type="button"
@@ -46,12 +36,6 @@ export function Login() {
       </button>
       <p className="rs-help">Use your @gmail.com account.</p>
       {error && <Message error>{error}</Message>}
-      <div className="rs-login-footer">
-        <span>Just looking?</span>{" "}
-        <Link href="/user/dcep93">
-          Visit @dcep93 <Icon name="arrow" />
-        </Link>
-      </div>
     </section>
   );
 }

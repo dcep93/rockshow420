@@ -34,7 +34,7 @@ export function UserPage({
     <>
       <section className="rs-page-heading">
         <div>
-          <p className="rs-eyebrow">{profile.display_name || "LIVE MUSIC, GOOD COMPANY"}</p>
+          {profile.display_name && <p className="rs-eyebrow">{profile.display_name}</p>}
           <h1>@{username}</h1>
           <p className="rs-count">
             {rows.length} {rows.length === 1 ? "concert" : "concerts"}
@@ -67,16 +67,7 @@ export function UserPage({
             <MissingConcert key={log.id} log={log} canEdit={canEdit} />
           ),
         )}
-        {!rows.length && (
-          <Empty title="The first show is waiting.">
-            <p>{canEdit ? "Add a concert you’ve seen or one you’re going to." : "No concerts added yet."}</p>
-            {canEdit && (
-              <button type="button" className="rs-secondary" onClick={() => onAdd(profile.user_id)}>
-                <Icon name="plus" /> Add concert
-              </button>
-            )}
-          </Empty>
-        )}
+        {!rows.length && <Empty title="No concerts yet" />}
       </section>
     </>
   );

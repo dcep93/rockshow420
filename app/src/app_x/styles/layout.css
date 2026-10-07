@@ -1,6 +1,5 @@
 .rs-header,
-.rs-main,
-.rs-footer {
+.rs-main {
   width: min(68rem, 100%);
   margin: 0 auto;
   padding-left: 2.5rem;
@@ -20,9 +19,6 @@
   font-size: 1.6rem;
   letter-spacing: -0.06em;
   white-space: nowrap;
-}
-.rs-brand-dot {
-  color: var(--rs-tan);
 }
 .rs-header nav {
   display: flex;
@@ -57,30 +53,9 @@
   text-align: center;
   width: min(30rem, 100%);
 }
-.rs-login-mark {
-  color: var(--rs-tan);
-  width: 4rem;
-  height: 4rem;
-  display: grid;
-  place-items: center;
-  border: 0.0625rem solid var(--rs-border);
-  border-radius: 1.2rem;
-  background: var(--rs-panel-soft);
-  margin: 0 auto 2.25rem;
-  transform: rotate(-8deg);
-}
-.rs-login-mark svg {
-  width: 1.6rem;
-  height: 1.6rem;
-}
 .rs-login h1 {
   font-size: clamp(3.5rem, 8vw, 5rem);
   margin: 0.75rem 0 1.5rem;
-}
-.rs-login-copy {
-  color: var(--rs-muted);
-  line-height: 1.75;
-  font-size: 1.0625rem;
 }
 .rs-google-button {
   display: flex;
@@ -100,39 +75,6 @@
 }
 .rs-google-button:hover {
   background: #e8cbb0;
-}
-.rs-login-footer {
-  display: flex;
-  gap: 0.5rem;
-  justify-content: center;
-  flex-wrap: wrap;
-  border-top: 0.0625rem solid var(--rs-border);
-  padding-top: 1.5rem;
-  margin: 3.25rem auto 0;
-  color: var(--rs-muted);
-  font-size: 0.75rem;
-}
-.rs-login-footer a {
-  color: var(--rs-tan);
-  display: inline-flex;
-  gap: 0.25rem;
-  align-items: center;
-}
-.rs-login-footer svg {
-  width: 1em;
-  height: 1em;
-}
-.rs-footer {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  padding-top: 1.25rem;
-  padding-bottom: 1.5rem;
-  border-top: 0.0625rem solid var(--rs-border);
-  color: rgba(255, 255, 255, 0.35);
-  font-size: 0.65rem;
-  letter-spacing: 0.025em;
 }
 .rs-page-heading {
   display: flex;
@@ -201,11 +143,6 @@
   padding: 4rem 1.5rem;
   text-align: center;
   color: var(--rs-muted);
-}
-.rs-empty-icon {
-  color: var(--rs-tan);
-  display: inline-flex;
-  margin-bottom: 1rem;
 }
 .rs-empty h2 {
   font-family: var(--rs-title-font);
@@ -340,8 +277,7 @@
 }
 @media (max-width: 42rem) {
   .rs-header,
-  .rs-main,
-  .rs-footer {
+  .rs-main {
     padding-left: 1.25rem;
     padding-right: 1.25rem;
   }

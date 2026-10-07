@@ -44,7 +44,7 @@ export function EntityPage({
     return (
       <>
         <section className="rs-detail-heading">
-          <Picture src={artist?.image} name={artist?.name || "♪"} large />
+          <Picture src={artist?.image} name={artist?.name || ""} large />
           <div className="rs-detail-title">
             <p className="rs-eyebrow">{formatConcertDate(concert.date, venue?.timezone || "UTC")}</p>
             <h1>{artist?.name || "Unknown artist"}</h1>

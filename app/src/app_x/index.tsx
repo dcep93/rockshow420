@@ -5,7 +5,7 @@ import { AppProvider, useApp } from "./data/store";
 import { saveLog } from "./data/actions";
 import { Link } from "./components/navigation";
 import { navigate, readRoute, usePath } from "./components/routing";
-import { Empty, Message, Modal } from "./components/ui";
+import { Empty, Message } from "./components/ui";
 import { errorMessage } from "./components/errors";
 import { Login } from "./pages/Login";
 import { UserPage } from "./pages/UserPage";
@@ -25,7 +25,6 @@ type Overlay =
   | { type: "entity"; kind: EntityKind; id?: string; addFor?: string }
   | { type: "manager" }
   | { type: "profile"; profile: Profile }
-  | { type: "find-user" }
   | null;
 
 function Shell() {
@@ -34,7 +33,6 @@ function Shell() {
   const { catalog, viewer, isAdmin, ready, loading, error, signOut } = useApp();
   const [overlay, setOverlay] = useState<Overlay>(null);
   const [actionError, setActionError] = useState("");
-  const [username, setUsername] = useState("");
   const [signingOut, setSigningOut] = useState(false);
   const close = () => setOverlay(null);
   useEffect(() => {
@@ -57,58 +55,57 @@ function Shell() {
   const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/";
   return (
     <div className="rs-shell">
-      <header className="rs-header">
-        <Link className="rs-brand" href={home}>
-          rockshow420<span className="rs-brand-dot">.</span>
-        </Link>
-        <nav aria-label="Main">
-          <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "find-user" })}>
-            Find user
-          </button>
-          {isAdmin && (
-            <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "manager" })}>
-              Manage
-            </button>
-          )}
-          {viewer ? (
-            <>
-              <Link className="rs-account" href={home}>
-                @{viewer.username}
-              </Link>
-              <button
-                type="button"
-                className="rs-text-button"
-                disabled={signingOut}
-                onClick={async () => {
-                  setSigningOut(true);
-                  try {
-                    await signOut();
-                    close();
-                    navigate("/");
-                  } catch (caught) {
-                    setActionError(errorMessage(caught));
-                  } finally {
-                    setSigningOut(false);
-                  }
-                }}
-              >
-                {signingOut ? "Signing out…" : "Sign out"}
+      {route.kind !== "home" && (
+        <header className="rs-header">
+          <Link className="rs-brand" href={home}>
+            rockshow420
+          </Link>
+          <nav aria-label="Main">
+            {isAdmin && (
+              <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "manager" })}>
+                Manage
               </button>
-            </>
-          ) : (
-            route.kind !== "home" && (
-              <Link className="rs-account" href="/">
-                Sign in
-              </Link>
-            )
-          )}
-        </nav>
-      </header>
+            )}
+            {viewer ? (
+              <>
+                <Link className="rs-account" href={home}>
+                  @{viewer.username}
+                </Link>
+                <button
+                  type="button"
+                  className="rs-text-button"
+                  disabled={signingOut}
+                  onClick={async () => {
+                    setSigningOut(true);
+                    try {
+                      await signOut();
+                      close();
+                      navigate("/");
+                    } catch (caught) {
+                      setActionError(errorMessage(caught));
+                    } finally {
+                      setSigningOut(false);
+                    }
+                  }}
+                >
+                  {signingOut ? "Signing out…" : "Sign out"}
+                </button>
+              </>
+            ) : (
+              route.kind !== "home" && (
+                <Link className="rs-account" href="/">
+                  Sign in
+                </Link>
+              )
+            )}
+          </nav>
+        </header>
+      )}
       <main className={route.kind === "home" ? "rs-main rs-main-login" : "rs-main"}>
         {actionError && <Message error>{actionError}</Message>}
         {error && <Message error>{error}</Message>}
         {!ready ? (
-          <Message>Getting things ready…</Message>
+          <Message>Loading…</Message>
         ) : route.kind === "home" ? (
           <Login />
         ) : loading ? (
@@ -128,10 +125,6 @@ function Shell() {
           </Empty>
         )}
       </main>
-      <footer className="rs-footer">
-        <span>rockshow420</span>
-        <span>For the love of live music.</span>
-      </footer>
       {overlay?.type === "picker" && viewer && (
         <ConcertPicker
           catalog={catalog}
@@ -170,40 +163,6 @@ function Shell() {
         />
       )}
       {overlay?.type === "profile" && viewer && <ProfileEditor profile={overlay.profile} onClose={close} />}
-      {overlay?.type === "find-user" && (
-        <Modal title="Find user" onClose={close}>
-          <form
-            onSubmit={(event) => {
-              event.preventDefault();
-              const value = username
-                .trim()
-                .replace(/^@/, "")
-                .replace(/@gmail\.com$/i, "")
-                .toLowerCase();
-              if (value) {
-                close();
-                navigate(`/user/${encodeURIComponent(value)}`);
-              }
-            }}
-          >
-            <label className="rs-field">
-              Gmail username
-              <input
-                required
-                value={username}
-                onChange={(event) => setUsername(event.target.value)}
-                placeholder="dcep93"
-                autoFocus
-              />
-            </label>
-            <div className="rs-form-actions">
-              <button type="submit" className="rs-primary">
-                Open user page
-              </button>
-            </div>
-          </form>
-        </Modal>
-      )}
     </div>
   );
 }

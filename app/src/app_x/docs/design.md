@@ -41,3 +41,7 @@ Local GCP credentials are not present. Provide setup instructions for creating t
 ## Verification
 
 Test anonymous reads/writes, verified Gmail versus unverified/non-Gmail/non-Google identities, owner and cross-owner create/update/delete, immutable ownership, admin catalog and other-user writes, blocked role escalation, optional fields and unknown-field preservation. Test dates across IANA zones and DST gaps/repeats, routes with stale slugs, missing records, schema defaults. Run production build and lint. Use emulator fixtures for desktop/mobile browser checks of login, user log, add/edit/remove, entity routes and public notes. Preserve explicit production setup limitations in final handoff.
+
+## Minimal interface
+
+Keep visible text functional. No slogans, marketing copy, decorative music notes, footer branding, or Find user navigation. The login page has one app title, the Google sign-in button, and Gmail account guidance. Public user pages remain accessible by their URLs. Empty logs say “No concerts yet” and use the existing header action to add a concert. Preserve the shared pink Comic Sans styling.
