@@ -7,18 +7,29 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "tsx --test src/app_x/tests/model.test.ts",
+    "test:rules": "firebase emulators:exec --project demo-rockshow420 --config src/app_x/backend/firebase.json --only firestore 'tsx --test src/app_x/tests/rules.test.ts'",
+    "test:browser": "playwright test --config src/app_x/tests/playwright.config.mjs",
+    "emulators": "firebase emulators:start --project demo-rockshow420 --config src/app_x/backend/firebase.json --only auth,firestore"
   },
   "dependencies": {
+    "firebase": "^13.0.0",
+    "luxon": "^3.7.2",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
   "devDependencies": {
+    "@firebase/rules-unit-testing": "^6.0.0",
+    "@playwright/test": "^1.64.0",
+    "@types/luxon": "^3.7.6",
     "@types/node": "^24.13.3",
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
+    "firebase-tools": "^15.32.1",
     "oxlint": "^1.81.0",
+    "tsx": "^4.23.15",
     "typescript": "~6.0.2",
     "vite": "^8.3.0"
   }

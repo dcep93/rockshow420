@@ -1,0 +1,235 @@
+/* Source of truth: multisport420/app/src/app_x/styles/multisport.css in the sibling repository. */
+:root:has(.rs-shell) {
+  --rs-bg-top: #1a1411;
+  --rs-bg-bottom: #0c0907;
+  --rs-panel: rgba(28, 21, 18, 0.84);
+  --rs-panel-strong: rgba(20, 15, 12, 0.92);
+  --rs-panel-soft: rgba(36, 28, 24, 0.78);
+  --rs-border: rgba(201, 156, 107, 0.2);
+  --rs-border-strong: rgba(228, 193, 150, 0.34);
+  --rs-text: #fff;
+  --rs-muted: rgba(255, 255, 255, 0.64);
+  --rs-tan: #d8b38a;
+  --rs-amber: #c99c6b;
+  --rs-pink: #ff7bc3;
+  --rs-danger: #ff9fb0;
+  --rs-title-font: "Comic Sans MS", "Comic Sans", cursive;
+  color-scheme: dark;
+  font:
+    1rem/1.55 -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  letter-spacing: normal;
+  background: var(--rs-bg-bottom);
+  color: var(--rs-text);
+}
+body:has(.rs-shell) {
+  margin: 0;
+}
+#root:has(.rs-shell) {
+  display: block;
+  width: 100%;
+  max-width: none;
+  min-height: 100svh;
+  margin: 0;
+  border: 0;
+  text-align: left;
+}
+.rs-shell {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  background:
+    radial-gradient(ellipse at 15% 0%, rgba(255, 123, 195, 0.075), transparent 40rem),
+    radial-gradient(ellipse at 95% 35%, rgba(201, 156, 107, 0.065), transparent 45rem),
+    linear-gradient(180deg, var(--rs-bg-top), var(--rs-bg-bottom));
+}
+.rs-shell *,
+.rs-dialog * {
+  box-sizing: border-box;
+}
+.rs-shell a,
+.rs-dialog a {
+  color: inherit;
+  text-decoration: none;
+  text-underline-offset: 0.2em;
+}
+.rs-shell a:hover,
+.rs-dialog a:hover {
+  color: var(--rs-pink);
+}
+.rs-shell :focus-visible,
+.rs-dialog :focus-visible {
+  outline: 0.125rem solid var(--rs-pink);
+  outline-offset: 0.2rem;
+}
+.rs-shell h1 {
+  font-family: var(--rs-title-font);
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  line-height: 1.14;
+  color: var(--rs-pink);
+  margin: 0.45rem 0 0.75rem;
+  font-size: clamp(2.3rem, 5vw, 3.5rem);
+  overflow-wrap: anywhere;
+}
+.rs-shell h2,
+.rs-dialog h2 {
+  font-family: inherit;
+  font-size: 1.125rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: var(--rs-text);
+  line-height: 1.4;
+  margin: 0;
+}
+.rs-shell p,
+.rs-dialog p {
+  margin: 0;
+}
+.rs-shell button,
+.rs-dialog button,
+.rs-dialog input,
+.rs-dialog select,
+.rs-dialog textarea {
+  font: inherit;
+}
+.rs-shell button,
+.rs-dialog button {
+  cursor: pointer;
+}
+.rs-shell button:disabled,
+.rs-dialog button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.rs-primary,
+.rs-secondary,
+.rs-danger {
+  display: inline-flex;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3rem;
+  min-height: 2.75rem;
+  padding: 0.65rem 1.2rem;
+  border: 0.0625rem solid var(--rs-border-strong);
+  font-size: 0.875rem;
+  text-decoration: none;
+  white-space: nowrap;
+  transition:
+    background 0.15s,
+    border-color 0.15s;
+}
+.rs-shell .rs-primary,
+.rs-dialog .rs-primary {
+  color: #21150e;
+  background: var(--rs-amber);
+  font-weight: 650;
+}
+.rs-shell .rs-primary:hover,
+.rs-dialog .rs-primary:hover {
+  background: var(--rs-tan);
+  color: #21150e;
+}
+.rs-secondary {
+  color: var(--rs-text);
+  background: rgba(232, 206, 171, 0.04);
+}
+.rs-secondary:hover {
+  background: rgba(232, 206, 171, 0.09);
+  border-color: var(--rs-tan);
+}
+.rs-text-button {
+  background: transparent;
+  color: var(--rs-muted);
+  padding: 0.55rem 0.3rem;
+  min-height: 2.75rem;
+  border: 0;
+  font-size: 0.8125rem;
+}
+.rs-text-button:hover {
+  color: var(--rs-text);
+}
+.rs-danger {
+  color: var(--rs-danger);
+  background: rgba(255, 100, 130, 0.07);
+  border-color: rgba(255, 100, 130, 0.25);
+}
+.rs-dialog .rs-danger-text {
+  color: var(--rs-danger);
+}
+.rs-icon-button,
+.rs-icon-link {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  background: transparent;
+  color: var(--rs-muted);
+  border: 0.0625rem solid var(--rs-border);
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.rs-eyebrow {
+  color: var(--rs-tan);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-size: 0.625rem;
+  font-weight: 600;
+}
+.rs-muted,
+.rs-count {
+  color: var(--rs-muted);
+  font-size: 0.8125rem;
+}
+.rs-help {
+  color: var(--rs-muted);
+  font-size: 0.75rem;
+  line-height: 1.6;
+}
+.rs-picture {
+  flex: 0 0 4rem;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.9rem;
+  border: 0.0625rem solid var(--rs-border);
+  background: linear-gradient(145deg, rgba(255, 123, 195, 0.1), rgba(201, 156, 107, 0.08));
+  color: var(--rs-pink);
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+}
+.rs-picture span {
+  font: 1.7rem var(--rs-title-font);
+}
+.rs-picture img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.rs-picture-large {
+  flex-basis: 8rem;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 1.3rem;
+}
+.rs-picture-large span {
+  font-size: 3rem;
+}
+.rs-message {
+  margin: 1rem 0 !important;
+  padding: 0.85rem 1rem;
+  border: 0.0625rem solid var(--rs-border);
+  border-radius: 0.8rem;
+  font-size: 0.875rem;
+  color: var(--rs-muted);
+  overflow-wrap: anywhere;
+}
+.rs-error {
+  color: var(--rs-danger);
+  border-color: rgba(255, 100, 130, 0.25);
+  background: rgba(255, 100, 130, 0.04);
+}

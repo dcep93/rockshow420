@@ -1,0 +1,88 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function gmail() {
+      return request.auth != null
+        && request.auth.token.email_verified == true
+        && request.auth.token.firebase.sign_in_provider == 'google.com'
+        && request.auth.token.email is string
+        && request.auth.token.email.lower().matches('^[^@]+@gmail[.]com$');
+    }
+    function admin() {
+      return gmail() && request.auth.token.email.lower() == 'dcep93@gmail.com'
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.enabled == true
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.email == 'dcep93@gmail.com';
+    }
+    function text(data, key) { return data.get(key, '') is string; }
+    function requiredText(data, key) { return text(data, key) && data.get(key, '').size() > 0; }
+    function array(data, key) { return data.get(key, []) is list; }
+    function profile(data, username) {
+      return requiredText(data, 'user_id') && text(data, 'display_name')
+        && data.get('username', username) == username
+        && !data.keys().hasAny(['email', 'auth_email', 'token', 'access_token', 'refresh_token']);
+    }
+    function ownProfile(data, username) {
+      return gmail() && data.user_id == request.auth.uid
+        && username + '@gmail.com' == request.auth.token.email.lower();
+    }
+    function log(data, id) {
+      return requiredText(data, 'user_id') && requiredText(data, 'concert_id')
+        && id == data.user_id + '_' + data.concert_id
+        && text(data, 'notes') && array(data, 'supporting_artist_ids')
+        && exists(/databases/$(database)/documents/concerts/$(data.concert_id))
+        && data.get('supporting_artist_ids', []).toSet().hasOnly(
+          get(/databases/$(database)/documents/concerts/$(data.concert_id)).data.get('supporting_artist_ids', []).toSet());
+    }
+    function ownLog(data) { return gmail() && data.user_id == request.auth.uid; }
+
+    match /admins/{uid} {
+      allow get: if request.auth != null && request.auth.uid == uid;
+      allow list, write: if false;
+    }
+    match /users/{username} {
+      allow read: if true;
+      allow create: if profile(request.resource.data, username)
+        && (admin() || ownProfile(request.resource.data, username));
+      allow update: if profile(request.resource.data, username)
+        && request.resource.data.user_id == resource.data.user_id
+        && (admin() || (ownProfile(resource.data, username) && ownProfile(request.resource.data, username)));
+      allow delete: if admin() || ownProfile(resource.data, username);
+    }
+    match /user_concerts/{id} {
+      allow read: if true;
+      allow create: if log(request.resource.data, id) && (admin() || ownLog(request.resource.data));
+      allow update: if log(request.resource.data, id)
+        && request.resource.data.user_id == resource.data.user_id
+        && request.resource.data.concert_id == resource.data.concert_id
+        && (admin() || ownLog(resource.data));
+      allow delete: if admin() || ownLog(resource.data);
+    }
+    match /venues/{id} {
+      allow read: if true;
+      allow create, update: if admin() && requiredText(request.resource.data, 'name')
+        && requiredText(request.resource.data, 'timezone')
+        && text(request.resource.data, 'location') && text(request.resource.data, 'image');
+      allow delete: if admin();
+    }
+    match /artists/{id} {
+      allow read: if true;
+      allow create, update: if admin() && requiredText(request.resource.data, 'name') && text(request.resource.data, 'image');
+      allow delete: if admin();
+    }
+    match /concerts/{id} {
+      allow read: if true;
+      allow create, update: if admin() && request.resource.data.date is timestamp
+        && requiredText(request.resource.data, 'venue_id') && requiredText(request.resource.data, 'artist_id')
+        && array(request.resource.data, 'supporting_artist_ids') && text(request.resource.data, 'setlist_fm_url')
+        && exists(/databases/$(database)/documents/venues/$(request.resource.data.venue_id))
+        && exists(/databases/$(database)/documents/artists/$(request.resource.data.artist_id));
+      allow delete: if admin();
+    }
+    match /festivals/{id} {
+      allow read: if true;
+      allow create, update: if admin() && requiredText(request.resource.data, 'name') && array(request.resource.data, 'concert_ids');
+      allow delete: if admin();
+    }
+  }
+}

@@ -1,0 +1,223 @@
+.rs-dialog {
+  width: min(36rem, calc(100% - 2rem));
+  padding: 0;
+  margin: auto;
+  max-height: calc(100svh - 3rem);
+  border: 0.0625rem solid var(--rs-border-strong);
+  border-radius: 1.25rem;
+  background: #1a1411;
+  color: var(--rs-text);
+  box-shadow: 0 1.5rem 5rem rgba(0, 0, 0, 0.5);
+  overflow: auto;
+}
+.rs-dialog::backdrop {
+  background: rgba(5, 3, 2, 0.75);
+  backdrop-filter: blur(0.25rem);
+}
+.rs-dialog-inner {
+  padding: 1.75rem;
+}
+.rs-dialog-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+.rs-dialog-heading h2 {
+  font-family: var(--rs-title-font);
+  color: var(--rs-pink);
+  font-size: 1.7rem;
+  font-weight: 400;
+}
+.rs-dialog input:not([type="checkbox"]),
+.rs-dialog textarea,
+.rs-dialog select {
+  width: 100%;
+  min-width: 0;
+  padding: 0.75rem 0.9rem;
+  border: 0.0625rem solid var(--rs-border);
+  border-radius: 0.75rem;
+  background: rgba(232, 206, 171, 0.04);
+  color: var(--rs-text);
+  min-height: 2.8rem;
+  font-size: 0.875rem;
+}
+.rs-dialog select option {
+  background: #241c18;
+  color: white;
+}
+.rs-dialog textarea {
+  resize: vertical;
+  line-height: 1.6;
+}
+.rs-dialog input::placeholder,
+.rs-dialog textarea::placeholder {
+  color: rgba(255, 255, 255, 0.32);
+}
+.rs-field {
+  display: block;
+  margin: 1rem 0 0.4rem;
+  font-size: 0.8125rem;
+  color: var(--rs-tan);
+}
+.rs-field > input,
+.rs-field > select,
+.rs-field > textarea {
+  display: block;
+  margin-top: 0.45rem;
+}
+.rs-optional {
+  font-size: 0.6875rem;
+  color: var(--rs-muted);
+  margin-left: 0.4rem;
+}
+.rs-form-intro {
+  color: var(--rs-tan);
+  margin-bottom: 1.25rem !important;
+}
+.rs-dialog fieldset {
+  border: 0;
+  margin: 1.25rem 0;
+  padding: 0;
+}
+.rs-dialog legend {
+  font-size: 0.8125rem;
+  color: var(--rs-tan);
+  margin-bottom: 0.6rem;
+}
+.rs-check-list {
+  max-height: 14rem;
+  overflow: auto;
+  margin-top: 0.5rem;
+}
+.rs-check {
+  display: flex;
+  gap: 0.65rem;
+  align-items: center;
+  min-height: 2.6rem;
+  font-size: 0.8125rem;
+  color: var(--rs-text);
+}
+.rs-check input {
+  accent-color: var(--rs-amber);
+  width: 1.1rem;
+  height: 1.1rem;
+  flex-shrink: 0;
+}
+.rs-form-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 0.0625rem solid var(--rs-border);
+}
+.rs-spacer {
+  flex: 1;
+}
+.rs-confirm {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  border: 0.0625rem solid rgba(255, 100, 130, 0.2);
+  font-size: 0.8125rem;
+}
+.rs-confirm p {
+  margin-bottom: 0.75rem;
+}
+.rs-confirm .rs-text-button {
+  margin-left: 0.75rem;
+}
+.rs-search {
+  display: flex;
+  align-items: center;
+  color: var(--rs-tan);
+  position: relative;
+}
+.rs-search svg {
+  position: absolute;
+  left: 0.85rem;
+  width: 1rem;
+}
+.rs-search input {
+  padding-left: 2.5rem !important;
+}
+.rs-picker-list {
+  margin-top: 0.75rem;
+  max-height: 26rem;
+  overflow: auto;
+}
+.rs-picker-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  gap: 1rem;
+  padding: 1rem 0.25rem;
+  border: 0;
+  border-bottom: 0.0625rem solid var(--rs-border);
+  color: var(--rs-text);
+  background: transparent;
+}
+.rs-picker-item:hover:not(:disabled) {
+  background: rgba(232, 206, 171, 0.05);
+}
+.rs-picker-item strong {
+  font-size: 0.875rem;
+  font-weight: 500;
+  overflow-wrap: anywhere;
+}
+.rs-picker-item small {
+  display: block;
+  color: var(--rs-muted);
+  font-size: 0.6875rem;
+  margin-top: 0.25rem;
+}
+.rs-picker-item > span:last-child {
+  color: var(--rs-tan);
+  font-size: 0.75rem;
+  flex-shrink: 0;
+}
+.rs-tabs {
+  display: flex;
+  gap: 0.3rem;
+  overflow-x: auto;
+  margin-bottom: 1.25rem;
+}
+.rs-tabs button {
+  flex: 1;
+  padding: 0.6rem 0.5rem;
+  border: 0.0625rem solid transparent;
+  border-radius: 0.65rem;
+  color: var(--rs-muted);
+  background: transparent;
+  font-size: 0.75rem;
+}
+.rs-tabs button[aria-pressed="true"] {
+  background: var(--rs-panel-soft);
+  border-color: var(--rs-border);
+  color: var(--rs-tan);
+}
+.rs-manager-toolbar {
+  display: flex;
+  gap: 0.75rem;
+}
+@media (max-width: 42rem) {
+  .rs-dialog {
+    max-height: calc(100svh - 1rem);
+    width: calc(100% - 1rem);
+    border-radius: 1rem;
+  }
+  .rs-dialog-inner {
+    padding: 1.25rem;
+  }
+  .rs-dialog input:not([type="checkbox"]),
+  .rs-dialog textarea,
+  .rs-dialog select {
+    font-size: 1rem;
+  }
+}
