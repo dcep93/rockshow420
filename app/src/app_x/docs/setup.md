@@ -92,7 +92,7 @@ if that environment variable is set at build time. Stop emulators when done.
 ## Automated checks
 
 ```sh
-npx tsx --test src/app_x/tests/model.test.ts
+npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/session.test.ts
 npx firebase emulators:exec --project demo-rockshow420 --config src/app_x/backend/firebase.json --only firestore 'npx tsx --test src/app_x/tests/rules.test.ts'
 npm run build
 npm run lint

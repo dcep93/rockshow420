@@ -26,10 +26,8 @@ export function EntityPage({
         : kind === "venue"
           ? catalog.venues.find((item) => item.id === id)
           : catalog.festivals.find((item) => item.id === id);
-  if (!record)
-    return (
-      <Empty title={loading ? "Loading…" : `${kind[0].toUpperCase()}${kind.slice(1)} not found`} />
-    );
+  if (loading) return null;
+  if (!record) return <Empty title={`${kind[0].toUpperCase()}${kind.slice(1)} not found`} />;
   if (kind === "concert") {
     const concert = record as Concert;
     const artist = catalog.artists.find((item) => item.id === concert.artist_id);

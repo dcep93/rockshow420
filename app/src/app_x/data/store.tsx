@@ -18,11 +18,9 @@ import {
   normalizeVenue,
 } from "./model";
 import type { Catalog } from "./model";
+import { observeSession, pendingSession } from "./session";
+import type { Viewer } from "./session";
 
-interface Viewer {
-  uid: string;
-  username: string;
-}
 interface AppState {
   catalog: Catalog;
   viewer: Viewer | null;
@@ -39,9 +37,7 @@ const message = (error: unknown) =>
 
 export function AppProvider({ children }: { children: ReactNode }) {
   const [catalog, setCatalog] = useState<Catalog>(emptyCatalog);
-  const [viewer, setViewer] = useState<Viewer | null>(null);
-  const [isAdmin, setIsAdmin] = useState(false);
-  const [ready, setReady] = useState(false);
+  const [{ viewer, isAdmin, ready }, setSession] = useState(pendingSession);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
@@ -81,80 +77,26 @@ export function AppProvider({ children }: { children: ReactNode }) {
     return () => unsubscribe.forEach((stop) => stop());
   }, []);
 
-  useEffect(() => {
-    let generation = 0;
-    let stopAdmin: (() => void) | undefined;
-    const stopAuth = onIdTokenChanged(
-      auth,
-      (user) => {
-        const current = ++generation;
-        stopAdmin?.();
-        setIsAdmin(false);
-        setViewer(null);
-        if (!user) {
-          setReady(true);
-          return;
-        }
-        void (async () => {
-          try {
-            const token = await user.getIdTokenResult();
-            const email = user.email?.toLowerCase() ?? "";
-            if (
-              !user.emailVerified ||
-              !/^[^@]+@gmail\.com$/.test(email) ||
-              token.signInProvider !== "google.com"
-            ) {
-              if (current === generation) {
-                setError("Please sign in with a verified Google Gmail account.");
-                await firebaseSignOut(auth);
-              }
-              return;
-            }
-            if (current !== generation) return;
-            const username = email.slice(0, -10);
-            setViewer({ uid: user.uid, username });
-            setReady(true);
-            stopAdmin = onSnapshot(
-              doc(db, "admins", user.uid),
-              (snapshot) => {
-                if (current === generation)
-                  setIsAdmin(
-                    email === "dcep93@gmail.com" &&
-                      snapshot.data()?.enabled === true &&
-                      snapshot.data()?.email === "dcep93@gmail.com",
-                  );
-              },
-              () => {
-                if (current === generation) setIsAdmin(false);
-              },
-            );
-            await runTransaction(db, async (transaction) => {
-              const ref = doc(db, "users", username);
-              if (!(await transaction.get(ref)).exists())
-                transaction.set(ref, {
-                  user_id: user.uid,
-                  username,
-                });
-            });
-          } catch (failure) {
-            if (current === generation) {
-              setError(message(failure));
-              setReady(true);
-            }
-          }
-        })();
+  useEffect(() => observeSession({
+    watchUser: (next, error) => onIdTokenChanged(auth, next, error),
+    watchAdmin: (uid, next, error) => onSnapshot(
+      doc(db, "admins", uid),
+      { includeMetadataChanges: true },
+      (snapshot) => {
+        // Do not briefly show non-admin controls before the server answers.
+        if (snapshot.metadata.fromCache) return;
+        next(snapshot.data()?.enabled === true && snapshot.data()?.email === "dcep93@gmail.com");
       },
-      (failure) => {
-        setError(message(failure));
-        setReady(true);
-      },
-    );
-    return () => {
-      generation++;
-      stopAdmin?.();
-      stopAuth();
-    };
-  }, []);
+      error,
+    ),
+    ensureProfile: async ({ uid, username }) => {
+      await runTransaction(db, async (transaction) => {
+        const ref = doc(db, "users", username);
+        if (!(await transaction.get(ref)).exists()) transaction.set(ref, { user_id: uid, username });
+      });
+    },
+    signOut: () => firebaseSignOut(auth),
+  }, setSession, (failure) => setError(message(failure))), []);
 
   async function signIn() {
     setError("");

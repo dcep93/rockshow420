@@ -58,43 +58,45 @@ function Shell() {
           <Link className="rs-brand" href={home}>
             rockshow420
           </Link>
-          <nav aria-label="Main">
-            {isAdmin && (
-              <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "manager" })}>
-                Manage
-              </button>
-            )}
-            {viewer ? (
+          <nav aria-label="Main" aria-busy={!ready}>
+            {ready && (
               <>
-                <Link className="rs-account" href={home}>
-                  @{viewer.username}
-                </Link>
-                <button
-                  type="button"
-                  className="rs-text-button"
-                  disabled={signingOut}
-                  onClick={async () => {
-                    setSigningOut(true);
-                    try {
-                      await signOut();
-                      close();
-                      navigate("/");
-                    } catch (caught) {
-                      setActionError(errorMessage(caught));
-                    } finally {
-                      setSigningOut(false);
-                    }
-                  }}
-                >
-                  {signingOut ? "Signing out…" : "Sign out"}
-                </button>
+                {isAdmin && (
+                  <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "manager" })}>
+                    Manage
+                  </button>
+                )}
+                {viewer ? (
+                  <>
+                    <span className="rs-username">
+                      @{viewer.username}
+                    </span>
+                    <button
+                      type="button"
+                      className="rs-text-button"
+                      disabled={signingOut}
+                      onClick={async () => {
+                        setSigningOut(true);
+                        try {
+                          await signOut();
+                          close();
+                          navigate("/");
+                        } catch (caught) {
+                          setActionError(errorMessage(caught));
+                        } finally {
+                          setSigningOut(false);
+                        }
+                      }}
+                    >
+                      {signingOut ? "Signing out…" : "Sign out"}
+                    </button>
+                  </>
+                ) : (
+                  <Link className="rs-account" href="/">
+                    Sign in
+                  </Link>
+                )}
               </>
-            ) : (
-              route.kind !== "home" && (
-                <Link className="rs-account" href="/">
-                  Sign in
-                </Link>
-              )
             )}
           </nav>
         </header>
@@ -102,13 +104,9 @@ function Shell() {
       <main className={route.kind === "home" ? "rs-main rs-main-login" : "rs-main"}>
         {actionError && <Message error>{actionError}</Message>}
         {error && <Message error>{error}</Message>}
-        {!ready ? (
-          <Message>Loading…</Message>
-        ) : route.kind === "home" ? (
-          <Login />
-        ) : loading ? (
-          <Message>Loading concerts…</Message>
-        ) : route.kind === "user" ? (
+        {!ready ? null : route.kind === "home" ? (
+          viewer ? null : <Login />
+        ) : loading ? null : route.kind === "user" ? (
           <UserPage
             username={route.id}
             onAdd={(uid) => setOverlay({ type: "picker", uid })}

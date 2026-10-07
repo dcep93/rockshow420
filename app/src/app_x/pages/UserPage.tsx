@@ -15,7 +15,8 @@ export function UserPage({
 }) {
   const { catalog, viewer, isAdmin, loading } = useApp();
   const profile = catalog.profiles.find((item) => item.username === username || item.id === username);
-  if (!profile) return <Empty title={loading ? "Loading…" : "User not found"} />;
+  if (loading) return null;
+  if (!profile) return <Empty title="User not found" />;
   const canEdit = isAdmin || viewer?.uid === profile.user_id;
   const rows = catalog.logs
     .filter((log) => log.user_id === profile.user_id)
