@@ -254,7 +254,7 @@ export function EntityEditor({
               </select>
             </label>
             {(!catalog.artists.length || !catalog.venues.length) && (
-              <Message>Create an artist and venue in Manage before creating a concert.</Message>
+              <Message>Create missing artists or venues in Manage.</Message>
             )}
             <label className="rs-field">
               Date and time
@@ -322,7 +322,7 @@ export function EntityEditor({
                     </label>
                   ))}
                 {catalog.artists.length <= 1 && (
-                  <p className="rs-help">Add more artists in Manage to select supporting acts.</p>
+                  <p className="rs-help">No other artists</p>
                 )}
               </div>
             </fieldset>
@@ -380,7 +380,7 @@ export function EntityEditor({
         {error && <Message error>{error}</Message>}
         {confirmRemove && (
           <div className="rs-confirm">
-            <p>Delete this {kind}? Any references must be removed first.</p>
+            <p>Delete this {kind}?</p>
             <button type="button" disabled={busy} className="rs-danger" onClick={() => void remove()}>
               Delete {kind}
             </button>
@@ -390,29 +390,31 @@ export function EntityEditor({
               disabled={busy}
               onClick={() => setConfirmRemove(false)}
             >
-              Keep it
+              Cancel
             </button>
           </div>
         )}
-        <div className="rs-form-actions">
-          {id && !confirmRemove && (
-            <button
-              type="button"
-              className="rs-text-button rs-danger-text"
-              disabled={busy}
-              onClick={() => setConfirmRemove(true)}
-            >
-              Delete
+        {!confirmRemove && (
+          <div className="rs-form-actions">
+            {id && (
+              <button
+                type="button"
+                className="rs-text-button rs-danger-text"
+                disabled={busy}
+                onClick={() => setConfirmRemove(true)}
+              >
+                Delete
+              </button>
+            )}
+            <span className="rs-spacer" />
+            <button type="button" className="rs-secondary" disabled={busy} onClick={onClose}>
+              Cancel
             </button>
-          )}
-          <span className="rs-spacer" />
-          <button type="button" className="rs-secondary" disabled={busy} onClick={onClose}>
-            Cancel
-          </button>
-          <button type="submit" className="rs-primary" disabled={busy}>
-            {busy ? "Saving…" : "Save"}
-          </button>
-        </div>
+            <button type="submit" className="rs-primary" disabled={busy}>
+              {busy ? "Saving…" : "Save"}
+            </button>
+          </div>
+        )}
       </form>
     </Modal>
   );

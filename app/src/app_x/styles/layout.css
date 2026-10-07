@@ -38,8 +38,8 @@
 }
 .rs-main {
   flex: 1;
-  padding-top: 3.5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 .rs-main-login {
   display: flex;
@@ -54,7 +54,7 @@
   width: min(30rem, 100%);
 }
 .rs-login h1 {
-  font-size: clamp(3.5rem, 8vw, 5rem);
+  font-size: 2.5rem;
   margin: 0.75rem 0 1.5rem;
 }
 .rs-google-button {
@@ -81,7 +81,7 @@
   gap: 1.5rem;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 2.75rem;
+  margin-bottom: 1.5rem;
 }
 .rs-heading-actions {
   display: flex;
@@ -140,15 +140,14 @@
   font-size: 0.625rem;
 }
 .rs-empty {
-  padding: 4rem 1.5rem;
+  padding: 1.5rem 0;
   text-align: center;
   color: var(--rs-muted);
 }
 .rs-empty h2 {
-  font-family: var(--rs-title-font);
   font-weight: 400;
-  color: var(--rs-pink);
-  font-size: 1.5rem;
+  color: var(--rs-muted);
+  font-size: 0.875rem;
 }
 .rs-empty p {
   margin: 0.6rem 0 1.25rem;
@@ -214,9 +213,6 @@
   height: 2.75rem;
   border-radius: 0.7rem;
 }
-.rs-lineup-item .rs-picture span {
-  font-size: 1.2rem;
-}
 .rs-lineup-item > span {
   flex: 1;
 }
@@ -226,10 +222,6 @@
   font-size: 0.65rem;
   margin-top: 0.2rem;
 }
-.rs-lineup-item > svg {
-  width: 0.9rem;
-  color: var(--rs-muted);
-}
 .rs-outbound {
   display: flex;
   align-items: center;
@@ -238,10 +230,6 @@
   color: var(--rs-tan) !important;
   margin-top: 1.25rem;
   font-size: 0.75rem;
-}
-.rs-outbound svg {
-  width: 1em;
-  height: 1em;
 }
 .rs-section-heading,
 .rs-entry-heading {
@@ -337,11 +325,6 @@
   }
   .rs-date {
     font-size: 0.625rem;
-  }
-  .rs-row-actions .rs-icon-link {
-    width: 2rem;
-    height: 2rem;
-    border: 0;
   }
   .rs-detail-heading {
     gap: 1rem;

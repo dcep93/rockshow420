@@ -120,8 +120,8 @@ function Shell() {
         ) : ["concert", "venue", "artist", "festival"].includes(route.kind) ? (
           <EntityPage kind={route.kind as EntityKind} id={route.id} onEdit={editEntity} onLog={editLog} />
         ) : (
-          <Empty title="That page isn’t here.">
-            <Link href={home}>Back to your page</Link>
+          <Empty title="Page not found">
+            <Link href={home}>Home</Link>
           </Empty>
         )}
       </main>
@@ -177,7 +177,6 @@ class ErrorBoundary extends Component<{ children: ReactNode }, { error: boolean 
       <div className="rs-shell">
         <main className="rs-main">
           <Empty title="Something went wrong.">
-            <p>Please reload to try again.</p>
             <button type="button" className="rs-primary" onClick={() => window.location.reload()}>
               Reload
             </button>

@@ -1,10 +1,8 @@
 import { useEffect, useId, useRef, useState } from "react";
 import type { ReactNode } from "react";
 
-export function Icon({ name }: { name: "plus" | "arrow" | "close" | "search" }) {
+export function Icon({ name }: { name: "close" | "search" }) {
   const paths = {
-    plus: "M12 5v14M5 12h14",
-    arrow: "M7 17 17 7M7 7h10v10",
     close: "m6 6 12 12M6 18 18 6",
     search: "m21 21-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z",
   };
@@ -91,14 +89,10 @@ export function Empty({ title, children }: { title: string; children?: ReactNode
 
 export function Picture({ src, name, large = false }: { src?: string; name: string; large?: boolean }) {
   const [failedSrc, setFailedSrc] = useState<string>();
-  const safe = src && /^https?:\/\//i.test(src);
+  if (!src || !/^https?:\/\//i.test(src) || failedSrc === src) return null;
   return (
-    <div className={`rs-picture${large ? " rs-picture-large" : ""}`} aria-hidden="true">
-      {safe && failedSrc !== src ? (
-        <img src={src} alt="" loading="lazy" referrerPolicy="no-referrer" onError={() => setFailedSrc(src)} />
-      ) : (
-        <span>{name.slice(0, 1).toUpperCase()}</span>
-      )}
+    <div className={`rs-picture${large ? " rs-picture-large" : ""}`}>
+      <img src={src} alt={name} loading="lazy" referrerPolicy="no-referrer" onError={() => setFailedSrc(src)} />
     </div>
   );
 }

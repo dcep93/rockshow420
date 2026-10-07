@@ -33,7 +33,6 @@ export function ProfileEditor({ profile, onClose }: { profile: Profile; onClose:
           Display name
           <input value={name} onChange={(event) => setName(event.target.value)} maxLength={120} />
         </label>
-        <p className="rs-help">Your address stays /user/{profile.username}.</p>
         {error && <Message error>{error}</Message>}
         <div className="rs-form-actions">
           <button type="button" className="rs-secondary" onClick={onClose} disabled={busy}>

@@ -61,19 +61,13 @@ export function ConcertPicker({
           </button>
         ))}
         {!concerts.length && (
-          <Empty title="No concerts found">
-            <p>
-              {isAdmin
-                ? "Create the first one below."
-                : "Try a different search. An admin can add missing concerts."}
-            </p>
-          </Empty>
+          <Empty title="No concerts found" />
         )}
       </div>
       {isAdmin && (
         <div className="rs-form-actions">
           <button type="button" className="rs-secondary" onClick={onCreate}>
-            <Icon name="plus" /> Create concert
+            Create concert
           </button>
         </div>
       )}

@@ -4,7 +4,7 @@ import { formatConcertDate } from "../data/time";
 import { ConcertRow } from "../components/ConcertRow";
 import { Link } from "../components/navigation";
 import { entityPath } from "../components/routing";
-import { Empty, Icon, Picture } from "../components/ui";
+import { Empty, Picture } from "../components/ui";
 
 export function EntityPage({
   kind,
@@ -28,11 +28,7 @@ export function EntityPage({
           : catalog.festivals.find((item) => item.id === id);
   if (!record)
     return (
-      <Empty title={loading ? "Loading…" : `${kind[0].toUpperCase()}${kind.slice(1)} not found`}>
-        <p>
-          {loading ? "Getting things ready." : "It may have been removed, or this address may be incorrect."}
-        </p>
-      </Empty>
+      <Empty title={loading ? "Loading…" : `${kind[0].toUpperCase()}${kind.slice(1)} not found`} />
     );
   if (kind === "concert") {
     const concert = record as Concert;
@@ -63,13 +59,7 @@ export function EntityPage({
                   className={ownLog ? "rs-secondary" : "rs-primary"}
                   onClick={() => onLog(concert, ownLog)}
                 >
-                  {ownLog ? (
-                    "Edit my entry"
-                  ) : (
-                    <>
-                      <Icon name="plus" /> Add to my page
-                    </>
-                  )}
+                  {ownLog ? "Edit my entry" : "Add to my page"}
                 </button>
               ) : (
                 <Link className="rs-secondary" href="/">
@@ -94,7 +84,6 @@ export function EntityPage({
                   {artist.name}
                   <small>Headliner</small>
                 </span>
-                <Icon name="arrow" />
               </Link>
             )}
             {concert.supporting_artist_ids.map((artistId) => {
@@ -110,7 +99,6 @@ export function EntityPage({
                     {support.name}
                     <small>Supporting</small>
                   </span>
-                  <Icon name="arrow" />
                 </Link>
               ) : (
                 <p className="rs-message" key={artistId}>
@@ -120,7 +108,7 @@ export function EntityPage({
             })}
             {/^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && (
               <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">
-                Setlist.fm <Icon name="arrow" />
+                Setlist.fm
               </a>
             )}
             {festivals.map((festival) => (
@@ -129,13 +117,13 @@ export function EntityPage({
                 className="rs-outbound"
                 href={entityPath("festival", festival.id, festival.name)}
               >
-                {festival.name} <Icon name="arrow" />
+                {festival.name}
               </Link>
             ))}
           </section>
           <section className="rs-panel rs-public-entries">
             <div className="rs-section-heading">
-              <h2>Who’s going / who was there</h2>
+              <h2>User logs</h2>
               <span className="rs-count">{logs.length}</span>
             </div>
             {logs.map((log) => {
@@ -163,7 +151,7 @@ export function EntityPage({
                 </article>
               );
             })}
-            {!logs.length && <p className="rs-muted">Nobody has added this one yet.</p>}
+            {!logs.length && <p className="rs-muted">No entries</p>}
           </section>
         </div>
       </>
@@ -204,7 +192,7 @@ export function EntityPage({
         {related.map((concert) => (
           <ConcertRow key={concert.id} concert={concert} catalog={catalog} />
         ))}
-        {!related.length && <Empty title="No concerts here yet." />}
+        {!related.length && <Empty title="No concerts" />}
       </section>
     </>
   );

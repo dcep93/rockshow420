@@ -34,7 +34,7 @@ export function Login() {
         </svg>
         {busy ? "Signing in…" : "Continue with Google"}
       </button>
-      <p className="rs-help">Use your @gmail.com account.</p>
+      <p className="rs-help">@gmail.com only</p>
       {error && <Message error>{error}</Message>}
     </section>
   );

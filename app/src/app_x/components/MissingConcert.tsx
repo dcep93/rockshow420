@@ -10,7 +10,7 @@ export function MissingConcert({ log, canEdit }: { log: UserConcert; canEdit: bo
   const [error, setError] = useState("");
   return (
     <div className="rs-message">
-      <p>A saved concert is no longer available.</p>
+      <p>Concert unavailable</p>
       {canEdit && (
         <button
           type="button"
@@ -30,12 +30,12 @@ export function MissingConcert({ log, canEdit }: { log: UserConcert; canEdit: bo
             }
           }}
         >
-          {busy ? "Removing…" : confirm ? "Confirm removal" : "Remove from this page"}
+          {busy ? "Removing…" : confirm ? "Confirm removal" : "Remove entry"}
         </button>
       )}
       {confirm && !busy && (
         <button type="button" className="rs-text-button" onClick={() => setConfirm(false)}>
-          Keep it
+          Cancel
         </button>
       )}
       {error && <Message error>{error}</Message>}

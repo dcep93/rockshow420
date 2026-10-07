@@ -160,8 +160,7 @@ body:has(.rs-shell) {
 .rs-dialog .rs-danger-text {
   color: var(--rs-danger);
 }
-.rs-icon-button,
-.rs-icon-link {
+.rs-icon-button {
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -175,10 +174,7 @@ body:has(.rs-shell) {
 }
 .rs-eyebrow {
   color: var(--rs-tan);
-  text-transform: uppercase;
-  letter-spacing: 0.15em;
-  font-size: 0.625rem;
-  font-weight: 600;
+  font-size: 0.8125rem;
 }
 .rs-muted,
 .rs-count {
@@ -196,14 +192,10 @@ body:has(.rs-shell) {
   height: 4rem;
   border-radius: 0.9rem;
   border: 0.0625rem solid var(--rs-border);
-  background: linear-gradient(145deg, rgba(255, 123, 195, 0.1), rgba(201, 156, 107, 0.08));
   color: var(--rs-pink);
   display: grid;
   place-items: center;
   overflow: hidden;
-}
-.rs-picture span {
-  font: 1.7rem var(--rs-title-font);
 }
 .rs-picture img {
   width: 100%;
@@ -215,9 +207,6 @@ body:has(.rs-shell) {
   width: 8rem;
   height: 8rem;
   border-radius: 1.3rem;
-}
-.rs-picture-large span {
-  font-size: 3rem;
 }
 .rs-message {
   margin: 1rem 0 !important;

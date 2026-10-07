@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { Catalog, EntityKind } from "../data/model";
-import { Modal, Icon, Empty } from "../components/ui";
+import { Modal, Empty } from "../components/ui";
 import { concertName } from "../data/presentation";
 
 export function Manager({
@@ -55,7 +55,7 @@ export function Manager({
           onChange={(event) => setSearch(event.target.value)}
         />
         <button type="button" className="rs-primary" onClick={() => onEdit(kind)}>
-          <Icon name="plus" /> New
+          New
         </button>
       </div>
       <div className="rs-picker-list">
@@ -70,7 +70,7 @@ export function Manager({
             <span>Edit</span>
           </button>
         ))}
-        {!visible.length && <Empty title={`No ${labels[kind].toLowerCase()} yet`} />}
+        {!visible.length && <Empty title={`No ${labels[kind].toLowerCase()} found`} />}
       </div>
     </Modal>
   );

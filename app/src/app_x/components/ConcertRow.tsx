@@ -3,7 +3,7 @@ import { formatConcertDate } from "../data/time";
 import { Link } from "./navigation";
 import { entityPath } from "./routing";
 import { concertName } from "../data/presentation";
-import { Icon, Picture } from "./ui";
+import { Picture } from "./ui";
 
 export function ConcertRow({
   concert,
@@ -47,21 +47,11 @@ export function ConcertRow({
           </Link>
         )}
       </div>
-      <div className="rs-row-actions">
-        {onEdit ? (
-          <button type="button" className="rs-text-button" onClick={onEdit}>
-            Edit
-          </button>
-        ) : (
-          <Link
-            className="rs-icon-link"
-            href={entityPath("concert", concert.id, concertName(concert, catalog))}
-            aria-label={`View ${concertName(concert, catalog)}`}
-          >
-            <Icon name="arrow" />
-          </Link>
-        )}
-      </div>
+      {onEdit && (
+        <button type="button" className="rs-text-button rs-row-actions" onClick={onEdit}>
+          Edit
+        </button>
+      )}
     </article>
   );
 }

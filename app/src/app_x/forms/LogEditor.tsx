@@ -46,7 +46,7 @@ export function LogEditor({
   }
   return (
     <Modal
-      title={log ? "Edit your entry" : "Add concert"}
+      title={log ? "Edit entry" : "Add concert"}
       onClose={() => {
         if (!busy) onClose();
       }}
@@ -60,7 +60,7 @@ export function LogEditor({
         <p className="rs-form-intro">{artist?.name || "Concert"}</p>
         {!!concert.supporting_artist_ids.length && (
           <fieldset>
-            <legend>Supporting acts you saw or plan to see</legend>
+            <legend>Supporting artists</legend>
             {concert.supporting_artist_ids.map((id) => (
               <label className="rs-check" key={id}>
                 <input
@@ -89,15 +89,14 @@ export function LogEditor({
             value={notes}
             onChange={(event) => setNotes(event.target.value)}
             rows={5}
-            placeholder="Anything you want to remember…"
             maxLength={20000}
           />
         </div>
-        <p className="rs-help">Your notes are public on the concert page.</p>
+        <p className="rs-help">Notes are public.</p>
         {error && <Message error>{error}</Message>}
         {confirmRemove && (
           <div className="rs-confirm">
-            <p>Remove this concert from this user’s page? The concert itself will remain.</p>
+            <p>Remove this entry?</p>
             <button type="button" className="rs-danger" disabled={busy} onClick={() => void submit(true)}>
               Remove concert
             </button>
@@ -107,29 +106,31 @@ export function LogEditor({
               disabled={busy}
               onClick={() => setConfirmRemove(false)}
             >
-              Keep it
+              Cancel
             </button>
           </div>
         )}
-        <div className="rs-form-actions">
-          {log && !confirmRemove && (
-            <button
-              className="rs-text-button rs-danger-text"
-              type="button"
-              disabled={busy}
-              onClick={() => setConfirmRemove(true)}
-            >
-              Remove
+        {!confirmRemove && (
+          <div className="rs-form-actions">
+            {log && (
+              <button
+                className="rs-text-button rs-danger-text"
+                type="button"
+                disabled={busy}
+                onClick={() => setConfirmRemove(true)}
+              >
+                Remove
+              </button>
+            )}
+            <span className="rs-spacer" />
+            <button type="button" className="rs-secondary" onClick={onClose} disabled={busy}>
+              Cancel
             </button>
-          )}
-          <span className="rs-spacer" />
-          <button type="button" className="rs-secondary" onClick={onClose} disabled={busy}>
-            Cancel
-          </button>
-          <button className="rs-primary" type="submit" disabled={busy}>
-            {busy ? "Saving…" : log ? "Save changes" : "Add concert"}
-          </button>
-        </div>
+            <button className="rs-primary" type="submit" disabled={busy}>
+              {busy ? "Saving…" : log ? "Save changes" : "Add concert"}
+            </button>
+          </div>
+        )}
       </form>
     </Modal>
   );
