@@ -22,17 +22,21 @@ real Google sign-in is performed by automated tests.
    local development; the default local test path is the Auth emulator.
 4. GitHub Actions deploys the checked-in Firestore rules before Hosting on every
    push to `main`. If rule deployment fails, Hosting is not published. The
-   deployment service account stored in `SA_KEY` needs Firebase Rules Admin in
-   addition to its existing Hosting permissions. A project owner grants this
-   once (using the service account configured by `newapp.sh`):
+   deployment service account stored in `SA_KEY` needs Firebase Rules Admin and
+   Service Usage Viewer in addition to its existing Hosting permissions. The
+   latter lets the CLI check whether the Firestore API is enabled. A project
+   owner grants these once (using the account configured by `newapp.sh`):
 
    ```sh
-   gcloud projects add-iam-policy-binding rockshow420 \
-     --member="serviceAccount:deployer-github@rockshow420.iam.gserviceaccount.com" \
-     --role="roles/firebaserules.admin"
+   for role in roles/firebaserules.admin roles/serviceusage.serviceUsageViewer; do
+     gcloud projects add-iam-policy-binding rockshow420 \
+       --member="serviceAccount:deployer-github@rockshow420.iam.gserviceaccount.com" \
+       --role="$role"
+   done
    ```
 
    See [Firebase Rules Admin permissions](https://docs.cloud.google.com/iam/docs/roles-permissions/firebaserules).
+   See [Service Usage permissions](https://docs.cloud.google.com/iam/docs/roles-permissions/serviceusage).
    The workflow uses its existing `SA_KEY` secret; local Firebase login is not
    needed for automatic deployment. To deploy rules manually instead, run from
    the repository's `app` directory:
