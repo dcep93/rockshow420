@@ -15,7 +15,7 @@ export function EntityPage({
   kind: EntityKind;
   id: string;
   onEdit: (kind: EntityKind, id: string) => void;
-  onLog: (concert: Concert, log?: UserConcert) => void;
+  onLog: (concert: Concert, log?: UserConcert, uid?: string) => void;
 }) {
   const { catalog, viewer, isAdmin, loading } = useApp();
   const record =
@@ -33,8 +33,11 @@ export function EntityPage({
     const artist = catalog.artists.find((item) => item.id === concert.artist_id);
     const venue = catalog.venues.find((item) => item.id === concert.venue_id);
     const festivals = catalog.festivals.filter((item) => item.concert_ids.includes(id));
-    const logs = catalog.logs.filter((item) => item.concert_id === id);
-    const ownLog = logs.find((item) => item.user_id === viewer?.uid);
+    const records = catalog.logs.filter((item) => item.concert_id === id);
+    const ownLog = records.find((item) => item.user_id === viewer?.uid);
+    const logs = catalog.profiles.map((profile) => ({
+      profile, log: records.find((item) => item.user_id === profile.user_id),
+    })).filter(({ log }) => !log?.removed);
     return (
       <>
         <section className="rs-detail-heading">
@@ -54,16 +57,12 @@ export function EntityPage({
               {viewer ? (
                 <button
                   type="button"
-                  className={ownLog ? "rs-secondary" : "rs-primary"}
+                  className="rs-secondary"
                   onClick={() => onLog(concert, ownLog)}
                 >
-                  {ownLog ? "Edit my entry" : "Add to my page"}
+                  {ownLog?.removed ? "Restore concert" : "Edit my entry"}
                 </button>
-              ) : (
-                <Link className="rs-secondary" href="/">
-                  Sign in to add
-                </Link>
-              )}
+              ) : null}
               {isAdmin && (
                 <button type="button" className="rs-text-button" onClick={() => onEdit("concert", id)}>
                   Edit concert
@@ -124,28 +123,23 @@ export function EntityPage({
               <h2>User logs</h2>
               <span className="rs-count">{logs.length}</span>
             </div>
-            {logs.map((log) => {
-              const profile = catalog.profiles.find((item) => item.user_id === log.user_id);
-              const supports = log.supporting_artist_ids.map(
+            {logs.map(({ profile, log }) => {
+              const supports = (log?.supporting_artist_ids || []).map(
                 (artistId) =>
                   catalog.artists.find((item) => item.id === artistId)?.name || "Unavailable artist",
               );
               return (
-                <article className="rs-entry" key={log.id}>
+                <article className="rs-entry" key={profile.user_id}>
                   <div className="rs-entry-heading">
-                    {profile ? (
-                      <Link href={`/user/${encodeURIComponent(profile.username)}`}>@{profile.username}</Link>
-                    ) : (
-                      <span>Unknown user</span>
-                    )}
-                    {(isAdmin || log.user_id === viewer?.uid) && (
-                      <button type="button" className="rs-text-button" onClick={() => onLog(concert, log)}>
+                    <Link href={`/user/${encodeURIComponent(profile.username)}`}>@{profile.username}</Link>
+                    {(isAdmin || profile.user_id === viewer?.uid) && (
+                      <button type="button" className="rs-text-button" onClick={() => onLog(concert, log, profile.user_id)}>
                         Edit entry
                       </button>
                     )}
                   </div>
                   {!!supports.length && <p className="rs-support">Supporting acts: {supports.join(" · ")}</p>}
-                  {log.notes && <p className="rs-notes">{log.notes}</p>}
+                  {log?.notes && <p className="rs-notes">{log.notes}</p>}
                 </article>
               );
             })}

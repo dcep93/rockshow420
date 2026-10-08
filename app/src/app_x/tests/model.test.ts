@@ -7,6 +7,8 @@ import {
   normalizeProfile,
   normalizeVenue,
   timestampISO,
+  emptyCatalog,
+  userConcertRows,
 } from "../data/model";
 import { formatConcertDate, isTimezone, localTimeOptions, toLocalInput } from "../data/time";
 
@@ -58,4 +60,22 @@ test("DST gaps are rejected and repeated times return distinct ordered instants"
   assert.deepEqual(localTimeOptions("2026-02-30T20:00", "UTC"), []);
   assert.deepEqual(localTimeOptions("", "UTC"), []);
   assert.deepEqual(localTimeOptions("2026-10-07T20:00", "invalid"), []);
+});
+
+test("every concert appears by default; only that user's explicit removals hide it", () => {
+  const past = normalizeConcert("past", { date: "2025-01-01" });
+  const future = normalizeConcert("future", { date: "2027-01-01" });
+  const catalog = { ...emptyCatalog, concerts: [past, future], logs: [
+    normalizeLog("other_future", { user_id: "other", concert_id: "future", removed: true }),
+  ] };
+  assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["future", "past"]);
+  catalog.logs.push(normalizeLog("me_past", { user_id: "me", concert_id: "past", notes: "Keep me" }));
+  assert.equal(userConcertRows(catalog, "me")[1].log?.notes, "Keep me");
+  catalog.logs.push(normalizeLog("me_future", { user_id: "me", concert_id: "future", removed: true }));
+  assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["past"]);
+  catalog.concerts.push(normalizeConcert("new", { date: "2028-01-01" }));
+  assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["new", "past"]);
+  catalog.logs[2].removed = false;
+  assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["new", "future", "past"]);
+  assert.equal(normalizeLog("legacy", {}).removed, false);
 });

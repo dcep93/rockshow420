@@ -13,12 +13,12 @@ export function ConcertRow({
 }: {
   concert: Concert;
   catalog: Catalog;
-  log?: UserConcert;
+  log?: UserConcert | null;
   onEdit?: () => void;
 }) {
   const artist = catalog.artists.find((item) => item.id === concert.artist_id);
   const venue = catalog.venues.find((item) => item.id === concert.venue_id);
-  const support = (log?.supporting_artist_ids ?? concert.supporting_artist_ids).map(
+  const support = (log === undefined ? concert.supporting_artist_ids : log?.supporting_artist_ids ?? []).map(
     (id) => catalog.artists.find((item) => item.id === id)?.name || "Unavailable artist",
   );
   const festival = catalog.festivals.find((item) => item.concert_ids.includes(concert.id));

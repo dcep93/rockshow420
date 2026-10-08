@@ -2,7 +2,6 @@ import { Component, useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import type { Concert, EntityKind, UserConcert } from "./data/model";
 import { AppProvider, useApp } from "./data/store";
-import { saveLog } from "./data/actions";
 import { Link } from "./components/navigation";
 import { navigate, readRoute, usePath } from "./components/routing";
 import { Empty, Message } from "./components/ui";
@@ -21,7 +20,7 @@ import "./styles/forms.css";
 type Overlay =
   | { type: "picker"; uid: string }
   | { type: "log"; concert: Concert; log?: UserConcert; uid: string }
-  | { type: "entity"; kind: EntityKind; id?: string; addFor?: string }
+  | { type: "entity"; kind: EntityKind; id?: string }
   | { type: "manager" }
   | null;
 
@@ -46,8 +45,8 @@ function Shell() {
     if (ready && viewer && route.kind === "home")
       navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
   }, [ready, viewer, route.kind, route.id]);
-  const editLog = (concert: Concert, log?: UserConcert) => {
-    if (viewer) setOverlay({ type: "log", concert, log, uid: log?.user_id || viewer.uid });
+  const editLog = (concert: Concert, log?: UserConcert, uid?: string) => {
+    if (viewer) setOverlay({ type: "log", concert, log, uid: uid || log?.user_id || viewer.uid });
   };
   const editEntity = (kind: EntityKind, id?: string) => setOverlay({ type: "entity", kind, id });
   const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/";
@@ -109,7 +108,7 @@ function Shell() {
         ) : loading ? null : route.kind === "user" ? (
           <UserPage
             username={route.id}
-            onAdd={(uid) => setOverlay({ type: "picker", uid })}
+            onRestore={(uid) => setOverlay({ type: "picker", uid })}
             onEdit={editLog}
           />
         ) : ["concert", "venue", "artist", "festival"].includes(route.kind) ? (
@@ -124,10 +123,9 @@ function Shell() {
         <ConcertPicker
           catalog={catalog}
           uid={overlay.uid}
-          isAdmin={isAdmin}
           onClose={close}
-          onSelect={(concert) => setOverlay({ type: "log", uid: overlay.uid, concert })}
-          onCreate={() => setOverlay({ type: "entity", kind: "concert", addFor: overlay.uid })}
+          onSelect={(concert) => setOverlay({ type: "log", uid: overlay.uid, concert,
+            log: catalog.logs.find((log) => log.user_id === overlay.uid && log.concert_id === concert.id) })}
         />
       )}
       {overlay?.type === "log" && viewer && (
@@ -150,11 +148,7 @@ function Shell() {
           id={overlay.id}
           catalog={catalog}
           onClose={close}
-          onSaved={async (id) => {
-            if (overlay.addFor && overlay.kind === "concert")
-              await saveLog(overlay.addFor, id, { notes: "", supporting_artist_ids: [] });
-            close();
-          }}
+          onSaved={close}
         />
       )}
     </div>

@@ -29,6 +29,7 @@ export interface Profile {
   username: string;
 }
 export interface UserConcert {
+  removed: boolean;
   id: string;
   user_id: string;
   concert_id: string;
@@ -108,9 +109,23 @@ export const normalizeProfile = (id: string, raw: Raw): Profile => ({
   username: string(raw.username) || id,
 });
 export const normalizeLog = (id: string, raw: Raw): UserConcert => ({
+  removed: raw.removed === true,
   id,
   user_id: string(raw.user_id),
   concert_id: string(raw.concert_id),
   supporting_artist_ids: strings(raw.supporting_artist_ids),
   notes: string(raw.notes),
 });
+
+// Missing user data means the concert is included, with no personal annotations.
+export function userConcertRows(catalog: Catalog, uid: string) {
+  const logs = new Map(catalog.logs.filter((log) => log.user_id === uid).map((log) => [log.concert_id, log]));
+  const rows: { concert?: Concert; log?: UserConcert }[] = catalog.concerts
+    .filter((concert) => !logs.get(concert.id)?.removed)
+    .map((concert) => ({ concert, log: logs.get(concert.id) }));
+  const concertIds = new Set(catalog.concerts.map((concert) => concert.id));
+  for (const log of logs.values()) {
+    if (!log.removed && !concertIds.has(log.concert_id)) rows.push({ log });
+  }
+  return rows.sort((a, b) => (b.concert?.date || "").localeCompare(a.concert?.date || ""));
+}

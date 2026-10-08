@@ -37,6 +37,7 @@ export function LogEditor({
           concert.id,
           { notes, supporting_artist_ids: selected.filter((id) => available.has(id)) },
           Boolean(log),
+          log?.removed === true,
         );
       onClose();
     } catch (caught) {
@@ -46,7 +47,7 @@ export function LogEditor({
   }
   return (
     <Modal
-      title={log ? "Edit entry" : "Add concert"}
+      title={log?.removed ? "Restore concert" : "Edit entry"}
       onClose={() => {
         if (!busy) onClose();
       }}
@@ -112,7 +113,7 @@ export function LogEditor({
         )}
         {!confirmRemove && (
           <div className="rs-form-actions">
-            {log && (
+            {!log?.removed && (
               <button
                 className="rs-text-button rs-danger-text"
                 type="button"
@@ -127,7 +128,7 @@ export function LogEditor({
               Cancel
             </button>
             <button className="rs-primary" type="submit" disabled={busy}>
-              {busy ? "Saving…" : log ? "Save changes" : "Add concert"}
+              {busy ? "Saving…" : log?.removed ? "Restore concert" : "Save changes"}
             </button>
           </div>
         )}

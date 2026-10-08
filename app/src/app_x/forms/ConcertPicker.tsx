@@ -7,27 +7,23 @@ import { concertName } from "../data/presentation";
 export function ConcertPicker({
   catalog,
   uid,
-  isAdmin,
   onSelect,
-  onCreate,
   onClose,
 }: {
   catalog: Catalog;
   uid: string;
-  isAdmin: boolean;
   onSelect: (concert: Concert) => void;
-  onCreate: () => void;
   onClose: () => void;
 }) {
   const [search, setSearch] = useState("");
-  const saved = new Set(catalog.logs.filter((log) => log.user_id === uid).map((log) => log.concert_id));
-  const concerts = [...catalog.concerts]
+  const removed = new Set(catalog.logs.filter((log) => log.user_id === uid && log.removed).map((log) => log.concert_id));
+  const concerts = catalog.concerts.filter((concert) => removed.has(concert.id))
     .sort((a, b) => b.date.localeCompare(a.date))
     .filter((concert) =>
       `${concertName(concert, catalog)} ${concert.date}`.toLowerCase().includes(search.toLowerCase()),
     );
   return (
-    <Modal title="Add concert" onClose={onClose}>
+    <Modal title="Removed concerts" onClose={onClose}>
       <label className="rs-search">
         <Icon name="search" />
         <input
@@ -45,7 +41,6 @@ export function ConcertPicker({
             type="button"
             className="rs-picker-item"
             key={concert.id}
-            disabled={saved.has(concert.id)}
             onClick={() => onSelect(concert)}
           >
             <span>
@@ -57,20 +52,13 @@ export function ConcertPicker({
                 )}
               </small>
             </span>
-            <span>{saved.has(concert.id) ? "Added" : "+"}</span>
+            <span>Restore</span>
           </button>
         ))}
         {!concerts.length && (
           <Empty title="No concerts found" />
         )}
       </div>
-      {isAdmin && (
-        <div className="rs-form-actions">
-          <button type="button" className="rs-secondary" onClick={onCreate}>
-            Create concert
-          </button>
-        </div>
-      )}
     </Modal>
   );
 }

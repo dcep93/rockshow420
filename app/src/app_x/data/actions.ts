@@ -110,6 +110,7 @@ export async function saveLog(
   concertId: string,
   fields: { notes: string; supporting_artist_ids: string[] },
   expectedExisting = false,
+  restore = false,
 ): Promise<void> {
   const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
   await runTransaction(db, async (transaction) => {
@@ -118,14 +119,21 @@ export async function saveLog(
     if (!concert.exists()) throw new Error("This concert no longer exists.");
     if (expectedExisting && !existing.exists())
       throw new Error("This saved concert has been removed. Refresh before editing.");
+    if (existing.data()?.removed === true && !restore)
+      throw new Error("This concert was removed from the log. Restore it before editing.");
     const lineup: string[] = concert.data().supporting_artist_ids ?? [];
     if (fields.supporting_artist_ids.some((artist) => !lineup.includes(artist)))
       throw new Error("Supporting artists must belong to the concert lineup.");
-    const patch = { notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
+    const patch = { removed: false, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
     if (existing.exists()) transaction.update(ref, patch);
     else transaction.set(ref, { user_id: uid, concert_id: concertId, ...patch });
   });
 }
 export async function removeLog(uid: string, concertId: string): Promise<void> {
-  await deleteDoc(doc(db, "user_concerts", `${uid}_${concertId}`));
+  const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
+  await runTransaction(db, async (transaction) => {
+    const existing = await transaction.get(ref);
+    if (existing.exists()) transaction.update(ref, { removed: true });
+    else transaction.set(ref, { user_id: uid, concert_id: concertId, removed: true });
+  });
 }

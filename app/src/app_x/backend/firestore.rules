@@ -30,9 +30,10 @@ service cloud.firestore {
       return requiredText(data, 'user_id') && requiredText(data, 'concert_id')
         && id == data.user_id + '_' + data.concert_id
         && text(data, 'notes') && array(data, 'supporting_artist_ids')
-        && exists(/databases/$(database)/documents/concerts/$(data.concert_id))
+        && data.get('removed', false) is bool
+        && (data.get('removed', false) == true || (exists(/databases/$(database)/documents/concerts/$(data.concert_id))
         && data.get('supporting_artist_ids', []).toSet().hasOnly(
-          get(/databases/$(database)/documents/concerts/$(data.concert_id)).data.get('supporting_artist_ids', []).toSet());
+          get(/databases/$(database)/documents/concerts/$(data.concert_id)).data.get('supporting_artist_ids', []).toSet())));
     }
     function ownLog(data) { return gmail() && data.user_id == request.auth.uid; }
 

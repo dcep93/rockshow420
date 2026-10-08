@@ -228,3 +228,27 @@ test("catalog validation accepts optional omissions and rejects missing essentia
   await assertFails(setDoc(doc(db, "concerts/bad"), { ...concert, venue_id: "missing" }));
   await assertFails(setDoc(doc(db, "festivals/bad"), { name: "Bad", concert_ids: "concert" }));
 });
+
+test("owners hide default concerts, restore entries and cannot hide another user's concerts", async () => {
+  const db = account();
+  const ref = doc(db, "user_concerts/owner_other");
+  await assertSucceeds(setDoc(ref, { user_id: "owner", concert_id: "other", removed: true }));
+  await assertSucceeds(updateDoc(ref, { removed: false, notes: "Restored" }));
+  await assertFails(updateDoc(ref, { removed: "true" }));
+  await assertFails(updateDoc(doc(account("other", "other@gmail.com"), "user_concerts/owner_other"), { removed: true }));
+  await assertFails(setDoc(doc(db, "user_concerts/other_other"), { user_id: "other", concert_id: "other", removed: true }));
+  await assertSucceeds(updateDoc(doc(admin(), "user_concerts/owner_other"), { removed: true }));
+  await env.withSecurityRulesDisabled(async (context) => {
+    await updateDoc(doc(context.firestore(), "concerts/concert"), { supporting_artist_ids: [] });
+  });
+  const edited = doc(db, "user_concerts/owner_concert");
+  await assertSucceeds(updateDoc(edited, { removed: true }));
+  assert.equal((await getDoc(edited)).data()?.notes, "Public note");
+  assert.deepEqual((await getDoc(edited)).data()?.future_field, { version: 2 });
+  await assertFails(updateDoc(edited, { removed: false }));
+  await assertSucceeds(updateDoc(edited, { removed: false, supporting_artist_ids: [] }));
+  await env.withSecurityRulesDisabled(async (context) => {
+    await deleteDoc(doc(context.firestore(), "concerts/concert"));
+  });
+  await assertSucceeds(updateDoc(edited, { removed: true }));
+});

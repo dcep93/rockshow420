@@ -115,8 +115,9 @@ permissions must be verified after the project owner finishes the setup above.
   The editor rejects DST gaps and asks which instant to use during repeats.
   Changing a venue zone does not rewrite stored concert instants.
 - Catalog editors patch known edited fields and preserve unknown fields.
-  Missing optional fields remain supported. Removing a user's saved concert
-  deletes only the `user_concerts` record.
+  Missing optional fields remain supported. Every catalog concert appears in every user log by default. Removing a concert
+  stores `removed: true` on that user's `user_concerts` record and preserves annotations.
+  Restoring it clears the flag. Existing records need no migration.
 - The app blocks catalog deletion when its loaded public catalog contains an
   incoming reference. Firestore rules cannot perform arbitrary reverse-reference
   queries, so console operations or concurrent administrative edits still need
