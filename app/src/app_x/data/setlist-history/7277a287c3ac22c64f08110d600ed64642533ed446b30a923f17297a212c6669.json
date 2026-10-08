@@ -1,0 +1,61 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "cj1xxu",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Best Day Ever"
+          },
+          {
+            "name": "Biddy Bom"
+          },
+          {
+            "name": "Sunny Day"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-6ba40e5a.html"
+  },
+  {
+    "kind": "setlist_fm",
+    "set_id": "wuu8gn",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Best Day Ever"
+          },
+          {
+            "name": "San Sereni"
+          },
+          {
+            "name": "Show Your Colors"
+          },
+          {
+            "name": "Butterflies"
+          },
+          {
+            "name": "Dance Challenge",
+            "tape": true
+          },
+          {
+            "name": "Up Down Turn Around"
+          },
+          {
+            "name": "One Deep Breath"
+          },
+          {
+            "name": "Biddy Bom"
+          },
+          {
+            "name": "Make Me Wanna Dance"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-23a468fb.html"
+  }
+]

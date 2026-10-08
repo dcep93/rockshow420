@@ -1,0 +1,155 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: 'Harpua' through 'Split Open and Melt' was a full production Gamehendge theatrical show. First Gamehendge set since July 8, 1994, fifth time ever.",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Everything's Right"
+          },
+          {
+            "name": "Tube",
+            "notes": "(Contained Mary Tyler Moore Show Theme Tease by Trey)"
+          },
+          {
+            "name": "Ether Edge",
+            "notes": "(>)"
+          },
+          {
+            "name": "Reba"
+          },
+          {
+            "name": "Taste"
+          },
+          {
+            "name": "Ruby Waves",
+            "notes": "(Ghosts of The Forest cover)"
+          },
+          {
+            "name": "A Life Beyond the Dream"
+          },
+          {
+            "name": "Character Zero"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Down With Disease"
+          },
+          {
+            "name": "Harpua",
+            "notes": "(unfinished) (>)"
+          }
+        ]
+      },
+      {
+        "name": "(Gamehendge Part 1):",
+        "songs": [
+          {
+            "name": "The Man Who Stepped Into Yesterday",
+            "notes": "(with off-stage backing chorus) (>)"
+          },
+          {
+            "name": "The Lizards",
+            "notes": "(with off-stage backing chorus) (>)"
+          },
+          {
+            "name": "Punch You in the Eye",
+            "notes": "(>)"
+          },
+          {
+            "name": "AC/DC Bag",
+            "notes": "(>)"
+          },
+          {
+            "name": "Tela",
+            "notes": "(with off-stage backing chorus) (>)"
+          },
+          {
+            "name": "Llama",
+            "notes": "(>)"
+          },
+          {
+            "name": "Wilson",
+            "notes": "(with Jo Lampert on additional vocals) (with off-stage backing chorus) (>)"
+          },
+          {
+            "name": "The Sloth",
+            "notes": "(>)"
+          },
+          {
+            "name": "The Divided Sky",
+            "notes": "(with off-stage backing chorus)"
+          }
+        ]
+      },
+      {
+        "name": "Set 3 (Gamehendge Part 2):",
+        "songs": [
+          {
+            "name": "McGrupp and the Watchful Hosemasters",
+            "notes": "(>)"
+          },
+          {
+            "name": "Colonel Forbin's Ascent",
+            "notes": "(with off-stage backing chorus) (>)"
+          },
+          {
+            "name": "Fly Famous Mockingbird",
+            "notes": "(with Annie Golden) (with off-stage backing chorus) (>)"
+          }
+        ]
+      },
+      {
+        "songs": [
+          {
+            "name": "Auld Lang Syne",
+            "notes": "(Robert Burns cover) (>)"
+          },
+          {
+            "name": "Split Open and Melt"
+          },
+          {
+            "name": "You Enjoy Myself",
+            "notes": "(>)"
+          },
+          {
+            "name": "Loving Cup",
+            "notes": "(The Rolling Stones cover) (>)"
+          },
+          {
+            "name": "Possum"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Cavern",
+            "notes": "(>)"
+          },
+          {
+            "name": "First Tube",
+            "notes": "(>)"
+          },
+          {
+            "name": "Tweezer Reprise"
+          },
+          {
+            "name": "Finally",
+            "notes": "(CeCe Peniston song)",
+            "tape": true
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-3aff9cf.html"
+  }
+]

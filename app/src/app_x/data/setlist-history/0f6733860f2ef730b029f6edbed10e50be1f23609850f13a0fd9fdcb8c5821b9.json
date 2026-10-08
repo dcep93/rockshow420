@@ -1,0 +1,64 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Webcast live on YouTube",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Baseball"
+          },
+          {
+            "name": "Way It Goes"
+          },
+          {
+            "name": "Little Grace"
+          },
+          {
+            "name": "Simple Season"
+          },
+          {
+            "name": "Poems"
+          },
+          {
+            "name": "Interlude"
+          },
+          {
+            "name": "Suicide Saturday"
+          },
+          {
+            "name": "Western Kids"
+          },
+          {
+            "name": "No Poms"
+          },
+          {
+            "name": "Traveler"
+          },
+          {
+            "name": "Monsoon"
+          },
+          {
+            "name": "Vacation"
+          },
+          {
+            "name": "South"
+          },
+          {
+            "name": "Buttercup"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Violet"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2018/the-independent-san-francisco-ca-7bebba48.html"
+  }
+]

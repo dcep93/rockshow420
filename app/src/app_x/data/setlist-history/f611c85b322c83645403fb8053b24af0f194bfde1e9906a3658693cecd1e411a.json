@@ -1,0 +1,84 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "1aqddy",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Let the Smokers Shine the Coupes"
+          },
+          {
+            "name": "Brambleton"
+          },
+          {
+            "name": "Just So You Remember"
+          },
+          {
+            "name": "Hear Me Clearly"
+          },
+          {
+            "name": "If You Know You Know"
+          },
+          {
+            "name": "The Games We Play"
+          },
+          {
+            "name": "Come Back Baby"
+          },
+          {
+            "name": "Santeria"
+          },
+          {
+            "name": "What Would Meek Do?"
+          },
+          {
+            "name": "Infrared"
+          },
+          {
+            "name": "Diet Coke"
+          },
+          {
+            "name": "Neck & Wrist"
+          },
+          {
+            "name": "Rock N Roll"
+          },
+          {
+            "name": "Call My Bluff"
+          },
+          {
+            "name": "Dreamin of the Past"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Mercy",
+            "notes": "(Kanye West feat. Big Sean, Pusha T & 2 Chainz song)"
+          },
+          {
+            "name": "Move That Dope",
+            "notes": "(Future cover)"
+          },
+          {
+            "name": "Runaway",
+            "notes": "(Ye cover)"
+          },
+          {
+            "name": "Grindin'",
+            "notes": "(Clipse song)"
+          },
+          {
+            "name": "I Don't Like",
+            "notes": "(Chief Keef cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/pusha-t/2023/grant-park-chicago-il-usa-23a4147f.html"
+  }
+]

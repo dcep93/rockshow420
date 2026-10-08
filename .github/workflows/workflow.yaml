@@ -28,7 +28,7 @@ jobs:
         working-directory: app
         run: |
           npm run lint
-          npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/schedules.test.ts src/app_x/tests/cleanSchema.test.ts src/app_x/tests/songLists.test.ts src/app_x/tests/firestoreRest.test.ts
+          npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/schedules.test.ts src/app_x/tests/cleanSchema.test.ts src/app_x/tests/songLists.test.ts src/app_x/tests/firestoreRest.test.ts src/app_x/tests/catalogCorrections.test.ts
       - name: Check music caches
         run: python3 -m unittest discover -s app/src/app_x/tests -p 'test_*.py'
       - run: bash .github/workflows/record_sha.sh
@@ -73,6 +73,16 @@ jobs:
         env:
           CUTOVER_BACKUP_UPLOADED: 'true'
         run: npx tsx src/app_x/scripts/productionCutover.ts --apply
+      - name: Allow catalog revision metadata
+        if: steps.prepare.outputs.migration_needed == 'false'
+        working-directory: app
+        run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.production.json --only firestore:rules --non-interactive
+      - name: Apply reviewed catalog corrections
+        if: steps.prepare.outputs.migration_needed == 'false'
+        working-directory: app
+        env:
+          CUTOVER_BACKUP_UPLOADED: 'true'
+        run: npx tsx src/app_x/scripts/applyCatalogCorrections.ts
       - name: Deploy application
         working-directory: app
         run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.production.json --only hosting --non-interactive

@@ -1,0 +1,98 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Good Lovin'",
+            "notes": "(The Olympics cover)"
+          },
+          {
+            "name": "The Music Never Stopped",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Row Jimmy",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Black-Throated Wind",
+            "notes": "(Bob Weir song)"
+          },
+          {
+            "name": "New Speedway Boogie",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Deal",
+            "notes": "(Jerry Garcia cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Shakedown Street",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Help on the Way",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Slipknot!",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Cold Rain and Snow",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "China Doll",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Terrapin Station",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Drums",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Space",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Dear Prudence",
+            "notes": "(The Beatles cover) (>)"
+          },
+          {
+            "name": "Bertha",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Hell in a Bucket",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Morning Dew",
+            "notes": "(Bonnie Dobson cover) (>)"
+          },
+          {
+            "name": "Old News Broadcast of the Grateful Dead",
+            "tape": true
+          },
+          {
+            "name": "Ripple",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-2babb8ee.html"
+  }
+]

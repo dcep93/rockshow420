@@ -1,0 +1,89 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "An Awesome Wave",
+        "songs": [
+          {
+            "name": "Intro (An Awesome Wave)"
+          },
+          {
+            "name": "❦ (Ripe & Ruin)"
+          },
+          {
+            "name": "Tessellate"
+          },
+          {
+            "name": "Breezeblocks"
+          },
+          {
+            "name": "❦ (Guitar)"
+          },
+          {
+            "name": "Something Good"
+          },
+          {
+            "name": "Dissolve Me"
+          },
+          {
+            "name": "Matilda"
+          },
+          {
+            "name": "Ms"
+          },
+          {
+            "name": "Fitzpleasure"
+          },
+          {
+            "name": "❦ (Piano)"
+          },
+          {
+            "name": "Bloodflood"
+          },
+          {
+            "name": "Taro"
+          },
+          {
+            "name": "Hand-Made"
+          }
+        ]
+      },
+      {
+        "songs": [
+          {
+            "name": "Chicago"
+          },
+          {
+            "name": "The Gospel of John Hurt"
+          },
+          {
+            "name": "Deadcrush"
+          },
+          {
+            "name": "U&ME"
+          },
+          {
+            "name": "Every Other Freckle"
+          },
+          {
+            "name": "In Cold Blood"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Hard Drive Gold"
+          },
+          {
+            "name": "Left Hand Free"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/altj/2023/kings-theatre-brooklyn-ny-73ba5601.html"
+  }
+]

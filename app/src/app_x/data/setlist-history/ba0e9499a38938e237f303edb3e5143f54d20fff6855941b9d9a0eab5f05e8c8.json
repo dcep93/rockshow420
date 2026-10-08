@@ -1,0 +1,103 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "2k6cms",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Five Silent Miles"
+          }
+        ]
+      },
+      {
+        "name": "American Football",
+        "songs": [
+          {
+            "name": "The Summer Ends"
+          },
+          {
+            "name": "Honestly?"
+          },
+          {
+            "name": "For Sure."
+          },
+          {
+            "name": "You Know I Should Be Leaving Soon"
+          },
+          {
+            "name": "But the Regrets Are Killing Me"
+          },
+          {
+            "name": "I'll See You When We're Both Not So Emotional"
+          },
+          {
+            "name": "Stay Home"
+          },
+          {
+            "name": "The One With the Wurlitzer"
+          },
+          {
+            "name": "Never Meant"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Doom in Full Bloom"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/american-football/2024/parallel-62-barcelona-spain-43a8ebbb.html"
+  },
+  {
+    "kind": "setlist_fm",
+    "set_id": "7v042j",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Five Silent Miles"
+          }
+        ]
+      },
+      {
+        "name": "American Football (LP1)",
+        "songs": [
+          {
+            "name": "The Summer Ends"
+          },
+          {
+            "name": "Honestly?"
+          },
+          {
+            "name": "For Sure."
+          },
+          {
+            "name": "You Know I Should Be Leaving Soon"
+          },
+          {
+            "name": "But the Regrets Are Killing Me"
+          },
+          {
+            "name": "I'll See You When We're Both Not So Emotional"
+          },
+          {
+            "name": "Stay Home"
+          },
+          {
+            "name": "The One With the Wurlitzer"
+          },
+          {
+            "name": "Never Meant"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/american-football/2024/parc-del-forum-barcelona-spain-6ba8de4e.html"
+  }
+]

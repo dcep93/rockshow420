@@ -1,0 +1,172 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "i561vj",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Symphony"
+          },
+          {
+            "name": "Idolize"
+          },
+          {
+            "name": "Flamboyant"
+          },
+          {
+            "name": "Puppet"
+          },
+          {
+            "name": "Sorry Bro (I Love You)"
+          },
+          {
+            "name": "Manmade Horrors"
+          },
+          {
+            "name": "Adam & Steve (Count Baldor Remix)"
+          }
+        ]
+      },
+      {
+        "name": "Musical Interlude",
+        "songs": [
+          {
+            "name": "anon"
+          },
+          {
+            "name": "Phonies"
+          },
+          {
+            "name": "Ram It Down"
+          },
+          {
+            "name": "M’Lady"
+          },
+          {
+            "name": "Touch Grass"
+          }
+        ]
+      },
+      {
+        "name": "5, 6, 7, 8 Dance Interlude",
+        "songs": [
+          {
+            "name": "Career Boy",
+            "notes": "(Shortened)"
+          },
+          {
+            "name": "Man To Man"
+          },
+          {
+            "name": "Replay - Dorian Electra Remix",
+            "notes": "(Lady Gaga cover) (Shortened)"
+          },
+          {
+            "name": "Femmebot",
+            "notes": "(Charli xcx cover) (Shortened)"
+          },
+          {
+            "name": "gec 2 Ü (Remix) [feat. Dorian Electra]",
+            "notes": "(Shortened)"
+          },
+          {
+            "name": "Shutting Up",
+            "notes": "(New song)"
+          },
+          {
+            "name": "Sodom & Gomorrah"
+          },
+          {
+            "name": "Freak Mode"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dorian-electra/2024/parc-del-forum-barcelona-spain-5ba973f0.html"
+  },
+  {
+    "kind": "setlist_fm",
+    "set_id": "ozks03",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Symphony"
+          },
+          {
+            "name": "Idolize"
+          },
+          {
+            "name": "Flamboyant"
+          },
+          {
+            "name": "Puppet"
+          },
+          {
+            "name": "Sorry Bro (I Love You)"
+          },
+          {
+            "name": "Manmade Horrors"
+          },
+          {
+            "name": "Adam & Steve (Count Baldor Remix)"
+          },
+          {
+            "name": "Musical Interlude",
+            "tape": true
+          },
+          {
+            "name": "anon"
+          },
+          {
+            "name": "Phonies"
+          },
+          {
+            "name": "Ram It Down"
+          },
+          {
+            "name": "M’Lady"
+          },
+          {
+            "name": "Touch Grass"
+          },
+          {
+            "name": "5, 6, 7, 8 Dance Interlude",
+            "tape": true
+          },
+          {
+            "name": "Career Boy",
+            "notes": "(shortened)"
+          },
+          {
+            "name": "Man To Man"
+          },
+          {
+            "name": "Replay - Dorian Electra Remix",
+            "notes": "(Lady Gaga cover) (shortened)"
+          },
+          {
+            "name": "Femmebot",
+            "notes": "(Charli xcx cover) (shortened)"
+          },
+          {
+            "name": "gec 2 Ü (Remix) [feat. Dorian Electra]",
+            "notes": "(shortened)"
+          },
+          {
+            "name": "Shutting Up",
+            "notes": "(New song)"
+          },
+          {
+            "name": "Sodom & Gomorrah"
+          },
+          {
+            "name": "Freak Mode"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dorian-electra/2024/sala-apolo-barcelona-spain-43a8ebcf.html"
+  }
+]

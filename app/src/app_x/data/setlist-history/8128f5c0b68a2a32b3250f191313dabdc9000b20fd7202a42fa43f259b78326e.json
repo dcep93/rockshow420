@@ -1,0 +1,65 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Intro Jam"
+          },
+          {
+            "name": "Quiet on Set"
+          },
+          {
+            "name": "wyd"
+          },
+          {
+            "name": "Anthony Kiedis"
+          },
+          {
+            "name": "Theme From New York, New York",
+            "notes": "(John Kander cover) (Snippet)"
+          },
+          {
+            "name": "Guerrilla"
+          },
+          {
+            "name": "Liquor Store"
+          },
+          {
+            "name": "Sexy Villain"
+          },
+          {
+            "name": "Liz"
+          },
+          {
+            "name": "Pink + White",
+            "notes": "(Frank Ocean cover)"
+          },
+          {
+            "name": "Michael"
+          },
+          {
+            "name": "Positive Affirmations by Conor Malloy"
+          },
+          {
+            "name": "Woo!"
+          },
+          {
+            "name": "Photo ID"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Disco Man"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2022/terminal-5-new-york-ny-3bb17cb8.html"
+  }
+]

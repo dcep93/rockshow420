@@ -1,0 +1,55 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "qjgebk",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Sol"
+          },
+          {
+            "name": "Cabin"
+          },
+          {
+            "name": "Verão"
+          },
+          {
+            "name": "Driving You Slow"
+          },
+          {
+            "name": "Malifest"
+          },
+          {
+            "name": "Vulcão"
+          },
+          {
+            "name": "Love Without Violins"
+          },
+          {
+            "name": "Music"
+          },
+          {
+            "name": "Big Fish"
+          },
+          {
+            "name": "Question of Love"
+          },
+          {
+            "name": "The Singles"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Primavera"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-gift/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd50.html"
+  }
+]

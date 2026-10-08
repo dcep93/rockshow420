@@ -1,0 +1,73 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Intro Jam"
+          },
+          {
+            "name": "Can't Stop"
+          },
+          {
+            "name": "Dani California"
+          },
+          {
+            "name": "The Zephyr Song"
+          },
+          {
+            "name": "Dark Necessities"
+          },
+          {
+            "name": "The Adventures of Rain Dance Maggie"
+          },
+          {
+            "name": "I Wanna Be Your Dog",
+            "notes": "(The Stooges cover)"
+          },
+          {
+            "name": "Right on Time"
+          },
+          {
+            "name": "Go Robot"
+          },
+          {
+            "name": "Californication"
+          },
+          {
+            "name": "Aeroplane"
+          },
+          {
+            "name": "The Getaway"
+          },
+          {
+            "name": "Don't Forget Me"
+          },
+          {
+            "name": "Suck My Kiss"
+          },
+          {
+            "name": "Soul to Squeeze"
+          },
+          {
+            "name": "By the Way"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Goodbye Angels"
+          },
+          {
+            "name": "Give It Away"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2017/bill-graham-civic-auditorium-san-francisco-ca-13e1a5c1.html"
+  }
+]

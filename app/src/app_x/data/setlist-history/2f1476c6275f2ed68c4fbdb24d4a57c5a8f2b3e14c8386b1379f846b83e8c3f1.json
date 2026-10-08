@@ -1,0 +1,57 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "New York City"
+          },
+          {
+            "name": "Understand"
+          },
+          {
+            "name": "Shoot First"
+          },
+          {
+            "name": "Californ IA"
+          },
+          {
+            "name": "No Rain",
+            "notes": "(Blind Melon cover)"
+          },
+          {
+            "name": "Mexico",
+            "notes": "(with Daniel Donato)"
+          },
+          {
+            "name": "Haze"
+          },
+          {
+            "name": "Can't Find My Way Home",
+            "notes": "(Blind Faith cover)"
+          },
+          {
+            "name": "Jazz Wank"
+          },
+          {
+            "name": "Spine of a Dog"
+          },
+          {
+            "name": "Rebubula"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Gone"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/moe/2024/the-rooftop-at-pier-17-new-york-ny-1bab8184.html"
+  }
+]

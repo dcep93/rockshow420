@@ -1,0 +1,94 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "I Need a Miracle",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Eyes of the World",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Dancing in the Street",
+            "notes": "(Martha Reeves and the Vandellas cover) (>)"
+          },
+          {
+            "name": "It Hurts Me Too",
+            "notes": "(Tampa Red cover)"
+          },
+          {
+            "name": "Cassidy",
+            "notes": "(Bob Weir song)"
+          },
+          {
+            "name": "Sugaree",
+            "notes": "(Jerry Garcia cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "China Cat Sunflower",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "I Know You Rider",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "Playing in the Band",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Cumberland Blues",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Estimated Prophet",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Drums",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Space",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Days Between",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Viola Lee Blues",
+            "notes": "(Cannon’s Jug Stompers cover) (>)"
+          },
+          {
+            "name": "U.S. Blues",
+            "notes": "(Grateful Dead cover) (>)"
+          },
+          {
+            "name": "Dark Star",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Old News Broadcast of the Grateful Dead",
+            "tape": true
+          },
+          {
+            "name": "One More Saturday Night",
+            "notes": "(Bob Weir song)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-33abb8ed.html"
+  }
+]

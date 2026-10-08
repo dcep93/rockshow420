@@ -2556,6 +2556,36 @@
     ],
     "url": "https://open.spotify.com/embed/artist/65dGLGjkw3UbddUg2GKQoZ"
   },
+  "badfish": {
+    "artist": "Badfish",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "Badfish, Grieves",
+        "explicit": true,
+        "name": "F You Pay Me (with Grieves)"
+      },
+      {
+        "artists": "Badfish, Little Stranger",
+        "explicit": true,
+        "name": "High With You (with Little Stranger)"
+      },
+      {
+        "artists": "Badfish, SunDub",
+        "name": "Topanga (with SunDub)"
+      },
+      {
+        "artists": "Badfish, Mihali",
+        "name": "Surf Party Lord (with Mihali)"
+      },
+      {
+        "artists": "Badfish, DJ Hoppa",
+        "explicit": true,
+        "name": "Bad Things (with DJ Hoppa)"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/1FnkmGqQ51RVxtPF4BE96a"
+  },
   "bahamas": {
     "artist": "Bahamas",
     "kind": "spotify_top_tracks",
@@ -5989,6 +6019,33 @@
       }
     ],
     "url": "https://open.spotify.com/embed/artist/6VDdCwrBM4qQaGxoAyxyJC"
+  },
+  "collectivity": {
+    "artist": "Collectivity",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "Collectivity",
+        "name": "Things Turn Around"
+      },
+      {
+        "artists": "Collectivity",
+        "name": "Funk for Breakfast (Oaklanded)"
+      },
+      {
+        "artists": "Collectivity",
+        "name": "Sex and Tonic"
+      },
+      {
+        "artists": "Collectivity",
+        "name": "MICRODOSE"
+      },
+      {
+        "artists": "Collectivity, Kevin \"KeyBass\" Wong",
+        "name": "More Cushion"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/5mf32sM64iFUykG9MvtkMY"
   },
   "como-vivir-en-el-campo": {
     "artist": "Cómo vivir en el campo",
@@ -10544,6 +10601,33 @@
       }
     ],
     "url": "https://open.spotify.com/embed/artist/1iCnM8foFssWlPRLfAbIwo"
+  },
+  "ginger-root": {
+    "artist": "Ginger Root",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "Ginger Root",
+        "name": "Loretta"
+      },
+      {
+        "artists": "Ginger Root",
+        "name": "Soarin'"
+      },
+      {
+        "artists": "Ginger Root",
+        "name": "Le château"
+      },
+      {
+        "artists": "Ginger Root",
+        "name": "No Problems"
+      },
+      {
+        "artists": "Ginger Root",
+        "name": "Weather"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/4UAW69682T7N0wrABUhqx0"
   },
   "girl-ultra": {
     "artist": "Girl Ultra",
@@ -15822,6 +15906,33 @@
     ],
     "url": "https://open.spotify.com/embed/artist/5JZ7CnR6gTvEMKX4g70Amv"
   },
+  "law": {
+    "artist": "LAW",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "LAW",
+        "name": "Alien"
+      },
+      {
+        "artists": "LAW",
+        "name": "Blinking"
+      },
+      {
+        "artists": "LAW",
+        "name": "Doses of Psychosis"
+      },
+      {
+        "artists": "LAW",
+        "name": "Cold"
+      },
+      {
+        "artists": "LAW",
+        "name": "Kaizoku"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/1mVPq7nIESnpPaKeXQ27uQ"
+  },
   "lawrence": {
     "artist": "Lawrence",
     "kind": "spotify_top_tracks",
@@ -16426,6 +16537,36 @@
       }
     ],
     "url": "https://open.spotify.com/embed/artist/75dQReiBOHN37fQgWQrIAJ"
+  },
+  "locus-pocus": {
+    "artist": "Locus Pocus",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "Locus Pocus",
+        "name": "My Girlfriend Won't Dance With Me"
+      },
+      {
+        "artists": "Locus Pocus",
+        "name": "I'd Be Your Woman"
+      },
+      {
+        "artists": "Locus Pocus",
+        "explicit": true,
+        "name": "Game to Lose"
+      },
+      {
+        "artists": "Locus Pocus",
+        "explicit": true,
+        "name": "Doctor's Doctor"
+      },
+      {
+        "artists": "Locus Pocus",
+        "explicit": true,
+        "name": "Stuck"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/4MWifxkVhRGDVZ83FQBWcL"
   },
   "lola-young": {
     "artist": "Lola Young",
@@ -25668,6 +25809,33 @@
     ],
     "url": "https://open.spotify.com/embed/artist/20DZAfCuP1TKZl5KcY7z3Q"
   },
+  "slap-dragon": {
+    "artist": "Slap Dragon",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "Slap Dragon",
+        "name": "Mission Statement"
+      },
+      {
+        "artists": "Slap Dragon",
+        "name": "No Solicitors"
+      },
+      {
+        "artists": "Slap Dragon",
+        "name": "Already Won"
+      },
+      {
+        "artists": "Slap Dragon",
+        "name": "Girl Dinner"
+      },
+      {
+        "artists": "Slap Dragon",
+        "name": "Pool Song"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/0CMEHUh3FRnPl3NyvwvcE7"
+  },
   "slenderbodies": {
     "artist": "slenderbodies",
     "kind": "spotify_top_tracks",
@@ -33071,5 +33239,32 @@
       }
     ],
     "url": "https://open.spotify.com/embed/artist/2qxJFvFYMEDqd7ui6kSAcq"
+  },
+  "zola": {
+    "artist": "ZOLA",
+    "kind": "spotify_top_tracks",
+    "songs": [
+      {
+        "artists": "ZOLA",
+        "name": "Too Fast Too Soon"
+      },
+      {
+        "artists": "ZOLA, Koa Ho",
+        "name": "peanut"
+      },
+      {
+        "artists": "ZOLA",
+        "name": "Don't Even"
+      },
+      {
+        "artists": "ZOLA",
+        "name": "Maple"
+      },
+      {
+        "artists": "ZOLA",
+        "name": "Old Playlists"
+      }
+    ],
+    "url": "https://open.spotify.com/embed/artist/1J4ofBDurgOATlfzzyniZp"
   }
 }

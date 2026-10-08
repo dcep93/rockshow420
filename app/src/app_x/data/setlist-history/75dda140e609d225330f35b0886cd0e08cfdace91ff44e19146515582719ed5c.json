@@ -1,0 +1,91 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: This was the band’s biggest headlining show to date",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Factory Fiction"
+          },
+          {
+            "name": "Hungersite"
+          },
+          {
+            "name": "MEDIA"
+          },
+          {
+            "name": "A Western Sun",
+            "notes": "(->)"
+          },
+          {
+            "name": "Running Up That Hill (A Deal With God)",
+            "notes": "(Kate Bush cover) (>)"
+          },
+          {
+            "name": "Give It Time"
+          },
+          {
+            "name": "Feel It Now",
+            "notes": "(with Stuart Bogie) (also with Dave Nelson on trombone, and Andrew McGovern on trumpet)"
+          },
+          {
+            "name": "Dustin Hoffman",
+            "notes": "(with Dave Nelson) (also with Stuart Bogie on sax and Andrew McGovern on trumpet)"
+          },
+          {
+            "name": "Animal",
+            "notes": "(with Andrew McGovern) (also with Stuart Bogie sax and Dave Nelson on trombone)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Thatch"
+          },
+          {
+            "name": "Red Bird",
+            "notes": "(>)"
+          },
+          {
+            "name": "Don't Leave Me This Way",
+            "notes": "(Harold Melvin & The Blue Notes cover)"
+          },
+          {
+            "name": "Tumble",
+            "notes": "(unfinished) (->)"
+          },
+          {
+            "name": "Creatures",
+            "notes": "(->)"
+          },
+          {
+            "name": "ShamaLamma Ding Dong",
+            "notes": "(Otis Day & the Knights cover) (> \"Tumble\" reprise)"
+          },
+          {
+            "name": "Jed Stone",
+            "notes": "(>)"
+          },
+          {
+            "name": "Dripfield"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Arcadia",
+            "notes": "(with Stuart Bogie) (also with Dave Nelson on trombone, and Andrew McGovern on trumpet)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/goose/2025/madison-square-garden-new-york-ny-4b5a9756.html"
+  }
+]

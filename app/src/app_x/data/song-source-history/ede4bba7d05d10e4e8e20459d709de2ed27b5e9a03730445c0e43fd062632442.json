@@ -1,0 +1,27 @@
+{
+  "artist": "Ginger Root",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ginger Root",
+      "name": "Loretta"
+    },
+    {
+      "artists": "Ginger Root",
+      "name": "Soarin'"
+    },
+    {
+      "artists": "Ginger Root",
+      "name": "Le château"
+    },
+    {
+      "artists": "Ginger Root",
+      "name": "No Problems"
+    },
+    {
+      "artists": "Ginger Root",
+      "name": "Weather"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4UAW69682T7N0wrABUhqx0"
+}

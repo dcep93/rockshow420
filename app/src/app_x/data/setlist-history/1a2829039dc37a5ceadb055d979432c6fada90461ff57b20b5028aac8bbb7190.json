@@ -1,0 +1,69 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "He Said She Said"
+          },
+          {
+            "name": "Forever"
+          },
+          {
+            "name": "Leave a Trace"
+          },
+          {
+            "name": "California"
+          },
+          {
+            "name": "How Not to Drown"
+          },
+          {
+            "name": "Violent Delights"
+          },
+          {
+            "name": "Science/Visions"
+          },
+          {
+            "name": "Good Girls"
+          },
+          {
+            "name": "Bury It"
+          },
+          {
+            "name": "Miracle"
+          },
+          {
+            "name": "Night Sky"
+          },
+          {
+            "name": "Final Girl"
+          },
+          {
+            "name": "Recover"
+          },
+          {
+            "name": "Never Say Die"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Asking for a Friend"
+          },
+          {
+            "name": "The Mother We Share"
+          },
+          {
+            "name": "Clearest Blue"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/chvrches/2021/bill-graham-civic-auditorium-san-francisco-ca-1b8b352c.html"
+  }
+]

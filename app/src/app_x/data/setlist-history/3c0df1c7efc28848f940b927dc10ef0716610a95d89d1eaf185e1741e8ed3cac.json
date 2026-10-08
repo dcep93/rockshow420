@@ -1,0 +1,86 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "State Trooper",
+            "notes": "(Bruce Springsteen cover)"
+          },
+          {
+            "name": "All That I Need"
+          },
+          {
+            "name": "Comin' Home",
+            "notes": "(Delaney & Bonnie cover)"
+          },
+          {
+            "name": "Sweet and Low"
+          },
+          {
+            "name": "Gravity"
+          },
+          {
+            "name": "I Got You"
+          },
+          {
+            "name": "Under the Knife"
+          },
+          {
+            "name": "Isaac/Kebbi Jam"
+          },
+          {
+            "name": "Shame"
+          },
+          {
+            "name": "Keep On Smilin'",
+            "notes": "(Wet Willie cover)"
+          },
+          {
+            "name": "Idle Wind"
+          },
+          {
+            "name": "Forty-Four",
+            "notes": "(Howlin’ Wolf cover)"
+          },
+          {
+            "name": "Anyday",
+            "notes": "(Derek and the Dominos cover)"
+          },
+          {
+            "name": "Don't Think Twice, It's All Right",
+            "notes": "(Bob Dylan cover)"
+          },
+          {
+            "name": "I Pity the Fool",
+            "notes": "(Bobby “Blue” Bland cover)"
+          },
+          {
+            "name": "Sing a Simple Song",
+            "notes": "(Sly & the Family Stone cover)"
+          },
+          {
+            "name": "I Want to Take You Higher",
+            "notes": "(Sly & the Family Stone cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Fire and Rain",
+            "notes": "(James Taylor cover)"
+          },
+          {
+            "name": "Get What You Deserve",
+            "notes": "(The Derek Trucks Band cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2026/beacon-theatre-new-york-ny-2349b05f.html"
+  }
+]

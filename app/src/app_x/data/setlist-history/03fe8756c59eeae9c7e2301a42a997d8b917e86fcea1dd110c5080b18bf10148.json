@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "God Save Our Young Blood"
+          },
+          {
+            "name": "Faded Heart"
+          },
+          {
+            "name": "Sweet Dreams"
+          },
+          {
+            "name": "We Don't Care"
+          },
+          {
+            "name": "Man"
+          },
+          {
+            "name": "Iceberg"
+          },
+          {
+            "name": "Second Night of Summer"
+          },
+          {
+            "name": "I Don't Want U Back"
+          },
+          {
+            "name": "Tension (Interlude)"
+          },
+          {
+            "name": "Supernatural"
+          },
+          {
+            "name": "Blue Madonna"
+          },
+          {
+            "name": "Bye-bye Darling"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Seeing Stars"
+          },
+          {
+            "name": "10,000 Emerald Pools"
+          },
+          {
+            "name": "American Money"
+          },
+          {
+            "name": "Past Lives"
+          },
+          {
+            "name": "Holy Ghost"
+          },
+          {
+            "name": "Electric Love"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/borns/2018/fox-theater-oakland-ca-6be15e92.html"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Soundcheck: With Love From, Tear the Night Up and Pretty Places (St. Lucia Remix)",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Open to Something and That Something Is You"
+          },
+          {
+            "name": "With Love From"
+          },
+          {
+            "name": "Pretty Places"
+          },
+          {
+            "name": "Love You This Way"
+          },
+          {
+            "name": "Stomach"
+          },
+          {
+            "name": "Talking in My Sleep"
+          },
+          {
+            "name": "Take Me"
+          },
+          {
+            "name": "Baby Lay Your Head Down"
+          },
+          {
+            "name": "Sunchoke"
+          },
+          {
+            "name": "Don't Need Nothing"
+          },
+          {
+            "name": "Potential Breakup Song"
+          },
+          {
+            "name": "Slow Dancing",
+            "notes": "(Stripped Down Version)"
+          },
+          {
+            "name": "Church",
+            "notes": "(Stripped Down Version)"
+          },
+          {
+            "name": "Like Whoa",
+            "notes": "(Acoustic)"
+          },
+          {
+            "name": "Division",
+            "notes": "(Shortened)"
+          },
+          {
+            "name": "On the Ride"
+          },
+          {
+            "name": "Tear the Night Up"
+          },
+          {
+            "name": "Break Yourself"
+          },
+          {
+            "name": "Personal Cathedrals"
+          },
+          {
+            "name": "After Hours"
+          },
+          {
+            "name": "Way of Nature Way of Grace"
+          },
+          {
+            "name": "Rush",
+            "notes": "(with elements of Way of Nature Way of Grace)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Pretty Places",
+            "notes": "(St. Lucia Remix)"
+          },
+          {
+            "name": "Blue Dress"
+          },
+          {
+            "name": "6 Months of Staring Into the Sun"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/aly-and-aj/2023/hammerstein-ballroom-new-york-ny-43b8cf4b.html"
+  }
+]

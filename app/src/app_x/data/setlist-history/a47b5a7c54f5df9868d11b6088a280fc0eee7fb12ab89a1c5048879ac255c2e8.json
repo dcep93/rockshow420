@@ -1,0 +1,86 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "The Hell Song",
+            "notes": "(New End)"
+          },
+          {
+            "name": "My Direction"
+          },
+          {
+            "name": "All Messed Up"
+          },
+          {
+            "name": "A.N.I.C."
+          },
+          {
+            "name": "Never Wake Up",
+            "notes": "(Partial)"
+          },
+          {
+            "name": "T.H.T."
+          },
+          {
+            "name": "Thanks for Nothing"
+          },
+          {
+            "name": "Hyper-Insomnia-Para-Condrioid"
+          },
+          {
+            "name": "Over My Head (Better Off Dead)"
+          },
+          {
+            "name": "No Brains"
+          },
+          {
+            "name": "Mr. Amsterdam",
+            "notes": "(+ Metal Mayhem \"Paranoid\")"
+          },
+          {
+            "name": "Drum Solo",
+            "notes": "(Linkin Park medley)"
+          },
+          {
+            "name": "Billy Spleen",
+            "notes": "(With Pink Floyd Another Brick In The Wall Intro; First live performance since December 4, 2012)"
+          },
+          {
+            "name": "We Will Rock You",
+            "notes": "(Queen cover)"
+          },
+          {
+            "name": "Still Waiting"
+          },
+          {
+            "name": "Fake My Own Death"
+          },
+          {
+            "name": "Hooch",
+            "notes": "(New extended outro)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "No Reason"
+          },
+          {
+            "name": "Motivation",
+            "notes": "(+ The Bitter End Outro)"
+          },
+          {
+            "name": "Fat Lip"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/sum-41/2018/the-warfield-san-francisco-ca-7bec0280.html"
+  }
+]

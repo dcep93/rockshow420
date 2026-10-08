@@ -1,0 +1,85 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Chalk Dust Torture"
+          },
+          {
+            "name": "The Moma Dance",
+            "notes": "(Unfinished) (> “Chalk Dust Torture”)"
+          },
+          {
+            "name": "Back on the Train"
+          },
+          {
+            "name": "Axilla, Part II",
+            "notes": "(>)"
+          },
+          {
+            "name": "The Divided Sky"
+          },
+          {
+            "name": "Blaze On",
+            "notes": "(>)"
+          },
+          {
+            "name": "Tube",
+            "notes": "(>)"
+          },
+          {
+            "name": "Reba",
+            "notes": "(No whistling)"
+          },
+          {
+            "name": "Split Open and Melt"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Ghost",
+            "notes": "(>)"
+          },
+          {
+            "name": "Ruby Waves",
+            "notes": "(Ghosts of The Forest cover) (Unfinished) (>)"
+          },
+          {
+            "name": "Light",
+            "notes": "(>)"
+          },
+          {
+            "name": "Crosseyed and Painless",
+            "notes": "(Talking Heads cover) (->)"
+          },
+          {
+            "name": "Twist"
+          },
+          {
+            "name": "Cavern"
+          },
+          {
+            "name": "First Tube"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Drift While You're Sleeping",
+            "notes": "(Ghosts of The Forest cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/phish/2025/madison-square-garden-new-york-ny-4b41bf16.html"
+  }
+]

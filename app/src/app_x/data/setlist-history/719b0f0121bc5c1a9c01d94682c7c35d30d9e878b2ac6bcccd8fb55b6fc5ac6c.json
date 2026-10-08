@@ -1,0 +1,135 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Post-Apocalypto:",
+        "songs": [
+          {
+            "name": "POST-APOCALYPTO THEME",
+            "notes": "(song played on tape alongside opening credits)",
+            "tape": true
+          },
+          {
+            "name": "Film: \"Chapter 1 - Hope\"",
+            "notes": "(snippet)",
+            "tape": true
+          },
+          {
+            "name": "HOPE"
+          },
+          {
+            "name": "Film: \"Chapter 2 - Cave\"",
+            "notes": "(snippet)",
+            "tape": true
+          },
+          {
+            "name": "MAKING LOVE"
+          },
+          {
+            "name": "Film: \"Chapter 2 - Cave\" / Film: \"Chapter 3 - Space\"",
+            "notes": "(snippets)",
+            "tape": true
+          },
+          {
+            "name": "TAKE US INTO SPACE"
+          },
+          {
+            "name": "Film: \"Chapter 3 - Space\"",
+            "notes": "(snippet)",
+            "tape": true
+          },
+          {
+            "name": "FUCK YO-YO MA"
+          },
+          {
+            "name": "Film: \"Chapter 3 - Space\" / \"Chapter 4 - Robot\"",
+            "notes": "(snippets)",
+            "tape": true
+          },
+          {
+            "name": "DADDY DING DONG"
+          },
+          {
+            "name": "Film: \"Chapter 4 - Robot\"",
+            "notes": "(snippet)",
+            "tape": true
+          },
+          {
+            "name": "ROBOT"
+          },
+          {
+            "name": "Film: \"Chapter 4 - Robot\" / \"Chapter 5 - Donald\"",
+            "notes": "(snippets)",
+            "tape": true
+          },
+          {
+            "name": "COLORS"
+          },
+          {
+            "name": "Film: \"Chapter 5 - Donald\" / \"Chapter 6 - Home\"",
+            "notes": "(snippets)",
+            "tape": true
+          },
+          {
+            "name": "JB JR RAP"
+          },
+          {
+            "name": "WOMAN TIME"
+          },
+          {
+            "name": "SAVE THE WORLD"
+          },
+          {
+            "name": "POST-APOCALYPTO THEME (REPRISE)"
+          }
+        ]
+      },
+      {
+        "name": "Greatest Hits:",
+        "songs": [
+          {
+            "name": "Rize of the Fenix"
+          },
+          {
+            "name": "Low Hangin' Fruit"
+          },
+          {
+            "name": "Throw Down"
+          },
+          {
+            "name": "Kickapoo"
+          },
+          {
+            "name": "Beelzeboss (The Final Showdown)"
+          },
+          {
+            "name": "The Metal"
+          },
+          {
+            "name": "Dio"
+          },
+          {
+            "name": "Kielbasa"
+          },
+          {
+            "name": "Tribute"
+          },
+          {
+            "name": "Double Team"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Fuck Her Gently"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/tenacious-d/2018/fox-theater-oakland-ca-63948aaf.html"
+  }
+]

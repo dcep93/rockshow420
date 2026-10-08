@@ -1,0 +1,81 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Big Blind"
+          },
+          {
+            "name": "The Glass"
+          },
+          {
+            "name": "Out of It"
+          },
+          {
+            "name": "Nothing to Say"
+          },
+          {
+            "name": "High Regard"
+          },
+          {
+            "name": "All This Time"
+          },
+          {
+            "name": "Watch You Go"
+          },
+          {
+            "name": "Letterman"
+          },
+          {
+            "name": "Things I Can't Change"
+          },
+          {
+            "name": "Proper Dose"
+          },
+          {
+            "name": "Jump the Gun"
+          },
+          {
+            "name": "Empty Space"
+          },
+          {
+            "name": "Solo"
+          },
+          {
+            "name": "Keep You Around"
+          },
+          {
+            "name": "Upside Down"
+          },
+          {
+            "name": "Keep This Up"
+          },
+          {
+            "name": "You’re Still in My Way"
+          },
+          {
+            "name": "Roam"
+          },
+          {
+            "name": "White Shores"
+          },
+          {
+            "name": "Nerve"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Quicksand"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2024/brooklyn-paramount-brooklyn-ny-7b52b6e4.html"
+  }
+]

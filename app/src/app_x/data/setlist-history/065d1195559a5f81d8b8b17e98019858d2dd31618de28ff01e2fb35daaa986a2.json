@@ -1,0 +1,90 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Wind Is the Weather",
+            "tape": true
+          },
+          {
+            "name": "Home"
+          },
+          {
+            "name": "Still Crying"
+          },
+          {
+            "name": "Just a Kid"
+          },
+          {
+            "name": "A Love Story"
+          },
+          {
+            "name": "Hands Off My Body"
+          },
+          {
+            "name": "Armor"
+          },
+          {
+            "name": "Heartland",
+            "notes": "(with Saint Honesty snippet)"
+          },
+          {
+            "name": "Ladies in a Line"
+          },
+          {
+            "name": "Capsize Me"
+          },
+          {
+            "name": "Many the Miles"
+          },
+          {
+            "name": "Nervous Breakdown"
+          },
+          {
+            "name": "Idiot Heart"
+          },
+          {
+            "name": "Gravity"
+          },
+          {
+            "name": "Forever"
+          },
+          {
+            "name": "I Wanna Dance With Somebody (Who Loves Me)",
+            "notes": "(Whitney Houston cover)"
+          },
+          {
+            "name": "Love Song"
+          },
+          {
+            "name": "Uncharted"
+          },
+          {
+            "name": "King of Anything"
+          },
+          {
+            "name": "Brave"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "She Used to Be Mine"
+          },
+          {
+            "name": "Salt Then Sour Then Sweet"
+          },
+          {
+            "name": "Let the Rain"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/sara-bareilles/2026/radio-city-music-hall-new-york-ny-4b7fafb6.html"
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: \"Aurora\" was on the setlist but was not played. Streaming live on Hulu and SiriusXM Ch. 104.",
+    "set_id": "9p0z85",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Times Like These"
+          },
+          {
+            "name": "The Pretender",
+            "notes": "(With \"Hocus Pocus\" by Focus snippet)"
+          },
+          {
+            "name": "Learn to Fly"
+          },
+          {
+            "name": "No Son of Mine"
+          },
+          {
+            "name": "The Sky Is a Neighborhood"
+          },
+          {
+            "name": "Shame Shame"
+          },
+          {
+            "name": "Breakout"
+          },
+          {
+            "name": "My Hero"
+          },
+          {
+            "name": "These Days"
+          },
+          {
+            "name": "Walk"
+          },
+          {
+            "name": "You Should Be Dancing",
+            "notes": "(Bee Gees cover) (Followed by band intros with instrument solos)"
+          },
+          {
+            "name": "Somebody to Love",
+            "notes": "(Queen cover) (Taylor Hawkins on lead vocals & Dave Grohl on drums)"
+          },
+          {
+            "name": "All My Life"
+          },
+          {
+            "name": "This Is a Call"
+          },
+          {
+            "name": "Happy Birthday to You",
+            "notes": "(Mildred J. Hill & Patty Hill cover) (For Dave's daughter Ophelia)"
+          },
+          {
+            "name": "Nausea",
+            "notes": "(X cover) (with Violet Grohl) (tour debut)"
+          },
+          {
+            "name": "Best of You"
+          },
+          {
+            "name": "Monkey Wrench"
+          },
+          {
+            "name": "Everlong"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/foo-fighters/2021/grant-park-chicago-il-usa-b8f15d6.html"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Cherries & Cream"
+          },
+          {
+            "name": "Cinderella"
+          },
+          {
+            "name": "Pitiful"
+          },
+          {
+            "name": "Liz"
+          },
+          {
+            "name": "Kangaroo"
+          },
+          {
+            "name": "Frog Rock"
+          },
+          {
+            "name": "Alone in Miami"
+          },
+          {
+            "name": "Sexy Villain"
+          },
+          {
+            "name": "Life Is a Highway",
+            "notes": "(Tom Cochrane cover)"
+          },
+          {
+            "name": "(Unknown)",
+            "notes": "(Crowd-sourced improv song)"
+          },
+          {
+            "name": "Wave"
+          },
+          {
+            "name": "Motorcycle"
+          },
+          {
+            "name": "Toro"
+          },
+          {
+            "name": "Guy",
+            "notes": "(Band introductions)"
+          },
+          {
+            "name": "Disco Man"
+          },
+          {
+            "name": "Soup"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Photo ID"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2024/kings-theatre-brooklyn-ny-73535eb1.html"
+  }
+]

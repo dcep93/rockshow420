@@ -1,8 +1,7 @@
 """Resumable festival public-page research; preserve the artist:concert cache contract.
 
 Directories are explicit reviewed URLs. HTTP challenges halt the whole pass.
-Repeated schedule artists and multiple matching sources are captured but never
-published. No API, authentication, database writes, or challenge bypass is used.
+Repeated artists publish only when each source maps uniquely to one schedule set. No API, authentication, database writes, or challenge bypass is used.
 """
 import argparse
 from collections import Counter, defaultdict
@@ -16,9 +15,10 @@ from urllib.error import HTTPError
 from urllib.parse import urljoin, urlparse
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
-from refresh_setlists import DATA, cache_key, publish, read, save
+from refresh_setlists import source_key, DATA, cache_key, publish, read, save
 from seed_setlists import Blocked, identity, norm
 from setlist_page import Tree, text, extract
+from performance_matches import match_performances
 
 DIRECTORIES = {
     '8nhjof': '2018/outside-lands-music-and-arts-festival-2018-3bd7f034.html',
@@ -75,7 +75,7 @@ def targets_for(catalog):
                 'artist': catalog['artists'][aid]['name'], 'festival': concert['name'],
                 'sets': sets, 'dates': sorted(dates), 'start_date': concert['date'][:10],
                 'end_date': concert.get('end_date', concert['date'][:10]),
-                'repeated': len(sets) > 1, 'excluded': cid == 'hwtzpg'})
+                'timezone': venue.get('timezone', 'UTC'), 'repeated': len(sets) > 1, 'excluded': cid == 'hwtzpg'})
     return targets
 
 
@@ -115,6 +115,7 @@ class Fetcher:
         self.folder = work / 'pages'
         self.folder.mkdir(parents=True, exist_ok=True)
         self.last = 0
+        self.capture_times = {}
 
     def get(self, url):
         parsed = urlparse(url)
@@ -146,6 +147,7 @@ class Fetcher:
             raise
         if not path.exists():
             path.write_text(html)
+        self.capture_times[url] = datetime.fromtimestamp(path.stat().st_mtime, timezone.utc).isoformat()
         return html
 
 
@@ -165,7 +167,7 @@ def main():
     state.update(total_schedule_rows=sum(len(t['sets']) for t in targets), total_artist_concert_pairs=len(targets),
                  retrieval='Ordinary public HTML; no music API; stop on access challenge')
     fetcher = Fetcher(args.work)
-    sources = {cache_key(s['artist_id'], s['concert_id']): s for s in read(DATA / 'setlist-sources.json', [])}
+    sources = {source_key(s): s for s in read(DATA / 'setlist-sources.json', [])}
 
     def checkpoint():
         state['counts'] = dict(Counter(r['status'] for r in state['records'].values()))
@@ -221,19 +223,28 @@ def main():
                 result['rejected'] = rejected
             if empty:
                 result['empty_or_parser_review'] = empty
-            if target['repeated'] or len(found) + len(empty) > 1:
-                result.update(status='ambiguous', matched_urls=[x[0]['url'] for x in found], reason='Repeated schedule artist or multiple matching public performances; artist:concert key preserved')
-            elif len(found) == 1:
-                item, html, parsed = found[0]
-                publish([(item, html)])
-                sources[key] = item
-                result.update(status='cached', source_url=item['url'], songs=sum(len(s['songs']) for s in parsed['sets']))
+            matched_pages = [{'url': item['url'], **item['expected']} for item, _, _ in found]
+            matched_pages += [{'url': entry['url'], **state['pages'][entry['url']]['identity']} for entry in empty]
+            bindings = match_performances(target['sets'], matched_pages, target['timezone'])
+            accepted = [({**item, 'set_id': bindings[item['url']]}, html, parsed)
+                        for item, html, parsed in found if item['url'] in bindings]
+            if accepted:
+                publish([(item, html) for item, html, _ in accepted], capture_times=fetcher.capture_times)
+                for item, _, _ in accepted:
+                    sources[source_key(item)] = item
+                result.update(status='cached' if len(accepted) == len(target['sets']) else 'partial',
+                              performances=[{'set_id': item['set_id'], 'url': item['url']} for item, _, _ in accepted],
+                              songs=sum(len(s['songs']) for _, _, parsed in accepted for s in parsed['sets']))
+            elif any(page['url'] not in bindings for page in matched_pages):
+                result.update(status='ambiguous', reason='No unique schedule-set/source match', matched_urls=[x[0]['url'] for x in found])
             elif empty:
                 result['status'] = 'empty_or_parser_review'
             elif rejected:
                 result['status'] = 'identity_review'
             else:
                 result['status'] = 'absent_from_directory'
+            if matched_pages:
+                result['held_urls'] = [page['url'] for page in matched_pages if page['url'] not in bindings]
             state['records'][key] = result
             checkpoint()
     except Blocked as error:

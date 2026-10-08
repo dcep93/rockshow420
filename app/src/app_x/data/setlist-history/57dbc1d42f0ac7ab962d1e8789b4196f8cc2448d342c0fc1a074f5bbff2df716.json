@@ -1,0 +1,69 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: This was the band’s biggest headlining show to date. The show sold out!",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Hot Tea"
+          },
+          {
+            "name": "Lead Up"
+          },
+          {
+            "name": "Turned Clouds"
+          },
+          {
+            "name": "Yeti",
+            "notes": "(Great Blue cover)"
+          },
+          {
+            "name": "Hot Love & The Lazy Poet"
+          },
+          {
+            "name": "I Would Die 4 U",
+            "notes": "(Prince cover)"
+          },
+          {
+            "name": "So Ready"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Travelers",
+            "notes": "(>)"
+          },
+          {
+            "name": "Elmeg the Wise",
+            "notes": "(>)"
+          },
+          {
+            "name": "Thatch"
+          },
+          {
+            "name": "726",
+            "notes": "(>)"
+          },
+          {
+            "name": "Dripfield"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Give It Time"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/goose/2024/forest-hills-stadium-queens-ny-2b560c2e.html"
+  }
+]

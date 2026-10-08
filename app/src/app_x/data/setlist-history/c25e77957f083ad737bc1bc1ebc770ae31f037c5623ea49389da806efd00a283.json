@@ -1,0 +1,94 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "B-Stage",
+        "songs": [
+          {
+            "name": "Right Where It Belongs",
+            "notes": "(acoustic piano version; with \"Somewhat Damaged\" outro snippet)"
+          },
+          {
+            "name": "Ruiner",
+            "notes": "(partially acoustic version)"
+          },
+          {
+            "name": "Piggy (Nothing Can Stop Me Now)"
+          }
+        ]
+      },
+      {
+        "name": "Main Stage (Unpeeled)",
+        "songs": [
+          {
+            "name": "Wish"
+          },
+          {
+            "name": "March of the Pigs"
+          },
+          {
+            "name": "Reptile"
+          },
+          {
+            "name": "Find My Way"
+          },
+          {
+            "name": "Copy of A"
+          },
+          {
+            "name": "Gave Up"
+          }
+        ]
+      },
+      {
+        "name": "B-Stage",
+        "songs": [
+          {
+            "name": "She's Gone Away",
+            "notes": "(with Boys Noize) (Nine Inch Noize version; with \"Vessel\" intro)"
+          },
+          {
+            "name": "Closer",
+            "notes": "(with Boys Noize) (Nine Inch Noize version)"
+          },
+          {
+            "name": "As Alive as You Need Me to Be",
+            "notes": "(with Boys Noize)"
+          },
+          {
+            "name": "Sin",
+            "notes": "(with Boys Noize) (Remix; with elements of \"Cerebral\" by Boys Noize)"
+          }
+        ]
+      },
+      {
+        "name": "Main Stage (Peeled)",
+        "songs": [
+          {
+            "name": "Somewhat Damaged"
+          },
+          {
+            "name": "Less Than"
+          },
+          {
+            "name": "Burn"
+          },
+          {
+            "name": "The Perfect Drug"
+          },
+          {
+            "name": "The Hand That Feeds"
+          },
+          {
+            "name": "Head Like a Hole"
+          },
+          {
+            "name": "Hurt"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/nine-inch-nails/2025/barclays-center-brooklyn-ny-2b5acc32.html"
+  }
+]

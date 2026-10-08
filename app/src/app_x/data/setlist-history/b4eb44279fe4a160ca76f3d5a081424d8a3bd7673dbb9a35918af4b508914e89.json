@@ -1,0 +1,104 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Main Office",
+        "songs": [
+          {
+            "name": "Family Business"
+          },
+          {
+            "name": "Do"
+          },
+          {
+            "name": "i'm confident that i'm insecure"
+          },
+          {
+            "name": "Casualty"
+          },
+          {
+            "name": "Freckles",
+            "notes": "(VIP Suggested)"
+          },
+          {
+            "name": "Guy I Used to Be"
+          },
+          {
+            "name": "Happy Birthday to You",
+            "notes": "(Mildred J. Hill & Patty Hill cover) (For Marc Langer)"
+          },
+          {
+            "name": "Death of Me"
+          },
+          {
+            "name": "Funeral",
+            "notes": "(with Death of Me outro)"
+          },
+          {
+            "name": "So Damn Fast",
+            "notes": "(NYC Special)"
+          },
+          {
+            "name": "Hip Replacement"
+          }
+        ]
+      },
+      {
+        "name": "Acoustic Office",
+        "songs": [
+          {
+            "name": "Promotion",
+            "notes": "(with Jon Lampley)"
+          },
+          {
+            "name": "The Weather"
+          },
+          {
+            "name": "Something in the Water",
+            "notes": "(with transition back to Main Office)"
+          }
+        ]
+      },
+      {
+        "name": "Main Office",
+        "songs": [
+          {
+            "name": "Get Busy",
+            "notes": "(Sean Paul cover)"
+          },
+          {
+            "name": "More"
+          },
+          {
+            "name": "23"
+          },
+          {
+            "name": "Do You Wanna Do Nothing With Me?"
+          },
+          {
+            "name": "Don't Lose Sight"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "The Heartburn Song"
+          },
+          {
+            "name": "Whatcha Want"
+          },
+          {
+            "name": "9 to 5",
+            "notes": "(Dolly Parton song)",
+            "tape": true
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/lawrence/2024/radio-city-music-hall-new-york-ny-6353f657.html"
+  }
+]

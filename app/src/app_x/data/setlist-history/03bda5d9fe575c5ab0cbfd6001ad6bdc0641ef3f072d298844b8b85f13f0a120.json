@@ -1,0 +1,74 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Intro",
+            "notes": "(10 Good Songs: A Manifesto)",
+            "tape": true
+          },
+          {
+            "name": "Be The Wheel"
+          },
+          {
+            "name": "5-Watt Rock"
+          },
+          {
+            "name": "Hit the Target"
+          },
+          {
+            "name": "You Could Be President"
+          },
+          {
+            "name": "The Death of Us"
+          },
+          {
+            "name": "She's in My Shoe"
+          },
+          {
+            "name": "What Did You Mean (When You Said Love)"
+          },
+          {
+            "name": "The Only Chance We Have"
+          },
+          {
+            "name": "Corn Does Grow"
+          },
+          {
+            "name": "Desperate Times"
+          },
+          {
+            "name": "100 Years from Now"
+          },
+          {
+            "name": "You Gotta Go Through Me",
+            "notes": "(with May Erlewine)"
+          },
+          {
+            "name": "Hard Work"
+          },
+          {
+            "name": "Plain Jane Heroin"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Nobody Loves You Like Your Mother",
+            "notes": "(Sung live to his mother in the audience)"
+          },
+          {
+            "name": "That's The Life",
+            "notes": "(with May Erlewine)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/theo-katzman/2023/terminal-5-new-york-ny-7bb80a04.html"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "z2w53z",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "World on a String"
+          },
+          {
+            "name": "Get Your Head Out"
+          },
+          {
+            "name": "Better Hate"
+          },
+          {
+            "name": "Empires Never Know"
+          },
+          {
+            "name": "Nowhere It Was"
+          },
+          {
+            "name": "Here My Love"
+          },
+          {
+            "name": "This Time Around"
+          },
+          {
+            "name": "Poly Blue"
+          },
+          {
+            "name": "Opening Night"
+          },
+          {
+            "name": "As the World Turns"
+          },
+          {
+            "name": "Life Is"
+          },
+          {
+            "name": "Back Street Girl",
+            "notes": "(The Rolling Stones cover)"
+          },
+          {
+            "name": "Back, Baby"
+          },
+          {
+            "name": "Glances"
+          },
+          {
+            "name": "The Last Year"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "On Your Own Love Again"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/jessica-pratt/2024/parc-del-forum-barcelona-spain-5ba97304.html"
+  }
+]

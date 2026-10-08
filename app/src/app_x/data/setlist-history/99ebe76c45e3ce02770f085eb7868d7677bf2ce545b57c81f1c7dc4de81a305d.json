@@ -1,0 +1,79 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "High Steppin'"
+          },
+          {
+            "name": "Satan Pulls the Strings"
+          },
+          {
+            "name": "Morning Song"
+          },
+          {
+            "name": "Distraction #74"
+          },
+          {
+            "name": "Will You Return?"
+          },
+          {
+            "name": "Salina"
+          },
+          {
+            "name": "I and Love and You"
+          },
+          {
+            "name": "Untitled #4"
+          },
+          {
+            "name": "I Wish I Was"
+          },
+          {
+            "name": "Le reel du pendu / Les bars de la prison"
+          },
+          {
+            "name": "Trouble Letting Go"
+          },
+          {
+            "name": "Talk on Indolence"
+          },
+          {
+            "name": "Shame"
+          },
+          {
+            "name": "Mama, I Don't Believe"
+          },
+          {
+            "name": "True Sadness",
+            "notes": "(Rock Version)"
+          },
+          {
+            "name": "Left on Laura, Left on Lisa"
+          },
+          {
+            "name": "Head Full of Doubt/Road Full of Promise"
+          },
+          {
+            "name": "Life"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Ain't No Man"
+          },
+          {
+            "name": "No Hard Feelings"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-avett-brothers/2019/william-randolph-hearst-greek-theatre-berkeley-ca-739fc66d.html"
+  }
+]

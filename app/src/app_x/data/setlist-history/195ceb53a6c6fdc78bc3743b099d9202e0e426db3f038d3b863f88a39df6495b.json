@@ -1,0 +1,121 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Xanadudes",
+            "tape": true
+          },
+          {
+            "name": "Xanadu"
+          },
+          {
+            "name": "Limelight",
+            "notes": "(preceded by band introductions)"
+          },
+          {
+            "name": "Far Cry"
+          },
+          {
+            "name": "Subdivisions"
+          },
+          {
+            "name": "Freewill"
+          },
+          {
+            "name": "Neil Peart Tribute Collage 1",
+            "tape": true
+          },
+          {
+            "name": "Bravado"
+          },
+          {
+            "name": "Headlong Flight"
+          },
+          {
+            "name": "La Villa Strangiato"
+          },
+          {
+            "name": "Vital Signs"
+          },
+          {
+            "name": "The Spirit of Radio"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Nixie Tube Countdown",
+            "tape": true
+          },
+          {
+            "name": "2112 Part I: Overture"
+          },
+          {
+            "name": "2112 Part II: The Temples of Syrinx"
+          },
+          {
+            "name": "2112 Part VII: Grand Finale"
+          },
+          {
+            "name": "Distant Early Warning"
+          },
+          {
+            "name": "Red Barchetta"
+          },
+          {
+            "name": "Dreamline"
+          },
+          {
+            "name": "Natural Science"
+          },
+          {
+            "name": "Neil Peart Tribute Collage 2",
+            "tape": true
+          },
+          {
+            "name": "Time Stand Still"
+          },
+          {
+            "name": "Red Sector A"
+          },
+          {
+            "name": "YYZ"
+          },
+          {
+            "name": "The Garden"
+          },
+          {
+            "name": "South Park Intro",
+            "tape": true
+          },
+          {
+            "name": "Tom Sawyer"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "By-Tor & the Snow Dog"
+          },
+          {
+            "name": "Working Man"
+          },
+          {
+            "name": "Neil Peart Tribute from Paul Rudd & Jason Segel",
+            "tape": true
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/rush/2026/madison-square-garden-new-york-ny-13414959.html"
+  }
+]

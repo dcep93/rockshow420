@@ -1,0 +1,66 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "I'll Be Alright"
+          },
+          {
+            "name": "Sleepyhead"
+          },
+          {
+            "name": "Moth's Wings"
+          },
+          {
+            "name": "The Reeling"
+          },
+          {
+            "name": "Eyes as Candles"
+          },
+          {
+            "name": "Where the Sky Hangs"
+          },
+          {
+            "name": "Make Light"
+          },
+          {
+            "name": "Smile Upon Me"
+          },
+          {
+            "name": "Lifted Up (1985)"
+          },
+          {
+            "name": "To Kingdom Come"
+          },
+          {
+            "name": "Mirrored Sea"
+          },
+          {
+            "name": "Cry Like a Ghost"
+          },
+          {
+            "name": "Little Secrets"
+          },
+          {
+            "name": "Carried Away"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Constant Conversations"
+          },
+          {
+            "name": "Take a Walk"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/passion-pit/2018/fox-theater-oakland-ca-73ee920d.html"
+  }
+]

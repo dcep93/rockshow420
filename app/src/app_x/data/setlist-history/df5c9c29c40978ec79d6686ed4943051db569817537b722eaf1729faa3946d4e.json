@@ -1,0 +1,116 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Good Together"
+          },
+          {
+            "name": "Far Gone"
+          },
+          {
+            "name": "Better Not Tell You"
+          },
+          {
+            "name": "Hypotheticals"
+          },
+          {
+            "name": "Seats at the Bar"
+          },
+          {
+            "name": "Get Around"
+          },
+          {
+            "name": "Mistakes"
+          },
+          {
+            "name": "Baby, Don't Leave Me Alone With My Thoughts"
+          },
+          {
+            "name": "Making Do"
+          },
+          {
+            "name": "Party on the Roof"
+          }
+        ]
+      },
+      {
+        "name": "Acoustic Set",
+        "songs": [
+          {
+            "name": "I Want You Back",
+            "notes": "(The Jackson 5 cover)"
+          },
+          {
+            "name": "Side Pony"
+          },
+          {
+            "name": "Help Is On the Way"
+          }
+        ]
+      },
+      {
+        "name": "Full Band & Horns",
+        "songs": [
+          {
+            "name": "Call Off Your Dogs"
+          }
+        ]
+      },
+      {
+        "name": "Akie's Sexy-Ass Soulful Solo",
+        "songs": [
+          {
+            "name": "You're Still the One",
+            "notes": "(Shania Twain cover)"
+          }
+        ]
+      },
+      {
+        "name": "Rachael's Waffle House Memories",
+        "songs": [
+          {
+            "name": "Twenty-Five"
+          }
+        ]
+      },
+      {
+        "name": "Full Band",
+        "songs": [
+          {
+            "name": "Walking Uphill"
+          },
+          {
+            "name": "Seventeen"
+          }
+        ]
+      },
+      {
+        "name": "Rachael in the Crowd",
+        "songs": [
+          {
+            "name": "Dance With a Stranger"
+          },
+          {
+            "name": "You Go Down Smooth"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Set Sail (Prometheus & Eros)"
+          },
+          {
+            "name": "Good Kisser"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/lake-street-dive/2024/madison-square-garden-new-york-ny-3b54fcf4.html"
+  }
+]

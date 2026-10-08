@@ -1,0 +1,27 @@
+{
+  "artist": "Slap Dragon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Slap Dragon",
+      "name": "Mission Statement"
+    },
+    {
+      "artists": "Slap Dragon",
+      "name": "No Solicitors"
+    },
+    {
+      "artists": "Slap Dragon",
+      "name": "Already Won"
+    },
+    {
+      "artists": "Slap Dragon",
+      "name": "Girl Dinner"
+    },
+    {
+      "artists": "Slap Dragon",
+      "name": "Pool Song"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0CMEHUh3FRnPl3NyvwvcE7"
+}

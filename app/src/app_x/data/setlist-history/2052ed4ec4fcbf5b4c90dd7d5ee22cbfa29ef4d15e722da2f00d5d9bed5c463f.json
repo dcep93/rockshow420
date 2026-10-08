@@ -1,0 +1,73 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Get Out"
+          },
+          {
+            "name": "Bury It"
+          },
+          {
+            "name": "Gun"
+          },
+          {
+            "name": "We Sink"
+          },
+          {
+            "name": "Graffiti"
+          },
+          {
+            "name": "Graves"
+          },
+          {
+            "name": "God's Plan"
+          },
+          {
+            "name": "Under the Tide"
+          },
+          {
+            "name": "Out of My Head",
+            "notes": "(with Wednesday Campanella)"
+          },
+          {
+            "name": "Miracle"
+          },
+          {
+            "name": "Science/Visions"
+          },
+          {
+            "name": "Deliverance"
+          },
+          {
+            "name": "Forever"
+          },
+          {
+            "name": "Recover"
+          },
+          {
+            "name": "Leave a Trace"
+          },
+          {
+            "name": "Clearest Blue"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "The Mother We Share"
+          },
+          {
+            "name": "Never Say Die"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/chvrches/2019/toyosu-pit-tokyo-japan-7b928aac.html"
+  }
+]

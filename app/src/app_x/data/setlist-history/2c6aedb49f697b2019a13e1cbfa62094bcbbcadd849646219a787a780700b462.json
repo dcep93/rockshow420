@@ -1,0 +1,77 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Hangout at the Gallows"
+          },
+          {
+            "name": "Date Night"
+          },
+          {
+            "name": "Hollywood Forever Cemetery Sings"
+          },
+          {
+            "name": "Mr. Tillman"
+          },
+          {
+            "name": "Disappointing Diamonds Are the Rarest of Them All"
+          },
+          {
+            "name": "Total Entertainment Forever"
+          },
+          {
+            "name": "Things It Would Have Been Helpful to Know Before the Revolution",
+            "notes": "(Tour debut)"
+          },
+          {
+            "name": "Ballad of the Dying Man"
+          },
+          {
+            "name": "Nancy From Now On"
+          },
+          {
+            "name": "Chateau Lobby #4 (in C for Two Virgins)"
+          },
+          {
+            "name": "Please Don't Die"
+          },
+          {
+            "name": "The Palace",
+            "notes": "(Tour debut)"
+          },
+          {
+            "name": "Real Love Baby"
+          },
+          {
+            "name": "I Guess Time Just Makes Fools of Us All"
+          },
+          {
+            "name": "God's Favorite Customer"
+          },
+          {
+            "name": "Pure Comedy"
+          },
+          {
+            "name": "I Love You, Honeybear"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "I'm Writing a Novel"
+          },
+          {
+            "name": "Holy Shit"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/father-john-misty/2019/william-randolph-hearst-greek-theatre-berkeley-ca-1b918d64.html"
+  }
+]

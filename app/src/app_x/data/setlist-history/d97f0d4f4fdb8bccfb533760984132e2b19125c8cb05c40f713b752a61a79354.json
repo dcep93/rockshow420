@@ -1,0 +1,33 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "32id9c",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Tennessee Song"
+          },
+          {
+            "name": "A Little Pain"
+          },
+          {
+            "name": "Fortunate Son",
+            "notes": "(Creedence Clearwater Revival cover)"
+          },
+          {
+            "name": "Four Years of Chances"
+          },
+          {
+            "name": "Mary Jane's Last Dance",
+            "notes": "(Tom Petty and the Heartbreakers cover)"
+          },
+          {
+            "name": "Cocaine Cowboys"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/margo-price/2018/golden-gate-park-san-francisco-ca-usa-5be8bf24.html"
+  }
+]

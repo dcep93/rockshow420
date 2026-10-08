@@ -65,7 +65,8 @@ class SongSourcesTests(unittest.TestCase):
         for stem,kind in [('spotify','spotify_top_tracks'),('musicals','musical_program'),('setlist.fm','setlist_fm')]:
             cache=json.loads((data/f'cached.{stem}.json').read_text());meta=json.loads((data/f'cached.{stem}.meta.json').read_text())
             for key,value in cache.items():
-                self.assertEqual(value['kind'],kind)
+                for performance in value if stem == 'setlist.fm' else [value]:
+                    self.assertEqual(performance['kind'],kind)
                 if stem == 'spotify': self.assertLessEqual(len(value['songs']),5)
                 self.assertEqual(meta['entries'][key]['content_sha256'],digest(canonical(value).encode()))
                 self.assertNotIn('source_classes',json.dumps(value))

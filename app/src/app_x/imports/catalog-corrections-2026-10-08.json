@@ -1,0 +1,72 @@
+{
+  "artists": {
+    "ginger-root": {
+      "name": "Ginger Root"
+    }
+  },
+  "concert_updates": [
+    {
+      "changes": {
+        "date": "2026-01-31T19:20:00-05:00",
+        "date_precision": "time"
+      },
+      "expected": {
+        "artist_id": "meet-me-the-altar",
+        "date": "2026-01-31T00:00:00Z",
+        "date_precision": "day",
+        "venue_id": "mercury-lounge"
+      },
+      "id": "mdtd8s",
+      "sources": [
+        "https://www.setlist.fm/setlist/meet-me-the-altar/2026/mercury-lounge-new-york-ny-434c7347.html"
+      ]
+    },
+    {
+      "changes": {
+        "date": "2019-09-16T19:30:00-07:00",
+        "date_precision": "time"
+      },
+      "expected": {
+        "artist_id": "john-mayer",
+        "date": "2019-09-16T00:00:00Z",
+        "date_precision": "day",
+        "venue_id": "chase-center"
+      },
+      "id": "rqwp9n",
+      "sources": [
+        "https://www.setlist.fm/setlist/john-mayer/2019/chase-center-san-francisco-ca-b9ced3e.html"
+      ]
+    }
+  ],
+  "id": "2026-10-08-performance-enrichment",
+  "lineup_additions": [
+    {
+      "artist_id": "ginger-root",
+      "concert_id": "fuaiif",
+      "set": {
+        "artist_id": "ginger-root",
+        "day": "2024-05-12",
+        "stage": "Desert Stage",
+        "start": "2024-05-12T19:30:00-06:00"
+      },
+      "set_id": "6w143h",
+      "sources": [
+        "https://www.brooklynvegan.com/kilby-block-party-2024-lineup-lcd-soundsystem-postal-service-vampire-weekend-joanna-newsom-css-more/",
+        "https://www.setlist.fm/setlist/ginger-root/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e7.html"
+      ]
+    },
+    {
+      "artist_id": "hot-flash-heat-wave",
+      "concert_id": "81bzyp",
+      "set": {
+        "artist_id": "hot-flash-heat-wave",
+        "day": "2019-09-22"
+      },
+      "set_id": "1p0prs",
+      "sources": [
+        "https://sonomaharvestmusicfestival.com/artist/hot-flash-heat-wave/",
+        "https://www.setlist.fm/festival/2019/sonoma-harvest-music-festival-2019-weekend-2-6bd71a46.html"
+      ]
+    }
+  ]
+}

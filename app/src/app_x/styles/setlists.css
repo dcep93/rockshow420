@@ -1,16 +1,19 @@
-.rs-setlists { margin-top: 2rem; min-width: 0; }
-.rs-setlists h2 { margin-bottom: 0.75rem; }
-.rs-setlists details { border-top: 0.0625rem solid var(--rs-border); }
-.rs-setlists summary { padding: 0.85rem 0; cursor: pointer; font-size: 0.875rem; }
-.rs-setlists details > a { color: var(--rs-tan); font-size: 0.75rem; text-decoration: underline; }
-.rs-setlists pre {
-  max-height: 32rem;
-  overflow: auto;
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  padding: 1rem;
-  border-radius: 0.5rem;
-  background: var(--rs-panel);
-  color: var(--rs-text);
-  font: 0.75rem/1.6 ui-monospace, SFMono-Regular, monospace;
-}
+.rs-setlists { min-width: 0; font-size: 0.8125rem; }
+.rs-setlists details { padding: 0; }
+.rs-setlists summary { width: fit-content; padding: 0.3rem 0; cursor: pointer; color: var(--rs-muted); }
+.rs-setlists summary:hover { color: var(--rs-pink); }
+.rs-setlists details[open] > summary { color: var(--rs-text); }
+.rs-song-content { padding: 0.15rem 0 0.7rem; overflow-wrap: anywhere; }
+.rs-setlists ol { padding-left: 1.75rem; margin: 0.35rem 0; }
+.rs-setlists li { padding: 0.125rem 0 0.125rem 0.125rem; }
+.rs-setlists li::marker { color: var(--rs-muted); font-variant-numeric: tabular-nums; }
+.rs-song-note { color: var(--rs-muted); font-size: 0.9em; }
+li > .rs-song-note { display: block; }
+p.rs-song-note { margin: 0.45rem 0; }
+.rs-song-section h4 { margin: 0.6rem 0 0.1rem; font-size: 0.8125rem; font-weight: 600; color: var(--rs-tan); }
+.rs-song-source { color: var(--rs-tan) !important; font-size: 0.75rem; text-decoration: underline !important; }
+.rs-performance { border-bottom: 0.0625rem solid var(--rs-border); padding-bottom: 0.4rem; }
+.rs-performance .rs-lineup-item { border: 0; }
+.rs-schedule-day + .rs-schedule-day { margin-top: 1.25rem; }
+.rs-schedule-day h3 { margin: 0 0 0.25rem; font-family: var(--rs-title-font); color: var(--rs-pink); font-size: 1rem; font-weight: 400; }
+.rs-song-count { color: var(--rs-muted); }

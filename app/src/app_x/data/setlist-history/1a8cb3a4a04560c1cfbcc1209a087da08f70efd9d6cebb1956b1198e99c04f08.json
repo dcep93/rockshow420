@@ -1,0 +1,84 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "O mio babbino caro",
+            "notes": "(Giacomo Puccini song)",
+            "tape": true
+          },
+          {
+            "name": "That's Where I Am"
+          },
+          {
+            "name": "Drunk"
+          },
+          {
+            "name": "So Sick of Dreaming"
+          },
+          {
+            "name": "The Kill"
+          },
+          {
+            "name": "Want Want"
+          },
+          {
+            "name": "Say It"
+          },
+          {
+            "name": "Love You for a Long Time"
+          },
+          {
+            "name": "On & On & On"
+          },
+          {
+            "name": "In the Living Room"
+          },
+          {
+            "name": "Dog Years"
+          },
+          {
+            "name": "Killing Me Softly With His Song",
+            "notes": "(Lori Lieberman cover)"
+          },
+          {
+            "name": "If Now Was Then"
+          },
+          {
+            "name": "I Still Do",
+            "notes": "(solo on piano, B-Stage)"
+          },
+          {
+            "name": "All the Same",
+            "notes": "(with Brian, Bryn, and Shannon on the runway stage)"
+          },
+          {
+            "name": "Alaska",
+            "notes": "(with Mike Robinson) (on pedal steel)"
+          },
+          {
+            "name": "Anywhere With You"
+          },
+          {
+            "name": "Fallingwater"
+          },
+          {
+            "name": "Light On"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Don't Forget Me"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/maggie-rogers/2024/madison-square-garden-new-york-ny-ba97d62.html"
+  }
+]

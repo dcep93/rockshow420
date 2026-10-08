@@ -30,6 +30,38 @@ HTML = '''<div class="setlistInfo"><div class="date"><span class="month">Sep</sp
 
 
 class SetlistCacheTests(unittest.TestCase):
+    def test_reprocessing_preserves_capture_date_separately(self):
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder)
+            original = '2026-09-01T12:00:00+00:00'
+            processed = '2026-10-08T12:00:00+00:00'
+            publish([(ITEM, HTML)], output, original)
+            publish([(ITEM, HTML)], output, processed, capture_times={URL: original})
+            entry = json.loads((output / 'cached.setlist.fm.meta.json').read_text())['entries']['a:c']
+            self.assertEqual(entry['first_fetched_at'], original)
+            self.assertEqual(entry['last_fetched_at'], original)
+            self.assertEqual(entry['sources'][URL]['last_fetched_at'], original)
+            self.assertEqual(entry['last_processed_at'], processed)
+            self.assertEqual(len(entry['revisions']), 1)
+
+    def test_refresh_of_one_performance_preserves_others(self):
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder)
+            first = {**ITEM, 'set_id': 'abc123'}
+            second = {**ITEM, 'set_id': 'def456', 'url': URL.replace('123abc', '456def')}
+            publish([(first, HTML), (second, HTML.replace('Finale', 'Other finale'))], output, 'first')
+            publish([(first, HTML.replace('Finale', 'Updated finale'))], output, 'second')
+            performances = json.loads((output / 'cached.setlist.fm.json').read_text())['a:c']
+            self.assertEqual([p['set_id'] for p in performances], ['abc123', 'def456'])
+            self.assertEqual(performances[1]['sets'][1]['songs'][0]['name'], 'Other finale')
+            self.assertEqual(performances[0]['sets'][1]['songs'][0]['name'], 'Updated finale')
+            previous = (output / 'cached.setlist.fm.json').read_bytes()
+            with self.assertRaisesRegex(ValueError, 'Duplicate'):
+                publish([(first, HTML), (first, HTML)], output)
+            with self.assertRaisesRegex(ValueError, 'source URL'):
+                publish([({**first, 'set_id': 'ghi789'}, HTML)], output)
+            self.assertEqual(previous, (output / 'cached.setlist.fm.json').read_bytes())
+
     def test_structure_annotations_and_unknown_details_survive(self):
         result = extract(HTML, URL, ITEM["expected"])
         self.assertEqual([s.get("name") for s in result["sets"]], ["First set", "Encore 2:"])
@@ -117,7 +149,7 @@ class SetlistCacheTests(unittest.TestCase):
             hashed = digest(canonical(value).encode())
             self.assertEqual(hashed, meta["entries"][key]["content_sha256"])
             self.assertEqual(json.loads((data / "setlist-history" / (hashed + ".json")).read_text()), value)
-        headliner = cache["khruangbin:1oahei"]
+        headliner = cache["khruangbin:1oahei"][0]
         self.assertEqual([len(s["songs"]) for s in headliner["sets"]], [12, 7, 3])
         self.assertIn("Emma", headliner["sets"][2]["songs"][0]["notes"])
         self.assertNotIn("times", cache["men-i-trust:1oahei"])

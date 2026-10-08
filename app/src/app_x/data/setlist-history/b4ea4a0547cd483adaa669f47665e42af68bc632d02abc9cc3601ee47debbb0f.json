@@ -1,0 +1,81 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "One Little Song",
+            "notes": "(Gillian Welch cover) (With Jacob Collier and Madison Cunningham)"
+          },
+          {
+            "name": "All I've Ever Known",
+            "notes": "(with Madison Cunningham)"
+          },
+          {
+            "name": "Life According to Raechel",
+            "notes": "(Madison Cunningham cover) (with Madison Cunningham)"
+          },
+          {
+            "name": "Inventing the Wheel",
+            "notes": "(with Madison Cunningham) (New song!)"
+          },
+          {
+            "name": "I Feel Fine",
+            "notes": "(The Beatles cover) (with Jacob Collier)"
+          },
+          {
+            "name": "Tennessee Waltz",
+            "notes": "(Pee Wee King & His Golden West Cowboys cover) (with Jacob Collier)"
+          },
+          {
+            "name": "Concerto for Two Violins in D minor, BWV 1043",
+            "notes": "(Johann Sebastian Bach cover) (1st movement) (Mandolin + Collier vocals)"
+          },
+          {
+            "name": "Human Nature",
+            "notes": "(Michael Jackson cover) (with Jacob Collier)"
+          },
+          {
+            "name": "Can't Help Falling in Love",
+            "notes": "(Elvis Presley cover)"
+          },
+          {
+            "name": "Summer Rain",
+            "notes": "(with Jacob Collier) (World Premiere from Jacob Collier)"
+          },
+          {
+            "name": "I Heard You Singing"
+          },
+          {
+            "name": "Never Gonna Be Alone",
+            "notes": "(Jacob Collier cover) (with Jacob Collier)"
+          },
+          {
+            "name": "River of Orchids",
+            "notes": "(XTC cover)"
+          },
+          {
+            "name": "Don't Talk (Put Your Head on My Shoulder)",
+            "notes": "(The Beach Boys cover)"
+          },
+          {
+            "name": "Wild Mountain Thyme",
+            "notes": "(Francis McPeake cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Red Clay Halo",
+            "notes": "(Gillian Welch cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/chris-thile/2023/david-geffen-hall-new-york-ny-63bb1e57.html"
+  }
+]

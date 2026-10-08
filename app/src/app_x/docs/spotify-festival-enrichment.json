@@ -1,7 +1,7 @@
 {
   "added_artists": 900,
-  "cached_artists": 1187,
-  "catalog_artists": 1387,
+  "cached_artists": 1194,
+  "catalog_artists": 1388,
   "date": "2026-10-08",
   "discovery_search_files": 608,
   "final_major_identity_pass": {
@@ -174,10 +174,23 @@
       ]
     }
   },
-  "full_five_artists": 1176,
+  "full_five_artists": 1183,
+  "performance_followup": {
+    "added_profiles": [
+      "badfish",
+      "collectivity",
+      "law",
+      "locus-pocus",
+      "slap-dragon",
+      "zola",
+      "ginger-root"
+    ],
+    "evidence": "ordinary-enrichment-evidence-2026-10-08.json",
+    "ordinary_artist_gaps_remaining": 27
+  },
   "preserved_previous_artists": 287,
   "public_embed_pages_captured": 1194,
-  "ranked_song_entries": 5901,
+  "ranked_song_entries": 5936,
   "recording_credit_pages_captured": 109,
   "remaining": {
     "3phaz": {
@@ -319,17 +332,6 @@
       "name": "Bad Juuju",
       "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
       "status": "no_spotify_match"
-    },
-    "badfish": {
-      "candidates": [
-        "0Lq022fcanpb4atRpZakk9"
-      ],
-      "id": "badfish",
-      "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-      "identity_review_required": true,
-      "name": "Badfish",
-      "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
-      "status": "needs_review"
     },
     "balma": {
       "candidate_errors": [],
@@ -664,12 +666,6 @@
         }
       ],
       "status": "ambiguous"
-    },
-    "collectivity": {
-      "candidates": [],
-      "id": "collectivity",
-      "name": "Collectivity",
-      "status": "no_spotify_match"
     },
     "dan-bar-hava": {
       "candidates": [],
@@ -1204,21 +1200,6 @@
       "reason": "Multiple profiles match artist heading",
       "status": "ambiguous"
     },
-    "law": {
-      "candidate_errors": [],
-      "candidates": [
-        "1mVPq7nIESnpPaKeXQ27uQ",
-        "2RLLRUQklaUFhqMuZm4NFS",
-        "1gN4eEPp41os50mQrk1F6a",
-        "5dUnTuiMi2XpSr4f17W3V1",
-        "0Awa22WrE6MIJryUQNL1Ev"
-      ],
-      "id": "law",
-      "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-      "name": "Law",
-      "reason": "Multiple profiles match artist heading",
-      "status": "ambiguous"
-    },
     "leyl-master-black": {
       "candidates": [],
       "id": "leyl-master-black",
@@ -1250,26 +1231,6 @@
       "id": "live-dead-brothers",
       "name": "Live Dead & Brothers",
       "status": "no_spotify_match"
-    },
-    "locus-pocus": {
-      "candidates": [
-        "4MWifxkVhRGDVZ83FQBWcL"
-      ],
-      "credit_evidence": [
-        {
-          "ids": [
-            "4MWifxkVhRGDVZ83FQBWcL"
-          ],
-          "source_html_sha256": "b3a78cde2918e7703e7aca880bd671bb47aaf93193784efee697224c1a2f0c8d",
-          "url": "https://open.spotify.com/album/0dcDKykcXyWXJg5Wji2wAo"
-        }
-      ],
-      "id": "locus-pocus",
-      "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
-      "identity_review_required": true,
-      "name": "Locus Pocus",
-      "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
-      "status": "needs_review"
     },
     "lolahol": {
       "candidate_errors": [
@@ -1802,26 +1763,6 @@
       "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
       "status": "no_spotify_match"
     },
-    "slap-dragon": {
-      "candidates": [
-        "0CMEHUh3FRnPl3NyvwvcE7"
-      ],
-      "credit_evidence": [
-        {
-          "ids": [
-            "0CMEHUh3FRnPl3NyvwvcE7"
-          ],
-          "source_html_sha256": "82deed03d47376c45bf0b26b7709ac947ba45081e474663b140c215bb0b916c1",
-          "url": "https://open.spotify.com/intl-id/album/67UIdyz4QbQrBmonHB5cTU"
-        }
-      ],
-      "id": "slap-dragon",
-      "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
-      "identity_review_required": true,
-      "name": "Slap Dragon",
-      "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
-      "status": "needs_review"
-    },
     "soho-soho": {
       "candidates": [],
       "id": "soho-soho",
@@ -2152,21 +2093,9 @@
       "name": "YPR",
       "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
       "status": "no_spotify_match"
-    },
-    "zola": {
-      "candidate_errors": [],
-      "candidates": [
-        "1J4ofBDurgOATlfzzyniZp",
-        "54kCbQZaZWHnwwj9VP2hn4"
-      ],
-      "id": "zola",
-      "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-      "name": "ZOLA",
-      "reason": "Multiple profiles match artist heading",
-      "status": "ambiguous"
     }
   },
-  "remaining_artists": 200,
+  "remaining_artists": 194,
   "retired_catalog_ids": [
     "lauren-sanderson",
     "maz",
@@ -2232,11 +2161,11 @@
   },
   "spotify_access_block": null,
   "status_counts": {
-    "ambiguous": 57,
-    "cached": 1187,
-    "needs_review": 18,
+    "ambiguous": 55,
+    "cached": 1194,
+    "needs_review": 15,
     "no_ranked_tracks": 3,
-    "no_spotify_match": 122
+    "no_spotify_match": 121
   },
   "targeted_search_files": 160,
   "work_directory": "/Users/danielcepeda/repos/_codex_output/rockshow420/spotify-festival-enrichment-2026-10-08"

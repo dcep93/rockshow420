@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Poems"
+          },
+          {
+            "name": "Interlude"
+          },
+          {
+            "name": "Suicide Saturday"
+          },
+          {
+            "name": "Western Kids"
+          },
+          {
+            "name": "Simple Season"
+          },
+          {
+            "name": "Tuesday"
+          },
+          {
+            "name": "Baseball"
+          },
+          {
+            "name": "Traveler"
+          },
+          {
+            "name": "Warm Glow"
+          },
+          {
+            "name": "Joy"
+          },
+          {
+            "name": "Little Grace"
+          },
+          {
+            "name": "South"
+          },
+          {
+            "name": "Monsoon"
+          },
+          {
+            "name": "Way It Goes"
+          },
+          {
+            "name": "Buttercup"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "No Poms",
+            "notes": "(Live debut)"
+          },
+          {
+            "name": "Violet"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2018/the-fillmore-san-francisco-ca-beeb57a.html"
+  }
+]

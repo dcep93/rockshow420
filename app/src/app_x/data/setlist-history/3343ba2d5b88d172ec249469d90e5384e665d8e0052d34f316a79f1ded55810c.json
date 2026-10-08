@@ -1,0 +1,71 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "psbnej",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Times Like These",
+            "notes": "(Dave and Rami start then the whole band joins)"
+          },
+          {
+            "name": "The Pretender",
+            "notes": "(with a snippet of Focus' \"Hocus Pocus\")"
+          },
+          {
+            "name": "Learn to Fly"
+          },
+          {
+            "name": "No Son of Mine"
+          },
+          {
+            "name": "The Sky Is a Neighborhood"
+          },
+          {
+            "name": "Shame Shame"
+          },
+          {
+            "name": "Breakout"
+          },
+          {
+            "name": "My Hero"
+          },
+          {
+            "name": "These Days"
+          },
+          {
+            "name": "Medicine at Midnight"
+          },
+          {
+            "name": "Walk"
+          },
+          {
+            "name": "You Should Be Dancing",
+            "notes": "(Bee Gees cover)"
+          },
+          {
+            "name": "Somebody to Love",
+            "notes": "(Queen cover)"
+          },
+          {
+            "name": "All My Life"
+          },
+          {
+            "name": "This Is a Call"
+          },
+          {
+            "name": "Best of You"
+          },
+          {
+            "name": "Monkey Wrench"
+          },
+          {
+            "name": "Everlong"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/foo-fighters/2021/napa-valley-expo-napa-ca-usa-638c3e93.html"
+  }
+]

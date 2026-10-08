@@ -12,7 +12,7 @@ from urllib.error import HTTPError
 from urllib.parse import urlencode, urljoin, urlparse
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
-from refresh_setlists import DATA, cache_key, publish, read, save
+from refresh_setlists import source_key, DATA, cache_key, publish, read, save
 from setlist_page import Tree, text, extract
 
 
@@ -150,7 +150,7 @@ def main():
     state = read(args.work / "progress.json", {"records": {}, "related": {}})
     state.update(total_targets=len(targets), total_events=len(events), events=events, catalog_source="Saved production snapshot plus correction/time overlays; live quota blocked")
     fetcher = Fetcher(args.work / "pages")
-    sources = {cache_key(x["artist_id"], x["concert_id"]): x for x in read(DATA / "setlist-sources.json", [])}
+    sources = {source_key(x): x for x in read(DATA / "setlist-sources.json", [])}
     captures = []
 
     def checkpoint():
@@ -210,7 +210,7 @@ def main():
                         break
                 if len(matches_found) == 1:
                     item, html, parsed = matches_found[0]
-                    sources[key] = item
+                    sources[source_key(item)] = item
                     captures.append((item, html))
                     result.update(status="cached", source_url=item["url"], songs=sum(len(s["songs"]) for s in parsed["sets"]))
                 elif len(matches_found) > 1:

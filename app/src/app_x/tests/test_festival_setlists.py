@@ -4,6 +4,7 @@ from pathlib import Path
 import unittest
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
+from performance_matches import match_performances
 from festival_setlists import candidate_links, matches_target, targets_for
 
 DIRECTORY = 'https://www.setlist.fm/festival/2024/example-123.html'
@@ -11,6 +12,14 @@ BACKLINK = '<a href="../../festival/2024/example-123.html">Festival</a>'
 
 
 class FestivalResearchTests(unittest.TestCase):
+    def test_distinct_days_match_but_same_day_or_overnight_overlap_stays_held(self):
+        sets = [{'set_id': 'abc123', 'day': '2024-07-12'}, {'set_id': 'def456', 'day': '2024-07-13'}]
+        pages = [{'url': 'first', 'event_date': '2024-07-12'}, {'url': 'second', 'event_date': '2024-07-13'}]
+        self.assertEqual(match_performances(sets, pages), {'first': 'abc123', 'second': 'def456'})
+        self.assertEqual(match_performances(sets, pages + [{'url': 'duplicate', 'event_date': '2024-07-13'}]), {'first': 'abc123'})
+        sets[0]['start'] = '2024-07-13T01:00:00Z'
+        self.assertEqual(match_performances(sets, pages), {})
+
     def test_program_day_and_documented_overnight_day_are_allowed(self):
         catalog = {'concerts': {'c': {'name': 'Festival', 'date': '2024-07-12', 'end_date': '2024-07-13', 'venue_id': 'v'}},
                    'venues': {'v': {'timezone': 'Europe/Lisbon'}}, 'artists': {'a': {'name': 'Example'}},

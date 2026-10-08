@@ -1,8 +1,7 @@
 import { ConcertEntries } from "../components/ConcertEntries";
-import { ConcertSetlists } from "../components/ConcertSetlists";
+import { ConcertLineup } from "../components/ConcertLineup";
 import { useApp } from "../data/store";
 import type { Concert, EntityKind } from "../data/model";
-import { setLabel } from "../data/schedules";
 import { canonicalId } from "../data/ids";
 import { formatConcertDate } from "../data/time";
 import { ConcertRow } from "../components/ConcertRow";
@@ -31,8 +30,6 @@ export function EntityPage({
   if (kind === "concert") {
     const concert = record as Concert;
     const artist = catalog.artists.find((item) => item.id === concert.artist_id);
-    const schedule = catalog.schedules.find(item => item.id === concert.id);
-    const scheduled = new Set(schedule?.sets.map(set => set.artist_id));
     const venue = catalog.venues.find((item) => item.id === concert.venue_id);
     return (
       <>
@@ -52,50 +49,9 @@ export function EntityPage({
           </div>
         </section>
         <div className="rs-detail-grid">
-          <section className="rs-panel">
-            {!!schedule?.sets.length && <>
-              <h2>Schedule</h2>
-              {schedule.sets.map(set => <p key={set.id}>{setLabel(set, catalog, concert)}</p>)}
-            </>}
-            {!schedule?.sets.length && (artist || concert.supporting_artist_ids.length > 0) && <h2>Lineup</h2>}
-            {artist && !scheduled.has(artist.id) && (
-              <Link className="rs-lineup-item" href={entityPath("artist", artist.id, artist.name)}>
-                <Picture src={artist.image} name={artist.name} />
-                <span>
-                  {artist.name}
-                  <small>Headliner</small>
-                </span>
-              </Link>
-            )}
-            {concert.supporting_artist_ids.filter(id => !scheduled.has(id)).map((artistId) => {
-              const support = catalog.artists.find((item) => item.id === artistId);
-              return support ? (
-                <Link
-                  key={artistId}
-                  className="rs-lineup-item"
-                  href={entityPath("artist", support.id, support.name)}
-                >
-                  <Picture src={support.image} name={support.name} />
-                  <span>
-                    {support.name}
-                    {concert.artist_id && <small>Supporting</small>}
-                  </span>
-                </Link>
-              ) : (
-                <p className="rs-message" key={artistId}>
-                  Supporting artist unavailable ({artistId})
-                </p>
-              );
-            })}
-            {/^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && (
-              <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">
-                Setlist.fm
-              </a>
-            )}
-          </section>
+          <ConcertLineup catalog={catalog} concert={concert} />
           <ConcertEntries catalog={catalog} concert={concert} viewerUid={viewer?.uid} isAdmin={isAdmin} />
         </div>
-        <ConcertSetlists concert={concert} artists={catalog.artists} />
       </>
     );
   }

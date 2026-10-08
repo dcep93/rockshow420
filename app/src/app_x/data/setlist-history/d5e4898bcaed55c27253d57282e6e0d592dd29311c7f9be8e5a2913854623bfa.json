@@ -1,0 +1,60 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Maktub"
+          },
+          {
+            "name": "When My Train Pulls In"
+          },
+          {
+            "name": "Hyperwave"
+          },
+          {
+            "name": "This Is Who We Are"
+          },
+          {
+            "name": "The Healing"
+          },
+          {
+            "name": "Alone Together",
+            "notes": "(with Maurice Brown)"
+          },
+          {
+            "name": "Feed the Babies"
+          },
+          {
+            "name": "What About the Children"
+          },
+          {
+            "name": "Triumph"
+          },
+          {
+            "name": "Please Come Home"
+          },
+          {
+            "name": "Bright Lights",
+            "notes": "(with Jose Rios)"
+          },
+          {
+            "name": "Habits"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Funk Witch U",
+            "notes": "(with Brady Watt)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/gary-clark-jr/2024/radio-city-music-hall-new-york-ny-3ba97ca0.html"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Keep It on Your Mind"
+          },
+          {
+            "name": "East Bay"
+          },
+          {
+            "name": "Broken Arrow"
+          },
+          {
+            "name": "Bet"
+          },
+          {
+            "name": "Trinity"
+          },
+          {
+            "name": "Honiara"
+          },
+          {
+            "name": "Cliroy"
+          },
+          {
+            "name": "RL's"
+          },
+          {
+            "name": "Belmont"
+          },
+          {
+            "name": "Pineapple"
+          },
+          {
+            "name": "Sleeper"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "What About Me?"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/snarky-puppy/2023/beacon-theatre-new-york-ny-5bb8a714.html"
+  }
+]

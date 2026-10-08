@@ -1,0 +1,92 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Iko Iko",
+            "notes": "(Sugar Boy and His Cane Cutters cover)"
+          },
+          {
+            "name": "Alabama Getaway",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Minglewood Blues",
+            "notes": "(Cannon’s Jug Stompers cover)"
+          },
+          {
+            "name": "Brown-Eyed Women",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Cassidy",
+            "notes": "(Bob Weir song)"
+          },
+          {
+            "name": "Ship of Fools",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Let It Grow",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "China Cat Sunflower",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Althea",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Viola Lee Blues",
+            "notes": "(Cannon’s Jug Stompers cover)"
+          },
+          {
+            "name": "I Know You Rider",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "Drums",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Space",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "The Other One",
+            "notes": "(Grateful Dead cover) (verse 2 only)"
+          },
+          {
+            "name": "Days Between",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Casey Jones",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Ripple",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2018/shoreline-amphitheatre-mountain-view-ca-5bea7b1c.html"
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Feel Like a Stranger",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Mississippi Half-Step Uptown Toodeloo",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Loose Lucy",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Cumberland Blues",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Ramble On Rose",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Beat It on Down the Line",
+            "notes": "(Jesse Fuller cover)"
+          },
+          {
+            "name": "Friend of the Devil",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Dancing in the Street",
+            "notes": "(Martha Reeves and the Vandellas cover)"
+          },
+          {
+            "name": "The Golden Road (to Unlimited Devotion)",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Samson and Delilah",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "Playing in the Band",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Iko Iko",
+            "notes": "(Sugar Boy and His Cane Cutters cover)"
+          },
+          {
+            "name": "Truckin'",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Terrapin Station",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Drums",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Space",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "I Need a Miracle",
+            "notes": "(Grateful Dead cover)"
+          },
+          {
+            "name": "Morning Dew",
+            "notes": "(Bonnie Dobson cover)"
+          },
+          {
+            "name": "Playing in the Band",
+            "notes": "(Grateful Dead cover) (Reprise)"
+          },
+          {
+            "name": "Good Lovin'",
+            "notes": "(The Olympics cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "U.S. Blues",
+            "notes": "(Grateful Dead cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/bertha/2025/brooklyn-bowl-brooklyn-ny-b4175c2.html"
+  }
+]

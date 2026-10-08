@@ -1,0 +1,85 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Can't Find My Vape"
+          },
+          {
+            "name": "Comfortable",
+            "notes": "(>)"
+          },
+          {
+            "name": "The Postman"
+          },
+          {
+            "name": "Diana"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Plush",
+            "notes": "(Stone Temple Pilots cover) (>)"
+          },
+          {
+            "name": "Pets",
+            "notes": "(Porno for Pyros cover) (>)"
+          },
+          {
+            "name": "Mad World",
+            "notes": "(Tears for Fears cover) (>)"
+          },
+          {
+            "name": "Anyone",
+            "notes": "(Demi Lovato cover)"
+          },
+          {
+            "name": "Brain Stew",
+            "notes": "(Green Day cover) (>)"
+          },
+          {
+            "name": "Jaded",
+            "notes": "(Green Day cover)"
+          }
+        ]
+      },
+      {
+        "name": "Set 3:",
+        "songs": [
+          {
+            "name": "Smoke Two Joints",
+            "notes": "(The Toyes cover)"
+          },
+          {
+            "name": "Dirtbath"
+          },
+          {
+            "name": "Run Like Hell",
+            "notes": "(Pink Floyd cover) (>)"
+          },
+          {
+            "name": "Cantaloupe Island",
+            "notes": "(Herbie Hancock cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "You Don't Know How It Feels",
+            "notes": "(Tom Petty cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/spafford/2024/brooklyn-bowl-brooklyn-ny-63abf247.html"
+  }
+]

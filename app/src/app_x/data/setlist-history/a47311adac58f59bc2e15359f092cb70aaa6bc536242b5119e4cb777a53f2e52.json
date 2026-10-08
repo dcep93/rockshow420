@@ -1,0 +1,111 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Afraid of the Dark"
+          },
+          {
+            "name": "1 Last Cigarette"
+          },
+          {
+            "name": "Hush Hush"
+          },
+          {
+            "name": "Honest"
+          },
+          {
+            "name": "It’s You (It’s You)"
+          },
+          {
+            "name": "Never A Good Time",
+            "notes": "(NOTD & The Band CAMINO song)"
+          },
+          {
+            "name": "Farsighted"
+          },
+          {
+            "name": "Three Month Hangover"
+          },
+          {
+            "name": "What I Want"
+          },
+          {
+            "name": "Damage"
+          },
+          {
+            "name": "See You Later"
+          }
+        ]
+      },
+      {
+        "name": "Acoustic",
+        "songs": [
+          {
+            "name": "Something to Hold On To"
+          },
+          {
+            "name": "Know It All"
+          },
+          {
+            "name": "Back to December",
+            "notes": "(Taylor Swift cover)"
+          },
+          {
+            "name": "Know Me"
+          },
+          {
+            "name": "The Black and White"
+          }
+        ]
+      },
+      {
+        "name": "Full Band",
+        "songs": [
+          {
+            "name": "2/14"
+          },
+          {
+            "name": "Roses"
+          },
+          {
+            "name": "Song About You"
+          },
+          {
+            "name": "Novocaine"
+          },
+          {
+            "name": "Haunted"
+          },
+          {
+            "name": "Told You So"
+          },
+          {
+            "name": "What Am I Missing?"
+          },
+          {
+            "name": "See Through"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "I Think I Like You"
+          },
+          {
+            "name": "Berenstein"
+          },
+          {
+            "name": "Daphne Blue"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-band-camino/2023/hammerstein-ballroom-new-york-ny-63a24e83.html"
+  }
+]

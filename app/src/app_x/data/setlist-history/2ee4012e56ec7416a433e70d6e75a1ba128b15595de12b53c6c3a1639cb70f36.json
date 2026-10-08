@@ -1,0 +1,177 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "8wpy31",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Sea of Love"
+          },
+          {
+            "name": "Eucalyptus"
+          },
+          {
+            "name": "Tropic Morning News"
+          },
+          {
+            "name": "Don't Swallow the Cap"
+          },
+          {
+            "name": "Bloodbuzz Ohio"
+          },
+          {
+            "name": "The System Only Dreams in Total Darkness"
+          },
+          {
+            "name": "I Need My Girl"
+          },
+          {
+            "name": "Apartment Story"
+          },
+          {
+            "name": "Conversation 16"
+          },
+          {
+            "name": "Abel"
+          },
+          {
+            "name": "Alien"
+          },
+          {
+            "name": "Smoke Detector"
+          },
+          {
+            "name": "Day I Die"
+          },
+          {
+            "name": "Pink Rabbits"
+          },
+          {
+            "name": "Rylan"
+          },
+          {
+            "name": "England"
+          },
+          {
+            "name": "Graceless"
+          },
+          {
+            "name": "Fake Empire"
+          },
+          {
+            "name": "Space Invader"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Weird Goodbyes"
+          },
+          {
+            "name": "Mr. November"
+          },
+          {
+            "name": "Terrible Love"
+          },
+          {
+            "name": "About Today"
+          },
+          {
+            "name": "Vanderlyle Crybaby Geeks",
+            "notes": "(Crowd Singing the whole song)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-national/2024/razzmatazz-barcelona-spain-33a8804d.html"
+  },
+  {
+    "kind": "setlist_fm",
+    "set_id": "gthvxx",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Slippery People",
+            "notes": "(Talking Heads song)",
+            "tape": true
+          },
+          {
+            "name": "Sea of Love"
+          },
+          {
+            "name": "Eucalyptus"
+          },
+          {
+            "name": "Tropic Morning News"
+          },
+          {
+            "name": "Don't Swallow the Cap"
+          },
+          {
+            "name": "Squalor Victoria",
+            "notes": "(Tour Debut)"
+          },
+          {
+            "name": "Bloodbuzz Ohio"
+          },
+          {
+            "name": "The System Only Dreams in Total Darkness"
+          },
+          {
+            "name": "I Need My Girl"
+          },
+          {
+            "name": "Conversation 16"
+          },
+          {
+            "name": "Abel"
+          },
+          {
+            "name": "Alien"
+          },
+          {
+            "name": "Smoke Detector"
+          },
+          {
+            "name": "Day I Die"
+          },
+          {
+            "name": "Rylan"
+          },
+          {
+            "name": "England"
+          },
+          {
+            "name": "Graceless"
+          },
+          {
+            "name": "Fake Empire"
+          },
+          {
+            "name": "Space Invader"
+          },
+          {
+            "name": "Light Years",
+            "notes": "(Tour Debut)"
+          },
+          {
+            "name": "Mr. November",
+            "notes": "(Dedicated to Neal Katyal)"
+          },
+          {
+            "name": "Terrible Love"
+          },
+          {
+            "name": "About Today"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-national/2024/parc-del-forum-barcelona-spain-23a88043.html"
+  }
+]

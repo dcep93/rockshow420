@@ -1,0 +1,86 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "No Drug Like Me"
+          },
+          {
+            "name": "E·MO·TION"
+          },
+          {
+            "name": "Run Away With Me"
+          },
+          {
+            "name": "Julien"
+          },
+          {
+            "name": "Happy Not Knowing"
+          },
+          {
+            "name": "Call Me Maybe"
+          },
+          {
+            "name": "Now That I Found You"
+          },
+          {
+            "name": "Gimmie Love"
+          },
+          {
+            "name": "Feels Right"
+          },
+          {
+            "name": "I'll Be Your Girl"
+          },
+          {
+            "name": "For Sure",
+            "notes": "(extended outro with elements of Julien & Too Much)"
+          },
+          {
+            "name": "Want You in My Room"
+          },
+          {
+            "name": "Store"
+          },
+          {
+            "name": "Too Much"
+          },
+          {
+            "name": "When I Needed You"
+          },
+          {
+            "name": "I Really Like You"
+          },
+          {
+            "name": "Everything He Needs"
+          },
+          {
+            "name": "Boy Problems"
+          },
+          {
+            "name": "Party for One"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "All That"
+          },
+          {
+            "name": "Let's Get Lost"
+          },
+          {
+            "name": "Cut to the Feeling",
+            "notes": "(appearance by dancer Mark Kanemura)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/carly-rae-jepsen/2019/bill-graham-civic-auditorium-san-francisco-ca-1b917940.html"
+  }
+]

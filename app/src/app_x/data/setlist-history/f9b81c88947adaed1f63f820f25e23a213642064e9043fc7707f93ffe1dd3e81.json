@@ -1,0 +1,57 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Sober"
+          },
+          {
+            "name": "The Call of Cthulhu"
+          },
+          {
+            "name": "Il cacciatore della notte"
+          },
+          {
+            "name": "Wall of Love",
+            "notes": "(George Michael cover)"
+          },
+          {
+            "name": "Pasadena 1994"
+          },
+          {
+            "name": "Disco Metal"
+          },
+          {
+            "name": "...And Then I Noticed That She Was a Gargoyle"
+          },
+          {
+            "name": "Norwegian Reggaeton"
+          },
+          {
+            "name": "Afraid to Shoot into the Eyes of a Stranger in a Strange Land"
+          },
+          {
+            "name": "Armpits of Immortals",
+            "notes": "(with Ross the Boss)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Uranus"
+          },
+          {
+            "name": "Valhalleluja",
+            "notes": "(with Tragedy)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/nanowar-of-steel/2024/brooklyn-bowl-brooklyn-ny-6b53d292.html"
+  }
+]

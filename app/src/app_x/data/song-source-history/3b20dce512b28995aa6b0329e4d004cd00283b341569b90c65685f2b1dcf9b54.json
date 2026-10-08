@@ -1,0 +1,30 @@
+{
+  "artist": "Badfish",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Badfish, Grieves",
+      "explicit": true,
+      "name": "F You Pay Me (with Grieves)"
+    },
+    {
+      "artists": "Badfish, Little Stranger",
+      "explicit": true,
+      "name": "High With You (with Little Stranger)"
+    },
+    {
+      "artists": "Badfish, SunDub",
+      "name": "Topanga (with SunDub)"
+    },
+    {
+      "artists": "Badfish, Mihali",
+      "name": "Surf Party Lord (with Mihali)"
+    },
+    {
+      "artists": "Badfish, DJ Hoppa",
+      "explicit": true,
+      "name": "Bad Things (with DJ Hoppa)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1FnkmGqQ51RVxtPF4BE96a"
+}

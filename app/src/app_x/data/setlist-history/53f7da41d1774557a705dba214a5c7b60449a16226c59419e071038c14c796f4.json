@@ -1,0 +1,50 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Setlist incomplete",
+    "set_id": "0nnhuv",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "PARTY WIT U"
+          },
+          {
+            "name": "MR. E"
+          },
+          {
+            "name": "JUMPIN'"
+          },
+          {
+            "name": "BAD BITCHES"
+          },
+          {
+            "name": "P.B.S."
+          },
+          {
+            "name": "FMU!"
+          },
+          {
+            "name": "THE LAST TIME",
+            "notes": "(Restarted due to missing cue)"
+          },
+          {
+            "name": "SAME MISTAKE"
+          },
+          {
+            "name": "IN THE AIR"
+          },
+          {
+            "name": "NERVOUS",
+            "notes": "(Stopped after missing cue)",
+            "tape": true
+          },
+          {
+            "name": "KISSING IN PUBLIC"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/destin-conrad/2026/golden-gate-park-san-francisco-ca-usa-3b49a4dc.html"
+  }
+]

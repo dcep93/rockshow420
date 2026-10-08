@@ -100,6 +100,16 @@ test("malicious writes cannot replace tables, forge changed_id, touch two entrie
   await assertFails(updateDoc(doc(db, "admins/admin"), { enabled: true }));
 });
 
+test("deployment receipts survive admin edits and cannot be changed by clients", async () => {
+  await env.withSecurityRulesDisabled(async context => {
+    await updateDoc(doc(context.firestore(), "tables/concerts"), { applied_revisions: { reviewed: "sha256" } });
+  });
+  await assertSucceeds(change(admin(), "concerts", "concert", { ...show, name: "Edited after import" }));
+  assert.deepEqual((await getDoc(tableRef(admin(), "concerts"))).data()!.applied_revisions, { reviewed: "sha256" });
+  await assertFails(updateDoc(tableRef(admin(), "concerts"), { applied_revisions: {}, changed_id: "concert" }));
+  await assertFails(updateDoc(tableRef(user(), "concerts"), { applied_revisions: {}, changed_id: "concert" }));
+});
+
 test("non-Gmail, unverified and non-Google users cannot write; registry is required for admin", async () => {
   for (const db of [user("owner", "owner@example.com"), user("owner", "owner@gmail.com", false), user("owner", "owner@gmail.com", true, "password")])
     await assertFails(change(db, "user_concerts", "owner_concert", { ...log, notes: "No" }));

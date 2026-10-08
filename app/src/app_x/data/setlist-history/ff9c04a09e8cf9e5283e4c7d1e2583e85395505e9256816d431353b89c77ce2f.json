@@ -1,0 +1,97 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "bg3rny",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Seek & Destroy"
+          },
+          {
+            "name": "Love Galore"
+          },
+          {
+            "name": "Broken Clocks"
+          },
+          {
+            "name": "Forgiveless"
+          },
+          {
+            "name": "Ghost in the Machine"
+          },
+          {
+            "name": "Blind"
+          },
+          {
+            "name": "Shirt"
+          },
+          {
+            "name": "All the Stars",
+            "notes": "(Kendrick Lamar & SZA song)"
+          },
+          {
+            "name": "Garden (Say It Like Dat)"
+          },
+          {
+            "name": "F2F"
+          },
+          {
+            "name": "Drew Barrymore"
+          },
+          {
+            "name": "Low"
+          },
+          {
+            "name": "Supermodel / Special"
+          },
+          {
+            "name": "Open Arms"
+          },
+          {
+            "name": "Nobody Gets Me"
+          },
+          {
+            "name": "Saturn"
+          },
+          {
+            "name": "Normal Girl"
+          },
+          {
+            "name": "Kiss Me More",
+            "notes": "(Doja Cat cover)"
+          },
+          {
+            "name": "Snooze"
+          },
+          {
+            "name": "I Hate U"
+          },
+          {
+            "name": "Kill Bill"
+          },
+          {
+            "name": "The Weekend"
+          },
+          {
+            "name": "Rich Baby Daddy",
+            "notes": "(Drake cover)"
+          },
+          {
+            "name": "Good Days"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "20 Something"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/sza/2024/flushing-meadows-corona-park-queens-ny-usa-5babef94.html"
+  }
+]

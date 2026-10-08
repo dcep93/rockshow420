@@ -1,0 +1,43 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Rave show. Blue Morpho on printed setlist after Alien Metal but not played.",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Sense",
+            "notes": "(>)"
+          },
+          {
+            "name": "Slow Jam 1",
+            "notes": "(->)"
+          },
+          {
+            "name": "Perihelion",
+            "notes": "(->)"
+          },
+          {
+            "name": "Muddy Water"
+          },
+          {
+            "name": "The Bitter Boogie"
+          },
+          {
+            "name": "Level 5",
+            "notes": "(->)"
+          },
+          {
+            "name": "Rapid Alpha Decay",
+            "notes": "(->)"
+          },
+          {
+            "name": "Alien Metal",
+            "notes": "(\"Rapid Alpha Decay\" quotes)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-b4c350a.html"
+  }
+]

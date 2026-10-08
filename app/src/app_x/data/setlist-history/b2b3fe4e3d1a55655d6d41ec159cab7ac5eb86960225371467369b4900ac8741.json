@@ -1,0 +1,82 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Time Will Wait For No One"
+          },
+          {
+            "name": "Just Before the Morning"
+          },
+          {
+            "name": "NYE"
+          },
+          {
+            "name": "Megaton Mile"
+          },
+          {
+            "name": "I Saw You Close Your Eyes"
+          },
+          {
+            "name": "Coins"
+          },
+          {
+            "name": "Paper Lanterns"
+          },
+          {
+            "name": "Airplanes"
+          },
+          {
+            "name": "Breakers"
+          },
+          {
+            "name": "Lemon",
+            "notes": "(with Annika Bennett) (Stopped mid-song to help a fan then restarted 2nd verse)"
+          },
+          {
+            "name": "Ava"
+          },
+          {
+            "name": "You & I"
+          },
+          {
+            "name": "Bowery"
+          },
+          {
+            "name": "Featherweight"
+          },
+          {
+            "name": "Past Lives"
+          },
+          {
+            "name": "Wide Eyes"
+          },
+          {
+            "name": "Dark Days"
+          },
+          {
+            "name": "Who Knows, Who Cares"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Paradise"
+          },
+          {
+            "name": "Sun Hands"
+          },
+          {
+            "name": "When Am I Gonna Lose You"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/local-natives/2023/the-rooftop-at-pier-17-new-york-ny-73a5427d.html"
+  }
+]

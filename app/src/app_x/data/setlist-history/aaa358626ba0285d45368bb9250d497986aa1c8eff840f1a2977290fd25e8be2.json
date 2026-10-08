@@ -1,0 +1,84 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Jaywalking"
+          },
+          {
+            "name": "White Freight Liner Blues",
+            "notes": "(Townes Van Zandt cover)"
+          },
+          {
+            "name": "Room Without a Roof"
+          },
+          {
+            "name": "Better Off"
+          },
+          {
+            "name": "Wish I Didn't Know"
+          },
+          {
+            "name": "Handle With Care",
+            "notes": "(Traveling Wilburys cover)"
+          },
+          {
+            "name": "Reverend"
+          },
+          {
+            "name": "Old Barns"
+          },
+          {
+            "name": "Worried About the Weather"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Past My Prime"
+          },
+          {
+            "name": "Bone Digger",
+            "notes": "(Cris Jacobs cover)"
+          },
+          {
+            "name": "Little Maggie",
+            "notes": "([traditional] cover)"
+          },
+          {
+            "name": "Blood Sucking F(r)iends"
+          },
+          {
+            "name": "All Four"
+          },
+          {
+            "name": "Reasons to Stay"
+          },
+          {
+            "name": "Time / Breathe",
+            "notes": "(Pink Floyd cover)"
+          },
+          {
+            "name": "Grow Together"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "My Love Will Not Change",
+            "notes": "(Shawn Camp cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/greensky-bluegrass/2026/the-rooftop-at-pier-17-new-york-ny-4373e7eb.html"
+  }
+]

@@ -1,10 +1,11 @@
 {
   "counts": {
-    "absent_from_directory": 209,
-    "ambiguous": 69,
-    "cached": 616,
-    "empty_or_parser_review": 354,
-    "excluded_cancelled": 81
+    "absent_from_directory": 216,
+    "ambiguous": 36,
+    "cached": 631,
+    "empty_or_parser_review": 361,
+    "excluded_cancelled": 81,
+    "partial": 6
   },
   "directories": {
     "37a4hj": {
@@ -7316,6 +7317,13 @@
         "venue": "Forest Hills Stadium, Queens, NY, USA"
       }
     },
+    "https://www.setlist.fm/setlist/ginger-root/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e7.html": {
+      "identity": {
+        "artist": "Ginger Root",
+        "event_date": "2024-05-12",
+        "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+      }
+    },
     "https://www.setlist.fm/setlist/givon/2021/grant-park-chicago-il-usa-38f2127.html": {
       "identity": {
         "artist": "GIVĒON",
@@ -7615,6 +7623,13 @@
         "artist": "Hot Flash Heat Wave",
         "event_date": "2018-08-12",
         "venue": "Golden Gate Park, San Francisco, CA, USA"
+      }
+    },
+    "https://www.setlist.fm/setlist/hot-flash-heat-wave/2019/br-cohn-winery-glen-ellen-ca-usa-1b9c0560.html": {
+      "identity": {
+        "artist": "Hot Flash Heat Wave",
+        "event_date": "2019-09-22",
+        "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
       }
     },
     "https://www.setlist.fm/setlist/hotline-tnt/2024/flushing-meadows-corona-park-queens-ny-usa-1356e901.html": {
@@ -12316,11 +12331,14 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/070-shake/2024/parc-del-forum-barcelona-spain-4ba973fe.html"
+      ],
       "key": "070-shake:3s9mjj",
       "matched_urls": [
         "https://www.setlist.fm/setlist/070-shake/2024/parc-del-forum-barcelona-spain-4ba973fe.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -12339,7 +12357,8 @@
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "Europe/Madrid"
     },
     "1-800-girls:xuwdm1": {
       "artist": "1-800 GIRLS",
@@ -13509,9 +13528,12 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/alleycvt/2026/golden-gate-park-san-francisco-ca-usa-2349a47b.html"
+      ],
       "key": "alleycvt:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -13532,7 +13554,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "ally-evenson:xuwdm1": {
       "artist": "Ally Evenson",
@@ -13680,9 +13703,8 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "alphabet-rockers:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -13703,7 +13725,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "America/Chicago"
     },
     "altin-gun:brv1d9": {
       "artist": "Altin Gün",
@@ -13811,12 +13834,16 @@
       "end_date": "2021-08-01",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-53b1a761.html",
+        "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-238f244f.html"
+      ],
       "key": "aly-aj:yyea3y",
       "matched_urls": [
         "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-53b1a761.html",
         "https://www.setlist.fm/setlist/aly-and-aj/2021/grant-park-chicago-il-usa-238f244f.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -13829,7 +13856,8 @@
         }
       ],
       "start_date": "2021-07-29",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "amaarae:3s9mjj": {
       "artist": "Amaarae",
@@ -13999,31 +14027,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "american-football:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/american-football/2024/parc-del-forum-barcelona-spain-6ba8de4e.html",
-        "https://www.setlist.fm/setlist/american-football/2024/parallel-62-barcelona-spain-43a8ebbb.html"
+      "performances": [
+        {
+          "set_id": "7v042j",
+          "url": "https://www.setlist.fm/setlist/american-football/2024/parc-del-forum-barcelona-spain-6ba8de4e.html"
+        },
+        {
+          "set_id": "2k6cms",
+          "url": "https://www.setlist.fm/setlist/american-football/2024/parallel-62-barcelona-spain-43a8ebbb.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "american-football",
-          "day": "2024-06-01",
-          "set_id": "7v042j",
-          "stage": "Cupra",
-          "start": "2024-06-01T23:00:00+02:00"
-        },
         {
           "artist_id": "american-football",
           "day": "2024-06-02",
           "set_id": "2k6cms",
           "stage": "Paral·lel 62",
           "start": "2024-06-02T23:35:00+02:00"
+        },
+        {
+          "artist_id": "american-football",
+          "day": "2024-06-01",
+          "set_id": "7v042j",
+          "stage": "Cupra",
+          "start": "2024-06-01T23:00:00+02:00"
         }
       ],
+      "songs": 21,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "amo-amo:brv1d9": {
       "artist": "Amo Amo",
@@ -14667,12 +14703,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "arca:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/arca/2024/parc-del-forum-barcelona-spain-13ab794d.html",
-        "https://www.setlist.fm/setlist/arca/2024/parc-del-forum-barcelona-spain-ba9095e.html"
+      "performances": [
+        {
+          "set_id": "zg5ifk",
+          "url": "https://www.setlist.fm/setlist/arca/2024/parc-del-forum-barcelona-spain-13ab794d.html"
+        },
+        {
+          "set_id": "gafer5",
+          "url": "https://www.setlist.fm/setlist/arca/2024/parc-del-forum-barcelona-spain-ba9095e.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -14689,8 +14731,10 @@
           "stage": "Amazon Music"
         }
       ],
+      "songs": 20,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "arcy-drive:cy53a8": {
       "artist": "Arcy Drive",
@@ -14943,30 +14987,35 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "armand-hammer:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/armand-hammer/2024/sala-apolo-barcelona-spain-53a8eb25.html"
+      "performances": [
+        {
+          "set_id": "1xhg1h",
+          "url": "https://www.setlist.fm/setlist/armand-hammer/2024/sala-apolo-barcelona-spain-53a8eb25.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "armand-hammer",
-          "day": "2024-05-31",
-          "set_id": "v8k4sh",
-          "stage": "Boiler Room x Cupra",
-          "start": "2024-05-31T19:00:00+02:00"
-        },
         {
           "artist_id": "armand-hammer",
           "day": "2024-05-28",
           "set_id": "1xhg1h",
           "stage": "La [2] de Apolo",
           "start": "2024-05-28T22:40:00+02:00"
+        },
+        {
+          "artist_id": "armand-hammer",
+          "day": "2024-05-31",
+          "set_id": "v8k4sh",
+          "stage": "Boiler Room x Cupra",
+          "start": "2024-05-31T19:00:00+02:00"
         }
       ],
+      "songs": 18,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "Europe/Madrid"
     },
     "armnhmr:ub5qri": {
       "artist": "ARMNHMR",
@@ -15464,9 +15513,12 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/bad-juuju/2026/golden-gate-park-san-francisco-ca-usa-2349a4ff.html"
+      ],
       "key": "bad-juuju:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -15487,7 +15539,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "bad-neighbors:ub5qri": {
       "artist": "Bad Neighbors",
@@ -15724,30 +15777,35 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "balming-tiger:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/balming-tiger/2024/parc-del-forum-barcelona-spain-53a97349.html"
+      "performances": [
+        {
+          "set_id": "sx9i9i",
+          "url": "https://www.setlist.fm/setlist/balming-tiger/2024/parc-del-forum-barcelona-spain-53a97349.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "balming-tiger",
-          "day": "2024-05-30",
-          "set_id": "sx9i9i",
-          "stage": "Pull&Bear",
-          "start": "2024-05-30T18:50:00+02:00"
-        },
         {
           "artist_id": "balming-tiger",
           "day": "2024-05-28",
           "set_id": "dcksk5",
           "stage": "Paral·lel 62",
           "start": "2024-05-28T19:50:00+02:00"
+        },
+        {
+          "artist_id": "balming-tiger",
+          "day": "2024-05-30",
+          "set_id": "sx9i9i",
+          "stage": "Pull&Bear",
+          "start": "2024-05-30T18:50:00+02:00"
         }
       ],
+      "songs": 13,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "Europe/Madrid"
     },
     "balu-brigada:xuwdm1": {
       "artist": "Balu Brigada",
@@ -15863,21 +15921,17 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/bandalos-chinos/2026/golden-gate-park-san-francisco-ca-usa-2349a407.html",
+        "https://www.setlist.fm/setlist/bandalos-chinos/2026/golden-gate-park-san-francisco-ca-usa-137181cd.html"
+      ],
       "key": "bandalos-chinos:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/bandalos-chinos/2026/golden-gate-park-san-francisco-ca-usa-2349a407.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "bandalos-chinos",
-          "day": "2026-08-08",
-          "end": "2026-08-08T12:55:00-07:00",
-          "set_id": "f4tnny",
-          "stage": "Lands End",
-          "start": "2026-08-08T12:10:00-07:00"
-        },
         {
           "artist_id": "bandalos-chinos",
           "day": "2026-08-08",
@@ -15885,10 +15939,19 @@
           "set_id": "a7nd8f",
           "stage": "Duboce Triangle",
           "start": "2026-08-08T14:10:00-07:00"
+        },
+        {
+          "artist_id": "bandalos-chinos",
+          "day": "2026-08-08",
+          "end": "2026-08-08T12:55:00-07:00",
+          "set_id": "f4tnny",
+          "stage": "Lands End",
+          "start": "2026-08-08T12:10:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "bapari:3s9mjj": {
       "artist": "Bapari",
@@ -15962,11 +16025,14 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/bb-trickz/2024/parc-del-forum-barcelona-spain-53a97335.html"
+      ],
       "key": "bb-trickz:3s9mjj",
       "matched_urls": [
         "https://www.setlist.fm/setlist/bb-trickz/2024/parc-del-forum-barcelona-spain-53a97335.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -15985,7 +16051,8 @@
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "Europe/Madrid"
     },
     "bea-miller:brv1d9": {
       "artist": "Bea Miller",
@@ -16365,9 +16432,12 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/benson/2023/grant-park-chicago-il-usa-63a40e53.html"
+      ],
       "key": "benson:ub5qri",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -16388,7 +16458,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "berlioz:7zj1wf": {
       "artist": "Berlioz",
@@ -17044,8 +17115,6 @@
       "excluded": false,
       "festival": "Outside Lands",
       "key": "bingo-loco:xuwdm1",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -17068,7 +17137,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "America/Los_Angeles"
     },
     "black-joe-lewis-the-honeybears:c26k26": {
       "artist": "Black Joe Lewis & the Honeybears",
@@ -17837,25 +17907,24 @@
       "excluded": false,
       "festival": "Outside Lands",
       "key": "bootie-mashup:xuwdm1",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "bootie-mashup",
-          "day": "2026-08-07",
-          "set_id": "f9hv6e",
-          "stage": "Cocktail Magic"
-        },
         {
           "artist_id": "bootie-mashup",
           "day": "2026-08-08",
           "set_id": "f1kp49",
           "stage": "Cocktail Magic"
+        },
+        {
+          "artist_id": "bootie-mashup",
+          "day": "2026-08-07",
+          "set_id": "f9hv6e",
+          "stage": "Cocktail Magic"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "America/Los_Angeles"
     },
     "boris-brejcha:xuwdm1": {
       "artist": "Boris Brejcha",
@@ -18972,9 +19041,12 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/carola/2023/grant-park-chicago-il-usa-5ba40f98.html"
+      ],
       "key": "carola:ub5qri",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -18995,7 +19067,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "cash-cash:yyea3y": {
       "artist": "Cash Cash",
@@ -19484,19 +19557,14 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/chezile/2026/golden-gate-park-san-francisco-ca-usa-2b49a452.html"
+      ],
       "key": "chezile:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "chezile",
-          "day": "2026-08-07",
-          "end": "2026-08-07T14:00:00-07:00",
-          "set_id": "u5752q",
-          "stage": "Panhandle",
-          "start": "2026-08-07T13:20:00-07:00"
-        },
         {
           "artist_id": "chezile",
           "day": "2026-08-07",
@@ -19504,10 +19572,19 @@
           "set_id": "olk5o2",
           "stage": "Duboce Triangle",
           "start": "2026-08-07T15:25:00-07:00"
+        },
+        {
+          "artist_id": "chezile",
+          "day": "2026-08-07",
+          "end": "2026-08-07T14:00:00-07:00",
+          "set_id": "u5752q",
+          "stage": "Panhandle",
+          "start": "2026-08-07T13:20:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "chica-gang:3s9mjj": {
       "artist": "CHICA Gang",
@@ -19705,9 +19782,8 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "chloe-caillet:3s9mjj",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -19726,7 +19802,8 @@
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "Europe/Madrid"
     },
     "choir-boy:fuaiif": {
       "artist": "Choir Boy",
@@ -20601,31 +20678,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "crumb:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/crumb/2024/parc-del-forum-barcelona-spain-b563986.html",
-        "https://www.setlist.fm/setlist/crumb/2024/sala-apolo-barcelona-spain-4ba8ebd6.html"
+      "performances": [
+        {
+          "set_id": "wuuptu",
+          "url": "https://www.setlist.fm/setlist/crumb/2024/parc-del-forum-barcelona-spain-b563986.html"
+        },
+        {
+          "set_id": "j98rig",
+          "url": "https://www.setlist.fm/setlist/crumb/2024/sala-apolo-barcelona-spain-4ba8ebd6.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "crumb",
-          "day": "2024-06-01",
-          "set_id": "wuuptu",
-          "stage": "Plenitude",
-          "start": "2024-06-01T19:45:00+02:00"
-        },
         {
           "artist_id": "crumb",
           "day": "2024-06-02",
           "set_id": "j98rig",
           "stage": "La [2] de Apolo",
           "start": "2024-06-02T21:30:00+02:00"
+        },
+        {
+          "artist_id": "crumb",
+          "day": "2024-06-01",
+          "set_id": "wuuptu",
+          "stage": "Plenitude",
+          "start": "2024-06-01T19:45:00+02:00"
         }
       ],
+      "songs": 25,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "cruz-beckham:xuwdm1": {
       "artist": "Cruz Beckham",
@@ -21135,9 +21220,12 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/day-we-ran/2026/golden-gate-park-san-francisco-ca-usa-3b49a4b4.html"
+      ],
       "key": "day-we-ran:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -21158,7 +21246,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "dayglow:fuaiif": {
       "artist": "Dayglow",
@@ -21358,22 +21447,18 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-2b707462.html",
+        "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-3349a4e1.html"
+      ],
       "key": "death-cab-for-cutie:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-2b707462.html",
         "https://www.setlist.fm/setlist/death-cab-for-cutie/2026/golden-gate-park-san-francisco-ca-usa-3349a4e1.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "death-cab-for-cutie",
-          "day": "2026-08-09",
-          "end": "2026-08-09T13:30:00-07:00",
-          "set_id": "q97uql",
-          "stage": "Sutro",
-          "start": "2026-08-09T12:40:00-07:00"
-        },
         {
           "artist_id": "death-cab-for-cutie",
           "day": "2026-08-09",
@@ -21381,10 +21466,19 @@
           "set_id": "6c9iap",
           "stage": "Sutro",
           "start": "2026-08-09T20:25:00-07:00"
+        },
+        {
+          "artist_id": "death-cab-for-cutie",
+          "day": "2026-08-09",
+          "end": "2026-08-09T13:30:00-07:00",
+          "set_id": "q97uql",
+          "stage": "Sutro",
+          "start": "2026-08-09T12:40:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "declan-mckenna:ub5qri": {
       "artist": "Declan McKenna",
@@ -22311,19 +22405,10 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "divinity-roxx:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "divinity-roxx",
-          "day": "2023-08-03",
-          "end": "2023-08-03T17:45:00-05:00",
-          "set_id": "w96p68",
-          "stage": "Kidzapalooza",
-          "start": "2023-08-03T17:15:00-05:00"
-        },
         {
           "artist_id": "divinity-roxx",
           "day": "2023-08-04",
@@ -22331,10 +22416,19 @@
           "set_id": "r0n9ph",
           "stage": "Kidzapalooza",
           "start": "2023-08-04T12:00:00-05:00"
+        },
+        {
+          "artist_id": "divinity-roxx",
+          "day": "2023-08-03",
+          "end": "2023-08-03T17:45:00-05:00",
+          "set_id": "w96p68",
+          "stage": "Kidzapalooza",
+          "start": "2023-08-03T17:15:00-05:00"
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "America/Chicago"
     },
     "dj-dolomedes:xuwdm1": {
       "artist": "DJ Dolomedes",
@@ -23292,12 +23386,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "dorian-electra:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/dorian-electra/2024/parc-del-forum-barcelona-spain-5ba973f0.html",
-        "https://www.setlist.fm/setlist/dorian-electra/2024/sala-apolo-barcelona-spain-43a8ebcf.html"
+      "performances": [
+        {
+          "set_id": "i561vj",
+          "url": "https://www.setlist.fm/setlist/dorian-electra/2024/parc-del-forum-barcelona-spain-5ba973f0.html"
+        },
+        {
+          "set_id": "ozks03",
+          "url": "https://www.setlist.fm/setlist/dorian-electra/2024/sala-apolo-barcelona-spain-43a8ebcf.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -23315,8 +23415,10 @@
           "start": "2024-06-02T23:45:00+02:00"
         }
       ],
+      "songs": 42,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "dpr-ian-dpr-live:ub5qri": {
       "artist": "DPR IAN & DPR LIVE",
@@ -23922,12 +24024,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "el-mato-a-un-policia-motorizado:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parallel-62-barcelona-spain-53a8eb61.html",
-        "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parc-del-forum-barcelona-spain-3bab6064.html"
+      "performances": [
+        {
+          "set_id": "4r7bqx",
+          "url": "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parallel-62-barcelona-spain-53a8eb61.html"
+        },
+        {
+          "set_id": "4plera",
+          "url": "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parc-del-forum-barcelona-spain-3bab6064.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -23945,8 +24053,10 @@
           "start": "2024-05-27T21:50:00+02:00"
         }
       ],
+      "songs": 24,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "elaine-robin:xuwdm1": {
       "artist": "Elaine & Robin",
@@ -24057,9 +24167,8 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "elena-moon-park:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -24080,7 +24189,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "America/Chicago"
     },
     "elephant-heart:yyea3y": {
       "artist": "Elephant Heart",
@@ -25778,22 +25888,18 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-6b71bece.html",
+        "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-2b49a4d6.html"
+      ],
       "key": "frost-children:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-6b71bece.html",
         "https://www.setlist.fm/setlist/frost-children/2026/golden-gate-park-san-francisco-ca-usa-2b49a4d6.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "frost-children",
-          "day": "2026-08-09",
-          "end": "2026-08-09T20:35:00-07:00",
-          "set_id": "3uz6g0",
-          "stage": "Panhandle",
-          "start": "2026-08-09T19:50:00-07:00"
-        },
         {
           "artist_id": "frost-children",
           "day": "2026-08-09",
@@ -25801,10 +25907,19 @@
           "set_id": "1dd2hs",
           "stage": "Duboce Triangle",
           "start": "2026-08-09T16:45:00-07:00"
+        },
+        {
+          "artist_id": "frost-children",
+          "day": "2026-08-09",
+          "end": "2026-08-09T20:35:00-07:00",
+          "set_id": "3uz6g0",
+          "stage": "Panhandle",
+          "start": "2026-08-09T19:50:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "full-moonalice:c26k26": {
       "artist": "Full Moonalice",
@@ -26285,6 +26400,43 @@
       "source_url": "https://www.setlist.fm/setlist/gigi-perez/2025/forest-hills-stadium-queens-ny-usa-2b4264e2.html",
       "start_date": "2025-09-26",
       "status": "cached"
+    },
+    "ginger-root:fuaiif": {
+      "artist": "Ginger Root",
+      "artist_id": "ginger-root",
+      "candidate_urls": [
+        "https://www.setlist.fm/setlist/ginger-root/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e7.html"
+      ],
+      "concert_id": "fuaiif",
+      "dates": [
+        "2024-05-12"
+      ],
+      "directory_url": "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+      "end_date": "2024-05-12",
+      "excluded": false,
+      "festival": "Kilby Block Party",
+      "held_urls": [],
+      "key": "ginger-root:fuaiif",
+      "performances": [
+        {
+          "set_id": "6w143h",
+          "url": "https://www.setlist.fm/setlist/ginger-root/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e7.html"
+        }
+      ],
+      "repeated": false,
+      "sets": [
+        {
+          "artist_id": "ginger-root",
+          "day": "2024-05-12",
+          "set_id": "6w143h",
+          "stage": "Desert Stage",
+          "start": "2024-05-12T19:30:00-06:00"
+        }
+      ],
+      "songs": 8,
+      "start_date": "2024-05-10",
+      "status": "cached",
+      "timezone": "America/Denver"
     },
     "giveon:yyea3y": {
       "artist": "Giveon",
@@ -27881,6 +28033,40 @@
       "start_date": "2024-05-10",
       "status": "cached"
     },
+    "hot-flash-heat-wave:81bzyp": {
+      "artist": "Hot Flash Heat Wave",
+      "artist_id": "hot-flash-heat-wave",
+      "candidate_urls": [
+        "https://www.setlist.fm/setlist/hot-flash-heat-wave/2019/br-cohn-winery-glen-ellen-ca-usa-1b9c0560.html"
+      ],
+      "concert_id": "81bzyp",
+      "dates": [
+        "2019-09-22"
+      ],
+      "directory_url": "https://www.setlist.fm/festival/2019/sonoma-harvest-music-festival-2019-weekend-2-6bd71a46.html",
+      "empty_or_parser_review": [
+        {
+          "reason": "No reported songs; retain previous data and review this page",
+          "url": "https://www.setlist.fm/setlist/hot-flash-heat-wave/2019/br-cohn-winery-glen-ellen-ca-usa-1b9c0560.html"
+        }
+      ],
+      "end_date": "2019-09-22",
+      "excluded": false,
+      "festival": "Sonoma Harvest Music Festival",
+      "held_urls": [],
+      "key": "hot-flash-heat-wave:81bzyp",
+      "repeated": false,
+      "sets": [
+        {
+          "artist_id": "hot-flash-heat-wave",
+          "day": "2019-09-22",
+          "set_id": "1p0prs"
+        }
+      ],
+      "start_date": "2019-09-21",
+      "status": "empty_or_parser_review",
+      "timezone": "America/Los_Angeles"
+    },
     "hot-flash-heat-wave:8nhjof": {
       "artist": "Hot Flash Heat Wave",
       "artist_id": "hot-flash-heat-wave",
@@ -28170,18 +28356,8 @@
       "excluded": false,
       "festival": "Lollapalooza",
       "key": "ian-asher:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "ian-asher",
-          "day": "2023-08-06",
-          "end": "2023-08-06T20:30:00-05:00",
-          "set_id": "a8xo06",
-          "stage": "Tito's Handmade Vodka",
-          "start": "2023-08-06T19:45:00-05:00"
-        },
         {
           "artist_id": "ian-asher",
           "day": "2023-08-06",
@@ -28189,10 +28365,19 @@
           "set_id": "0mprqr",
           "stage": "Perry's",
           "start": "2023-08-06T12:00:00-05:00"
+        },
+        {
+          "artist_id": "ian-asher",
+          "day": "2023-08-06",
+          "end": "2023-08-06T20:30:00-05:00",
+          "set_id": "a8xo06",
+          "stage": "Tito's Handmade Vodka",
+          "start": "2023-08-06T19:45:00-05:00"
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "America/Chicago"
     },
     "iann-dior:yyea3y": {
       "artist": "Iann Dior",
@@ -28389,19 +28574,10 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "imagination-movers:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "imagination-movers",
-          "day": "2023-08-05",
-          "end": "2023-08-05T15:30:00-05:00",
-          "set_id": "rk11tq",
-          "stage": "Kidzapalooza",
-          "start": "2023-08-05T15:00:00-05:00"
-        },
         {
           "artist_id": "imagination-movers",
           "day": "2023-08-06",
@@ -28409,10 +28585,19 @@
           "set_id": "8ctt7w",
           "stage": "Kidzapalooza",
           "start": "2023-08-06T13:30:00-05:00"
+        },
+        {
+          "artist_id": "imagination-movers",
+          "day": "2023-08-05",
+          "end": "2023-08-05T15:30:00-05:00",
+          "set_id": "rk11tq",
+          "stage": "Kidzapalooza",
+          "start": "2023-08-05T15:00:00-05:00"
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "America/Chicago"
     },
     "in-the-valley-below:c26k26": {
       "artist": "In the Valley Below",
@@ -29534,11 +29719,15 @@
       "end_date": "2021-08-01",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-5b8afb28.html",
+        "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-238f1c9b.html"
+      ],
       "key": "jessia:yyea3y",
       "matched_urls": [
         "https://www.setlist.fm/setlist/jessia/2021/grant-park-chicago-il-usa-5b8afb28.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -29551,7 +29740,8 @@
         }
       ],
       "start_date": "2021-07-29",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "jessica-pratt:3s9mjj": {
       "artist": "Jessica Pratt",
@@ -32413,19 +32603,14 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/aszewo/2026/golden-gate-park-san-francisco-ca-usa-3b49a414.html"
+      ],
       "key": "laszewo:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "laszewo",
-          "day": "2026-08-08",
-          "end": "2026-08-08T16:00:00-07:00",
-          "set_id": "x23o59",
-          "stage": "Twin Peaks",
-          "start": "2026-08-08T15:10:00-07:00"
-        },
         {
           "artist_id": "laszewo",
           "day": "2026-08-08",
@@ -32433,10 +32618,19 @@
           "set_id": "llvjnw",
           "stage": "Duboce Triangle",
           "start": "2026-08-08T18:20:00-07:00"
+        },
+        {
+          "artist_id": "laszewo",
+          "day": "2026-08-08",
+          "end": "2026-08-08T16:00:00-07:00",
+          "set_id": "x23o59",
+          "stage": "Twin Peaks",
+          "start": "2026-08-08T15:10:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "late-night-drive-home:fuaiif": {
       "artist": "late night drive home",
@@ -32641,12 +32835,16 @@
       "end_date": "2021-09-05",
       "excluded": false,
       "festival": "BottleRock Napa Valley",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/lawrence/2021/napa-valley-expo-napa-ca-usa-738cceed.html",
+        "https://www.setlist.fm/setlist/lawrence/2021/napa-valley-expo-napa-ca-usa-3bbe086c.html"
+      ],
       "key": "lawrence:c26k26",
       "matched_urls": [
         "https://www.setlist.fm/setlist/lawrence/2021/napa-valley-expo-napa-ca-usa-738cceed.html",
         "https://www.setlist.fm/setlist/lawrence/2021/napa-valley-expo-napa-ca-usa-3bbe086c.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -32656,7 +32854,8 @@
         }
       ],
       "start_date": "2021-09-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "lcd-soundsystem:fuaiif": {
       "artist": "LCD Soundsystem",
@@ -33777,12 +33976,16 @@
       "end_date": "2018-08-12",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-3be88c5c.html",
+        "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-4be8bf12.html"
+      ],
       "key": "lucy-dacus:8nhjof",
       "matched_urls": [
         "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-3be88c5c.html",
         "https://www.setlist.fm/setlist/lucy-dacus/2018/golden-gate-park-san-francisco-ca-usa-4be8bf12.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -33793,7 +33996,8 @@
         }
       ],
       "start_date": "2018-08-10",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "lucy-dacus:xuwdm1": {
       "artist": "Lucy Dacus",
@@ -33894,19 +34098,14 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/luke-alessi/2026/golden-gate-park-san-francisco-ca-usa-3b49a450.html"
+      ],
       "key": "luke-alessi:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "luke-alessi",
-          "day": "2026-08-07",
-          "end": "2026-08-07T14:25:00-07:00",
-          "set_id": "hf0ydh",
-          "stage": "SOMA",
-          "start": "2026-08-07T12:55:00-07:00"
-        },
         {
           "artist_id": "luke-alessi",
           "day": "2026-08-07",
@@ -33914,10 +34113,19 @@
           "set_id": "2nt1mo",
           "stage": "Duboce Triangle",
           "start": "2026-08-07T16:45:00-07:00"
+        },
+        {
+          "artist_id": "luke-alessi",
+          "day": "2026-08-07",
+          "end": "2026-08-07T14:25:00-07:00",
+          "set_id": "hf0ydh",
+          "stage": "SOMA",
+          "start": "2026-08-07T12:55:00-07:00"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "luna-li:fuaiif": {
       "artist": "Luna Li",
@@ -34117,12 +34325,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "mabel:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/mabel/2024/laut-barcelona-spain-3b5698b0.html",
-        "https://www.setlist.fm/setlist/mabel/2024/parc-del-forum-barcelona-spain-3a9718b.html"
+      "performances": [
+        {
+          "set_id": "v56u1w",
+          "url": "https://www.setlist.fm/setlist/mabel/2024/laut-barcelona-spain-3b5698b0.html"
+        },
+        {
+          "set_id": "eiqezz",
+          "url": "https://www.setlist.fm/setlist/mabel/2024/parc-del-forum-barcelona-spain-3a9718b.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -34140,8 +34354,10 @@
           "start": "2024-05-29T22:00:00+02:00"
         }
       ],
+      "songs": 24,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "mac-demarco:8nhjof": {
       "artist": "Mac DeMarco",
@@ -34529,31 +34745,36 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/parc-del-forum-barcelona-spain-3ba824a4.html",
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html"
+      ],
       "key": "mandy-indiana:3s9mjj",
       "matched_urls": [
         "https://www.setlist.fm/setlist/mandy-indiana/2024/parc-del-forum-barcelona-spain-3ba824a4.html",
         "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "mandy-indiana",
-          "day": "2024-06-01",
-          "set_id": "ugtjxs",
-          "stage": "Plenitude",
-          "start": "2024-06-02T00:10:00+02:00"
-        },
         {
           "artist_id": "mandy-indiana",
           "day": "2024-06-02",
           "set_id": "pb9y90",
           "stage": "Sala Apolo",
           "start": "2024-06-02T20:40:00+02:00"
+        },
+        {
+          "artist_id": "mandy-indiana",
+          "day": "2024-06-01",
+          "set_id": "ugtjxs",
+          "stage": "Plenitude",
+          "start": "2024-06-02T00:10:00+02:00"
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "Europe/Madrid"
     },
     "mannequin-pussy:3s9mjj": {
       "artist": "Mannequin Pussy",
@@ -34779,11 +35000,14 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "maria-hein:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/maria-hein/2024/parc-del-forum-barcelona-spain-4ba97356.html"
+      "performances": [
+        {
+          "set_id": "hmkck7",
+          "url": "https://www.setlist.fm/setlist/maria-hein/2024/parc-del-forum-barcelona-spain-4ba97356.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -34801,8 +35025,10 @@
           "start": "2024-05-31T18:00:00+02:00"
         }
       ],
+      "songs": 15,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "Europe/Madrid"
     },
     "maria-jaume:3s9mjj": {
       "artist": "Maria Jaume",
@@ -35043,11 +35269,15 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/marlon-funaki/2026/golden-gate-park-san-francisco-ca-usa-2b49a4a6.html",
+        "https://www.setlist.fm/setlist/marlon-funaki/2026/golden-gate-park-san-francisco-ca-usa-6371a6cf.html"
+      ],
       "key": "marlon-funaki:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/marlon-funaki/2026/golden-gate-park-san-francisco-ca-usa-2b49a4a6.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -35068,7 +35298,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "marshmello:yyea3y": {
       "artist": "Marshmello",
@@ -35344,12 +35575,16 @@
       "end_date": "2021-09-05",
       "excluded": false,
       "festival": "BottleRock Napa Valley",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/matt-nathanson/2021/napa-valley-expo-napa-ca-usa-4b8cc73e.html",
+        "https://www.setlist.fm/setlist/matt-nathanson/2021/napa-valley-expo-napa-ca-usa-63b2ce0b.html"
+      ],
       "key": "matt-nathanson:c26k26",
       "matched_urls": [
         "https://www.setlist.fm/setlist/matt-nathanson/2021/napa-valley-expo-napa-ca-usa-4b8cc73e.html",
         "https://www.setlist.fm/setlist/matt-nathanson/2021/napa-valley-expo-napa-ca-usa-63b2ce0b.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -35359,7 +35594,8 @@
         }
       ],
       "start_date": "2021-09-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "matt-nathanson:hwtzpg": {
       "artist": "Matt Nathanson",
@@ -35953,11 +36189,15 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/michelle/2023/grant-park-chicago-il-usa-3ba4000c.html",
+        "https://www.setlist.fm/setlist/michelle/2023/grant-park-chicago-il-usa-1ba55154.html"
+      ],
       "key": "michelle:ub5qri",
       "matched_urls": [
         "https://www.setlist.fm/setlist/michelle/2023/grant-park-chicago-il-usa-3ba4000c.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -35970,7 +36210,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "michigander:yyea3y": {
       "artist": "Michigander",
@@ -36191,32 +36432,38 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
-      "key": "militarie-gun:3s9mjj",
-      "matched_urls": [
+      "held_urls": [
         "https://www.setlist.fm/setlist/militarie-gun/2024/parc-del-forum-barcelona-spain-33a824b5.html",
-        "https://www.setlist.fm/setlist/militarie-gun/2024/parc-del-forum-barcelona-spain-b563176.html",
-        "https://www.setlist.fm/setlist/militarie-gun/2024/parallel-62-barcelona-spain-5ba8ebc4.html"
+        "https://www.setlist.fm/setlist/militarie-gun/2024/parc-del-forum-barcelona-spain-b563176.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "key": "militarie-gun:3s9mjj",
+      "performances": [
+        {
+          "set_id": "0tmu7q",
+          "url": "https://www.setlist.fm/setlist/militarie-gun/2024/parallel-62-barcelona-spain-5ba8ebc4.html"
+        }
+      ],
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "militarie-gun",
-          "day": "2024-06-01",
-          "set_id": "4acjpl",
-          "stage": "Pull&Bear",
-          "start": "2024-06-01T18:50:00+02:00"
-        },
         {
           "artist_id": "militarie-gun",
           "day": "2024-06-02",
           "set_id": "0tmu7q",
           "stage": "Paral·lel 62",
           "start": "2024-06-02T22:05:00+02:00"
+        },
+        {
+          "artist_id": "militarie-gun",
+          "day": "2024-06-01",
+          "set_id": "4acjpl",
+          "stage": "Pull&Bear",
+          "start": "2024-06-01T18:50:00+02:00"
         }
       ],
+      "songs": 17,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "Europe/Madrid"
     },
     "militarie-gun:7zj1wf": {
       "artist": "Militarie Gun",
@@ -36674,12 +36921,16 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/modelactriz/2024/parc-del-forum-barcelona-spain-23a824ab.html",
+        "https://www.setlist.fm/setlist/modelactriz/2024/sala-apolo-barcelona-spain-4ba8ebb2.html"
+      ],
       "key": "model-actriz:3s9mjj",
       "matched_urls": [
         "https://www.setlist.fm/setlist/modelactriz/2024/parc-del-forum-barcelona-spain-23a824ab.html",
         "https://www.setlist.fm/setlist/modelactriz/2024/sala-apolo-barcelona-spain-4ba8ebb2.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -36697,7 +36948,8 @@
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "Europe/Madrid"
     },
     "model-actriz:fuaiif": {
       "artist": "Model/Actriz",
@@ -36903,11 +37155,15 @@
       "end_date": "2021-09-05",
       "excluded": false,
       "festival": "BottleRock Napa Valley",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/mondo-cozmo/2021/napa-valley-expo-napa-ca-usa-4b8cc732.html",
+        "https://www.setlist.fm/setlist/mondo-cozmo/2021/napa-valley-expo-napa-ca-usa-2b8c50ba.html"
+      ],
       "key": "mondo-cozmo:c26k26",
       "matched_urls": [
         "https://www.setlist.fm/setlist/mondo-cozmo/2021/napa-valley-expo-napa-ca-usa-4b8cc732.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -36917,7 +37173,8 @@
         }
       ],
       "start_date": "2021-09-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "monolake:3s9mjj": {
       "artist": "Monolake",
@@ -37742,11 +37999,14 @@
       "end_date": "2021-08-01",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/mxmtoon/2021/grant-park-chicago-il-usa-b8f15be.html"
+      ],
       "key": "mxmtoon:yyea3y",
       "matched_urls": [
         "https://www.setlist.fm/setlist/mxmtoon/2021/grant-park-chicago-il-usa-b8f15be.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -37767,7 +38027,8 @@
         }
       ],
       "start_date": "2021-07-29",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "n-e-r-d:8nhjof": {
       "artist": "N.E.R.D",
@@ -38101,11 +38362,14 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/nezza/2026/golden-gate-park-san-francisco-ca-usa-5b49a7d4.html"
+      ],
       "key": "nezza:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/nezza/2026/golden-gate-park-san-francisco-ca-usa-5b49a7d4.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -38126,7 +38390,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "nick-monaco:brv1d9": {
       "artist": "Nick Monaco",
@@ -38439,19 +38704,14 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/ninajirachi/2023/grant-park-chicago-il-usa-5ba41fcc.html"
+      ],
       "key": "ninajirachi:ub5qri",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "ninajirachi",
-          "day": "2023-08-04",
-          "end": "2023-08-04T20:45:00-05:00",
-          "set_id": "hgjnzv",
-          "stage": "Tito's Handmade Vodka",
-          "start": "2023-08-04T20:00:00-05:00"
-        },
         {
           "artist_id": "ninajirachi",
           "day": "2023-08-04",
@@ -38459,10 +38719,19 @@
           "set_id": "5austt",
           "stage": "Perry's",
           "start": "2023-08-04T12:00:00-05:00"
+        },
+        {
+          "artist_id": "ninajirachi",
+          "day": "2023-08-04",
+          "end": "2023-08-04T20:45:00-05:00",
+          "set_id": "hgjnzv",
+          "stage": "Tito's Handmade Vodka",
+          "start": "2023-08-04T20:00:00-05:00"
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "njomza:yyea3y": {
       "artist": "Njomza",
@@ -38775,8 +39044,6 @@
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
       "key": "nusar3000:3s9mjj",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -38795,7 +39062,8 @@
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "Europe/Madrid"
     },
     "oasis-dj-set-beverly-chills:xuwdm1": {
       "artist": "OASIS DJ Set: Beverly Chills",
@@ -40799,11 +41067,15 @@
       "end_date": "2018-08-12",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/poolside/2018/golden-gate-park-san-francisco-ca-usa-6be8b66a.html",
+        "https://www.setlist.fm/setlist/poolside/2018/golden-gate-park-san-francisco-ca-usa-6398ce93.html"
+      ],
       "key": "poolside:8nhjof",
       "matched_urls": [
         "https://www.setlist.fm/setlist/poolside/2018/golden-gate-park-san-francisco-ca-usa-6be8b66a.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -40814,7 +41086,8 @@
         }
       ],
       "start_date": "2018-08-10",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "poolside:ub5qri": {
       "artist": "Poolside",
@@ -41231,11 +41504,14 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "q-brothers:ub5qri",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/q-brothers/2023/grant-park-chicago-il-usa-3a47517.html"
+      "performances": [
+        {
+          "set_id": "cejtj4",
+          "url": "https://www.setlist.fm/setlist/q-brothers/2023/grant-park-chicago-il-usa-3a47517.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -41255,8 +41531,10 @@
           "start": "2023-08-06T15:00:00-05:00"
         }
       ],
+      "songs": 8,
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "America/Chicago"
     },
     "quarters-of-change:cy53a8": {
       "artist": "Quarters of Change",
@@ -41436,12 +41714,16 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-637042c3.html",
+        "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-3349a4f9.html"
+      ],
       "key": "racing-mount-pleasant:xuwdm1",
       "matched_urls": [
         "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-637042c3.html",
         "https://www.setlist.fm/setlist/racing-mount-pleasant/2026/golden-gate-park-san-francisco-ca-usa-3349a4f9.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -41462,7 +41744,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "radkey:yyea3y": {
       "artist": "Radkey",
@@ -41547,16 +41830,8 @@
       "excluded": false,
       "festival": "Outside Lands",
       "key": "rainbow-girls:xuwdm1",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "rainbow-girls",
-          "day": "2026-08-07",
-          "set_id": "uamaqd",
-          "stage": "Cocktail Magic"
-        },
         {
           "artist_id": "rainbow-girls",
           "day": "2026-08-08",
@@ -41568,10 +41843,17 @@
           "day": "2026-08-09",
           "set_id": "rvlvci",
           "stage": "Cocktail Magic"
+        },
+        {
+          "artist_id": "rainbow-girls",
+          "day": "2026-08-07",
+          "set_id": "uamaqd",
+          "stage": "Cocktail Magic"
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "America/Los_Angeles"
     },
     "rainbow-kitten-surprise:8nhjof": {
       "artist": "Rainbow Kitten Surprise",
@@ -42359,9 +42641,12 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/rio-kosta/2026/golden-gate-park-san-francisco-ca-usa-3349a405.html"
+      ],
       "key": "rio-kosta:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -42382,7 +42667,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "riot-ten:yyea3y": {
       "artist": "Riot Ten",
@@ -43026,12 +43312,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "royel-otis:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/royel-otis/2024/parc-del-forum-barcelona-spain-23a824b7.html",
-        "https://www.setlist.fm/setlist/royel-otis/2024/sala-apolo-barcelona-spain-43a8ebab.html"
+      "performances": [
+        {
+          "set_id": "30plm0",
+          "url": "https://www.setlist.fm/setlist/royel-otis/2024/parc-del-forum-barcelona-spain-23a824b7.html"
+        },
+        {
+          "set_id": "54mgmb",
+          "url": "https://www.setlist.fm/setlist/royel-otis/2024/sala-apolo-barcelona-spain-43a8ebab.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -43049,8 +43341,10 @@
           "start": "2024-06-02T21:50:00+02:00"
         }
       ],
+      "songs": 29,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "royel-otis:7zj1wf": {
       "artist": "Royel Otis",
@@ -43647,12 +43941,18 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "sam-moran:ub5qri",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-6ba40e5a.html",
-        "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-23a468fb.html"
+      "performances": [
+        {
+          "set_id": "cj1xxu",
+          "url": "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-6ba40e5a.html"
+        },
+        {
+          "set_id": "wuu8gn",
+          "url": "https://www.setlist.fm/setlist/sam-moran/2023/grant-park-chicago-il-usa-23a468fb.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -43672,8 +43972,10 @@
           "start": "2023-08-06T12:00:00-05:00"
         }
       ],
+      "songs": 12,
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "America/Chicago"
     },
     "san-holo:brv1d9": {
       "artist": "San Holo",
@@ -43775,8 +44077,6 @@
       "excluded": false,
       "festival": "Outside Lands",
       "key": "sante:brv1d9",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -43793,7 +44093,8 @@
         }
       ],
       "start_date": "2019-08-09",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "America/Los_Angeles"
     },
     "santigold:brv1d9": {
       "artist": "Santigold",
@@ -43929,12 +44230,16 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-2b4d4492.html",
+        "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-1ba401fc.html"
+      ],
       "key": "sarah-kinsley:ub5qri",
       "matched_urls": [
         "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-2b4d4492.html",
         "https://www.setlist.fm/setlist/sarah-kinsley/2023/grant-park-chicago-il-usa-1ba401fc.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -43947,7 +44252,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "sasha-alex-sloan:8nhjof": {
       "artist": "Sasha Alex Sloan",
@@ -44587,31 +44893,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "silica-gel:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/silica-gel/2024/parc-del-forum-barcelona-spain-33ab4049.html",
-        "https://www.setlist.fm/setlist/silica-gel/2024/parallel-62-barcelona-spain-43a8ebc7.html"
+      "performances": [
+        {
+          "set_id": "8eetiw",
+          "url": "https://www.setlist.fm/setlist/silica-gel/2024/parc-del-forum-barcelona-spain-33ab4049.html"
+        },
+        {
+          "set_id": "5f8gsk",
+          "url": "https://www.setlist.fm/setlist/silica-gel/2024/parallel-62-barcelona-spain-43a8ebc7.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "silica-gel",
-          "day": "2024-05-31",
-          "set_id": "8eetiw",
-          "stage": "Amazon Music",
-          "start": "2024-05-31T18:00:00+02:00"
-        },
         {
           "artist_id": "silica-gel",
           "day": "2024-06-02",
           "set_id": "5f8gsk",
           "stage": "Paral·lel 62",
           "start": "2024-06-02T21:00:00+02:00"
+        },
+        {
+          "artist_id": "silica-gel",
+          "day": "2024-05-31",
+          "set_id": "8eetiw",
+          "stage": "Amazon Music",
+          "start": "2024-05-31T18:00:00+02:00"
         }
       ],
+      "songs": 19,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "silvana-estrada:xuwdm1": {
       "artist": "Silvana Estrada",
@@ -45097,11 +45411,14 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "snow-strippers:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/snow-strippers/2024/parc-del-forum-barcelona-spain-6356c2c7.html"
+      "performances": [
+        {
+          "set_id": "k6k1xl",
+          "url": "https://www.setlist.fm/setlist/snow-strippers/2024/parc-del-forum-barcelona-spain-6356c2c7.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -45119,8 +45436,10 @@
           "start": "2024-06-01T22:30:00+02:00"
         }
       ],
+      "songs": 5,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "partial",
+      "timezone": "Europe/Madrid"
     },
     "snow-strippers:xuwdm1": {
       "artist": "Snow Strippers",
@@ -45336,26 +45655,25 @@
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
       "key": "softt:3s9mjj",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
+        {
+          "artist_id": "softt",
+          "day": "2024-06-02",
+          "set_id": "41i7sf",
+          "stage": "La [2] de Apolo"
+        },
         {
           "artist_id": "softt",
           "day": "2024-06-01",
           "set_id": "qppq68",
           "stage": "Boiler Room x Cupra",
           "start": "2024-06-02T00:30:00+02:00"
-        },
-        {
-          "artist_id": "softt",
-          "day": "2024-06-02",
-          "set_id": "41i7sf",
-          "stage": "La [2] de Apolo"
         }
       ],
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "absent_from_directory",
+      "timezone": "Europe/Madrid"
     },
     "sofy-suars:3s9mjj": {
       "artist": "Sofy Suars",
@@ -45673,12 +45991,16 @@
       "end_date": "2021-09-05",
       "excluded": false,
       "festival": "BottleRock Napa Valley",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/spafford/2021/napa-valley-expo-napa-ca-usa-738ccee5.html",
+        "https://www.setlist.fm/setlist/spafford/2021/napa-valley-expo-napa-ca-usa-3b8d1018.html"
+      ],
       "key": "spafford:c26k26",
       "matched_urls": [
         "https://www.setlist.fm/setlist/spafford/2021/napa-valley-expo-napa-ca-usa-738ccee5.html",
         "https://www.setlist.fm/setlist/spafford/2021/napa-valley-expo-napa-ca-usa-3b8d1018.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -45688,7 +46010,8 @@
         }
       ],
       "start_date": "2021-09-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "sports:xuwdm1": {
       "artist": "Sports",
@@ -46684,12 +47007,16 @@
       "end_date": "2021-08-01",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/tai-verdes/2021/grant-park-chicago-il-usa-1b8f213c.html",
+        "https://www.setlist.fm/setlist/tai-verdes/2021/grant-park-chicago-il-usa-5b8c8f44.html"
+      ],
       "key": "tai-verdes:yyea3y",
       "matched_urls": [
         "https://www.setlist.fm/setlist/tai-verdes/2021/grant-park-chicago-il-usa-1b8f213c.html",
         "https://www.setlist.fm/setlist/tai-verdes/2021/grant-park-chicago-il-usa-5b8c8f44.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -46702,7 +47029,8 @@
         }
       ],
       "start_date": "2021-07-29",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "talk:ub5qri": {
       "artist": "Talk",
@@ -47501,12 +47829,16 @@
       "end_date": "2025-06-08",
       "excluded": false,
       "festival": "Governors Ball",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-7344d2f1.html",
+        "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf47.html"
+      ],
       "key": "the-beaches:7zj1wf",
       "matched_urls": [
         "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-7344d2f1.html",
         "https://www.setlist.fm/setlist/the-beaches/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf47.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -47519,7 +47851,8 @@
         }
       ],
       "start_date": "2025-06-06",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/New_York"
     },
     "the-beaches:ub5qri": {
       "artist": "The Beaches",
@@ -48078,9 +48411,8 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [],
       "key": "the-happiness-club:ub5qri",
-      "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -48101,7 +48433,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "empty_or_parser_review",
+      "timezone": "America/Chicago"
     },
     "the-happy-fits:ub5qri": {
       "artist": "The Happy Fits",
@@ -48390,12 +48723,18 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "the-lemon-twigs:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/the-lemon-twigs/2024/parc-del-forum-barcelona-spain-43a973ff.html",
-        "https://www.setlist.fm/setlist/the-lemon-twigs/2024/sala-apolo-barcelona-spain-43a8ebaf.html"
+      "performances": [
+        {
+          "set_id": "qd5nkd",
+          "url": "https://www.setlist.fm/setlist/the-lemon-twigs/2024/parc-del-forum-barcelona-spain-43a973ff.html"
+        },
+        {
+          "set_id": "yilmyl",
+          "url": "https://www.setlist.fm/setlist/the-lemon-twigs/2024/sala-apolo-barcelona-spain-43a8ebaf.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
         {
@@ -48413,8 +48752,10 @@
           "start": "2024-06-02T23:15:00+02:00"
         }
       ],
+      "songs": 33,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "the-lemon-twigs:7zj1wf": {
       "artist": "The Lemon Twigs",
@@ -48672,31 +49013,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "the-national:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/the-national/2024/razzmatazz-barcelona-spain-33a8804d.html",
-        "https://www.setlist.fm/setlist/the-national/2024/parc-del-forum-barcelona-spain-23a88043.html"
+      "performances": [
+        {
+          "set_id": "8wpy31",
+          "url": "https://www.setlist.fm/setlist/the-national/2024/razzmatazz-barcelona-spain-33a8804d.html"
+        },
+        {
+          "set_id": "gthvxx",
+          "url": "https://www.setlist.fm/setlist/the-national/2024/parc-del-forum-barcelona-spain-23a88043.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "the-national",
-          "day": "2024-05-31",
-          "set_id": "gthvxx",
-          "stage": "Santander",
-          "start": "2024-05-31T23:20:00+02:00"
-        },
         {
           "artist_id": "the-national",
           "day": "2024-05-29",
           "set_id": "8wpy31",
           "stage": "Razzmatazz",
           "start": "2024-05-29T19:00:00+02:00"
+        },
+        {
+          "artist_id": "the-national",
+          "day": "2024-05-31",
+          "set_id": "gthvxx",
+          "stage": "Santander",
+          "start": "2024-05-31T23:20:00+02:00"
         }
       ],
+      "songs": 47,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "the-neighbourhood:brv1d9": {
       "artist": "The Neighbourhood",
@@ -49535,9 +49884,12 @@
       "end_date": "2026-08-09",
       "excluded": false,
       "festival": "Outside Lands",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/tobiahs/2026/golden-gate-park-san-francisco-ca-usa-3349a461.html"
+      ],
       "key": "tobiahs:xuwdm1",
       "matched_urls": [],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": true,
       "sets": [
         {
@@ -49558,7 +49910,8 @@
         }
       ],
       "start_date": "2026-08-07",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Los_Angeles"
     },
     "toccororo:3s9mjj": {
       "artist": "Toccororo",
@@ -50828,12 +51181,16 @@
       "end_date": "2023-08-06",
       "excluded": false,
       "festival": "Lollapalooza",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-1ba539d0.html",
+        "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-73a40e6d.html"
+      ],
       "key": "usted-senalemelo:ub5qri",
       "matched_urls": [
         "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-1ba539d0.html",
         "https://www.setlist.fm/setlist/usted-senalemelo/2023/grant-park-chicago-il-usa-73a40e6d.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -50846,7 +51203,8 @@
         }
       ],
       "start_date": "2023-08-03",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/Chicago"
     },
     "valley:c26k26": {
       "artist": "Valley",
@@ -51270,31 +51628,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "voxtrot:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/voxtrot/2024/la-nau-barcelona-spain-4ba8eb1a.html",
-        "https://www.setlist.fm/setlist/voxtrot/2024/parc-del-forum-barcelona-spain-43a9733f.html"
+      "performances": [
+        {
+          "set_id": "9m3q8u",
+          "url": "https://www.setlist.fm/setlist/voxtrot/2024/la-nau-barcelona-spain-4ba8eb1a.html"
+        },
+        {
+          "set_id": "s9zxkv",
+          "url": "https://www.setlist.fm/setlist/voxtrot/2024/parc-del-forum-barcelona-spain-43a9733f.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "voxtrot",
-          "day": "2024-05-30",
-          "set_id": "s9zxkv",
-          "stage": "Plenitude",
-          "start": "2024-05-30T18:05:00+02:00"
-        },
         {
           "artist_id": "voxtrot",
           "day": "2024-05-28",
           "set_id": "9m3q8u",
           "stage": "La Nau",
           "start": "2024-05-28T21:00:00+02:00"
+        },
+        {
+          "artist_id": "voxtrot",
+          "day": "2024-05-30",
+          "set_id": "s9zxkv",
+          "stage": "Plenitude",
+          "start": "2024-05-30T18:05:00+02:00"
         }
       ],
+      "songs": 23,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "walk-off-the-earth:c26k26": {
       "artist": "Walk off the Earth",
@@ -51368,12 +51734,16 @@
       "end_date": "2025-06-08",
       "excluded": false,
       "festival": "Governors Ball",
+      "held_urls": [
+        "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf34.html",
+        "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-6344f207.html"
+      ],
       "key": "wallows:7zj1wf",
       "matched_urls": [
         "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf34.html",
         "https://www.setlist.fm/setlist/wallows/2025/flushing-meadows-corona-park-queens-ny-usa-6344f207.html"
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
+      "reason": "No unique schedule-set/source match",
       "repeated": false,
       "sets": [
         {
@@ -51386,7 +51756,8 @@
         }
       ],
       "start_date": "2025-06-06",
-      "status": "ambiguous"
+      "status": "ambiguous",
+      "timezone": "America/New_York"
     },
     "wallows:brv1d9": {
       "artist": "Wallows",
@@ -51542,31 +51913,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "water-from-your-eyes:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/parc-del-forum-barcelona-spain-23a8249f.html",
-        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/sala-apolo-barcelona-spain-5ba8ebc8.html"
+      "performances": [
+        {
+          "set_id": "w8od9f",
+          "url": "https://www.setlist.fm/setlist/water-from-your-eyes/2024/parc-del-forum-barcelona-spain-23a8249f.html"
+        },
+        {
+          "set_id": "psdvxx",
+          "url": "https://www.setlist.fm/setlist/water-from-your-eyes/2024/sala-apolo-barcelona-spain-5ba8ebc8.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "water-from-your-eyes",
-          "day": "2024-06-01",
-          "set_id": "w8od9f",
-          "stage": "Amazon Music",
-          "start": "2024-06-01T18:00:00+02:00"
-        },
         {
           "artist_id": "water-from-your-eyes",
           "day": "2024-06-02",
           "set_id": "psdvxx",
           "stage": "La [2] de Apolo",
           "start": "2024-06-02T22:35:00+02:00"
+        },
+        {
+          "artist_id": "water-from-your-eyes",
+          "day": "2024-06-01",
+          "set_id": "w8od9f",
+          "stage": "Amazon Music",
+          "start": "2024-06-01T18:00:00+02:00"
         }
       ],
+      "songs": 19,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "water-from-your-eyes:fuaiif": {
       "artist": "Water From Your Eyes",
@@ -52504,31 +52883,39 @@
       "end_date": "2024-06-03",
       "excluded": false,
       "festival": "Primavera Sound Barcelona",
+      "held_urls": [],
       "key": "yo-la-tengo:3s9mjj",
-      "matched_urls": [
-        "https://www.setlist.fm/setlist/yo-la-tengo/2024/sala-apolo-barcelona-spain-53a8eb05.html",
-        "https://www.setlist.fm/setlist/yo-la-tengo/2024/parc-del-forum-barcelona-spain-73a8de65.html"
+      "performances": [
+        {
+          "set_id": "2wcksw",
+          "url": "https://www.setlist.fm/setlist/yo-la-tengo/2024/sala-apolo-barcelona-spain-53a8eb05.html"
+        },
+        {
+          "set_id": "50zli2",
+          "url": "https://www.setlist.fm/setlist/yo-la-tengo/2024/parc-del-forum-barcelona-spain-73a8de65.html"
+        }
       ],
-      "reason": "Repeated schedule artist or multiple matching public performances; artist:concert key preserved",
       "repeated": true,
       "sets": [
-        {
-          "artist_id": "yo-la-tengo",
-          "day": "2024-05-31",
-          "set_id": "50zli2",
-          "stage": "Amazon Music",
-          "start": "2024-05-31T19:50:00+02:00"
-        },
         {
           "artist_id": "yo-la-tengo",
           "day": "2024-05-28",
           "set_id": "2wcksw",
           "stage": "Sala Apolo",
           "start": "2024-05-28T21:00:00+02:00"
+        },
+        {
+          "artist_id": "yo-la-tengo",
+          "day": "2024-05-31",
+          "set_id": "50zli2",
+          "stage": "Amazon Music",
+          "start": "2024-05-31T19:50:00+02:00"
         }
       ],
+      "songs": 29,
       "start_date": "2024-05-27",
-      "status": "ambiguous"
+      "status": "cached",
+      "timezone": "Europe/Madrid"
     },
     "yoke-lore:fuaiif": {
       "artist": "Yoke Lore",
@@ -53018,7 +53405,7 @@
     }
   },
   "retrieval": "Ordinary public HTML; no music API; stop on access challenge",
-  "total_artist_concert_pairs": 1329,
-  "total_schedule_rows": 1387,
-  "updated_at": "2026-10-08T07:48:18.567243+00:00"
+  "total_artist_concert_pairs": 1331,
+  "total_schedule_rows": 1389,
+  "updated_at": "2026-10-08T08:36:39.395205+00:00"
 }

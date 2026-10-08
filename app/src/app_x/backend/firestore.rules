@@ -30,7 +30,8 @@ service cloud.firestore {
 
     function table(name) { return getAfter(/databases/$(database)/documents/tables/$(name)).data.records; }
     function tableEnvelope() {
-      return request.resource.data.keys().hasOnly(['schema_version', 'records', 'changed_id'])
+      return request.resource.data.keys().hasOnly(['schema_version', 'records', 'changed_id', 'applied_revisions'])
+        && request.resource.data.get('applied_revisions', {}) is map
         && request.resource.data.schema_version == 1 && request.resource.data.records is map;
     }
     function singleRecordChange() {

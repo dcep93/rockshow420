@@ -1,0 +1,86 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: performed entire show with the San Francisco Symphony for one night only",
+    "sets": [
+      {
+        "name": "Set 1:",
+        "songs": [
+          {
+            "name": "Hollywood Park"
+          },
+          {
+            "name": "Brother How Was the War?"
+          },
+          {
+            "name": "All at Once"
+          },
+          {
+            "name": "Numb"
+          },
+          {
+            "name": "Wishing Well"
+          },
+          {
+            "name": "All for a Woman"
+          },
+          {
+            "name": "Changing"
+          },
+          {
+            "name": "This Losing"
+          },
+          {
+            "name": "True"
+          },
+          {
+            "name": "Missy"
+          }
+        ]
+      },
+      {
+        "name": "Set 2:",
+        "songs": [
+          {
+            "name": "Half of Something Else"
+          },
+          {
+            "name": "A Letter to Georgia"
+          },
+          {
+            "name": "Goodbye Horses",
+            "notes": "(Q Lazzarus cover)"
+          },
+          {
+            "name": "Come On Out"
+          },
+          {
+            "name": "The Fifth Day"
+          },
+          {
+            "name": "Sometime Around Midnight"
+          },
+          {
+            "name": "Innocence"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "The Common Touch"
+          },
+          {
+            "name": "Happiness Is Overrated"
+          },
+          {
+            "name": "All I Ever Wanted"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/the-airborne-toxic-event/2022/louise-m-davies-symphony-hall-san-francisco-ca-23b28cff.html"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Drunken Soldier"
+          },
+          {
+            "name": "So Much to Say",
+            "notes": "(>)"
+          },
+          {
+            "name": "Anyone Seen the Bridge",
+            "notes": "(Also Sprach Zarathustra and Heartbreaker interpolations, >)"
+          },
+          {
+            "name": "Too Much (fake)",
+            "notes": "(>)"
+          },
+          {
+            "name": "Ants Marching"
+          },
+          {
+            "name": "Proudest Monkey",
+            "notes": "(New York, New York Tease)"
+          },
+          {
+            "name": "Dreamgirl"
+          },
+          {
+            "name": "Kit Kat Jam"
+          },
+          {
+            "name": "Rooftop"
+          },
+          {
+            "name": "Gravedigger",
+            "notes": "(Dave Matthews song)"
+          },
+          {
+            "name": "#41",
+            "notes": "(with Casey Driessen)"
+          },
+          {
+            "name": "Satellite",
+            "notes": "(with Casey Driessen)"
+          },
+          {
+            "name": "Pig",
+            "notes": "(with Casey Driessen)"
+          },
+          {
+            "name": "Lie in Our Graves",
+            "notes": "(with Casey Driessen) (no reprise)"
+          },
+          {
+            "name": "Fool in the Rain",
+            "notes": "(Led Zeppelin cover)"
+          },
+          {
+            "name": "Mercy",
+            "notes": "(>)"
+          },
+          {
+            "name": "Cornbread"
+          },
+          {
+            "name": "The Best of What's Around"
+          },
+          {
+            "name": "Typical Situation"
+          },
+          {
+            "name": "Lie in Our Graves (Reprise)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Papertown",
+            "notes": "(with Casey Driessen)"
+          },
+          {
+            "name": "Madman's Eyes"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/dave-matthews-band/2026/forest-hills-stadium-queens-ny-434a63df.html"
+  }
+]

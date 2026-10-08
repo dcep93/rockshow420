@@ -1,0 +1,30 @@
+{
+  "artist": "Locus Pocus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Locus Pocus",
+      "name": "My Girlfriend Won't Dance With Me"
+    },
+    {
+      "artists": "Locus Pocus",
+      "name": "I'd Be Your Woman"
+    },
+    {
+      "artists": "Locus Pocus",
+      "explicit": true,
+      "name": "Game to Lose"
+    },
+    {
+      "artists": "Locus Pocus",
+      "explicit": true,
+      "name": "Doctor's Doctor"
+    },
+    {
+      "artists": "Locus Pocus",
+      "explicit": true,
+      "name": "Stuck"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4MWifxkVhRGDVZ83FQBWcL"
+}

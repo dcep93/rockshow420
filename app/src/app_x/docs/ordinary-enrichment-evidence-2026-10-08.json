@@ -1,0 +1,251 @@
+{
+  "spotify": {
+    "badfish": {
+      "basis": "Official record label artist gallery caption Badfish links directly to 1FnkmGqQ51RVxtPF4BE96a; label recording corroborates. Old candidate 0Lq022fcanpb4atRpZakk9 not used.",
+      "profile_id": "1FnkmGqQ51RVxtPF4BE96a",
+      "ranked_count_available": 6,
+      "ranked_source": "https://open.spotify.com/embed/artist/1FnkmGqQ51RVxtPF4BE96a",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/badfish-new-embed.html",
+      "ranked_source_sha256": "e0ffc5c4c51612400eab906b3a121ff06e1b651f8681292a8d71dca7d3d71475",
+      "sources": [
+        "https://www.ineffablemusic.com/label",
+        "https://www.badfish.com/",
+        "https://ineffable.to/sonofagun",
+        "https://ineffablerecords.bandcamp.com/track/high-with-you",
+        "https://open.spotify.com/album/2YuwjcpV3Ym9wHVKJVDc5M"
+      ],
+      "status": "verified_direct_link"
+    },
+    "collectivity": {
+      "basis": "Official band website direct artist link.",
+      "profile_id": "5mf32sM64iFUykG9MvtkMY",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/5mf32sM64iFUykG9MvtkMY",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/collectivity-embed.html",
+      "ranked_source_sha256": "b035f954f6cb37e67701b1bdd465e7efd62ea2d9bc73efc1ab0ad93989323469",
+      "sources": [
+        "https://collectivitymusic.com/"
+      ],
+      "status": "verified_direct_link"
+    },
+    "ginger-root": {
+      "basis": "Official website and artist Linktree direct Spotify artist links",
+      "profile_id": "4UAW69682T7N0wrABUhqx0",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/4UAW69682T7N0wrABUhqx0",
+      "sources": [
+        "https://www.gingerrootmusic.com/",
+        "https://linktr.ee/gingerrootmusic"
+      ],
+      "status": "verified_direct_link"
+    },
+    "law": {
+      "basis": "Official Long Beach Bandcamp catalog There and Back Again / Toxic EP / Mild Lawtism matches Spotify public profile catalog, biography names Jakob Nowell; profile identity resolved by exact discography and geography, not name alone.",
+      "profile_id": "1mVPq7nIESnpPaKeXQ27uQ",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/1mVPq7nIESnpPaKeXQ27uQ",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/law-embed.html",
+      "ranked_source_sha256": "5d59a8ee0e1e5d90387a08d110956a45ebe82121ef7564c219b5a6da6c6f2ca3",
+      "sources": [
+        "https://lawlbc.bandcamp.com/",
+        "https://lawlbc.bandcamp.com/album/there-and-back-again",
+        "https://open.spotify.com/artist/1mVPq7nIESnpPaKeXQ27uQ"
+      ],
+      "status": "verified_recording_or_discography_chain"
+    },
+    "locus-pocus": {
+      "basis": "Official San Francisco Bandcamp EP matches four distinctive Spotify ranked titles and durations: Stuck 4:01, My Girlfriend Won't Dance With Me 4:11, Hey Sundance 4:02, Muscle Man 5:34; official single I'd Be Your Woman also matches. Recording credit from prior report same profile.",
+      "profile_id": "4MWifxkVhRGDVZ83FQBWcL",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/4MWifxkVhRGDVZ83FQBWcL",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/locus-pocus-embed.html",
+      "ranked_source_sha256": "77471d642b2eb4df7f73c62aab39b4d1c173f824caf795bdade4c83b8adb1dce",
+      "sources": [
+        "https://locuspocus.bandcamp.com/album/locus-pocus-ep",
+        "https://locuspocus.bandcamp.com/",
+        "https://open.spotify.com/album/0dcDKykcXyWXJg5Wji2wAo"
+      ],
+      "status": "verified_recording_or_discography_chain"
+    },
+    "slap-dragon": {
+      "basis": "Official band website and record label direct artist links.",
+      "profile_id": "0CMEHUh3FRnPl3NyvwvcE7",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/0CMEHUh3FRnPl3NyvwvcE7",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/slap-dragon-embed.html",
+      "ranked_source_sha256": "2fc270722bf19c0db375ea5c09ee37df454ebd62e2ddd5c43d646e43e0db1e4f",
+      "sources": [
+        "https://www.slapdragon.band/",
+        "https://www.nocoincidencerecords.com/artists/slap-dragon"
+      ],
+      "status": "verified_direct_link"
+    },
+    "zola": {
+      "basis": "Official artist Linktree direct artist link; San Francisco identity and distinctive discography corroborated by Bandcamp.",
+      "profile_id": "1J4ofBDurgOATlfzzyniZp",
+      "ranked_count_available": 10,
+      "ranked_source": "https://open.spotify.com/embed/artist/1J4ofBDurgOATlfzzyniZp",
+      "ranked_source_html_file": "/Users/danielcepeda/repos/_codex_output/rockshow420/ordinary-followup-2026-10-08/zola-embed.html",
+      "ranked_source_sha256": "5c4cd9f1d557d0ccb4b52bb7979d90226694a99d29a903a42f6d855814f3ee0c",
+      "sources": [
+        "https://linktr.ee/itszolaallcaps",
+        "https://zolaallcaps.bandcamp.com/album/everything-i-know"
+      ],
+      "status": "verified_direct_link"
+    }
+  },
+  "times": [
+    {
+      "artist_id": "meet-me-the-altar",
+      "concert_id": "mdtd8s",
+      "date": "2026-01-31T19:20:00-05:00",
+      "date_precision": "time",
+      "evidence": "Public Set Times explicitly Scheduled 7:20 PM, actual start 7:20 PM, doors 6 PM. Exact date and venue.",
+      "source": "https://www.setlist.fm/setlist/meet-me-the-altar/2026/mercury-lounge-new-york-ny-434c7347.html",
+      "venue_id": "mercury-lounge"
+    },
+    {
+      "artist_id": "john-mayer",
+      "concert_id": "rqwp9n",
+      "date": "2019-09-16T19:30:00-07:00",
+      "date_precision": "time",
+      "evidence": "Public Set Times explicitly Scheduled 7:30 PM, actual start 7:55 PM. Proposed time is scheduled show time.",
+      "source": "https://www.setlist.fm/setlist/john-mayer/2019/chase-center-san-francisco-ca-b9ced3e.html",
+      "venue_id": "chase-center"
+    }
+  ],
+  "unresolved": {
+    "scope_note": "Bounded pass, not an exhaustive re-review of all 136 time gaps or 33 artist gaps. Unlisted targets were not independently investigated this turn.",
+    "spotify": {
+      "bob-weir-wolf-bros": {
+        "reason": "Wolf Bros album recordings credited to Bob Weir solo profile. No exact distinct band profile established.",
+        "source": "https://open.spotify.com/track/1Hx0kqfju8tnuiA2FNkh11",
+        "status": "solo_profile_not_substituted"
+      },
+      "daniel-donatos-cosmic-country": {
+        "profile_id": "0BPT9SFoQzi6Pfk387jLE8",
+        "reason": "Official page links Daniel Donato solo artist profile; project band identity is longer. Kept out of patch to avoid unapproved substitution. Captured embed available.",
+        "source": "https://danieldonato.com/music",
+        "status": "solo_profile_requires_policy_decision"
+      },
+      "john-kadlecik": {
+        "reason": "Public discovery did not locate usable exact profile during bounded pass.",
+        "status": "search_no_usable_profile"
+      },
+      "oliver-herbert": {
+        "profile_id": "6jkUJbQcuGCJdDJHs3lnHn",
+        "reason": "Official cellist biography confirms Frame of Mind with Xiaohui Yang. Matching candidate public embed has ZERO ranked songs. Do not invent five or substitute album order.",
+        "sources": [
+          "https://www.oliverherbertcello.com/",
+          "https://open.spotify.com/intl-pt/track/7Lx8XUHoF1MFWoCJ4DrFmv"
+        ],
+        "status": "identified_no_ranked_tracks"
+      },
+      "whateverglades": {
+        "reason": "Official site catalogs Knock Knock and Wish You Were but no Spotify link/profile located.",
+        "source": "https://whateverglades.com/",
+        "status": "official_catalog_only"
+      }
+    },
+    "times": {
+      "11mnns": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "2htau1": {
+        "reason": "Headliner has Add time; Petey opener actual 8 PM. No explicit planned time.",
+        "source": "https://www.setlist.fm/setlist/hippo-campus/2025/brooklyn-paramount-brooklyn-ny-1b517144.html",
+        "status": "opener_only"
+      },
+      "51cx5l": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "594m17": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "5yfuxj": {
+        "reason": "Official MSG page lacks time in readable text.",
+        "source": "https://www.msg.com/events-tickets/maggie-rogers-radio-city-music-hall-february-2023/3C005D4FC0010FAC",
+        "status": "date_venue_verified_time_absent"
+      },
+      "6e0e6g": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "72npl4": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "8ixuaq": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "apwk39": {
+        "reason": "Firsthand review gives actual stage time 6:15 PM on Sept 6 and 7 2024. JamBase listings suggest planned 6 PM but primary page not located.",
+        "source": "https://nysmusic.com/2024/09/09/joe-russos-almost-dead-set-sail-at-pier-17/",
+        "status": "actual_only_do_not_apply_as_scheduled"
+      },
+      "dsbc1n": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "dtfvw6": {
+        "reason": "Hotel calendar says 7 PM without doors/show differentiation; insufficient.",
+        "source": "https://www.edisonhotelnyc.com/events/new-york/the-veronicas-with-jesse-jo-stark-8085659",
+        "status": "ambiguous_listing_time"
+      },
+      "kd7g6l": {
+        "reason": "Linked setlist is Mercury Lounge; current record is Radio City. No time inference safe.",
+        "source": "https://www.setlist.fm/setlist/maisie-peters/2023/mercury-lounge-new-york-ny-3b4e3868.html",
+        "status": "venue_conflict"
+      },
+      "mgdx65": {
+        "reason": "Public setlist has Add time.",
+        "source": "https://www.setlist.fm/setlist/green-day/2021/oracle-park-san-francisco-ca-b8cfd82.html",
+        "status": "no_time"
+      },
+      "oaapht": {
+        "reason": "Official artist page lists distinct 7 PM early / 10:30 PM late shows on 2024-12-31. Cannot identify attended show.",
+        "source": "https://lawrencetheband.com/nye-city-winery",
+        "status": "ambiguous_two_shows"
+      },
+      "pn9owi": {
+        "reason": "Official page confirms exact date venue but web text lacks time. Direct HTML fetch 403.",
+        "source": "https://www.msg.com/events-tickets/jacob-collier-kimbra-radio-city-music-hall-april-2024/3C005F48E657147E",
+        "status": "date_venue_verified_time_absent"
+      },
+      "r9mpfr": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "s1sk36": {
+        "reason": "Public setlist has Add time.",
+        "source": "https://www.setlist.fm/setlist/the-string-cheese-incident/2024/brooklyn-paramount-brooklyn-ny-2351ccb3.html",
+        "status": "no_time"
+      },
+      "v9xt7f": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "vor15h": {
+        "reason": "Firsthand photographer explicitly gives slimdan opening set 8 PM on 2024-09-30 Kings. No official scheduled time located.",
+        "source": "https://www.thisisnotaphotograph.com/blog/2024/10/1/remi-wolf-and-slimdan-at-kings-theatre",
+        "status": "opener_actual_only"
+      },
+      "whldqv": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "x5w440": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      },
+      "xbggyc": {
+        "reason": "Targeted exact artist/date/venue and/or official venue search yielded no unambiguous scheduled show time in this bounded pass.",
+        "status": "searched_no_usable_time"
+      }
+    }
+  }
+}

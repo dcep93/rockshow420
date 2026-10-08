@@ -1,0 +1,79 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Get Over"
+          },
+          {
+            "name": "Flipside"
+          },
+          {
+            "name": "Lola",
+            "notes": "(The Kinks cover)"
+          },
+          {
+            "name": "Brendan"
+          },
+          {
+            "name": "Stanky",
+            "notes": "((Drum Solo Intro))"
+          },
+          {
+            "name": "All or Nothing"
+          },
+          {
+            "name": "Paper Cups"
+          },
+          {
+            "name": "Beta Male"
+          },
+          {
+            "name": "Say It to Me"
+          },
+          {
+            "name": "Young Tom Rose"
+          },
+          {
+            "name": "Queen of the City"
+          },
+          {
+            "name": "Talk to the Moon"
+          },
+          {
+            "name": "Noise in the Forest"
+          },
+          {
+            "name": "Goon Squad"
+          },
+          {
+            "name": "Downward"
+          },
+          {
+            "name": "Settling"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Passerby",
+            "notes": "(Performed with lead singers of Melt and Ripe)"
+          },
+          {
+            "name": "Another Brick in the Wall, Part 2",
+            "notes": "(Pink Floyd cover)"
+          },
+          {
+            "name": "Little Lighter"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/ripe/2023/terminal-5-new-york-ny-5bb8ebb4.html"
+  }
+]

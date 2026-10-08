@@ -1,0 +1,110 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Set 1",
+        "songs": [
+          {
+            "name": "Helpless"
+          },
+          {
+            "name": "Who Says"
+          },
+          {
+            "name": "Love on the Weekend"
+          },
+          {
+            "name": "Carry Me Away"
+          },
+          {
+            "name": "Moving On and Getting Over"
+          },
+          {
+            "name": "Something Like Olivia",
+            "notes": "(\"China Cat Sunflower\" intro and jam)"
+          },
+          {
+            "name": "Changing"
+          },
+          {
+            "name": "Waiting on the World to Change",
+            "notes": "(\"Inner City Blues (Makes Me Wanna Holler)\" interpolation)"
+          },
+          {
+            "name": "Waitin' on the Day"
+          },
+          {
+            "name": "I Don't Trust Myself (With Loving You)"
+          }
+        ]
+      },
+      {
+        "name": "Set 2",
+        "songs": [
+          {
+            "name": "Emoji of a Wave",
+            "notes": "(solo acoustic)"
+          },
+          {
+            "name": "Daughters",
+            "notes": "(solo acoustic)"
+          },
+          {
+            "name": "Free Fallin'",
+            "notes": "(Tom Petty cover) (John and DRH acoustic)"
+          },
+          {
+            "name": "Belief"
+          },
+          {
+            "name": "Why Georgia"
+          },
+          {
+            "name": "Stop This Train",
+            "notes": "(with \"Homeward Bound\" outro)"
+          },
+          {
+            "name": "Rosie",
+            "notes": "(\"Them Changes\" jam)"
+          },
+          {
+            "name": "Queen of California",
+            "notes": "(with Bob Weir) (>)"
+          },
+          {
+            "name": "Fire on the Mountain",
+            "notes": "(Grateful Dead cover) (with Sammy Hagar) (and Bob Weir)"
+          },
+          {
+            "name": "The Beautiful Ones",
+            "notes": "(Prince cover) (snippet) (>)"
+          },
+          {
+            "name": "Slow Dancing in a Burning Room"
+          },
+          {
+            "name": "In the Blood"
+          },
+          {
+            "name": "Gravity",
+            "notes": "(I Got Dreams to Remember by Otis Redding interpolation)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Born and Raised"
+          },
+          {
+            "name": "New Light"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/john-mayer/2019/chase-center-san-francisco-ca-b9ced3e.html"
+  }
+]

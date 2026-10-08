@@ -1,0 +1,118 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Concert was livestreamed",
+    "sets": [
+      {
+        "name": "Walk the Moon",
+        "songs": [
+          {
+            "name": "Quesadilla"
+          },
+          {
+            "name": "Lisa Baby"
+          },
+          {
+            "name": "Next in Line"
+          },
+          {
+            "name": "Anna Sun"
+          },
+          {
+            "name": "Tightrope"
+          },
+          {
+            "name": "Jenny"
+          },
+          {
+            "name": "Shiver Shiver"
+          },
+          {
+            "name": "Lions",
+            "notes": "(extended)"
+          },
+          {
+            "name": "Iscariot"
+          },
+          {
+            "name": "Fixin'",
+            "notes": "(Gives inspiration for song)"
+          },
+          {
+            "name": "I Can Lift a Car",
+            "notes": "(Meditation <+> intro)"
+          }
+        ]
+      },
+      {
+        "name": "Acoustic",
+        "songs": [
+          {
+            "name": "Happy Birthday to You",
+            "notes": "(Mildred J. Hill & Patty Hill cover) (Overly dramatic; Fan request for friend to everybody)"
+          },
+          {
+            "name": "Surrender",
+            "notes": "(Nick solo)"
+          },
+          {
+            "name": "Avalanche",
+            "notes": "(Nick & Eli)"
+          },
+          {
+            "name": "Different Colors",
+            "notes": "(Nick, Eli, & Sean)"
+          },
+          {
+            "name": "Anywayican"
+          }
+        ]
+      },
+      {
+        "name": "Act 3",
+        "songs": [
+          {
+            "name": "Work This Body"
+          },
+          {
+            "name": "Tête-à-tête"
+          },
+          {
+            "name": "Someone Else's Game"
+          },
+          {
+            "name": "The Liftaway"
+          },
+          {
+            "name": "Up 2 U"
+          },
+          {
+            "name": "Giants"
+          },
+          {
+            "name": "Shut Up and Dance"
+          },
+          {
+            "name": "Population of Two"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Mono No Aware"
+          },
+          {
+            "name": "Portugal"
+          },
+          {
+            "name": "One Foot"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2022/irving-plaza-new-york-ny-bbe51be.html"
+  }
+]

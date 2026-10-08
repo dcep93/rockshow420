@@ -1,0 +1,81 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Let's See What the Night Can Do"
+          },
+          {
+            "name": "Living in the Moment"
+          },
+          {
+            "name": "Curbside Prophet / Geek in the Pink / The Remedy (I Won't Worry)"
+          },
+          {
+            "name": "Common Pleasure",
+            "notes": "(Jason ask Toca Rivera to come up and play this with him)"
+          },
+          {
+            "name": "Always Looking For You"
+          },
+          {
+            "name": "I'm Yours"
+          },
+          {
+            "name": "Everywhere"
+          },
+          {
+            "name": "More Than Friends"
+          },
+          {
+            "name": "Unlonely",
+            "notes": "(interpolated with bass line from I Want You Back)"
+          },
+          {
+            "name": "Chocolate"
+          },
+          {
+            "name": "Lucky"
+          },
+          {
+            "name": "Make It Mine"
+          },
+          {
+            "name": "I Say a Little Prayer/ Respect"
+          },
+          {
+            "name": "Sitar & Percussion Solo"
+          },
+          {
+            "name": "93 Million Miles"
+          },
+          {
+            "name": "I Won't Give Up"
+          },
+          {
+            "name": "3 Things"
+          },
+          {
+            "name": "Might as Well Dance"
+          },
+          {
+            "name": "Have It All"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Good Vibrations",
+            "notes": "(The Beach Boys cover)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/jason-mraz/2018/william-randolph-hearst-greek-theatre-berkeley-ca-be98d76.html"
+  }
+]

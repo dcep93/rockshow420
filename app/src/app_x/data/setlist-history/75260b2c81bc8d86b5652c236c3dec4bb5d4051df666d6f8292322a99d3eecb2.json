@@ -1,0 +1,83 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Arizona",
+            "notes": "(Thom Sonny Green song)",
+            "tape": true
+          },
+          {
+            "name": "Deadcrush"
+          },
+          {
+            "name": "Fitzpleasure"
+          },
+          {
+            "name": "Something Good"
+          },
+          {
+            "name": "Nara"
+          },
+          {
+            "name": "The Gospel of John Hurt"
+          },
+          {
+            "name": "In Cold Blood"
+          },
+          {
+            "name": "❦ (Ripe & Ruin)"
+          },
+          {
+            "name": "Tessellate"
+          },
+          {
+            "name": "Intro (This Is All Yours)"
+          },
+          {
+            "name": "Every Other Freckle"
+          },
+          {
+            "name": "Hunger of the Pine"
+          },
+          {
+            "name": "Bloodflood"
+          },
+          {
+            "name": "Matilda"
+          },
+          {
+            "name": "Dissolve Me"
+          },
+          {
+            "name": "Pleader"
+          },
+          {
+            "name": "Taro"
+          },
+          {
+            "name": "Left Hand Free"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Intro (An Awesome Wave)"
+          },
+          {
+            "name": "3WW"
+          },
+          {
+            "name": "Breezeblocks"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/altj/2018/bill-graham-civic-auditorium-san-francisco-ca-3ecd96b.html"
+  }
+]

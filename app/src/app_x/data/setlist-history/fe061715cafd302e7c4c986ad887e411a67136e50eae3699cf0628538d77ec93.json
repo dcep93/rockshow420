@@ -1,0 +1,94 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "It's Gonna Be Me",
+            "notes": "(*NSYNC cover)"
+          },
+          {
+            "name": "Casualty"
+          },
+          {
+            "name": "Alibi"
+          },
+          {
+            "name": "Hotel TV"
+          },
+          {
+            "name": "Hot in Herre",
+            "notes": "(Nelly cover)"
+          },
+          {
+            "name": "More"
+          },
+          {
+            "name": "Wake Up"
+          },
+          {
+            "name": "What a Girl Wants",
+            "notes": "(Christina Aguilera cover)"
+          },
+          {
+            "name": "Come On Over (All I Want Is You)",
+            "notes": "(Christina Aguilera cover)"
+          },
+          {
+            "name": "Play Around"
+          },
+          {
+            "name": "Get Busy",
+            "notes": "(Sean Paul cover)"
+          },
+          {
+            "name": "Miss Congeniality Pageant Theme"
+          },
+          {
+            "name": "Too Easy"
+          },
+          {
+            "name": "i'm confident that i'm insecure",
+            "notes": "(Unreleased)"
+          },
+          {
+            "name": "So Damn Fast"
+          },
+          {
+            "name": "What Dreams Are Made Of",
+            "notes": "(Hilary Duff cover) (with Stacey Ryan) (from The Lizzie McGuire Movie)"
+          },
+          {
+            "name": "False Alarms"
+          },
+          {
+            "name": "Do You Wanna Do Nothing With Me?"
+          },
+          {
+            "name": "Say My Name",
+            "notes": "(Destiny’s Child cover) (with Antwaun Stanley)"
+          },
+          {
+            "name": "Toxic",
+            "notes": "(Britney Spears cover) (with Antwaun Stanley)"
+          },
+          {
+            "name": "Don't Lose Sight"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Stacy's Mom",
+            "notes": "(Fountains of Wayne cover) (With Antwaun Stanley & Stacey Ryan)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-bbe19e2.html"
+  }
+]

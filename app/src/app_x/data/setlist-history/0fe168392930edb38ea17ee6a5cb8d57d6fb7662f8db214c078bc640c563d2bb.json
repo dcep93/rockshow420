@@ -1,0 +1,86 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Assassin",
+            "notes": "(The Fearless Flyers song)"
+          },
+          {
+            "name": "Let's Go!"
+          },
+          {
+            "name": "Flyers Direct",
+            "notes": "(The Fearless Flyers song)"
+          },
+          {
+            "name": "You Got to Be You"
+          },
+          {
+            "name": "Kenni and the Jets",
+            "notes": "(The Fearless Flyers song)"
+          },
+          {
+            "name": "Home"
+          },
+          {
+            "name": "Crisis",
+            "notes": "(with Trousdale)"
+          },
+          {
+            "name": "Golden",
+            "notes": "(with Trousdale)"
+          },
+          {
+            "name": "Sandstorm / Better Off Alone / One More Time / The Rockafeller Skank",
+            "notes": "(with Trousdale)"
+          },
+          {
+            "name": "Bluebird",
+            "notes": "(with Michael Winograd) (tiny instruments)"
+          },
+          {
+            "name": "Lunchtime",
+            "notes": "(with Louis Cato)"
+          },
+          {
+            "name": "Direct Flyte",
+            "notes": "(with Victor Wooten)"
+          },
+          {
+            "name": "Welcome 2 Minneapolis",
+            "notes": "(with Victor Wooten)"
+          },
+          {
+            "name": "Separado",
+            "notes": "(with Victor Wooten)"
+          },
+          {
+            "name": "St. Paul",
+            "notes": "(with Victor Wooten)"
+          },
+          {
+            "name": "Stomping Grounds",
+            "notes": "(Béla Fleck and the Flecktones cover)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Press Conference"
+          },
+          {
+            "name": "Dean Town",
+            "notes": "(Vulfpeck cover) (with Sonny T, Victor Wooten AND Cory Wong ALL on bass and a boy from the audience on guitar)"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/cory-wong/2023/beacon-theatre-new-york-ny-bbae146.html"
+  }
+]

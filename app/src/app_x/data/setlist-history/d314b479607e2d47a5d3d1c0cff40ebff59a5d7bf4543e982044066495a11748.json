@@ -1,0 +1,79 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Damage, Inc.",
+            "notes": "(Metallica cover)"
+          },
+          {
+            "name": "Number One"
+          },
+          {
+            "name": "Live in the Moment"
+          },
+          {
+            "name": "Creep in a T-Shirt",
+            "notes": "(>)"
+          },
+          {
+            "name": "Children of the Revolution",
+            "notes": "(T. Rex cover)"
+          },
+          {
+            "name": "Sea of Air"
+          },
+          {
+            "name": "Atomic Man",
+            "notes": "(with snippet of The Rolling Stones' \"Gimme Shelter\")"
+          },
+          {
+            "name": "Hip Hop Kids"
+          },
+          {
+            "name": "Holy Roller (Hallelujah)"
+          },
+          {
+            "name": "Modern Jesus"
+          },
+          {
+            "name": "All Your Light (Times Like These)"
+          },
+          {
+            "name": "And I"
+          },
+          {
+            "name": "Colors"
+          },
+          {
+            "name": "For Whom the Bell Tolls",
+            "notes": "(Metallica cover)"
+          },
+          {
+            "name": "Another Brick in the Wall, Part 2",
+            "notes": "(Pink Floyd cover) (>)"
+          },
+          {
+            "name": "Purple Yellow Red and Blue"
+          },
+          {
+            "name": "Feel It Still"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Sleep Forever",
+            "notes": "(with snippets of \"Smile\" and The Beatles' \"Hey Jude\")"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/portugal-the-man/2019/fox-theater-oakland-ca-539bd30d.html"
+  }
+]

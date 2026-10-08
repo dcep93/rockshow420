@@ -1,0 +1,61 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: Curpa Stage",
+    "set_id": "jwyn1q",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "Toryanse"
+          },
+          {
+            "name": "Omakase"
+          },
+          {
+            "name": "Giri Giri"
+          },
+          {
+            "name": "Pineapple Kryptonite",
+            "notes": "(Yohji Igarashi remix)"
+          },
+          {
+            "name": "Otona Blue",
+            "notes": "(Introduction from 80's Intersection)"
+          },
+          {
+            "name": "Arigato"
+          },
+          {
+            "name": "Forever Sisters"
+          },
+          {
+            "name": "CANDY"
+          },
+          {
+            "name": "Suki Lie"
+          },
+          {
+            "name": "Solo Dance Break",
+            "notes": "(Live debut; unknown title; the girls showing dance moves one-by-one)",
+            "tape": true
+          },
+          {
+            "name": "WOO! GO!"
+          },
+          {
+            "name": "Fly High",
+            "notes": "(Live debut)"
+          },
+          {
+            "name": "Tokyo Calling"
+          },
+          {
+            "name": "NAINAINAI"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/atarashii-gakko/2024/parc-del-forum-barcelona-spain-23ab404b.html"
+  }
+]

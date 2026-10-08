@@ -1,0 +1,124 @@
+[
+  {
+    "kind": "setlist_fm",
+    "sets": [
+      {
+        "name": "Starfucker album",
+        "songs": [
+          {
+            "name": "Florida"
+          },
+          {
+            "name": "German Love"
+          },
+          {
+            "name": "Myke Ptyson"
+          },
+          {
+            "name": "Laadeedaa"
+          },
+          {
+            "name": "Rawnald Gregory Erickson the Second"
+          },
+          {
+            "name": "U Ba Khin"
+          },
+          {
+            "name": "Holly"
+          },
+          {
+            "name": "Hard Smart Beta"
+          },
+          {
+            "name": "Pop Song"
+          },
+          {
+            "name": "Miss You"
+          },
+          {
+            "name": "Isabella of Castile"
+          },
+          {
+            "name": "Pistol Pete"
+          }
+        ]
+      },
+      {
+        "name": "Second Set",
+        "songs": [
+          {
+            "name": "Boy Toy"
+          },
+          {
+            "name": "Atlantis"
+          },
+          {
+            "name": "Tape Machine"
+          },
+          {
+            "name": "Satellite"
+          },
+          {
+            "name": "Beach Monster"
+          },
+          {
+            "name": "Kahlil Gibran"
+          },
+          {
+            "name": "Mystery Cloud"
+          },
+          {
+            "name": "Malmo"
+          },
+          {
+            "name": "Something Ain't Right"
+          },
+          {
+            "name": "Open Your Eyes"
+          },
+          {
+            "name": "Jupiter"
+          },
+          {
+            "name": "Bury Us Alive"
+          },
+          {
+            "name": "Medicine"
+          },
+          {
+            "name": "Millions"
+          },
+          {
+            "name": "Girls Just Want to Have Fun",
+            "notes": "(Cyndi Lauper cover)"
+          },
+          {
+            "name": "Never Ever"
+          },
+          {
+            "name": "Filler"
+          },
+          {
+            "name": "While I'm Alive"
+          },
+          {
+            "name": "Being No One, Going Nowhere"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Leave It All Behind"
+          },
+          {
+            "name": "Maps"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/strfkr/2018/the-independent-san-francisco-ca-3be9f4bc.html"
+  }
+]

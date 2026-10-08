@@ -1,0 +1,120 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: \"$20\", \"Cool About It\", and \"Not Strong Enough\" filmed for the 500th Edition of CBS Saturday Morning's \"Saturday Sessions\", aired on 5th August 2023, alongside an interview with Anthony Mason which contained snippets of \"Satanist\" and \"True Blue\".",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "The Boys Are Back in Town",
+            "notes": "(Thin Lizzy song)",
+            "tape": true
+          }
+        ]
+      },
+      {
+        "name": "Act 1",
+        "songs": [
+          {
+            "name": "Without You Without Them",
+            "notes": "(from backstage)"
+          },
+          {
+            "name": "$20",
+            "notes": "(Filmed for the 500th Edition of CBS Saturday Morning's \"Saturday Sessions\", aired on 5th August 2023)"
+          },
+          {
+            "name": "Satanist",
+            "notes": "(Snippet aired on 5th August 2023 as part of accompanying interview for CBS's 500th Saturday Sessions)"
+          },
+          {
+            "name": "Emily I'm Sorry"
+          },
+          {
+            "name": "True Blue",
+            "notes": "(Snippet aired on 5th August 2023 as part of accompanying interview for CBS's 500th Saturday Sessions)"
+          },
+          {
+            "name": "Cool About It",
+            "notes": "(Filmed for the 500th Edition of CBS Saturday Morning's \"Saturday Sessions\", aired on 5th August 2023)"
+          }
+        ]
+      },
+      {
+        "name": "Act 2",
+        "songs": [
+          {
+            "name": "Souvenir"
+          },
+          {
+            "name": "Bite the Hand"
+          },
+          {
+            "name": "Revolution 0"
+          },
+          {
+            "name": "Stay Down"
+          },
+          {
+            "name": "Leonard Cohen"
+          },
+          {
+            "name": "Please Stay",
+            "notes": "(Lucy Dacus song)"
+          },
+          {
+            "name": "Favor",
+            "notes": "(Julien Baker song) (Restarted to help an audience member, stopped halfway through for the same reason but didn’t restart)"
+          },
+          {
+            "name": "Graceland Too",
+            "notes": "(Phoebe Bridgers song) (Restarted to help an audience member)"
+          }
+        ]
+      },
+      {
+        "name": "Act 3",
+        "songs": [
+          {
+            "name": "Boyfriends",
+            "notes": "(Live debut)"
+          },
+          {
+            "name": "Me & My Dog"
+          },
+          {
+            "name": "We're in Love"
+          },
+          {
+            "name": "Anti‐Curse"
+          },
+          {
+            "name": "Letter to an Old Poet"
+          },
+          {
+            "name": "Not Strong Enough",
+            "notes": "(Filmed for the 500th Edition of CBS Saturday Morning's \"Saturday Sessions\", aired on 5th August 2023)"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Ketchum, ID"
+          },
+          {
+            "name": "Salt in the Wound"
+          },
+          {
+            "name": "Dumbest Girl Alive",
+            "notes": "(100 gecs song)",
+            "tape": true
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/boygenius/2023/forest-hills-stadium-queens-ny-43a62f03.html"
+  }
+]

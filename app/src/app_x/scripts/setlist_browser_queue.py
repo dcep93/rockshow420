@@ -12,7 +12,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlencode, urljoin
 from collections import Counter
-from refresh_setlists import DATA, cache_key, publish, read, save
+from refresh_setlists import source_key, DATA, cache_key, publish, read, save
 from seed_setlists import catalog, targets_for, identity, matches, related
 from setlist_page import Tree, extract
 
@@ -35,7 +35,7 @@ if args.refresh:
 state["records"] = {k: v for k, v in state["records"].items() if not any("No setlist identity" in e.get("reason", "") for e in v.get("fetch_errors", []))}
 state.pop("blocked", None)
 state.update(total_targets=len(targets), total_events=len(events), events=events, retrieval="Public browser DOM; no setlist.fm API")
-sources = {cache_key(x["artist_id"], x["concert_id"]): x for x in read(DATA / "setlist-sources.json", [])}
+sources = {source_key(x): x for x in read(DATA / "setlist-sources.json", [])}
 for target in targets:
     if target["future"]:
         state["records"][cache_key(target["artist_id"], target["concert_id"])] = {**target, "status": "future"}
@@ -80,7 +80,7 @@ def next_job():
         if len(found) == 1:
             item, html, count = found[0]
             publish([(item, html)])
-            sources[cache_key(item["artist_id"], item["concert_id"])] = item
+            sources[source_key(item)] = item
             finish("cached", source_url=item["url"], songs=count)
         else:
             finish("ambiguous", candidates=[f[0]["url"] for f in found])

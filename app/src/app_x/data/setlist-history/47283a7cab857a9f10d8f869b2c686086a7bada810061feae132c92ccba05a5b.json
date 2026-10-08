@@ -1,0 +1,79 @@
+[
+  {
+    "kind": "setlist_fm",
+    "notes": "Note: \"Joyriders\" and \"Background Noise\" were listed as alternates to \"Razzmatazz\" on the printed setlist, but not played.",
+    "set_id": "y4j8pw",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "I Spy"
+          },
+          {
+            "name": "Disco 2000"
+          },
+          {
+            "name": "Mis-Shapes"
+          },
+          {
+            "name": "Something Changed",
+            "notes": "(Dedicated to Steve Mackey and Steve Albini)"
+          },
+          {
+            "name": "Pink Glove"
+          },
+          {
+            "name": "Weeds"
+          },
+          {
+            "name": "Weeds II (The Origin of the Species)"
+          },
+          {
+            "name": "F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E."
+          },
+          {
+            "name": "Sorted for E's & Wizz"
+          },
+          {
+            "name": "This Is Hardcore"
+          },
+          {
+            "name": "Do You Remember the First Time?"
+          },
+          {
+            "name": "Babies"
+          },
+          {
+            "name": "Sunrise"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Like a Friend"
+          },
+          {
+            "name": "Underwear"
+          },
+          {
+            "name": "Common People",
+            "notes": "(preceded by a tease of \"The Fear\")"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore 2:",
+        "songs": [
+          {
+            "name": "Razzmatazz"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/pulp/2024/parc-del-forum-barcelona-spain-63ab9adb.html"
+  }
+]

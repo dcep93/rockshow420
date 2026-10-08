@@ -1,32 +1,54 @@
-import type { Artist, Concert } from "./model";
+import { DateTime } from "luxon";
+import type { Artist, Concert, ScheduledSet } from "./model";
 
 export type Song = { name: string; notes?: string; tape?: boolean; artists?: string; explicit?: boolean };
 export type SongSet = { name?: string; encore?: boolean; songs: Song[] };
-export type PerformanceSetlist = { kind: "setlist_fm"; url: string; sets: SongSet[]; notes?: string };
+export type PerformanceSetlist = { kind: "setlist_fm"; url: string; set_id?: string; sets: SongSet[]; notes?: string };
 export type MusicalProgram = { kind: "musical_program"; url: string; title: string; production: string; basis: string; sets: SongSet[]; notes?: string };
 export type SpotifyTopTracks = { kind: "spotify_top_tracks"; url: string; artist: string; songs: Song[] };
 export type SongList = PerformanceSetlist | MusicalProgram | SpotifyTopTracks;
 export type SongCaches = {
-  setlists: Record<string, PerformanceSetlist>;
+  setlists: Record<string, PerformanceSetlist[]>;
   musicals: Record<string, MusicalProgram>;
   spotify: Record<string, SpotifyTopTracks>;
 };
 export type SongDisclosure = { key: string; title: string; label: string; value: SongList };
 
-export function concertSongLists(concert: Pick<Concert, "id" | "artist_id" | "supporting_artist_ids">, artists: Artist[], caches: SongCaches): SongDisclosure[] {
+type SongConcert = Pick<Concert, "id" | "artist_id" | "supporting_artist_ids">;
+
+export function artistSongLists(concertId: string, artistId: string, title: string, caches: SongCaches, setId?: string): SongDisclosure[] {
+  const key = `${encodeURIComponent(artistId)}:${encodeURIComponent(concertId)}`;
+  // A schedule row must only receive the performance explicitly assigned to it.
+  const performances = (caches.setlists[key] || []).filter(value => value.set_id === setId);
+  const lists: SongDisclosure[] = performances.map(value => ({
+    key: `${key}:${value.set_id || "concert"}:${value.url}`, title, label: "Songs", value,
+  }));
+  const top = caches.spotify[artistId];
+  if (top?.songs.length) lists.push({ key: `spotify:${artistId}`, title: title || top.artist, label: `Top ${top.songs.length} · Spotify`, value: top });
+  return lists.filter(({ value }) => value.kind === "spotify_top_tracks" || value.sets.some(set => set.songs.length));
+}
+
+export function concertSongLists(concert: SongConcert, artists: Artist[], caches: SongCaches): SongDisclosure[] {
   const names = new Map(artists.map(a => [a.id, a.name]));
   const ids = [...new Set([concert.artist_id, ...concert.supporting_artist_ids].filter(Boolean))];
-  const lists: SongDisclosure[] = [];
-  for (const id of ids) {
-    const key = `${encodeURIComponent(id)}:${encodeURIComponent(concert.id)}`;
-    const value = caches.setlists[key];
-    if (value) lists.push({ key, title: names.get(id) || id, label: "setlist.fm", value });
-  }
+  const lists = ids.flatMap(id => artistSongLists(concert.id, id, names.get(id) || id, caches));
   const program = caches.musicals[concert.id];
-  if (program) lists.push({ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program });
-  for (const id of ids) {
-    const value = caches.spotify[id];
-    if (value) lists.push({ key: `spotify:${id}`, title: names.get(id) || value.artist, label: `Spotify top ${value.songs.length}`, value });
-  }
+  if (program?.sets.some(set => set.songs.length)) lists.push({ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program });
   return lists;
+}
+
+export function groupScheduleDays(sets: ScheduledSet[], timezone: string): { day: string; sets: ScheduledSet[] }[] {
+  const groups = new Map<string, ScheduledSet[]>();
+  for (const set of sets) {
+    const day = set.day || (set.start ? DateTime.fromISO(set.start).setZone(timezone).toISODate() : "") || "";
+    const group = groups.get(day) || [];
+    group.push(set);
+    groups.set(day, group);
+  }
+  return [...groups].sort(([a], [b]) => (a || "9999").localeCompare(b || "9999"))
+    .map(([day, rows]) => ({ day, sets: rows.sort((a, b) => {
+      const aTime = a.start ? Date.parse(a.start) : Infinity;
+      const bTime = b.start ? Date.parse(b.start) : Infinity;
+      return aTime - bTime || (a.stage || "").localeCompare(b.stage || "") || a.id.localeCompare(b.id);
+    }) }));
 }

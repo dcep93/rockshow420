@@ -1,0 +1,65 @@
+[
+  {
+    "kind": "setlist_fm",
+    "set_id": "n39xci",
+    "sets": [
+      {
+        "songs": [
+          {
+            "name": "June"
+          },
+          {
+            "name": "Queen of Peace"
+          },
+          {
+            "name": "Only If for a Night"
+          },
+          {
+            "name": "Hunger"
+          },
+          {
+            "name": "Sweet Nothing",
+            "notes": "(Calvin Harris cover)"
+          },
+          {
+            "name": "South London Forever"
+          },
+          {
+            "name": "Dog Days Are Over"
+          },
+          {
+            "name": "100 Years"
+          },
+          {
+            "name": "Patricia"
+          },
+          {
+            "name": "Ship to Wreck"
+          },
+          {
+            "name": "Cosmic Love"
+          },
+          {
+            "name": "Delilah"
+          },
+          {
+            "name": "What Kind of Man"
+          }
+        ]
+      },
+      {
+        "encore": true,
+        "name": "Encore:",
+        "songs": [
+          {
+            "name": "Big God"
+          },
+          {
+            "name": "Shake It Out"
+          }
+        ]
+      }
+    ],
+    "url": "https://www.setlist.fm/setlist/florence-the-machine/2018/golden-gate-park-san-francisco-ca-usa-4be8b78e.html"
+  }
+]

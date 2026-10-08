@@ -1,0 +1,27 @@
+{
+  "artist": "ZOLA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ZOLA",
+      "name": "Too Fast Too Soon"
+    },
+    {
+      "artists": "ZOLA, Koa Ho",
+      "name": "peanut"
+    },
+    {
+      "artists": "ZOLA",
+      "name": "Don't Even"
+    },
+    {
+      "artists": "ZOLA",
+      "name": "Maple"
+    },
+    {
+      "artists": "ZOLA",
+      "name": "Old Playlists"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1J4ofBDurgOATlfzzyniZp"
+}

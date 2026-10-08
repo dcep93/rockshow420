@@ -1,5 +1,15 @@
 # Festival setlist capture report — 2026-10-08
 
+## Performance-aware follow-up
+
+The cache now distinguishes schedule set IDs under each artist:concert key. Reprocessing the saved captures recovered **34 additional festival performances**. A fresh Ginger Root capture adds another eight-song performance: **916 total cached performances / 12,206 songs**, including ordinary concerts. Original revisions and fetch provenance remain preserved.
+
+Current festival outcomes: **631 fully cached pairs, 6 partial, 361 empty pages, 36 ambiguous, 216 absent from the observed directory, and 81 canceled/excluded**. The inventory now has 1,389 schedule rows and 1,331 artist/concert pairs. Of the former 69 held pairs, 14 are fully cached, 6 partial, 6 empty, 7 absent and 36 still ambiguous. Thirty-seven pairs have at least one unresolved source-to-set association (including one partial pair).
+
+Ginger Root is added to Kilby on May 12 at 19:30, Desert Stage. Hot Flash Heat Wave is added to Sonoma on September 22, day-only; its public page has no reported songs. Nightly remains because replacement evidence is still inconclusive. See [the current follow-up report](performance-song-lists-report.md) for evidence and limits.
+
+## Initial directory pass (historical baseline)
+
 The complete directory pass is finished: **1,079 candidate performance URLs captured**, selected from **1,168 public performance links across 13 festival editions**. All matched candidates were visited. BottleRock 2020 was excluded. This is complete coverage of the observed festival directories for the imported artists, not a claim that no additional or differently attributed setlist exists elsewhere.
 
 **616 verified festival setlists, containing 7,019 song entries, were added.** The full cache now contains 881 performances and 11,755 song entries. Every current content hash matches its metadata and immutable history file. No music API was used.
