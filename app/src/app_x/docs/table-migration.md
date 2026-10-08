@@ -6,7 +6,7 @@ This reduces initial catalog delivery to six document reads. Authentication/prof
 
 ## Live cutover
 
-Deploy through `.github/workflows/workflow.yaml` on `main`. No personal Firebase CLI login is needed; GitHub uses its existing `SA_KEY` secret. The first run on October 8 passed application/cache tests and build, then stopped before production writes because the deployment account lacked Firestore IAM permissions. Quota reads are working again. Production migration is pending a successful release.
+Deploy through `.github/workflows/workflow.yaml` on `main`. No personal Firebase CLI login is needed; GitHub uses its existing `SA_KEY` secret. Production migration completed on October 8, 2026 at 08:07 UTC through GitHub run 37745926370, attempt 3, deploying application commit 4e1db093dd2754fe3747387e83fec7e7c5905aed. The owner approved the two missing Firestore IAM roles; after propagation, every pipeline step passed. All 818 legacy documents were conditionally retired after backup and live asset/table verification. The six public tables preserve all 354 concerts and 35 personal overrides; the private admin registry remains unchanged.
 
 1. Prepare a fresh source backup and validated six-table projection. Upload the backup artifact before any write. Saved research snapshots are never substituted for fresh production data.
 2. Deploy `backend/firestore.migration.rules` and index exemptions. Wait eleven minutes for active clients to adopt the write protections while the old application remains usable.
@@ -56,6 +56,12 @@ Schedules are public, edits require an admin, and rules restrict user selections
 
 ## Deployment access and recovery
 
-The workflow uses the existing `SA_KEY` service account through ADC. Required roles are Firebase Hosting Admin, Firebase Rules Admin, Service Usage Viewer, Cloud Datastore User, and Cloud Datastore Index Admin. The last two were missing in the first run; adding them requires the owner's explicit access approval. The pipeline never requests personal CLI authentication or stores credentials in artifacts.
+The workflow uses the existing `SA_KEY` service account through ADC. Required roles are Firebase Hosting Admin, Firebase Rules Admin, Service Usage Viewer, Cloud Datastore User, and Cloud Datastore Index Admin. The owner explicitly approved adding the last two roles on October 8. Their effective access was verified by the successful backup/migration run. The pipeline never requests personal CLI authentication or stores credentials in artifacts.
 
 A repeated release validates existing tables without replacing them. It backs up any remaining frozen legacy documents and can resume cleanup. Migration-compatible rules are only deployed on an initial migration; final rules remain authoritative thereafter. A failed run is not evidence that production migration or cleanup finished. Check step results and saved reports.
+
+## Completed release evidence
+
+[GitHub release](https://github.com/dcep93/rockshow420/actions/runs/37745926370): all steps passed. Live counts: 94 venues, 1,387 artists, 354 concerts, 14 schedules, one user and 35 personal overrides. Exact built HTML and five asset hashes matched production; the final access rules deployed successfully. Public browser checks rendered the corrected Kilby schedule and music-cache controls without runtime errors.
+
+Backup and verification reports were also downloaded outside the repository to `/Users/danielcepeda/repos/_codex_output/rockshow420/production-cutover-2026-10-08/github-run-37745926370-attempt-3-reports`. The `cutover-verified.json`, `hosting-verified.json`, and `retirement-verified.json` reports record counts, commit, asset hashes and deletion totals. These are operator artifacts, not app runtime data.
