@@ -74,6 +74,10 @@ test("every concert appears by default; only that user's explicit removals hide 
   assert.equal(userConcertRows(catalog, "me")[1].log?.notes, "Keep me");
   catalog.logs.push(normalizeLog("me_future", { user_id: "me", concert_id: "future", removed: true }));
   assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["past"]);
+  const expanded = userConcertRows(catalog, "me", true);
+  assert.deepEqual(expanded.map((row) => row.concert?.id), ["future", "past"]);
+  assert.equal(expanded[0].log?.removed, true);
+  assert.equal(userConcertRows(catalog, "other").some((row) => row.concert?.id === "past"), true);
   catalog.concerts.push(normalizeConcert("new", { date: "2028-01-01" }));
   assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["new", "past"]);
   catalog.logs[2].removed = false;

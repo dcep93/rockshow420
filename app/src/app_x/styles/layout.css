@@ -370,3 +370,9 @@
     scroll-behavior: auto !important;
   }
 }
+
+.rs-log-controls { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem 1rem; }
+.rs-log-controls .rs-check { color: var(--rs-muted); }
+.rs-concert-hidden { opacity: 0.6; border-bottom-style: dashed; }
+.rs-concert-hidden:hover, .rs-concert-hidden:focus-within { opacity: 1; }
+.rs-hidden-label { display: inline-block; color: var(--rs-muted); font-size: 0.75rem; margin-right: 0.5rem; }

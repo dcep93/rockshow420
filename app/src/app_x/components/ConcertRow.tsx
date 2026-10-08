@@ -9,12 +9,10 @@ export function ConcertRow({
   concert,
   catalog,
   log,
-  onEdit,
 }: {
   concert: Concert;
   catalog: Catalog;
   log?: UserConcert | null;
-  onEdit?: () => void;
 }) {
   const artist = catalog.artists.find((item) => item.id === concert.artist_id);
   const venue = catalog.venues.find((item) => item.id === concert.venue_id);
@@ -23,9 +21,10 @@ export function ConcertRow({
   );
   const festival = catalog.festivals.find((item) => item.concert_ids.includes(concert.id));
   return (
-    <article className="rs-concert-row">
+    <article className={`rs-concert-row${log?.removed ? " rs-concert-hidden" : ""}`}>
       <Picture src={artist?.image} name={artist?.name || ""} />
       <div className="rs-concert-info">
+        {log?.removed && <span className="rs-hidden-label">Hidden</span>}
         <p className="rs-date">{formatConcertDate(concert.date, venue?.timezone || "UTC")}</p>
         <h2>
           <Link href={entityPath("concert", concert.id, concertName(concert, catalog))}>
@@ -47,11 +46,6 @@ export function ConcertRow({
           </Link>
         )}
       </div>
-      {onEdit && (
-        <button type="button" className="rs-text-button rs-row-actions" onClick={onEdit}>
-          Edit
-        </button>
-      )}
     </article>
   );
 }

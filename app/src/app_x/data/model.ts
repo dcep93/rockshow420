@@ -118,14 +118,14 @@ export const normalizeLog = (id: string, raw: Raw): UserConcert => ({
 });
 
 // Missing user data means the concert is included, with no personal annotations.
-export function userConcertRows(catalog: Catalog, uid: string) {
+export function userConcertRows(catalog: Catalog, uid: string, includeHidden = false) {
   const logs = new Map(catalog.logs.filter((log) => log.user_id === uid).map((log) => [log.concert_id, log]));
   const rows: { concert?: Concert; log?: UserConcert }[] = catalog.concerts
-    .filter((concert) => !logs.get(concert.id)?.removed)
+    .filter((concert) => includeHidden || !logs.get(concert.id)?.removed)
     .map((concert) => ({ concert, log: logs.get(concert.id) }));
   const concertIds = new Set(catalog.concerts.map((concert) => concert.id));
   for (const log of logs.values()) {
-    if (!log.removed && !concertIds.has(log.concert_id)) rows.push({ log });
+    if ((includeHidden || !log.removed) && !concertIds.has(log.concert_id)) rows.push({ log });
   }
   return rows.sort((a, b) => (b.concert?.date || "").localeCompare(a.concert?.date || ""));
 }

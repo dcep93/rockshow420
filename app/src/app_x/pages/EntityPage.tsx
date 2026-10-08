@@ -1,5 +1,8 @@
+import { useState } from "react";
+import { ConcertEntries } from "../components/ConcertEntries";
+import { EntityEditor } from "../forms/EntityEditor";
 import { useApp } from "../data/store";
-import type { Concert, EntityKind, UserConcert } from "../data/model";
+import type { Concert, EntityKind } from "../data/model";
 import { formatConcertDate } from "../data/time";
 import { ConcertRow } from "../components/ConcertRow";
 import { Link } from "../components/navigation";
@@ -10,13 +13,12 @@ export function EntityPage({
   kind,
   id,
   onEdit,
-  onLog,
 }: {
   kind: EntityKind;
   id: string;
   onEdit: (kind: EntityKind, id: string) => void;
-  onLog: (concert: Concert, log?: UserConcert, uid?: string) => void;
 }) {
+  const [editingConcert, setEditingConcert] = useState(false);
   const { catalog, viewer, isAdmin, loading } = useApp();
   const record =
     kind === "concert"
@@ -33,11 +35,6 @@ export function EntityPage({
     const artist = catalog.artists.find((item) => item.id === concert.artist_id);
     const venue = catalog.venues.find((item) => item.id === concert.venue_id);
     const festivals = catalog.festivals.filter((item) => item.concert_ids.includes(id));
-    const records = catalog.logs.filter((item) => item.concert_id === id);
-    const ownLog = records.find((item) => item.user_id === viewer?.uid);
-    const logs = catalog.profiles.map((profile) => ({
-      profile, log: records.find((item) => item.user_id === profile.user_id),
-    })).filter(({ log }) => !log?.removed);
     return (
       <>
         <section className="rs-detail-heading">
@@ -54,23 +51,15 @@ export function EntityPage({
               {venue?.location && <span> · {venue.location}</span>}
             </p>
             <div className="rs-detail-actions">
-              {viewer ? (
-                <button
-                  type="button"
-                  className="rs-secondary"
-                  onClick={() => onLog(concert, ownLog)}
-                >
-                  {ownLog?.removed ? "Restore concert" : "Edit my entry"}
-                </button>
-              ) : null}
               {isAdmin && (
-                <button type="button" className="rs-text-button" onClick={() => onEdit("concert", id)}>
+                <button type="button" className="rs-text-button" onClick={() => setEditingConcert(!editingConcert)}>
                   Edit concert
                 </button>
               )}
             </div>
           </div>
         </section>
+        {isAdmin && editingConcert && <EntityEditor inline kind="concert" id={id} catalog={catalog} onClose={() => setEditingConcert(false)} onSaved={() => setEditingConcert(false)} />}
         <div className="rs-detail-grid">
           <section className="rs-panel">
             <h2>Lineup</h2>
@@ -118,33 +107,7 @@ export function EntityPage({
               </Link>
             ))}
           </section>
-          <section className="rs-panel rs-public-entries">
-            <div className="rs-section-heading">
-              <h2>User logs</h2>
-              <span className="rs-count">{logs.length}</span>
-            </div>
-            {logs.map(({ profile, log }) => {
-              const supports = (log?.supporting_artist_ids || []).map(
-                (artistId) =>
-                  catalog.artists.find((item) => item.id === artistId)?.name || "Unavailable artist",
-              );
-              return (
-                <article className="rs-entry" key={profile.user_id}>
-                  <div className="rs-entry-heading">
-                    <Link href={`/user/${encodeURIComponent(profile.username)}`}>@{profile.username}</Link>
-                    {(isAdmin || profile.user_id === viewer?.uid) && (
-                      <button type="button" className="rs-text-button" onClick={() => onLog(concert, log, profile.user_id)}>
-                        Edit entry
-                      </button>
-                    )}
-                  </div>
-                  {!!supports.length && <p className="rs-support">Supporting acts: {supports.join(" · ")}</p>}
-                  {log?.notes && <p className="rs-notes">{log.notes}</p>}
-                </article>
-              );
-            })}
-            {!logs.length && <p className="rs-muted">No entries</p>}
-          </section>
+          <ConcertEntries catalog={catalog} concert={concert} viewerUid={viewer?.uid} isAdmin={isAdmin} />
         </div>
       </>
     );

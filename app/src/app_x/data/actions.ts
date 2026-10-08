@@ -109,7 +109,7 @@ export async function deleteEntity(kind: EntityKind, id: string, catalog: Catalo
 export async function saveLog(
   uid: string,
   concertId: string,
-  fields: { notes: string; supporting_artist_ids: string[] },
+  fields: { notes: string; supporting_artist_ids: string[]; removed?: boolean },
   restore = false,
 ): Promise<void> {
   const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
@@ -117,23 +117,15 @@ export async function saveLog(
     const concert = await transaction.get(doc(db, "concerts", concertId));
     const existing = await transaction.get(ref);
     if (!concert.exists()) throw new Error("This concert no longer exists.");
-    if (existing.data()?.removed === true && !restore)
-      throw new Error("This concert was removed from the log. Restore it before editing.");
+    if (existing.data()?.removed === true && !restore && !fields.removed)
+      throw new Error("This concert is hidden. Unhide it before saving a visible entry.");
     const lineup: string[] = concert.data().supporting_artist_ids ?? [];
     if (fields.supporting_artist_ids.some((artist) => !lineup.includes(artist)))
       throw new Error("Supporting artists must belong to the concert lineup.");
-    const patch = { removed: false, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
+    const patch = { removed: fields.removed === true, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
     if (isDefaultLog({ ...existing.data(), ...patch })) {
       if (existing.exists()) transaction.delete(ref);
     } else if (existing.exists()) transaction.update(ref, patch);
     else transaction.set(ref, { user_id: uid, concert_id: concertId, ...patch });
-  });
-}
-export async function removeLog(uid: string, concertId: string): Promise<void> {
-  const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
-  await runTransaction(db, async (transaction) => {
-    const existing = await transaction.get(ref);
-    if (existing.exists()) transaction.update(ref, { removed: true });
-    else transaction.set(ref, { user_id: uid, concert_id: concertId, removed: true });
   });
 }

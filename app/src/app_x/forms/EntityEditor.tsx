@@ -12,7 +12,9 @@ export function EntityEditor({
   catalog,
   onClose,
   onSaved,
+  inline = false,
 }: {
+  inline?: boolean;
   kind: EntityKind;
   id?: string;
   catalog: Catalog;
@@ -149,8 +151,9 @@ export function EntityEditor({
       setBusy(false);
     }
   }
+  const Frame = inline ? InlineFrame : Modal;
   return (
-    <Modal
+    <Frame
       title={title}
       onClose={() => {
         if (!busy) onClose();
@@ -416,6 +419,10 @@ export function EntityEditor({
           </div>
         )}
       </form>
-    </Modal>
+    </Frame>
   );
+}
+
+function InlineFrame({ title, children }: { title: string; children: React.ReactNode; onClose: () => void }) {
+  return <section className="rs-panel rs-inline-editor" aria-label={title}><h2>{title}</h2>{children}</section>;
 }

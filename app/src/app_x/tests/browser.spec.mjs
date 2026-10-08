@@ -82,35 +82,39 @@ test("public pages: complete logs, detail-only notes, stale slugs and mobile lay
   expect(errors).toEqual([]);
 });
 
-test("concerts appear automatically and removal/restoration preserves personal data", async ({ page }) => {
+test("hidden concerts are revealed in the log and edited inline on their concert page", async ({ page }) => {
   const uid = await login(page, "bob@gmail.com");
   await expect(page.locator(".rs-concert-row")).toHaveCount(4);
-  await expect(page.getByRole("button", { name: "Add concert", exact: true })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: /Edit|Add concert/ })).toHaveCount(0);
+  await expect(page.getByRole("checkbox", { name: "Show 0 hidden" })).not.toBeChecked();
   expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
-  const radiohead = page.locator(".rs-concert-row").filter({ hasText: "Radiohead" });
-  await radiohead.getByRole("button", { name: "Edit", exact: true }).click();
+  await page.getByRole("link", { name: "Radiohead", exact: true }).click();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByLabel("Slowdive", { exact: true }).check();
   await page.getByLabel("Public Notes", { exact: true }).fill("Keep this note");
-  await page.getByRole("button", { name: "Save changes" }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
-  await radiohead.getByRole("button", { name: "Edit", exact: true }).click();
-  await page.getByRole("button", { name: "Remove", exact: true }).click();
-  await page.getByRole("button", { name: "Remove concert", exact: true }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "Hide", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Unhide", exact: true })).toBeVisible();
+  await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Keep this note");
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(true);
+  await page.getByRole("link", { name: "rockshow420", exact: true }).click();
   await expect(page.locator(".rs-concert-row")).toHaveCount(3);
-  await page.reload();
-  await expect(radiohead).toHaveCount(0);
-  expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("Keep this note");
-  await page.getByRole("button", { name: "Removed concerts", exact: true }).click();
-  await page.getByRole("button", { name: /Radiohead at Forest Hills Stadium/ }).click();
-  await expect(page.getByLabel("Public Notes", { exact: true })).toHaveValue("Keep this note");
-  await page.getByRole("button", { name: "Restore concert", exact: true }).click();
+  const hidden = page.getByRole("checkbox", { name: "Show 1 hidden" });
+  await expect(hidden).not.toBeChecked();
+  await hidden.check();
   await expect(page.locator(".rs-concert-row")).toHaveCount(4);
-  await radiohead.getByRole("button", { name: "Edit", exact: true }).click();
-  await put(`user_concerts/${uid}_c1`, { user_id: uid, concert_id: "c1", removed: true });
-  await page.getByRole("button", { name: "Save changes" }).click();
-  await expect(page.getByRole("alert")).toContainText(/removed/i);
-  await page.getByRole("button", { name: "Cancel", exact: true }).click();
+  const radiohead = page.locator(".rs-concert-row").filter({ hasText: "Radiohead" });
+  await expect(radiohead).toHaveClass(/rs-concert-hidden/);
+  await expect(radiohead).toContainText("Hidden");
+  await page.reload();
+  await expect(hidden).not.toBeChecked();
+  await expect(radiohead).toHaveCount(0);
+  await hidden.check();
+  await radiohead.getByRole("link", { name: "Radiohead", exact: true }).click();
+  await expect(page.getByLabel("Public Notes", { exact: true })).toHaveValue("Keep this note");
+  await expect(page.getByLabel("Slowdive", { exact: true })).toBeChecked();
+  await page.getByRole("button", { name: "Unhide", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Hide", exact: true })).toBeVisible();
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(false);
   await page.goto("/user/alice");
   await expect(page.locator(".rs-concert-row")).toHaveCount(4);
   await expect(page.getByRole("button", { name: "Edit", exact: true })).toHaveCount(0);
@@ -137,7 +141,7 @@ test("admin creates records, repairs references and preserves exact timestamps a
     .getByLabel("Setlist.fm URL optional", { exact: true })
     .fill("https://www.setlist.fm/setlist/example");
   await page.getByRole("button", { name: "Save", exact: true }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await expect(page.getByRole("region", { name: "Edit concert", exact: true })).toHaveCount(0);
   const record = await doc("concerts/exact");
   expect(record.fields.date.timestampValue).toBe("2026-10-07T20:30:45.123Z");
   expect(record.fields.future_field.stringValue).toBe("keep me");
@@ -180,12 +184,13 @@ test("admin creates records, repairs references and preserves exact timestamps a
   expect(created.documents.some((item) => item.fields.date.timestampValue === "2026-11-01T06:30:00Z")).toBe(
     true,
   );
-  await page.goto("/user/alice");
-  await page.locator(".rs-concert-row").filter({ hasText: "Radiohead" }).getByRole("button", { name: "Edit", exact: true }).click();
-  await page.getByLabel("Public Notes", { exact: true }).fill("Edited by admin");
-  await page.getByRole("button", { name: "Save changes", exact: true }).click();
+  await page.goto("/concert/c1/radiohead");
+  const alice = page.getByRole("article", { name: "@alice entry" });
+  await alice.getByRole("button", { name: "Edit entry", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
-  expect((await doc("user_concerts/alice-seed_c1")).fields.notes.stringValue).toBe("Edited by admin");
+  await alice.getByLabel("Public Notes", { exact: true }).fill("Edited by admin");
+  await alice.getByRole("button", { name: "Save changes", exact: true }).click();
+  await expect.poll(async () => (await doc("user_concerts/alice-seed_c1"))?.fields.notes.stringValue).toBe("Edited by admin");
 });
 
 test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
@@ -195,38 +200,29 @@ test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
   await expect(page.getByRole("button", { name: "Manage", exact: true })).toHaveCount(0);
 });
 
-test("saving defaults leaves no override and resetting edits deletes the override", async ({ page }) => {
+test("saving defaults leaves no override and resetting inline edits deletes the override", async ({ page }) => {
   const uid = await login(page, "defaults@gmail.com");
-  const row = page.locator(".rs-concert-row").filter({ hasText: "Radiohead" });
-  const edit = () => row.getByRole("button", { name: "Edit", exact: true }).click();
-  const save = async () => {
-    await page.getByRole("button", { name: "Save changes", exact: true }).click();
-    await expect(page.getByRole("dialog")).toHaveCount(0);
-  };
-  await edit();
+  await page.getByRole("link", { name: "Radiohead", exact: true }).click();
+  const save = page.getByRole("button", { name: "Save changes", exact: true });
   await expect(page.getByLabel("Public Notes", { exact: true })).toBeVisible();
   await expect(page.getByText("Notes are public.", { exact: true })).toHaveCount(0);
-  await save();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await expect(save).toBeDisabled();
   expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
-  await edit();
   await page.getByLabel("Public Notes", { exact: true }).fill("Temporary note");
   await page.getByLabel("Slowdive", { exact: true }).check();
-  await save();
-  expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("Temporary note");
-  await edit();
+  await save.click();
+  await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Temporary note");
+  await expect(save).toBeDisabled();
   await page.getByLabel("Public Notes", { exact: true }).fill("");
   await page.getByLabel("Slowdive", { exact: true }).uncheck();
-  await save();
-  expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
-  await expect(row).toBeVisible();
-  await edit();
-  await page.getByRole("button", { name: "Remove", exact: true }).click();
-  await page.getByRole("button", { name: "Remove concert", exact: true }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
-  await page.getByRole("button", { name: "Removed concerts", exact: true }).click();
-  await page.getByRole("button", { name: /Radiohead at Forest Hills Stadium/ }).click();
-  await page.getByRole("button", { name: "Restore concert", exact: true }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
-  expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
-  await expect(row).toBeVisible();
+  await save.click();
+  await expect.poll(() => doc(`user_concerts/${uid}_c1`)).toBeNull();
+  await expect(save).toBeDisabled();
+  await page.getByRole("button", { name: "Hide", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Unhide", exact: true })).toBeVisible();
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(true);
+  await page.getByRole("button", { name: "Unhide", exact: true }).click();
+  await expect(page.getByRole("button", { name: "Hide", exact: true })).toBeVisible();
+  await expect.poll(() => doc(`user_concerts/${uid}_c1`)).toBeNull();
 });

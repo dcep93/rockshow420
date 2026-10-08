@@ -1,16 +1,15 @@
 import { Component, useEffect, useState } from "react";
 import type { ReactNode } from "react";
-import type { Concert, EntityKind, UserConcert } from "./data/model";
+import type { EntityKind } from "./data/model";
+import { concertName } from "./data/presentation";
 import { AppProvider, useApp } from "./data/store";
 import { Link } from "./components/navigation";
-import { navigate, readRoute, usePath } from "./components/routing";
+import { entityPath, navigate, readRoute, usePath } from "./components/routing";
 import { Empty, Message } from "./components/ui";
 import { errorMessage } from "./components/errors";
 import { Login } from "./pages/Login";
 import { UserPage } from "./pages/UserPage";
 import { EntityPage } from "./pages/EntityPage";
-import { ConcertPicker } from "./forms/ConcertPicker";
-import { LogEditor } from "./forms/LogEditor";
 import { EntityEditor } from "./forms/EntityEditor";
 import { Manager } from "./forms/Manager";
 import { UserOptions } from "./components/UserOptions";
@@ -19,8 +18,6 @@ import "./styles/layout.css";
 import "./styles/forms.css";
 
 type Overlay =
-  | { type: "picker"; uid: string }
-  | { type: "log"; concert: Concert; log?: UserConcert; uid: string }
   | { type: "entity"; kind: EntityKind; id?: string }
   | { type: "manager" }
   | null;
@@ -46,10 +43,13 @@ function Shell() {
     if (ready && viewer && route.kind === "home")
       navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
   }, [ready, viewer, route.kind, route.id]);
-  const editLog = (concert: Concert, log?: UserConcert, uid?: string) => {
-    if (viewer) setOverlay({ type: "log", concert, log, uid: uid || log?.user_id || viewer.uid });
+  const editEntity = (kind: EntityKind, id?: string) => {
+    if (kind === "concert" && id) {
+      const concert = catalog.concerts.find((item) => item.id === id);
+      close();
+      navigate(entityPath("concert", id, concert ? concertName(concert, catalog) : "concert"));
+    } else setOverlay({ type: "entity", kind, id });
   };
-  const editEntity = (kind: EntityKind, id?: string) => setOverlay({ type: "entity", kind, id });
   const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/";
   return (
     <div className="rs-shell">
@@ -91,38 +91,15 @@ function Shell() {
         {!ready ? null : route.kind === "home" ? (
           viewer ? null : <Login />
         ) : loading ? null : route.kind === "user" ? (
-          <UserPage
-            username={route.id}
-            onRestore={(uid) => setOverlay({ type: "picker", uid })}
-            onEdit={editLog}
-          />
+          <UserPage key={route.id} username={route.id} />
         ) : ["concert", "venue", "artist", "festival"].includes(route.kind) ? (
-          <EntityPage kind={route.kind as EntityKind} id={route.id} onEdit={editEntity} onLog={editLog} />
+          <EntityPage key={`${route.kind}:${route.id}`} kind={route.kind as EntityKind} id={route.id} onEdit={editEntity} />
         ) : (
           <Empty title="Page not found">
             <Link href={home}>Home</Link>
           </Empty>
         )}
       </main>
-      {overlay?.type === "picker" && viewer && (
-        <ConcertPicker
-          catalog={catalog}
-          uid={overlay.uid}
-          onClose={close}
-          onSelect={(concert) => setOverlay({ type: "log", uid: overlay.uid, concert,
-            log: catalog.logs.find((log) => log.user_id === overlay.uid && log.concert_id === concert.id) })}
-        />
-      )}
-      {overlay?.type === "log" && viewer && (
-        <LogEditor
-          key={overlay.log?.id || overlay.concert.id}
-          catalog={catalog}
-          concert={overlay.concert}
-          log={overlay.log}
-          uid={overlay.uid}
-          onClose={close}
-        />
-      )}
       {overlay?.type === "manager" && isAdmin && (
         <Manager catalog={catalog} onEdit={editEntity} onClose={close} />
       )}

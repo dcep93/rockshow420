@@ -115,9 +115,9 @@ permissions must be verified after the project owner finishes the setup above.
   The editor rejects DST gaps and asks which instant to use during repeats.
   Changing a venue zone does not rewrite stored concert instants.
 - Catalog editors patch known edited fields and preserve unknown fields.
-  Missing optional fields remain supported. Every catalog concert appears in every user log by default. Removing a concert
+  Missing optional fields remain supported. Every catalog concert appears in every user log by default. Hiding a concert
   stores `removed: true` on that user's `user_concerts` record and preserves annotations.
-  Restoring it clears the flag. Saving defaults deletes the override (or skips creating it),
+  Unhiding it clears the flag. Saving defaults deletes the override (or skips creating it),
   unless unknown future fields need preserving. Existing records need no migration.
 - The app blocks catalog deletion when its loaded public catalog contains an
   incoming reference. Firestore rules cannot perform arbitrary reverse-reference
@@ -140,7 +140,7 @@ npm run test:browser
 These tests reset the local demo database and Auth accounts, then create sample
 artists, venues, concerts and users. They never connect to production. Coverage
 includes public pages on desktop/mobile, cosmetic URL slugs, Gmail-only popup
-sign-in, owner add/edit/remove and stale-edit protection, admin record creation,
+sign-in, inline owner edits, hidden-log display and unhide, default-override cleanup, admin record creation,
 missing-reference repair, exact-timestamp and unknown-field preservation, and
 DST gap/repeat entry. Screenshots and failure traces go to `/tmp/rockshow420-checks`
 and `/tmp/rockshow420-browser-results`.
