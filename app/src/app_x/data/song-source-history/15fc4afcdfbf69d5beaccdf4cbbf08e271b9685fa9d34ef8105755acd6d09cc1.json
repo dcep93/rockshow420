@@ -1,0 +1,28 @@
+{
+  "artist": "Hastings",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bilmuri, Hastings",
+      "name": "LIVIN' LAUGHIN' LOVIN'"
+    },
+    {
+      "artists": "NOTD, Hastings",
+      "name": "Killing Me"
+    },
+    {
+      "artists": "Hastings",
+      "explicit": true,
+      "name": "Blank Me"
+    },
+    {
+      "artists": "Hastings",
+      "name": "Blame The Brakes"
+    },
+    {
+      "artists": "Hastings",
+      "name": "Asking For A Friend"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0cMrisD7Y14WMODerxofNO"
+}

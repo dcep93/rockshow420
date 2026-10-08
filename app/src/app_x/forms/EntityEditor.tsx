@@ -4,7 +4,7 @@ import { deleteEntity, saveEntity } from "../data/actions";
 import { isCalendarDate, isTimezone, localTimeOptions, toLocalInput } from "../data/time";
 import { Modal, Message } from "../components/ui";
 import { errorMessage } from "../components/errors";
-import { concertName } from "../data/presentation";
+import { ScheduleEditor } from "./ScheduleEditor";
 
 export function EntityEditor({
   kind,
@@ -26,9 +26,7 @@ export function EntityEditor({
       ? catalog.venues.find((value) => value.id === id)
       : kind === "artist"
         ? catalog.artists.find((value) => value.id === id)
-        : kind === "festival"
-          ? catalog.festivals.find((value) => value.id === id)
-          : catalog.concerts.find((value) => value.id === id);
+        : catalog.concerts.find((value) => value.id === id);
   const venue = catalog.venues.find(
     (value) => value.id === (item && "venue_id" in item ? item.venue_id : ""),
   );
@@ -43,7 +41,6 @@ export function EntityEditor({
   const [support, setSupport] = useState(
     item && "supporting_artist_ids" in item ? item.supporting_artist_ids : [],
   );
-  const [concertIds, setConcertIds] = useState(item && "concert_ids" in item ? item.concert_ids : []);
   const [setlist, setSetlist] = useState(item && "setlist_fm_url" in item ? item.setlist_fm_url : "");
   const [dateOnly, setDateOnly] = useState(item && "date_precision" in item && item.date_precision === "day");
   const [endDate, setEndDate] = useState(item && "end_date" in item ? item.end_date || "" : "");
@@ -60,7 +57,6 @@ export function EntityEditor({
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
   const [confirmRemove, setConfirmRemove] = useState(false);
-  const [filter, setFilter] = useState("");
   const options = localDate && isTimezone(zone) ? localTimeOptions(localDate, zone) : [];
   const dateOption =
     options.length === 1 ? options[0] : options.find((option) => option.iso === offsetChoice);
@@ -101,7 +97,7 @@ export function EntityEditor({
       fields = {
         name: name.trim(),
         date_precision: dateOnly ? "day" : "time",
-        end_date: dateOnly ? endDate : "",
+        end_date: endDate,
         ...(dateEdited || !id ? { date: dateOnly ? `${localDate}T00:00:00.000Z` : dateOption!.iso } : {}),
         venue_id: venueId,
         artist_id: artistId,
@@ -126,13 +122,7 @@ export function EntityEditor({
         Object.assign(fields, { location: location.trim(), timezone, image: image.trim() });
       }
       if (kind === "artist") fields.image = image.trim();
-      if (kind === "festival") {
-        if (concertIds.some((value) => !catalog.concerts.some((concert) => concert.id === value))) {
-          setError("Remove unavailable concerts from this festival before saving.");
-          return;
-        }
-        fields.concert_ids = concertIds;
-      }
+
     }
     setBusy(true);
     try {
@@ -285,7 +275,7 @@ export function EntityEditor({
                 }}
               />
             </label>
-            {dateOnly && <label className="rs-field">End date <span className="rs-optional">optional</span><input type="date" min={localDate} value={endDate} onChange={(event) => setEndDate(event.target.value)} /></label>}
+            <label className="rs-field">End date <span className="rs-optional">optional</span><input type="date" min={localDate.slice(0, 10)} value={endDate} onChange={(event) => setEndDate(event.target.value)} /></label>
             {!dateOnly && <p className="rs-help">
               {zone
                 ? `Local time in ${zone.replaceAll("_", " ")}`
@@ -312,7 +302,7 @@ export function EntityEditor({
               </label>
             )}
             <fieldset>
-              <legend>Supporting artists</legend>
+              <legend>Lineup</legend>
               <div className="rs-check-list">
                 {support
                   .filter((value) => !catalog.artists.some((artist) => artist.id === value))
@@ -354,46 +344,6 @@ export function EntityEditor({
             </label>
           </>
         )}
-        {kind === "festival" && (
-          <fieldset>
-            <legend>Concerts</legend>
-            <input
-              type="search"
-              aria-label="Search festival concerts"
-              placeholder="Find a concert"
-              value={filter}
-              onChange={(event) => setFilter(event.target.value)}
-            />
-            <div className="rs-check-list">
-              {concertIds
-                .filter((value) => !catalog.concerts.some((concert) => concert.id === value))
-                .map((value) => (
-                  <label className="rs-check" key={value}>
-                    <input
-                      type="checkbox"
-                      checked
-                      onChange={() => setConcertIds(concertIds.filter((current) => current !== value))}
-                    />
-                    Unavailable concert ({value}) — uncheck to remove
-                  </label>
-                ))}
-              {catalog.concerts
-                .filter((concert) =>
-                  concertName(concert, catalog).toLowerCase().includes(filter.toLowerCase()),
-                )
-                .map((concert) => (
-                  <label className="rs-check" key={concert.id}>
-                    <input
-                      type="checkbox"
-                      checked={concertIds.includes(concert.id)}
-                      onChange={() => setConcertIds(toggle(concertIds, concert.id))}
-                    />
-                    {concertName(concert, catalog)}
-                  </label>
-                ))}
-            </div>
-          </fieldset>
-        )}
         {error && <Message error>{error}</Message>}
         {confirmRemove && (
           <div className="rs-confirm">
@@ -433,6 +383,7 @@ export function EntityEditor({
           </div>
         )}
       </form>
+      {kind === "concert" && id && <ScheduleEditor catalog={catalog} concertId={id} />}
     </Frame>
   );
 }

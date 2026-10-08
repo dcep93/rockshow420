@@ -1,0 +1,27 @@
+{
+  "artist": "Fazerdaze",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fazerdaze",
+      "name": "Lucky Girl"
+    },
+    {
+      "artists": "Fazerdaze",
+      "name": "Cherry Pie"
+    },
+    {
+      "artists": "Fazerdaze",
+      "name": "Bigger"
+    },
+    {
+      "artists": "Fazerdaze",
+      "name": "Come Apart"
+    },
+    {
+      "artists": "Fazerdaze",
+      "name": "Little Uneasy"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2awB7Ol181cocZcLLNBBAh"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "San Holo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "San Holo",
+      "name": "Light"
+    },
+    {
+      "artists": "San Holo",
+      "name": "We Rise"
+    },
+    {
+      "artists": "T-Pain, DJ DIESEL, San Holo, NGHTMRE, Kompany, SampliFire, IVORY",
+      "explicit": true,
+      "name": "STFU"
+    },
+    {
+      "artists": "Jai Wolf, San Holo",
+      "name": "Indian Summer (San Holo Remix)"
+    },
+    {
+      "artists": "San Holo, Kompany, Allegra Miles, Underbelly, Au5",
+      "name": "SMILING/HIDING"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0jNDKefhfSbLR9sFvcPLHo"
+}

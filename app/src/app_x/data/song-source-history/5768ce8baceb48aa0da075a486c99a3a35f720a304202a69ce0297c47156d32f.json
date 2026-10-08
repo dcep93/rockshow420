@@ -1,0 +1,27 @@
+{
+  "artist": "The Growlers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Growlers",
+      "name": "Going Gets Tough"
+    },
+    {
+      "artists": "The Growlers",
+      "name": "Night Ride"
+    },
+    {
+      "artists": "The Growlers",
+      "name": "Black Memories"
+    },
+    {
+      "artists": "The Growlers",
+      "name": "Dope on a Rope"
+    },
+    {
+      "artists": "The Growlers",
+      "name": "Rare Hearts"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2RhgnQNC74QoBlaUvT4MEe"
+}

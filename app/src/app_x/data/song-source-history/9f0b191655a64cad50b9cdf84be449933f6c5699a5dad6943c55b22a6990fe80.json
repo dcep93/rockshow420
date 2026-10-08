@@ -1,0 +1,31 @@
+{
+  "artist": "Kevin Abstract",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Geezer, Kevin Abstract, Dominic Fike, Love Spells, Truly Young",
+      "explicit": true,
+      "name": "Doggy (feat. Love Spells and Truly Young)"
+    },
+    {
+      "artists": "Kevin Abstract",
+      "explicit": true,
+      "name": "Peach"
+    },
+    {
+      "artists": "Kevin Abstract, Dominic Fike",
+      "explicit": true,
+      "name": "Maroon"
+    },
+    {
+      "artists": "Kevin Abstract, Dominic Fike, Geezer",
+      "explicit": true,
+      "name": "Geezer"
+    },
+    {
+      "artists": "rusowsky, Kevin Abstract",
+      "name": "LIAR?"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/07EcmJpfAday8xGkslfanE"
+}

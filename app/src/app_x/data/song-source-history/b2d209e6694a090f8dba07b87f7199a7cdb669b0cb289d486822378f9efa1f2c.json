@@ -1,0 +1,29 @@
+{
+  "artist": "Claire Rosinkranz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Claire Rosinkranz",
+      "name": "Backyard Boy"
+    },
+    {
+      "artists": "Claire Rosinkranz",
+      "name": "Dancer"
+    },
+    {
+      "artists": "Claire Rosinkranz",
+      "explicit": true,
+      "name": "don't miss me"
+    },
+    {
+      "artists": "Claire Rosinkranz",
+      "explicit": true,
+      "name": "Frankenstein"
+    },
+    {
+      "artists": "Claire Rosinkranz",
+      "name": "City"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3V0ZQW0dNuVaFtbVYgSI24"
+}

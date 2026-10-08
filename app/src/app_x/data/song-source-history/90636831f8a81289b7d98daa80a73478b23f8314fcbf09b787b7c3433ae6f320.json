@@ -1,0 +1,53 @@
+{
+  "artist": "The Beaches",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Beaches",
+      "name": "Edge of the Earth"
+    },
+    {
+      "artists": "The Beaches",
+      "name": "Blame Brett"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Last Girls At The Party"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Should've Known Better"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Hypothetical"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Takes One To Know One"
+    },
+    {
+      "artists": "The Beaches",
+      "name": "Keep Pretending"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Did I Say Too Much"
+    },
+    {
+      "artists": "Milky Chance, The Beaches",
+      "explicit": true,
+      "name": "Living In A Haze - feat. The Beaches"
+    },
+    {
+      "artists": "The Beaches",
+      "name": "Everything is Boring"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ws5XBA70XgeBpnLZhQBoy"
+}

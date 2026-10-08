@@ -1,0 +1,31 @@
+{
+  "artist": "Durand Bernarr",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Durand Bernarr",
+      "explicit": true,
+      "name": "Overqualified"
+    },
+    {
+      "artists": "Durand Bernarr",
+      "explicit": true,
+      "name": "AM I OKAY?!"
+    },
+    {
+      "artists": "Durand Bernarr",
+      "explicit": true,
+      "name": "Mango Butter"
+    },
+    {
+      "artists": "Durand Bernarr, Ari Lennox",
+      "name": "STUCK."
+    },
+    {
+      "artists": "Ari Lennox, Durand Bernarr",
+      "explicit": true,
+      "name": "Facetime (with Durand Bernarr) - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2d6ggH1oVt4z2zCuY2u5DW"
+}

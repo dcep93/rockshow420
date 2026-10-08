@@ -1,0 +1,30 @@
+{
+  "artist": "Baby Queen",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Baby Queen",
+      "name": "Dover Beach"
+    },
+    {
+      "artists": "Baby Queen",
+      "explicit": true,
+      "name": "Want Me"
+    },
+    {
+      "artists": "Baby Queen",
+      "explicit": true,
+      "name": "Raw Thoughts"
+    },
+    {
+      "artists": "Baby Queen",
+      "explicit": true,
+      "name": "You Shaped Hole"
+    },
+    {
+      "artists": "Baby Queen",
+      "name": "Colours Of You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4VqlewwKZJoIcA88PYHUDd"
+}

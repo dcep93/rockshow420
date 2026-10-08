@@ -1,0 +1,27 @@
+{
+  "artist": "Robert Finley",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Robert Finley",
+      "name": "Souled Out On You"
+    },
+    {
+      "artists": "Robert Finley",
+      "name": "Medicine Woman"
+    },
+    {
+      "artists": "Robert Finley",
+      "name": "Country Boy"
+    },
+    {
+      "artists": "Robert Finley",
+      "name": "Country Child"
+    },
+    {
+      "artists": "Robert Finley",
+      "name": "Sharecropper’s Son"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29mRqqZ15WaYjEsKNzcRkv"
+}

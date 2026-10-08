@@ -1,0 +1,48 @@
+{
+  "artist": "Beyoncé",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Beyoncé, JAŸ-Z",
+      "name": "Crazy In Love (feat. JAŸ-Z)"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Halo"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "MORNING DEW (DONK)"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Irreplaceable"
+    },
+    {
+      "artists": "Beyoncé, Shakira",
+      "name": "Beautiful Liar"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Sweet Dreams"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "If I Were a Boy"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Single Ladies (Put a Ring on It)"
+    },
+    {
+      "artists": "Beyoncé, Sean Paul",
+      "name": "Baby Boy (feat. Sean Paul)"
+    },
+    {
+      "artists": "Beyoncé, JAŸ-Z",
+      "explicit": true,
+      "name": "Drunk in Love (feat. JAŸ-Z)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6vWDO969PvNqNYHIOW5v0m"
+}

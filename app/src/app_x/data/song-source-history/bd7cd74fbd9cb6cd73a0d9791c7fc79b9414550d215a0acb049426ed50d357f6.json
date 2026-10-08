@@ -1,0 +1,30 @@
+{
+  "artist": "Fcukers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fcukers",
+      "name": "if you wanna party, come over to my house"
+    },
+    {
+      "artists": "Fcukers",
+      "name": "L.U.C.K.Y"
+    },
+    {
+      "artists": "Tame Impala, Fcukers",
+      "explicit": true,
+      "name": "Loser (Fcukers Remix)"
+    },
+    {
+      "artists": "Fcukers",
+      "explicit": true,
+      "name": "I Like It Like That"
+    },
+    {
+      "artists": "Fcukers",
+      "explicit": true,
+      "name": "Bon Bon"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3UtzOHYm3lQALkKzVD4wyO"
+}

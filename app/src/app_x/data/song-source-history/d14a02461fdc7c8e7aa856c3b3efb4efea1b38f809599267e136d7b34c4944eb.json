@@ -1,0 +1,32 @@
+{
+  "artist": "Childish Gambino",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Childish Gambino",
+      "explicit": true,
+      "name": "Les"
+    },
+    {
+      "artists": "Childish Gambino",
+      "explicit": true,
+      "name": "Heartbeat"
+    },
+    {
+      "artists": "Childish Gambino",
+      "explicit": true,
+      "name": "Redbone"
+    },
+    {
+      "artists": "Childish Gambino",
+      "explicit": true,
+      "name": "3005"
+    },
+    {
+      "artists": "Childish Gambino",
+      "explicit": true,
+      "name": "Me and Your Mama"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Amos Lee",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Amos Lee",
+      "name": "Sweet Pea"
+    },
+    {
+      "artists": "Amos Lee",
+      "name": "Windows Are Rolled Down"
+    },
+    {
+      "artists": "Amos Lee",
+      "name": "Arms Of A Woman"
+    },
+    {
+      "artists": "Amos Lee",
+      "name": "Colors"
+    },
+    {
+      "artists": "Amos Lee",
+      "name": "Wait Up For Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0QrowybipCKUDnq5y10PD2"
+}

@@ -1,0 +1,79 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Feed Me"
+        },
+        {
+          "name": "Lost in Space"
+        },
+        {
+          "name": "Helena Beat"
+        },
+        {
+          "name": "Take Me Back"
+        },
+        {
+          "name": "Waste"
+        },
+        {
+          "name": "Imagination"
+        },
+        {
+          "name": "Pseudologia Fantastica"
+        },
+        {
+          "name": "Coming of Age"
+        },
+        {
+          "name": "A Beginner's Guide to Destroying the Moon"
+        },
+        {
+          "name": "Lamb's Wool"
+        },
+        {
+          "name": "Houdini"
+        },
+        {
+          "name": "Call It What You Want"
+        },
+        {
+          "name": "Glitchzig"
+        },
+        {
+          "name": "Don't Stop (Color on the Walls)"
+        },
+        {
+          "name": "Lotus Eater"
+        },
+        {
+          "name": "Time to Get Closer"
+        },
+        {
+          "name": "Miss You"
+        },
+        {
+          "name": "A Diamond to Be Born"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Fire Escape"
+        },
+        {
+          "name": "Pumped Up Kicks"
+        },
+        {
+          "name": "Sit Next to Me"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/foster-the-people/2025/brooklyn-paramount-brooklyn-ny-6b507e66.html"
+}

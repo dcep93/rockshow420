@@ -1,0 +1,28 @@
+{
+  "artist": "Cuco",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cuco",
+      "explicit": true,
+      "name": "Lover Is a Day"
+    },
+    {
+      "artists": "Cuco",
+      "name": "Lo Que Siento"
+    },
+    {
+      "artists": "Cuco",
+      "name": "Amor de Siempre"
+    },
+    {
+      "artists": "Cuco",
+      "name": "Piel Canela"
+    },
+    {
+      "artists": "Cuco",
+      "name": "We Had to End It"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Tglaf8nvDzwSQnpSrjLHP"
+}

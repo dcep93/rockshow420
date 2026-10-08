@@ -1,0 +1,27 @@
+{
+  "artist": "The Linda Lindas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Linda Lindas, Hayley Williams",
+      "name": "Closer"
+    },
+    {
+      "artists": "The Linda Lindas",
+      "name": "Everybody Told Me"
+    },
+    {
+      "artists": "The Linda Lindas",
+      "name": "Burning Out"
+    },
+    {
+      "artists": "The Linda Lindas",
+      "name": "All In My Head"
+    },
+    {
+      "artists": "The Linda Lindas",
+      "name": "Oh!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/13dTrWNNrnZ3AkgNyQNKP5"
+}

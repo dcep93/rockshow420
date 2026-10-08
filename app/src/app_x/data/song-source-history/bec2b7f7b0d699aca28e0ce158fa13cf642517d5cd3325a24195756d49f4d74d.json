@@ -1,0 +1,28 @@
+{
+  "artist": "Boyfriend Sushi Town",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Boyfriend Sushi Town",
+      "name": "Finders Keepers"
+    },
+    {
+      "artists": "Boyfriend Sushi Town",
+      "explicit": true,
+      "name": "Jackson"
+    },
+    {
+      "artists": "Boyfriend Sushi Town",
+      "name": "Ski Mask"
+    },
+    {
+      "artists": "Boyfriend Sushi Town",
+      "name": "Hannah"
+    },
+    {
+      "artists": "Boyfriend Sushi Town",
+      "name": "Kenzie"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6KpgI2vHcBeNIn42iOSaeg"
+}

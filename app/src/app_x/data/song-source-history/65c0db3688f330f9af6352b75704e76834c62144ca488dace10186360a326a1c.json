@@ -1,0 +1,28 @@
+{
+  "artist": "girlhouse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "girlhouse",
+      "explicit": true,
+      "name": "concussion"
+    },
+    {
+      "artists": "girlhouse",
+      "name": "the fatalist"
+    },
+    {
+      "artists": "girlhouse",
+      "name": "a long december"
+    },
+    {
+      "artists": "Tyzo Bloom, girlhouse",
+      "name": "dad?"
+    },
+    {
+      "artists": "girlhouse",
+      "name": "knuckle tattoo"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+}

@@ -1,0 +1,102 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro",
+          "notes": "(Medley Pinball Wizard)",
+          "tape": true
+        },
+        {
+          "name": "Bennie and the Jets"
+        },
+        {
+          "name": "All the Girls Love Alice"
+        },
+        {
+          "name": "I Guess That's Why They Call It the Blues"
+        },
+        {
+          "name": "Border Song"
+        },
+        {
+          "name": "Tiny Dancer"
+        },
+        {
+          "name": "Philadelphia Freedom"
+        },
+        {
+          "name": "Indian Sunset"
+        },
+        {
+          "name": "Rocket Man (I Think It's Going to Be a Long, Long Time)"
+        },
+        {
+          "name": "Take Me to the Pilot"
+        },
+        {
+          "name": "Sorry Seems to Be the Hardest Word"
+        },
+        {
+          "name": "Someone Saved My Life Tonight"
+        },
+        {
+          "name": "Levon"
+        },
+        {
+          "name": "Candle in the Wind"
+        },
+        {
+          "name": "Funeral for a Friend/Love Lies Bleeding"
+        },
+        {
+          "name": "Burn Down the Mission"
+        },
+        {
+          "name": "Daniel"
+        },
+        {
+          "name": "Believe"
+        },
+        {
+          "name": "Sad Songs (Say So Much)"
+        },
+        {
+          "name": "Don't Let the Sun Go Down on Me",
+          "notes": "(Dedicated to Eddie Money)"
+        },
+        {
+          "name": "The Bitch Is Back"
+        },
+        {
+          "name": "I'm Still Standing"
+        },
+        {
+          "name": "Crocodile Rock"
+        },
+        {
+          "name": "Saturday Night's Alright for Fighting"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Your Song"
+        },
+        {
+          "name": "Goodbye Yellow Brick Road"
+        },
+        {
+          "name": "Don't Go Breaking My Heart",
+          "notes": "(Elton John & Kiki Dee song)",
+          "tape": true
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/elton-john/2019/chase-center-san-francisco-ca-6b9c8a72.html"
+}

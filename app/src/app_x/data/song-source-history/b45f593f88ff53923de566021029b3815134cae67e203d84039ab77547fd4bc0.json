@@ -1,0 +1,27 @@
+{
+  "artist": "Dead & Company",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dead & Company",
+      "name": "Althea - Live at Folsom Field, Boulder, CO, 7/3/23"
+    },
+    {
+      "artists": "Dead & Company",
+      "name": "Brown-Eyed Women - Live at Playing In The Sand, Riviera Maya, MX 2/15/18"
+    },
+    {
+      "artists": "Dead & Company",
+      "name": "Franklin's Tower - Live at Folsom Field, Boulder, CO, 7/3/23"
+    },
+    {
+      "artists": "Dead & Company",
+      "name": "I Know You Rider - Live at Folsom Field, Boulder, CO, 7/2/23"
+    },
+    {
+      "artists": "Dead & Company",
+      "name": "Sugaree - Live at TD Garden, Boston, MA 11/17/17"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4QMYdqiJf5bEC7P0EHbnxn"
+}

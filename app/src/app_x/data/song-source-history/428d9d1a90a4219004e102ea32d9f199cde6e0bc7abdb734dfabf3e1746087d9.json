@@ -1,0 +1,27 @@
+{
+  "artist": "Trikk",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Âme, Trikk, Jens Kuross",
+      "name": "Don't Waste My Time"
+    },
+    {
+      "artists": "Trikk",
+      "name": "Luxo"
+    },
+    {
+      "artists": "Trikk, MEUTE",
+      "name": "Raiva"
+    },
+    {
+      "artists": "Tri/xon, Trikk, Dixon, AUNTY RAYZOR",
+      "name": "LET’S GO"
+    },
+    {
+      "artists": "Trikk",
+      "name": "Rigor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4wPR8PhvdOB0vksHMUWDZY"
+}

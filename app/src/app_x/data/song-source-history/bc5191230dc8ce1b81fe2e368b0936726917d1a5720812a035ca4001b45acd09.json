@@ -1,0 +1,27 @@
+{
+  "artist": "Milky Chance",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Milky Chance",
+      "name": "Stolen Dance"
+    },
+    {
+      "artists": "Milky Chance",
+      "name": "Flashed Junk Mind"
+    },
+    {
+      "artists": "Milky Chance",
+      "name": "Down By The River"
+    },
+    {
+      "artists": "Milky Chance",
+      "name": "Cocoon"
+    },
+    {
+      "artists": "Milky Chance",
+      "name": "Living In A Haze"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1hzfo8twXdOegF3xireCYs"
+}

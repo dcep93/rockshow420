@@ -1,0 +1,27 @@
+{
+  "artist": "Lizzy McAlpine",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lizzy McAlpine",
+      "name": "ceilings"
+    },
+    {
+      "artists": "Lizzy McAlpine",
+      "name": "Staying"
+    },
+    {
+      "artists": "Lizzy McAlpine",
+      "name": "Pushing It Down and Praying"
+    },
+    {
+      "artists": "Lizzy McAlpine",
+      "name": "Spring Into Summer"
+    },
+    {
+      "artists": "Lizzy McAlpine",
+      "name": "Over country"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1GmsPCcpKgF9OhlNXjOsbS"
+}

@@ -1,0 +1,48 @@
+{
+  "artist": "Dropkick Murphys",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dropkick Murphys",
+      "name": "I'm Shipping Up To Boston"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "Rose Tattoo"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "The State Of Massachusetts"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "Johnny, I Hardly Knew Ya"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "The Boys Are Back"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "Worker's Song"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "The Warrior's Code"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "explicit": true,
+      "name": "The Dirty Glass"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "Who'll Stand With Us?"
+    },
+    {
+      "artists": "Dropkick Murphys",
+      "name": "The Green Fields Of France (No Man's Land)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7w9jdhcgHNdiPeNPUoFSlx"
+}

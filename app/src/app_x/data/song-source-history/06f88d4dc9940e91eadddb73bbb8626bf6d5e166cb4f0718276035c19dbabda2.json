@@ -1,0 +1,28 @@
+{
+  "artist": "Alex G",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alex G",
+      "name": "Harvey"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Sarah"
+    },
+    {
+      "artists": "Alex G, Emily Yacina",
+      "name": "Treehouse"
+    },
+    {
+      "artists": "Alex G",
+      "explicit": true,
+      "name": "Mary"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Things to Do"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6lcwlkAjBPSKnFBZjjZFJs"
+}

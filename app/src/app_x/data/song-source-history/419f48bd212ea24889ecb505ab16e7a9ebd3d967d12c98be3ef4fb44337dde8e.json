@@ -1,0 +1,30 @@
+{
+  "artist": "Paris Paloma",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Paris Paloma",
+      "explicit": true,
+      "name": "LABOUR - the cacophony"
+    },
+    {
+      "artists": "Paris Paloma",
+      "explicit": true,
+      "name": "labour"
+    },
+    {
+      "artists": "Paris Paloma",
+      "name": "Silhouette on the Hill"
+    },
+    {
+      "artists": "Paris Paloma",
+      "name": "the fruits"
+    },
+    {
+      "artists": "Paris Paloma",
+      "explicit": true,
+      "name": "It's Called: Freefall"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2EXpthNgSeTDeX8nGwxppp"
+}

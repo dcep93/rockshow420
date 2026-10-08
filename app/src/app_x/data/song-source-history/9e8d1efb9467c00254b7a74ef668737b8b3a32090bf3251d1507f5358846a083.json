@@ -1,0 +1,27 @@
+{
+  "artist": "CAROLA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "CAROLA",
+      "name": "Mi Reflejo - Cover"
+    },
+    {
+      "artists": "CAROLA",
+      "name": "Corazón Partío - Cover"
+    },
+    {
+      "artists": "CAROLA",
+      "name": "Lo Que Ella No Te Da"
+    },
+    {
+      "artists": "CAROLA",
+      "name": "Volteame a Ver"
+    },
+    {
+      "artists": "CAROLA",
+      "name": "Salvame - Cover"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1sLho4JtHWiN8X9lFP0dBd"
+}

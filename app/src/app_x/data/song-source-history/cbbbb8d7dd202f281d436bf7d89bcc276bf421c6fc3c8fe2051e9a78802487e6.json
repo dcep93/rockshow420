@@ -1,0 +1,27 @@
+{
+  "artist": "Absofacto",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Absofacto, NITESHIFT",
+      "name": "Dissolve"
+    },
+    {
+      "artists": "Absofacto",
+      "name": "Someone Else’s Dream"
+    },
+    {
+      "artists": "Absofacto, NITESHIFT",
+      "name": "Dissolve - acoustic"
+    },
+    {
+      "artists": "Absofacto",
+      "name": "Light Outside"
+    },
+    {
+      "artists": "Absofacto, Herizen",
+      "name": "Done with Love (feat. Herizen)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7gAYvcQFmAruyvwGjxrSUr"
+}

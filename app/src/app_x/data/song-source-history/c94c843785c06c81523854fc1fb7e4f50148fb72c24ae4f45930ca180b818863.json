@@ -1,0 +1,27 @@
+{
+  "artist": "Billy Joel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Billy Joel",
+      "name": "Piano Man"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Uptown Girl"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Vienna"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "We Didn't Start the Fire"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "My Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6zFYqv1mOsgBRQbae3JJ9e"
+}

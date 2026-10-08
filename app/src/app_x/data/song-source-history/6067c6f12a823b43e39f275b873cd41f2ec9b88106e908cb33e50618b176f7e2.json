@@ -1,0 +1,28 @@
+{
+  "artist": "Goldie Boutilier",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Goldie Boutilier",
+      "name": "Cowboy Gangster Politician"
+    },
+    {
+      "artists": "Goldie Boutilier",
+      "name": "Body Heat"
+    },
+    {
+      "artists": "Goldie Boutilier",
+      "explicit": true,
+      "name": "INFINITE LOVE"
+    },
+    {
+      "artists": "Goldie Boutilier",
+      "name": "King of Possibilities"
+    },
+    {
+      "artists": "Goldie Boutilier",
+      "name": "PARTY"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/392WuM1Yb4QRI0GG4epyn5"
+}

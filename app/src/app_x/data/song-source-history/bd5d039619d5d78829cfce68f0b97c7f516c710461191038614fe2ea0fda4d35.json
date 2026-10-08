@@ -1,0 +1,31 @@
+{
+  "artist": "Trackstar the DJ",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daemon, Trackstar the DJ",
+      "name": "All the Way Outside"
+    },
+    {
+      "artists": "Daemon, Trackstar the DJ",
+      "explicit": true,
+      "name": "Red Pill 84"
+    },
+    {
+      "artists": "Daemon, Trackstar the DJ, Rockwell Knuckles, Tef Poe",
+      "explicit": true,
+      "name": "Demagogue"
+    },
+    {
+      "artists": "Daemon, Trackstar the DJ",
+      "explicit": true,
+      "name": "Just a Choice"
+    },
+    {
+      "artists": "Daemon, Trackstar the DJ",
+      "explicit": true,
+      "name": "Credit Check"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Mb3DJsS9WtLwMPKyuCGdk"
+}

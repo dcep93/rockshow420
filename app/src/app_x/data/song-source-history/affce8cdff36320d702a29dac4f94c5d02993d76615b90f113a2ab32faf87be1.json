@@ -1,0 +1,32 @@
+{
+  "artist": "A Boogie Wit da Hoodie",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "A Boogie Wit da Hoodie, Kodak Black",
+      "explicit": true,
+      "name": "Drowning (feat. Kodak Black)"
+    },
+    {
+      "artists": "A Boogie Wit da Hoodie",
+      "explicit": true,
+      "name": "Still Think About You"
+    },
+    {
+      "artists": "A Boogie Wit da Hoodie",
+      "explicit": true,
+      "name": "My Shit"
+    },
+    {
+      "artists": "A Boogie Wit da Hoodie",
+      "explicit": true,
+      "name": "Look Back at It"
+    },
+    {
+      "artists": "A Boogie Wit da Hoodie",
+      "explicit": true,
+      "name": "D.T.B. (Interlude)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/31W5EY0aAly4Qieq6OFu6I"
+}

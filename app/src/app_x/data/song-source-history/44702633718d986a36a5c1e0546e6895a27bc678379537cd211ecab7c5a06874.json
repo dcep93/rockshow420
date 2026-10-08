@@ -1,0 +1,28 @@
+{
+  "artist": "mxmtoon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "mxmtoon",
+      "name": "prom dress"
+    },
+    {
+      "artists": "Peachy!, mxmtoon",
+      "name": "Falling for U"
+    },
+    {
+      "artists": "BoyWithUke, mxmtoon",
+      "explicit": true,
+      "name": "Prairies (with mxmtoon)"
+    },
+    {
+      "artists": "Ricky Montgomery, mxmtoon",
+      "name": "Line Without a Hook (feat. mxmtoon)"
+    },
+    {
+      "artists": "Noah Kahan, mxmtoon",
+      "name": "Pride (with mxmtoon)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0HthCchcL0kVLHTr113Vk1"
+}

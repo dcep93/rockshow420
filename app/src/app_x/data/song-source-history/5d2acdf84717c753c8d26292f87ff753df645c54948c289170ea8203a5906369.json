@@ -1,0 +1,30 @@
+{
+  "artist": "Sum 41",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sum 41",
+      "name": "In Too Deep"
+    },
+    {
+      "artists": "Sum 41",
+      "explicit": true,
+      "name": "Still Waiting"
+    },
+    {
+      "artists": "Sum 41",
+      "explicit": true,
+      "name": "Fat Lip"
+    },
+    {
+      "artists": "Sum 41",
+      "explicit": true,
+      "name": "The Hell Song"
+    },
+    {
+      "artists": "Sum 41",
+      "name": "Pieces"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0qT79UgT5tY4yudH9VfsdT"
+}

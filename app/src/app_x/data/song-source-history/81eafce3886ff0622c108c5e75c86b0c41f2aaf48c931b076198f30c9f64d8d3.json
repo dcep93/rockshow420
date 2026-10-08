@@ -1,0 +1,27 @@
+{
+  "artist": "Crimson Apple",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Crimson Apple",
+      "name": "War With My Mind"
+    },
+    {
+      "artists": "Crimson Apple",
+      "name": "Break Your Heart Worse"
+    },
+    {
+      "artists": "Crimson Apple",
+      "name": "Sorry Now"
+    },
+    {
+      "artists": "Crimson Apple, Sondr",
+      "name": "Can't Get Out of Bed (Remix)"
+    },
+    {
+      "artists": "Crimson Apple",
+      "name": "Can't Get Out of Bed"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ie9S7zyP97Bkk1srzHNGa"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Billie Eilish",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Billie Eilish",
+      "name": "BIRDS OF A FEATHER"
+    },
+    {
+      "artists": "Billie Eilish",
+      "name": "WILDFLOWER"
+    },
+    {
+      "artists": "Billie Eilish, Khalid",
+      "name": "lovely (with Khalid)"
+    },
+    {
+      "artists": "Billie Eilish",
+      "name": "ocean eyes"
+    },
+    {
+      "artists": "Billie Eilish",
+      "name": "CHIHIRO"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+}

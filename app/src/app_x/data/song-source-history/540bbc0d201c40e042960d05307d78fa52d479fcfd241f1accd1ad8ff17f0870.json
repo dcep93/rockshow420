@@ -1,0 +1,27 @@
+{
+  "artist": "Animals As Leaders",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Animals As Leaders",
+      "name": "Physical Education"
+    },
+    {
+      "artists": "Animals As Leaders",
+      "name": "The Woven Web"
+    },
+    {
+      "artists": "Animals As Leaders",
+      "name": "Cafo"
+    },
+    {
+      "artists": "Animals As Leaders",
+      "name": "Tooth and Claw"
+    },
+    {
+      "artists": "Animals As Leaders",
+      "name": "Monomyth"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/65C6Unk7nhg2aCnVuAPMo8"
+}

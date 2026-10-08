@@ -24,7 +24,7 @@ export function UserPage({ username }: { username: string }) {
   const allRows = userConcertRows(catalog, profile.user_id, true);
   const hiddenCount = allRows.filter(({ log }) => log?.removed).length;
   const count = allRows.length - hiddenCount;
-  const rows = allRows.filter(({ log }) => showHidden || !log?.removed);
+  const rows = allRows.filter(({ log }) => showHidden ? log?.removed === true : !log?.removed);
   const groups: Record<"upcoming" | "past" | "unknown", typeof rows> = { upcoming: [], past: [], unknown: [] };
   const timezones = new Map(catalog.venues.map((venue) => [venue.id, venue.timezone]));
   for (const row of rows) {
@@ -61,7 +61,7 @@ export function UserPage({ username }: { username: string }) {
           ))}
         </div>}
         {!!groups.unknown.length && <div className="rs-concert-list">{groups.unknown.map(renderRow)}</div>}
-        {!rows.length && <Empty title="No concerts" />}
+        {!rows.length && <Empty title={showHidden ? "No hidden concerts" : "No concerts"} />}
       </section>
     </>
   );

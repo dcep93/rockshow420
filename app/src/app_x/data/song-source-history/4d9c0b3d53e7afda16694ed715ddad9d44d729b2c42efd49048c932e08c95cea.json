@@ -1,0 +1,47 @@
+{
+  "artist": "Korn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EKorn",
+      "name": "Freak On a Leash"
+    },
+    {
+      "artists": "Korn",
+      "name": "Blind"
+    },
+    {
+      "artists": "Korn",
+      "name": "Coming Undone"
+    },
+    {
+      "artists": "EKorn",
+      "name": "Falling Away from Me"
+    },
+    {
+      "artists": "EKorn",
+      "name": "Got the Life"
+    },
+    {
+      "artists": "EKorn",
+      "name": "Y'all Want a Single"
+    },
+    {
+      "artists": "EKorn",
+      "name": "Twisted Transistor"
+    },
+    {
+      "artists": "EKorn",
+      "name": "Here to Stay"
+    },
+    {
+      "artists": "Korn",
+      "name": "Word Up!"
+    },
+    {
+      "artists": "EKorn",
+      "name": "A.D.I.D.A.S."
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Young Thug",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Metro Boomin, Travis Scott, Young Thug",
+      "explicit": true,
+      "name": "Trance (with Travis Scott & Young Thug)"
+    },
+    {
+      "artists": "Young Thug, Lil Baby",
+      "explicit": true,
+      "name": "Bad Bad Bad (feat. Lil Baby)"
+    },
+    {
+      "artists": "Young Thug, Travis Scott, Gunna",
+      "explicit": true,
+      "name": "Hot (Remix) [feat. Gunna and Travis Scott]"
+    },
+    {
+      "artists": "Chris Brown, Young Thug",
+      "explicit": true,
+      "name": "Go Crazy"
+    },
+    {
+      "artists": "Young Thug, J. Cole, Travis Scott",
+      "explicit": true,
+      "name": "The London (feat. J. Cole & Travis Scott)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/50co4Is1HCEo8bhOyUWKpn"
+}

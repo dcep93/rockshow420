@@ -1,0 +1,28 @@
+{
+  "artist": "Aidan Bissett",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Aidan Bissett",
+      "name": "More Than Friends"
+    },
+    {
+      "artists": "Aidan Bissett",
+      "explicit": true,
+      "name": "Tripping Over Air"
+    },
+    {
+      "artists": "Aidan Bissett",
+      "name": "ricochet"
+    },
+    {
+      "artists": "Aidan Bissett",
+      "name": "Out Of My League"
+    },
+    {
+      "artists": "Aidan Bissett",
+      "name": "All That I'm Craving"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4XQI4hyuy5xun1ou3SM8Oe"
+}

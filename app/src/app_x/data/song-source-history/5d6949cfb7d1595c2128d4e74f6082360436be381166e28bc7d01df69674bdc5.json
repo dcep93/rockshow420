@@ -1,0 +1,48 @@
+{
+  "artist": "Hozier",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hozier",
+      "name": "Too Sweet"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Take Me to Church"
+    },
+    {
+      "artists": "Noah Kahan, Hozier",
+      "explicit": true,
+      "name": "Northern Attitude (with Hozier)"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Work Song"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Someone New"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Would That I"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Do I Wanna Know? - BBC Live Lounge"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Like Real People Do"
+    },
+    {
+      "artists": "Hozier",
+      "name": "From Eden"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Almost (Sweet Music)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2FXC3k01G6Gw61bmprjgqS"
+}

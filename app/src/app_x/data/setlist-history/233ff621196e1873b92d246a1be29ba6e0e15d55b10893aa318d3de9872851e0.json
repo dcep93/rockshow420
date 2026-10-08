@@ -1,0 +1,41 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Rise"
+        },
+        {
+          "name": "Rhythm Inside"
+        },
+        {
+          "name": "Biblical"
+        },
+        {
+          "name": "Boys in the Street",
+          "notes": "(Greg Holden cover)"
+        },
+        {
+          "name": "Where Are You Now",
+          "notes": "(Lost Frequencies cover)"
+        },
+        {
+          "name": "This Love",
+          "notes": "(Maroon 5 cover)"
+        },
+        {
+          "name": "If You Ever Change Your Mind"
+        },
+        {
+          "name": "You Are the Reason"
+        },
+        {
+          "name": "Dancing on My Own",
+          "notes": "(Robyn cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/calum-scott/2022/the-warfield-san-francisco-ca-43b6bf27.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Ty Segall",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ty Segall",
+      "name": "My Lady's On Fire"
+    },
+    {
+      "artists": "Ty Segall",
+      "name": "Black Paint"
+    },
+    {
+      "artists": "Ty Segall, White Fence",
+      "name": "Time"
+    },
+    {
+      "artists": "Ty Segall",
+      "name": "Running to Nowhere"
+    },
+    {
+      "artists": "Ty Segall",
+      "name": "Feel"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/58XGUNsRNu3cVOIOYk5chx"
+}

@@ -1,0 +1,115 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: A Celebration of the Life and Music of Bob Weir. Show included Jeff, James, and Dave from Strangers Stopping Strangers. Vinnie Amico (from moe.) and Ross Bogan (Wolf Mask) played for the entire show.",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Sugar Magnolia",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Black-Throated Wind",
+          "notes": "(Bob Weir cover)"
+        },
+        {
+          "name": "Me and My Uncle",
+          "notes": "(John Phillips cover)"
+        },
+        {
+          "name": "Feel Like a Stranger",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "Promised Land",
+          "notes": "(Chuck Berry cover)"
+        },
+        {
+          "name": "Not Fade Away",
+          "notes": "(The Crickets cover) (with Karina Rykman) (->)"
+        },
+        {
+          "name": "I Need a Miracle",
+          "notes": "(Grateful Dead cover) (with Karina Rykman)"
+        },
+        {
+          "name": "Playing in the Band",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "Mama Tried",
+          "notes": "(Merle Haggard and the Strangers cover) (->\"Playing in the Band\" reprise)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Jack Straw",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Estimated Prophet",
+          "notes": "(Grateful Dead cover) (with Matisyahu)"
+        },
+        {
+          "name": "Cassidy",
+          "notes": "(Bob Weir cover)"
+        },
+        {
+          "name": "Samson and Delilah",
+          "notes": "([traditional] cover) (with Robert Randolph)"
+        },
+        {
+          "name": "Big River",
+          "notes": "(Johnny Cash cover)"
+        },
+        {
+          "name": "Let It Grow",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "Drums",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "Saint of Circumstance",
+          "notes": "(Grateful Dead cover) (->\"Let It Grow\" reprise)"
+        },
+        {
+          "name": "Truckin'",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "The Other One",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "The Music Never Stopped",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "One More Saturday Night",
+          "notes": "(Bob Weir cover)"
+        },
+        {
+          "name": "China Cat Sunflower",
+          "notes": "(Grateful Dead cover) (->)"
+        },
+        {
+          "name": "I Know You Rider",
+          "notes": "([traditional] cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/bushwicks-dead/2026/brooklyn-bowl-brooklyn-ny-3b4aecac.html"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Jessie Reyez",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Calvin Harris, Sam Smith, Jessie Reyez",
+      "name": "Promises (with Sam Smith)"
+    },
+    {
+      "artists": "Jessie Reyez",
+      "explicit": true,
+      "name": "99%"
+    },
+    {
+      "artists": "Jessie Reyez",
+      "explicit": true,
+      "name": "FIGURES"
+    },
+    {
+      "artists": "Calvin Harris, Jessie Reyez",
+      "name": "Ocean"
+    },
+    {
+      "artists": "Jessie Reyez",
+      "explicit": true,
+      "name": "**CUDN’T B ME**"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3KedxarmBCyFBevnqQHy3P"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Boys Noize",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rampa, Adam Port, &ME, Boys Noize, Vinson, Keinemusik",
+      "name": "Crazy For It"
+    },
+    {
+      "artists": "Skrillex, Boys Noize, Opus III",
+      "name": "Fine Day Anthem"
+    },
+    {
+      "artists": "Kungs, Boys Noize",
+      "name": "Get Away"
+    },
+    {
+      "artists": "Tame Impala, JENNIE, Boys Noize",
+      "explicit": true,
+      "name": "Dracula (with JENNIE) - Boys Noize Disko Version"
+    },
+    {
+      "artists": "Brutalismus 3000, Boys Noize",
+      "explicit": true,
+      "name": "I Bring My Gun To The Function (with Boys Noize)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/62k5LKMhymqlDNo2DWOvvv"
+}

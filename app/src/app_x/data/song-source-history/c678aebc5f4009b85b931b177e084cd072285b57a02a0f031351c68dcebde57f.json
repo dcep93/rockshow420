@@ -1,0 +1,29 @@
+{
+  "artist": "Neck Deep",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Neck Deep",
+      "name": "Wish You Were Here"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "December"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "In Bloom"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "A Part Of Me (feat. Laura Whiteside)"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "December (again) [feat. Mark Hoppus]"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2TM0qnbJH4QPhGMCdPt7fH"
+}

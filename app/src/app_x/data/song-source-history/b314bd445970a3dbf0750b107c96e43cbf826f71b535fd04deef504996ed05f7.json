@@ -1,0 +1,27 @@
+{
+  "artist": "Timmy Trumpet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Timmy Trumpet, Savage",
+      "name": "Freaks"
+    },
+    {
+      "artists": "Robin Schulz, Timmy Trumpet, KOPPY",
+      "name": "All the Things She Said"
+    },
+    {
+      "artists": "Timmy Trumpet, POLTERGST, Naeleck",
+      "name": "Like A G6 (with Naeleck)"
+    },
+    {
+      "artists": "Timmy Trumpet, Gabry Ponte",
+      "name": "Mad World"
+    },
+    {
+      "artists": "Blasterjaxx, Timmy Trumpet",
+      "name": "Narco"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0CbeG1224FS58EUx4tPevZ"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "RENCE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Abel Smith, Strxss, RENCE, Isaac the Miracle",
+      "name": "Gud Things"
+    },
+    {
+      "artists": "RENCE, Tiblo Wavez, WonderBand",
+      "name": "the law (WonderBand Molao)"
+    },
+    {
+      "artists": "RENCE",
+      "explicit": true,
+      "name": "pull some strings"
+    },
+    {
+      "artists": "RENCE, Conny",
+      "name": "fade away"
+    },
+    {
+      "artists": "RENCE, FEGGY",
+      "explicit": true,
+      "name": "frienemies - full version"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5swvsRRZiv75D5NmRffxlb"
+}

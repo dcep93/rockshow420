@@ -1,0 +1,30 @@
+{
+  "artist": "Tierra Whack",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Nija, Beyoncé, Busiswa, Yemi Alade, Tierra Whack, Moonchild Sanelly, DJ Lag",
+      "name": "MY POWER"
+    },
+    {
+      "artists": "Melanie Martinez, Tierra Whack",
+      "name": "Copy Cat (feat. Tierra Whack)"
+    },
+    {
+      "artists": "Lil Yachty, Tierra Whack, A$AP Rocky, Tyler, The Creator",
+      "explicit": true,
+      "name": "T.D (Lil Yachty & Tierra Whack feat. A$AP Rocky & Tyler, The Creator)"
+    },
+    {
+      "artists": "Fat Nwigwe, Tierra Whack",
+      "explicit": true,
+      "name": "QUEEN [THE WHACK VERSION]"
+    },
+    {
+      "artists": "Rio Da Yung Og, Lil Yachty, Tierra Whack",
+      "explicit": true,
+      "name": "Crooked Elbow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4lPl9gqgox3JDiaJ1yklKh"
+}

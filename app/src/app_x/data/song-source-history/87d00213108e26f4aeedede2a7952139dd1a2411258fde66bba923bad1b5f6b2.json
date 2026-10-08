@@ -1,0 +1,31 @@
+{
+  "artist": "Alemeda",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alemeda",
+      "explicit": true,
+      "name": "Broken Record"
+    },
+    {
+      "artists": "Alemeda, Fousheé",
+      "name": "The World Keeps Spinning"
+    },
+    {
+      "artists": "Alemeda",
+      "explicit": true,
+      "name": "Gonna Bleach My Eyebrows"
+    },
+    {
+      "artists": "Alemeda, Doechii",
+      "explicit": true,
+      "name": "Beat A B!tch Up"
+    },
+    {
+      "artists": "Alemeda",
+      "explicit": true,
+      "name": "Don't Call Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/33Se8kMYeTPkeeM2LnsPF8"
+}

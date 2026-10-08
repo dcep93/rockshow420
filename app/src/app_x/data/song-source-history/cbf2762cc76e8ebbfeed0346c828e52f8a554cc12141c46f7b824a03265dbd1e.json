@@ -1,0 +1,28 @@
+{
+  "artist": "Mandy, Indiana",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mandy, Indiana",
+      "name": "Cursive"
+    },
+    {
+      "artists": "Mandy, Indiana",
+      "name": "Magazine"
+    },
+    {
+      "artists": "Mandy, Indiana",
+      "explicit": true,
+      "name": "Pinking Shears"
+    },
+    {
+      "artists": "Mandy, Indiana",
+      "name": "try saying"
+    },
+    {
+      "artists": "Mandy, Indiana",
+      "name": "Sevastopol"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+}

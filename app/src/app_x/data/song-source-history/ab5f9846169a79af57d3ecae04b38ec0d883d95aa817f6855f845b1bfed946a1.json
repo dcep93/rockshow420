@@ -1,0 +1,28 @@
+{
+  "artist": "Peach Tree Rascals",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Peach Tree Rascals",
+      "name": "Mariposa"
+    },
+    {
+      "artists": "Peach Tree Rascals",
+      "name": "Mariposa - Acoustic"
+    },
+    {
+      "artists": "Peach Tree Rascals",
+      "name": "Mango"
+    },
+    {
+      "artists": "Peach Tree Rascals",
+      "explicit": true,
+      "name": "Change My Mind"
+    },
+    {
+      "artists": "Peach Tree Rascals",
+      "name": "I'm Sorry"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0imE3buPhAowREqCrr4CYe"
+}

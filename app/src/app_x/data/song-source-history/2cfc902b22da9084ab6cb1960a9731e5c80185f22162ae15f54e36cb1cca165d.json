@@ -1,0 +1,28 @@
+{
+  "artist": "NanowaR of Steel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NanowaR of Steel, Charly Glamour, Gigatron",
+      "name": "Norwegian Reggaeton"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Valhalleluja"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "explicit": true,
+      "name": "Disco Metal"
+    },
+    {
+      "artists": "NanowaR of Steel, Joakim Brodén",
+      "name": "Pasadena 1994 (feat. Joakim Broden)"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Giorgio Mastrota (the Keeper of Inox Steel)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7jw9vF1hFRp1k8dDRNRiC5"
+}

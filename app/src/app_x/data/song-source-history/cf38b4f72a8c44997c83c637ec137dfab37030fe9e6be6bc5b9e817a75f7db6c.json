@@ -1,0 +1,28 @@
+{
+  "artist": "Marcus King",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arcane, Marcus King",
+      "explicit": true,
+      "name": "Sucker - from the series Arcane League of Legends"
+    },
+    {
+      "artists": "Marcus King",
+      "name": "Wildflowers & Wine"
+    },
+    {
+      "artists": "Marcus King",
+      "name": "The Well"
+    },
+    {
+      "artists": "Marcus King",
+      "name": "Too Much Whiskey"
+    },
+    {
+      "artists": "Marcus King, ERNEST",
+      "name": "Blue"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0FeWKiZSwBRdGzqeCdlH1a"
+}

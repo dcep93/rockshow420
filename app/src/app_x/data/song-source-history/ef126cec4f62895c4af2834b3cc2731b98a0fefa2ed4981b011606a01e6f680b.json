@@ -1,0 +1,28 @@
+{
+  "artist": "Soccer Mommy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Soccer Mommy",
+      "name": "Rings Of Saturn"
+    },
+    {
+      "artists": "Soccer Mommy",
+      "name": "circle the drain"
+    },
+    {
+      "artists": "Soccer Mommy",
+      "explicit": true,
+      "name": "Your Dog"
+    },
+    {
+      "artists": "Soccer Mommy",
+      "name": "yellow is the color of her eyes"
+    },
+    {
+      "artists": "Soccer Mommy",
+      "name": "Shotgun"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4wXchxfTTggLtzkoUhO86Q"
+}

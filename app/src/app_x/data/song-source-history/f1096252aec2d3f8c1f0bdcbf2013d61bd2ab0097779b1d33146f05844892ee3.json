@@ -1,0 +1,27 @@
+{
+  "artist": "Ben Böhmer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ben Böhmer, Nils Hoffmann, Malou",
+      "name": "Breathing"
+    },
+    {
+      "artists": "Ben Böhmer, Panama, jamesjamesjames",
+      "name": "Weightless - jamesjamesjames Remix"
+    },
+    {
+      "artists": "Ben Böhmer",
+      "name": "Beyond Beliefs"
+    },
+    {
+      "artists": "Ben Böhmer",
+      "name": "Rust"
+    },
+    {
+      "artists": "Jan Blomqvist, Ben Böhmer",
+      "name": "The Space In Between - Ben Böhmer Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5tDjiBYUsTqzd0RkTZxK7u"
+}

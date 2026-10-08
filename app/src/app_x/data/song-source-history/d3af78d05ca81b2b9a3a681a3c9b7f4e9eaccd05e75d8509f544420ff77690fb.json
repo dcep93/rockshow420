@@ -1,0 +1,30 @@
+{
+  "artist": "Limp Bizkit",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Limp Bizkit",
+      "explicit": true,
+      "name": "Break Stuff"
+    },
+    {
+      "artists": "Limp Bizkit",
+      "explicit": true,
+      "name": "Rollin' (Air Raid Vehicle)"
+    },
+    {
+      "artists": "Limp Bizkit",
+      "name": "Take A Look Around"
+    },
+    {
+      "artists": "Limp Bizkit",
+      "explicit": true,
+      "name": "My Way"
+    },
+    {
+      "artists": "Limp Bizkit",
+      "name": "Behind Blue Eyes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/165ZgPlLkK7bf5bDoFc6Sb"
+}

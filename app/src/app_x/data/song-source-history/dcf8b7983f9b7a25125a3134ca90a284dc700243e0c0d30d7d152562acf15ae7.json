@@ -1,0 +1,23 @@
+{
+  "artist": "Andre Power",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Andre Power",
+      "name": "Paradox"
+    },
+    {
+      "artists": "Andre Power",
+      "name": "Outpost"
+    },
+    {
+      "artists": "Andre Power",
+      "name": "Epoch"
+    },
+    {
+      "artists": "Andre Power",
+      "name": "Past"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ilBbQy2gAe1KclVLxRMZP"
+}

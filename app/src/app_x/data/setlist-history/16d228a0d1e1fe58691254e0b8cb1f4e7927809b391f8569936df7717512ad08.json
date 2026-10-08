@@ -1,0 +1,88 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Bridal Chorus",
+          "notes": "(Richard Wagner cover) (a.k.a. \"Here Comes the Bride\" - Horns Intro, Johnny Koh wore a wedding dress the entire show)"
+        },
+        {
+          "name": "Do You Wanna Do Nothing With Me?"
+        },
+        {
+          "name": "Make a Move"
+        },
+        {
+          "name": "Friend or Enemy"
+        },
+        {
+          "name": "Ain't No Mountain High Enough",
+          "notes": "(Ashford & Simpson cover) (with Taylor Hicks)"
+        },
+        {
+          "name": "Freckles"
+        },
+        {
+          "name": "Where It Started From"
+        },
+        {
+          "name": "Me & You"
+        },
+        {
+          "name": "I Want You Back",
+          "notes": "(The Jackson 5 cover)"
+        },
+        {
+          "name": "Whoever You Are"
+        },
+        {
+          "name": "I Wanna Dance With Somebody (Who Loves Me)",
+          "notes": "(Whitney Houston cover)"
+        },
+        {
+          "name": "Can't Help Falling in Love",
+          "notes": "(Elvis Presley cover)"
+        },
+        {
+          "name": "The Weather"
+        },
+        {
+          "name": "Oranges",
+          "notes": "(Clyde Lawrence song) (with Mark Dover) (First performance in 8 years)"
+        },
+        {
+          "name": "Hora",
+          "notes": "(Celebratory tune played after an onstage engagement)"
+        },
+        {
+          "name": "Shot"
+        },
+        {
+          "name": "23"
+        },
+        {
+          "name": "Shout",
+          "notes": "(The Isley Brothers cover) (with Antwaun Stanley)"
+        },
+        {
+          "name": "Higher Ground / Superstition",
+          "notes": "(Stevie Wonder cover) (with Antwaun Stanley)"
+        },
+        {
+          "name": "Don't Lose Sight"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "September",
+          "notes": "(Earth, Wind & Fire cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-73be26c1.html"
+}

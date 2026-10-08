@@ -1,0 +1,27 @@
+{
+  "artist": "RIO KOSTA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RIO KOSTA",
+      "name": "Unicorn"
+    },
+    {
+      "artists": "RIO KOSTA",
+      "name": "Mountain Top"
+    },
+    {
+      "artists": "RIO KOSTA",
+      "name": "Slowly"
+    },
+    {
+      "artists": "RIO KOSTA",
+      "name": "Ancients"
+    },
+    {
+      "artists": "RIO KOSTA",
+      "name": "Follow The River"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4xU7M9wEvpnvkNOyPdVi5y"
+}

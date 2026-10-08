@@ -1,0 +1,27 @@
+{
+  "artist": "Superheaven",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Superheaven",
+      "name": "Youngest Daughter"
+    },
+    {
+      "artists": "Superheaven",
+      "name": "Poor Aileen"
+    },
+    {
+      "artists": "Superheaven",
+      "name": "Leach"
+    },
+    {
+      "artists": "Superheaven",
+      "name": "In On It"
+    },
+    {
+      "artists": "Superheaven",
+      "name": "Room"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1IHjrY7ygKbmLVoUV1VcXc"
+}

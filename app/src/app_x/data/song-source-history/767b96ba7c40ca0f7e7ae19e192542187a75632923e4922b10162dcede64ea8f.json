@@ -1,0 +1,27 @@
+{
+  "artist": "Foals",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foals",
+      "name": "Mountain at My Gates"
+    },
+    {
+      "artists": "Foals",
+      "name": "My Number"
+    },
+    {
+      "artists": "Foals, Solomun",
+      "name": "Late Night - Solomun Remix"
+    },
+    {
+      "artists": "Foals",
+      "name": "Birch Tree"
+    },
+    {
+      "artists": "Foals",
+      "name": "London Thunder"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+}

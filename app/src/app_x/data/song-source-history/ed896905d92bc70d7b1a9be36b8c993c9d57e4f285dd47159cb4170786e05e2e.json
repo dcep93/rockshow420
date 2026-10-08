@@ -1,0 +1,30 @@
+{
+  "artist": "Mob Rich",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mob Rich",
+      "explicit": true,
+      "name": "Yoko Ono"
+    },
+    {
+      "artists": "grandson, Mob Rich",
+      "name": "Happy Pill"
+    },
+    {
+      "artists": "pluko, Mob Rich",
+      "name": "the sound (w/ Mob Rich)"
+    },
+    {
+      "artists": "Mob Rich, Matt Maeson",
+      "explicit": true,
+      "name": "Yoko Ono (Stripped with Matt Maeson)"
+    },
+    {
+      "artists": "Mob Rich, Bishop Briggs",
+      "explicit": true,
+      "name": "friends*"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5cVeSOiS002MF1uiUFOPV5"
+}

@@ -1,0 +1,47 @@
+{
+  "artist": "Red Hot Chili Peppers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Can't Stop"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Californication"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Under the Bridge"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Scar Tissue"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Otherside"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Snow (Hey Oh)"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Dani California"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "By the Way"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "Dark Necessities"
+    },
+    {
+      "artists": "Red Hot Chili Peppers",
+      "name": "The Zephyr Song"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0L8ExT028jH3ddEcZwqJJ5"
+}

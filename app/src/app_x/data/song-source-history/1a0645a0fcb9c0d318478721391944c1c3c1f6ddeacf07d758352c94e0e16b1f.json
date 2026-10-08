@@ -1,0 +1,28 @@
+{
+  "artist": "Pelada",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pelada",
+      "name": "No Hay"
+    },
+    {
+      "artists": "Pelada",
+      "explicit": true,
+      "name": "A Mí Me Juzgan Por Ser Mujer"
+    },
+    {
+      "artists": "Pelada",
+      "name": "Desatado"
+    },
+    {
+      "artists": "Pelada",
+      "name": "Habla Tu Verdad"
+    },
+    {
+      "artists": "Pelada",
+      "name": "Asegura"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1cUt6hBRKlav4TIgjopnHC"
+}

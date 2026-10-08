@@ -1,0 +1,28 @@
+{
+  "artist": "Day We Ran",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Day We Ran",
+      "explicit": true,
+      "name": "Foaming"
+    },
+    {
+      "artists": "Day We Ran",
+      "name": "Snake With a Bone"
+    },
+    {
+      "artists": "Day We Ran",
+      "name": "Piha Lounging"
+    },
+    {
+      "artists": "Day We Ran",
+      "name": "Forestry"
+    },
+    {
+      "artists": "Day We Ran",
+      "name": "Used To"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6dtbK89qIT2XjIsCQHjTxS"
+}

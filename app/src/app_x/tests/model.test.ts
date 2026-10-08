@@ -1,3 +1,4 @@
+import festivalConcertIds from "../data/festivalConcertIds.json";
 /// <reference types="node" />
 import assert from "node:assert/strict";
 import test from "node:test";
@@ -11,8 +12,12 @@ import {
   userConcertRows,
   isTicketStatus,
 } from "../data/model";
+import type { Catalog } from "../data/model";
 import { isDefaultLog } from "../data/logChanges";
 import { exportUserLog } from "../data/exportLog";
+import { canonicalId, shortId } from "../data/ids";
+import { canonicalPath, readRoute } from "../components/routing";
+import legacyIds from "../data/legacyIds.json";
 import { concertPeriod, formatConcertDate, isTimezone, localTimeOptions, toLocalInput } from "../data/time";
 
 test("normalizers tolerate omitted fields without inventing event dates", () => {
@@ -41,6 +46,23 @@ test("normalizers tolerate omitted fields without inventing event dates", () => 
     },
   ])
     assert.equal(timestampISO(value), "");
+});
+
+test("new IDs are six alphanumeric characters and legacy URLs resolve without changing slugs", () => {
+  for (let n = 0; n < 100; n++) assert.match(shortId(), /^[a-z0-9]{6}$/);
+  for (const [kind, aliases] of [["concert", legacyIds.concerts], ["festival", legacyIds.festivals]] as const) {
+    assert.equal(new Set(Object.values(aliases)).size, Object.keys(aliases).length);
+    for (const [oldId, next] of Object.entries(aliases)) {
+      assert.match(next, /^[a-z0-9]{6}$/);
+      assert.equal(canonicalId(kind, oldId), next);
+      assert.equal(canonicalId(kind, next), next);
+      const target = kind === "festival" ? (festivalConcertIds as Record<string, string>)[next] : next;
+      assert.equal(readRoute(`/${kind}/${oldId}/some-name`).id, target);
+      assert.equal(canonicalPath(`/${kind}/${oldId}/some-name`), `/concert/${target}/some-name`);
+    }
+  }
+  assert.equal(canonicalId("artist", "constructor"), "constructor");
+  assert.equal(canonicalPath("/concert/%oops/name"), "/concert/%oops/name");
 });
 test("dates display in venue timezones and missing data remains visibly missing", () => {
   assert.equal(toLocalInput("2026-07-01T00:00:00Z", "America/New_York"), "2026-06-30T20:00");
@@ -90,6 +112,16 @@ test("upcoming and past use the show instant or final venue-local day", () => {
   assert.equal(concertPeriod(normalizeConcert("missing", {}), "UTC", sameInstant), "unknown");
 });
 
+test("adding a festival start time preserves its final day in labels, grouping, and exports", () => {
+  const festival = normalizeConcert("festival", { name: "Outside Lands", venue_id: "v", date: "2019-08-09T19:00:00Z", date_precision: "time", end_date: "2019-08-11" });
+  const zone = "America/Los_Angeles";
+  assert.equal(formatConcertDate(festival.date, zone, festival.date_precision, festival.end_date), "Fri, Aug 9, 2019 · 12:00 PM PDT – Sun, Aug 11, 2019");
+  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T06:59:59Z")), "upcoming");
+  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T07:00:00Z")), "past");
+  const catalog = { ...emptyCatalog, concerts: [festival], venues: [normalizeVenue("v", { timezone: zone })] };
+  assert.equal(exportUserLog(catalog, "me"), "Outside Lands 8/9-11\n2019");
+});
+
 test("every concert appears by default; only that user's explicit removals hide it", () => {
   const past = normalizeConcert("past", { date: "2025-01-01" });
   const future = normalizeConcert("future", { date: "2027-01-01" });
@@ -120,12 +152,12 @@ test("default log records can be removed without losing real or future overrides
   for (const change of [
     { notes: "My note" }, { supporting_artist_ids: ["artist"] }, { removed: true },
     { future_rating: 5 }, { future_field: null }, { notes: null }, { supporting_artist_ids: "" },
-    { ticket_status: "purchased" }, { ticket_status: "sold_out" }, { ticket_status: null },
+    { ticket_status: "purchased" }, { ticket_status: "sold_out" }, { ticket_status: "cancelled" }, { ticket_status: null },
   ]) assert.equal(isDefaultLog({ ...defaults, ...change }), false);
 });
 
 test("ticket status defaults to empty and accepts only the enum values", () => {
-  for (const ticket_status of ["", "purchased", "sold_out"]) {
+  for (const ticket_status of ["", "purchased", "sold_out", "cancelled"]) {
     assert.equal(isTicketStatus(ticket_status), true);
     assert.equal(normalizeLog("l", { ticket_status }).ticket_status, ticket_status);
   }
@@ -173,6 +205,15 @@ test("export never merges across hidden dates, differing statuses, venues or yea
   assert.equal(exportUserLog(catalog, "u"), "Show 1/1 Hall\n2027\n\n\nShow 12/31 Hall\nShow 11/1 Elsewhere\nShow 10/31 Hall\nShow 10/29 Hall\n2026");
   catalog.logs = [normalizeLog("sold", { user_id: "u", concert_id: "2", ticket_status: "sold_out" })];
   assert.match(exportUserLog(catalog, "u"), /Show 10\/31 Hall\n%Show 10\/30 Hall\nShow 10\/29 Hall/);
+});
+
+test("cancelled tickets export with ! and stay separate from default tickets", () => {
+  const catalog: Catalog = {
+    ...emptyCatalog,
+    concerts: [1, 2].map((day) => normalizeConcert(String(day), { name: "Show", date: `2026-10-0${day}`, date_precision: "day" })),
+    logs: [normalizeLog("cancelled", { user_id: "u", concert_id: "1", ticket_status: "cancelled" })],
+  };
+  assert.equal(exportUserLog(catalog, "u"), "Show 10/2\n!Show 10/1\n2026");
 });
 
 test("export handles month-spanning ranges and rejects incomplete data instead of silently dropping it", () => {

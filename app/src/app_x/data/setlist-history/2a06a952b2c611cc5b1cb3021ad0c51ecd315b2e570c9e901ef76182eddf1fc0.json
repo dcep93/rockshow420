@@ -1,0 +1,129 @@
+{
+  "notes": "Note: \"In the Blood\" was on the printed setlist but not played.",
+  "sets": [
+    {
+      "name": "Acoustic:",
+      "songs": [
+        {
+          "name": "Slow Dancing in a Burning Room"
+        },
+        {
+          "name": "Heartbreak Warfare",
+          "notes": "(performed on acoustic 12-string; tour debut)"
+        },
+        {
+          "name": "Queen of California"
+        },
+        {
+          "name": "Shouldn't Matter but It Does"
+        },
+        {
+          "name": "January 16, 2002: \"Room for Squares\" Interview",
+          "notes": "(Promo video from the Room for Squares Tour at Tower Records on Sunset Boulevard in Hollywood, CA)",
+          "tape": true
+        },
+        {
+          "name": "Why Georgia"
+        },
+        {
+          "name": "Neon",
+          "notes": "(with extended intro)"
+        },
+        {
+          "name": "Go Easy on Me",
+          "notes": "(snippet, sign request)"
+        },
+        {
+          "name": "Who Says"
+        },
+        {
+          "name": "The Age of Worry"
+        },
+        {
+          "name": "Driftin'"
+        },
+        {
+          "name": "Daddy?",
+          "notes": "(sign request; during banter)"
+        },
+        {
+          "name": "In Your Atmosphere",
+          "notes": "(with \"Wherever I Go\" outro)"
+        }
+      ]
+    },
+    {
+      "name": "Piano",
+      "songs": [
+        {
+          "name": "New Light",
+          "notes": "(first verse & chorus) (>)"
+        },
+        {
+          "name": "You're Gonna Live Forever in Me"
+        },
+        {
+          "name": "Changing",
+          "notes": "(with looped piano & electric guitar outro)"
+        }
+      ]
+    },
+    {
+      "name": "Acoustic",
+      "songs": [
+        {
+          "name": "\"Continuum\" Interview",
+          "notes": "(from Columbia Studios)",
+          "tape": true
+        },
+        {
+          "name": "Stop This Train",
+          "notes": "(With snippet of Simon & Garfunkel's \"Homeward Bound\")"
+        },
+        {
+          "name": "Last Train Home",
+          "notes": "(tour debut)"
+        },
+        {
+          "name": "Whiskey, Whiskey, Whiskey"
+        },
+        {
+          "name": "Your Body Is a Wonderland"
+        },
+        {
+          "name": "Walt Grace's Submarine Test, January 1967"
+        }
+      ]
+    },
+    {
+      "name": "Double Neck Acoustic",
+      "songs": [
+        {
+          "name": "Friend of the Devil",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "If I Ever Get Around to Living"
+        },
+        {
+          "name": "Edge of Desire"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "All I Want Is to Be With You",
+          "notes": "(on electric guitar w/ harmonica; tour debut)"
+        },
+        {
+          "name": "Free Fallin'",
+          "notes": "(Tom Petty cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-53ba433d.html"
+}

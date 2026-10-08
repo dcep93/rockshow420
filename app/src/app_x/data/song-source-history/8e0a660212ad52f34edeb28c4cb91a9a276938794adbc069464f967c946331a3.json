@@ -1,0 +1,29 @@
+{
+  "artist": "Jean Dawson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jean Dawson",
+      "name": "Darlin'"
+    },
+    {
+      "artists": "Jean Dawson",
+      "name": "Prize Fighter"
+    },
+    {
+      "artists": "Jean Dawson, Mac DeMarco",
+      "explicit": true,
+      "name": "MENTHOL*"
+    },
+    {
+      "artists": "Jean Dawson, SZA",
+      "name": "NO SZNS"
+    },
+    {
+      "artists": "rusowsky, Jean Dawson",
+      "explicit": true,
+      "name": "KINKI FÍGARO"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7vNNmjV14SKQzlQAEg0BXP"
+}

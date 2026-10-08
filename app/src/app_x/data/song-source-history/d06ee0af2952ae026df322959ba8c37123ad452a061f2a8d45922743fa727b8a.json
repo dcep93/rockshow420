@@ -1,0 +1,31 @@
+{
+  "artist": "Sullivan King",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Excision, Sullivan King, Kai Wachi",
+      "explicit": true,
+      "name": "Bonebreaker"
+    },
+    {
+      "artists": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "explicit": true,
+      "name": "We Got the Moves - Sullivan King Remix"
+    },
+    {
+      "artists": "I Prevail, Sullivan King",
+      "explicit": true,
+      "name": "Violent Nature - Sullivan King Remix"
+    },
+    {
+      "artists": "Ray Volpe, Sullivan King",
+      "explicit": true,
+      "name": "REWIND"
+    },
+    {
+      "artists": "Electric Callboy, Electric Bassboy, Sullivan King",
+      "name": "Revery - Sullivan King Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1CXuuw8HJhyN80HlNzvL1e"
+}

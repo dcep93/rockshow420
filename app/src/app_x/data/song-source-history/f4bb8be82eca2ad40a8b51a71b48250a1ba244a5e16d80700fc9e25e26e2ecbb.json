@@ -1,0 +1,27 @@
+{
+  "artist": "Teen Daze",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Teen Daze",
+      "name": "Peaceful Groove"
+    },
+    {
+      "artists": "Teen Daze",
+      "name": "Kilika"
+    },
+    {
+      "artists": "Teen Daze",
+      "name": "Autumnal"
+    },
+    {
+      "artists": "Teen Daze",
+      "name": "The Future"
+    },
+    {
+      "artists": "Teen Daze",
+      "name": "Interior - Edit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2GE6MAdyGzeXpY9TwIYd3l"
+}

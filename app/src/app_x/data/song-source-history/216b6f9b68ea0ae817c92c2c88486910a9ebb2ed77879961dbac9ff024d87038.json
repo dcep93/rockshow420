@@ -1,0 +1,27 @@
+{
+  "artist": "Brasstracks",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "WILYWNKA, Brasstracks",
+      "name": "Our Style"
+    },
+    {
+      "artists": "Polyphia, Brasstracks",
+      "name": "Genesis (feat. Brasstracks)"
+    },
+    {
+      "artists": "Brasstracks",
+      "name": "Always Be My Baby"
+    },
+    {
+      "artists": "Brasstracks, FATHERDUDE, John Splithoff",
+      "name": "Nothing Better (feat. Fatherdude & John Splithoff)"
+    },
+    {
+      "artists": "Brasstracks, Samm Henshaw",
+      "name": "Change For Me (with Samm Henshaw)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5sKvgmG84C0bIMWeS2SRPr"
+}

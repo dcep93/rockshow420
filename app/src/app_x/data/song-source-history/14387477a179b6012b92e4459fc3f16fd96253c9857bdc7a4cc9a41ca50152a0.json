@@ -1,0 +1,28 @@
+{
+  "artist": "Tems",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dave, Tems",
+      "name": "Raindance (feat. Tems)"
+    },
+    {
+      "artists": "Future, Drake, Tems",
+      "explicit": true,
+      "name": "WAIT FOR U (feat. Drake & Tems)"
+    },
+    {
+      "artists": "Tems",
+      "name": "Me & U"
+    },
+    {
+      "artists": "Wizkid, Tems",
+      "name": "Essence (feat. Tems)"
+    },
+    {
+      "artists": "Tems",
+      "name": "Free Mind"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/687cZJR45JO7jhk1LHIbgq"
+}

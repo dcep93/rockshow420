@@ -1,0 +1,27 @@
+{
+  "artist": "Current Joys",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Current Joys",
+      "name": "Kids"
+    },
+    {
+      "artists": "Current Joys",
+      "name": "Symphonia IX"
+    },
+    {
+      "artists": "Current Joys",
+      "name": "Blondie"
+    },
+    {
+      "artists": "Current Joys",
+      "name": "Fear"
+    },
+    {
+      "artists": "Current Joys",
+      "name": "New Flesh"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0m5FakHKCQdA7UN0PIzMcL"
+}

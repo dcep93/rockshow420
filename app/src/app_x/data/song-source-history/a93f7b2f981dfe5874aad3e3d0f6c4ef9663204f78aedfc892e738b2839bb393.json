@@ -1,0 +1,29 @@
+{
+  "artist": "Emotional Oranges",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Emotional Oranges",
+      "name": "West Coast Love"
+    },
+    {
+      "artists": "Emotional Oranges",
+      "explicit": true,
+      "name": "Sundays"
+    },
+    {
+      "artists": "Emotional Oranges",
+      "name": "Motion"
+    },
+    {
+      "artists": "Emotional Oranges, JAEHYUN",
+      "name": "Call It Off (feat. JAEHYUN)"
+    },
+    {
+      "artists": "Emotional Oranges, Biig Piig",
+      "explicit": true,
+      "name": "Body & Soul (feat. Biig Piig)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/12trz2INGglrKMzLmg0y2C"
+}

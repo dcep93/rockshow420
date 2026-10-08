@@ -1,0 +1,32 @@
+{
+  "artist": "JPEGMAFIA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JPEGMAFIA",
+      "explicit": true,
+      "name": "either on or off the drugs"
+    },
+    {
+      "artists": "JPEGMAFIA",
+      "explicit": true,
+      "name": "HAZARD DUTY PAY!"
+    },
+    {
+      "artists": "JPEGMAFIA",
+      "explicit": true,
+      "name": "BALD!"
+    },
+    {
+      "artists": "JPEGMAFIA",
+      "explicit": true,
+      "name": "1539 N. Calvert"
+    },
+    {
+      "artists": "JPEGMAFIA, Danny Brown, redveil",
+      "explicit": true,
+      "name": "Kingdom Hearts Key (ft. redveil)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+}

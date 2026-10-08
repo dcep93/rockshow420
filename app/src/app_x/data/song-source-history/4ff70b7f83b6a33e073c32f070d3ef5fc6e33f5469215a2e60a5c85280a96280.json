@@ -1,0 +1,32 @@
+{
+  "artist": "Kenny Mason",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JID, Kenny Mason",
+      "explicit": true,
+      "name": "Dance Now (feat. Kenny Mason)"
+    },
+    {
+      "artists": "Kenny Mason, Dominic Fike",
+      "explicit": true,
+      "name": "FIND GOD (feat. Dominic Fike)"
+    },
+    {
+      "artists": "Dreamville, JID, J. Cole, Kenny Mason, Sheck Wes",
+      "explicit": true,
+      "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)"
+    },
+    {
+      "artists": "Internet Girl, Kenny Mason",
+      "explicit": true,
+      "name": "DA BUSINESS"
+    },
+    {
+      "artists": "Denzel Curry, Kenny Mason, Project Pat",
+      "explicit": true,
+      "name": "SKED (with Kenny Mason & Project Pat)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4mwdnO2jZrMmMVrjcHsZBv"
+}

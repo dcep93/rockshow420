@@ -1,0 +1,27 @@
+{
+  "artist": "James Murphy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Rapture, James Murphy, Tim Goldsworthy",
+      "name": "Sister Saviour - DFA Vocal Remix"
+    },
+    {
+      "artists": "Gorillaz, James Murphy, Tim Goldsworthy",
+      "name": "DARE - DFA Remix"
+    },
+    {
+      "artists": "David Bowie, James Murphy",
+      "name": "Love Is Lost - Hello Steve Reich Mix by James Murphy for the DFA"
+    },
+    {
+      "artists": "Munk, James Murphy, WhoMadeWho",
+      "name": "Kick out the Chairs - WhoMadeWho Remix"
+    },
+    {
+      "artists": "Proper Monday Number, Matt Cash, James Murphy",
+      "name": "High horse - DFA DJ Edit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/03XnX4XEVVtZNUBSdUlzsB"
+}

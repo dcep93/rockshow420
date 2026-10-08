@@ -1,0 +1,29 @@
+{
+  "artist": "Post Malone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Post Malone, Swae Lee",
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse"
+    },
+    {
+      "artists": "Post Malone",
+      "name": "Circles"
+    },
+    {
+      "artists": "Post Malone, Morgan Wallen",
+      "explicit": true,
+      "name": "I Had Some Help (Feat. Morgan Wallen)"
+    },
+    {
+      "artists": "Post Malone, 21 Savage",
+      "explicit": true,
+      "name": "rockstar (feat. 21 Savage)"
+    },
+    {
+      "artists": "Taylor Swift, Post Malone",
+      "name": "Fortnight (feat. Post Malone)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/246dkjvS1zLTtiykXe5h60"
+}

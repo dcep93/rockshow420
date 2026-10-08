@@ -1,0 +1,30 @@
+{
+  "artist": "RYMAN",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RYMAN",
+      "explicit": true,
+      "name": "Undo"
+    },
+    {
+      "artists": "RYMAN",
+      "name": "Know By Now"
+    },
+    {
+      "artists": "RYMAN",
+      "name": "Backroads"
+    },
+    {
+      "artists": "RYMAN",
+      "explicit": true,
+      "name": "Lightning"
+    },
+    {
+      "artists": "RYMAN",
+      "explicit": true,
+      "name": "Lose"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+}

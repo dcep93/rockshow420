@@ -1,0 +1,88 @@
+{
+  "notes": "Note: Set 1 ended early due to FOH outage. The setlist mimicked that of a 1994 setlist in reference to this being Phish's 94th performance at Madison Square Garden and featured Trey and Mike wearing outfits typical for them in 1994",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "The Ed Sullivan Show introduction",
+          "notes": "(Back in the U.S.S.R. was preceded by an intro from The Ed Sullivan Show (also done Oct 31, 1994))",
+          "tape": true
+        },
+        {
+          "name": "Back in the U.S.S.R.",
+          "notes": "(The Beatles cover) (last played 10/23/2013, aka 485 shows)"
+        },
+        {
+          "name": "Simple",
+          "notes": "(with \"Dave's Energy Guide\" tease by Trey)"
+        },
+        {
+          "name": "Rift"
+        },
+        {
+          "name": "Punch You in the Eye",
+          "notes": "(>)"
+        },
+        {
+          "name": "Wolfman's Brother",
+          "notes": "(ended 7 minutes in due to FOH outage)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Highway to Hell",
+          "notes": "(AC/DC cover) (last played 8/16/2009, aka 659 shows)"
+        },
+        {
+          "name": "Down With Disease",
+          "notes": "(Mike teased \"Won't Get Fooled Again\") (->)"
+        },
+        {
+          "name": "Tweezer",
+          "notes": "(-> \"Down With Disease\" reprise > \"Tweezer\" (Trey teased \"Mind Left Body Jam\") >)"
+        },
+        {
+          "name": "Sample in a Jar",
+          "notes": "(-> \"Tweezer\" >)"
+        },
+        {
+          "name": "Lifeboy"
+        },
+        {
+          "name": "Julius",
+          "notes": "(> \"Tweezer\" ->)"
+        },
+        {
+          "name": "Catapult",
+          "notes": "(with \"None compare\" vocal breakdown) (last played 9/5/2021, aka 223 shows) (-> \"Tweezer\" >)"
+        },
+        {
+          "name": "Cavern",
+          "notes": "(-> \"Tweezer\")"
+        },
+        {
+          "name": "The Squirming Coil"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Purple Rain",
+          "notes": "(Prince cover) (last played 7/4/2012, aka 535 shows) (Fish on vacuum; Trey switched to guitar halfway through)"
+        },
+        {
+          "name": "Tweezer Reprise",
+          "notes": "(Fish hummed \"Purple Rain\" at the end)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-4b4b573e.html"
+}

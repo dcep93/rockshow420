@@ -1,0 +1,29 @@
+{
+  "artist": "JAWNY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JAWNY",
+      "name": "Honeypie"
+    },
+    {
+      "artists": "JAWNY",
+      "name": "adios"
+    },
+    {
+      "artists": "JAWNY",
+      "explicit": true,
+      "name": "Trigger Of Love"
+    },
+    {
+      "artists": "JAWNY",
+      "explicit": true,
+      "name": "Anything You Want"
+    },
+    {
+      "artists": "JAWNY",
+      "name": "strawberry chainsaw"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/25pd339V2rRJo84USlcSRP"
+}

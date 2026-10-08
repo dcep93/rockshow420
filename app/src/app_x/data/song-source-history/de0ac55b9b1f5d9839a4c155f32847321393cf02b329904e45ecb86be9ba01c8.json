@@ -1,0 +1,32 @@
+{
+  "artist": "Don Toliver",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Don Toliver",
+      "explicit": true,
+      "name": "E85"
+    },
+    {
+      "artists": "Don Toliver",
+      "explicit": true,
+      "name": "No Pole"
+    },
+    {
+      "artists": "Don Toliver, Rema",
+      "explicit": true,
+      "name": "Secondhand (feat. Rema)"
+    },
+    {
+      "artists": "Don Toliver",
+      "explicit": true,
+      "name": "Body"
+    },
+    {
+      "artists": "Don Toliver",
+      "explicit": true,
+      "name": "NEW DROP"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4Gso3d4CscCijv0lmajZWs"
+}

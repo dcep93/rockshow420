@@ -1,0 +1,28 @@
+{
+  "artist": "Ethel Cain",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ethel Cain",
+      "explicit": true,
+      "name": "Crush"
+    },
+    {
+      "artists": "Ethel Cain",
+      "name": "American Teenager"
+    },
+    {
+      "artists": "Ethel Cain",
+      "name": "Strangers"
+    },
+    {
+      "artists": "Ethel Cain",
+      "name": "Sun Bleached Flies"
+    },
+    {
+      "artists": "Ethel Cain",
+      "name": "Nettles"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0avMDS4HyoCEP6RqZJWpY2"
+}

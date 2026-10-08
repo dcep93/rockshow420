@@ -1,0 +1,47 @@
+{
+  "artist": "The Bygones",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Bygones, Joshua Lee Turner, Allison Young",
+      "name": "Plastic Jesus"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Tonight You Belong To Me"
+    },
+    {
+      "artists": "The Bygones, Joshua Lee Turner, Allison Young",
+      "name": "Lucy"
+    },
+    {
+      "artists": "Allison Young, The Bygones, Joshua Lee Turner",
+      "name": "Not In Nottingham"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Whatever That Is"
+    },
+    {
+      "artists": "The Bygones, Joshua Lee Turner, Allison Young",
+      "name": "Honey Pie"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Stars Turn Cold"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Falling in Love with Broken Hearts"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Glad"
+    },
+    {
+      "artists": "The Bygones",
+      "name": "Everything's Made for Love"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4s6JGYfrcfIYMvwY6oMMvY"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "MOTHICA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pusher, MOTHICA, Shawn Wasabi",
+      "name": "Clear - Shawn Wasabi Remix"
+    },
+    {
+      "artists": "MOTHICA",
+      "explicit": true,
+      "name": "buzzkill"
+    },
+    {
+      "artists": "MOTHICA",
+      "explicit": true,
+      "name": "SENSITIVE"
+    },
+    {
+      "artists": "MOTHICA",
+      "name": "CASUALTY"
+    },
+    {
+      "artists": "MOTHICA",
+      "name": "Can You Feel My Heart (Mothica Version)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1JhiIIXT9DWqEU3BYFZwGA"
+}

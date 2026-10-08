@@ -1,0 +1,27 @@
+{
+  "artist": "Dante Elephante",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dante Elephante",
+      "name": "Find Somebody to Love"
+    },
+    {
+      "artists": "Dante Elephante",
+      "name": "Never Trust a Junkie"
+    },
+    {
+      "artists": "Dante Elephante",
+      "name": "Call Me (On the Phone)"
+    },
+    {
+      "artists": "Dante Elephante",
+      "name": "Las Vegas"
+    },
+    {
+      "artists": "Dante Elephante",
+      "name": "Game of Love"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3RdlkFPALHduIIZSinXgJZ"
+}

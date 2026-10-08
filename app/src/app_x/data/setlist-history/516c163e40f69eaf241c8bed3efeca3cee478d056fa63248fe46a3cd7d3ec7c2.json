@@ -1,0 +1,68 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "find my way home"
+        },
+        {
+          "name": "ghost"
+        },
+        {
+          "name": "coming up for air"
+        },
+        {
+          "name": "whywhywhy"
+        },
+        {
+          "name": "over the rainbow",
+          "notes": "(\"Oh Love\" introlude)"
+        },
+        {
+          "name": "rock bottom"
+        },
+        {
+          "name": "Where Do We Go From Here?"
+        },
+        {
+          "name": "running in place / Vagabond"
+        },
+        {
+          "name": "stepped on a bee"
+        },
+        {
+          "name": "decide to be happy"
+        },
+        {
+          "name": "Easy"
+        },
+        {
+          "name": "Just a Girl",
+          "notes": "(No Doubt cover)"
+        },
+        {
+          "name": "Wrongside"
+        },
+        {
+          "name": "Reflections"
+        },
+        {
+          "name": "SUPERBLOOM"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Coloring Outside the Lines"
+        },
+        {
+          "name": "Our Own House"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/misterwives/2022/brooklyn-bowl-brooklyn-ny-5bbe934c.html"
+}

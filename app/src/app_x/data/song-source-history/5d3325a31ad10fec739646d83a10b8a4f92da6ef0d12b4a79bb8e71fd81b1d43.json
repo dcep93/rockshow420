@@ -1,0 +1,31 @@
+{
+  "artist": "Hoosh",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hoosh",
+      "explicit": true,
+      "name": "missed takes"
+    },
+    {
+      "artists": "Hoosh, Bas",
+      "explicit": true,
+      "name": "high, i'm famous"
+    },
+    {
+      "artists": "Hoosh, MaMan",
+      "explicit": true,
+      "name": "Kabasa"
+    },
+    {
+      "artists": "Hoosh",
+      "explicit": true,
+      "name": "better days"
+    },
+    {
+      "artists": "offrami, Hoosh",
+      "name": "Santa Monica"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/451QYarjabz09nL2SSufeV"
+}

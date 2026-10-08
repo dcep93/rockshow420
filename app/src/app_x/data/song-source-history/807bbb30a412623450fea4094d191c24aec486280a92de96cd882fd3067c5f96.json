@@ -1,0 +1,31 @@
+{
+  "artist": "Amaarae",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Amaarae, Kali Uchis, MOLIY",
+      "explicit": true,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)"
+    },
+    {
+      "artists": "Amaarae",
+      "explicit": true,
+      "name": "Angels in Tibet"
+    },
+    {
+      "artists": "Amaarae, Kali Uchis, MOLIY, xxtristanxo",
+      "explicit": true,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb"
+    },
+    {
+      "artists": "Amaarae",
+      "explicit": true,
+      "name": "Princess Going Digital"
+    },
+    {
+      "artists": "Amaarae",
+      "name": "Reckless & Sweet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/21UPYSRWFKwtqvSAnFnSvS"
+}

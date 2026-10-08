@@ -1,0 +1,28 @@
+{
+  "artist": "BEAUTY SCHOOL DROPOUT",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BEAUTY SCHOOL DROPOUT",
+      "name": "DADDY DON'T CRY"
+    },
+    {
+      "artists": "BEAUTY SCHOOL DROPOUT",
+      "explicit": true,
+      "name": "A$$A$$IN"
+    },
+    {
+      "artists": "BEAUTY SCHOOL DROPOUT",
+      "name": "MADONNA"
+    },
+    {
+      "artists": "BEAUTY SCHOOL DROPOUT",
+      "name": "WE MADE PLANS & GOD LAUGHED"
+    },
+    {
+      "artists": "BEAUTY SCHOOL DROPOUT",
+      "name": "HEART AWAY"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2MJMW3WtQnDq7DKezFn5jO"
+}

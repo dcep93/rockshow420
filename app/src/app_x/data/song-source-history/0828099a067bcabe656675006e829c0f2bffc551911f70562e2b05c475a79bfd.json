@@ -1,0 +1,23 @@
+{
+  "artist": "joan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "joan, Sonnie Betts",
+      "name": "Love or the Drugs"
+    },
+    {
+      "artists": "joan, Sonnie Betts",
+      "name": "Stardust"
+    },
+    {
+      "artists": "Ejoan, Sonnie Betts",
+      "name": "L.I. Iced Tea"
+    },
+    {
+      "artists": "joan, Sonnie Betts",
+      "name": "Coconuts"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/367fxGicSsoKX1xc4P1ucJ"
+}

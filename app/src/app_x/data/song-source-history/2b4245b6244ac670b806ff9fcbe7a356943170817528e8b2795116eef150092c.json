@@ -1,0 +1,31 @@
+{
+  "artist": "JID",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Imagine Dragons, JID, Arcane, League of Legends",
+      "name": "Enemy (with JID) - from the series Arcane League of Legends"
+    },
+    {
+      "artists": "JID, 21 Savage, Baby Tate",
+      "explicit": true,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)"
+    },
+    {
+      "artists": "Offset, JID",
+      "explicit": true,
+      "name": "Bodies (feat. JID)"
+    },
+    {
+      "artists": "Eminem, JID",
+      "explicit": true,
+      "name": "Fuel"
+    },
+    {
+      "artists": "JID",
+      "explicit": true,
+      "name": "151 Rum"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+}

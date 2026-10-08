@@ -1,0 +1,28 @@
+{
+  "artist": "Porches",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Turnstile, Porches",
+      "name": "NEVER ENOUGH: PORCHES VERSION"
+    },
+    {
+      "artists": "Porches",
+      "name": "Daddies"
+    },
+    {
+      "artists": "Coco & Clair Clair, Porches",
+      "name": "Lamb (feat. Porches)"
+    },
+    {
+      "artists": "Toro y Moi, Don Toliver, Porches",
+      "explicit": true,
+      "name": "Undercurrent"
+    },
+    {
+      "artists": "Porches",
+      "name": "Mood"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2JzhQYGos3RqV7MT5fWeek"
+}

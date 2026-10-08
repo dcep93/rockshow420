@@ -1,0 +1,27 @@
+{
+  "artist": "SOFI TUKKER",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SOFI TUKKER",
+      "name": "Purple Hat"
+    },
+    {
+      "artists": "Nina Simone, SOFI TUKKER",
+      "name": "Sinnerman - Sofi Tukker Remix"
+    },
+    {
+      "artists": "SOFI TUKKER, OneRepublic",
+      "name": "TSUNAMI"
+    },
+    {
+      "artists": "Carlita, SOFI TUKKER",
+      "name": "Manhattan"
+    },
+    {
+      "artists": "The Knocks, SOFI TUKKER",
+      "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/586uxXMyD5ObPuzjtrzO1Q"
+}

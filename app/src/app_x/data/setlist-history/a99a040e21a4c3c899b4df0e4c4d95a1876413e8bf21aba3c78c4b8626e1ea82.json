@@ -1,0 +1,78 @@
+{
+  "notes": "Note: With Chris Thile, Madison Cunnigham, and the New York Philharmonic Orchestra. Chris Thile has the same setlist here on setlist.fm.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "One Little Song",
+          "notes": "(Gillian Welch cover)"
+        },
+        {
+          "name": "All I've Ever Known",
+          "notes": "(Madison Cunningham cover)"
+        },
+        {
+          "name": "Life According to Raechel",
+          "notes": "(Madison Cunningham cover)"
+        },
+        {
+          "name": "Inventing the Wheel",
+          "notes": "(Madison Cunningham cover) (New song)"
+        },
+        {
+          "name": "I Feel Fine",
+          "notes": "(The Beatles cover)"
+        },
+        {
+          "name": "Tennessee Waltz",
+          "notes": "(Pee Wee King & His Golden West Cowboys cover)"
+        },
+        {
+          "name": "Concerto for Two Violins in D Minor (BWV 1043: I. Vivace)",
+          "notes": "(Johann Sebastian Bach cover)"
+        },
+        {
+          "name": "Human Nature",
+          "notes": "(Michael Jackson cover)"
+        },
+        {
+          "name": "Can't Help Falling in Love",
+          "notes": "(Elvis Presley cover)"
+        },
+        {
+          "name": "Summer Rain",
+          "notes": "(New song)"
+        },
+        {
+          "name": "I Heard You Singing"
+        },
+        {
+          "name": "Never Gonna Be Alone"
+        },
+        {
+          "name": "River of Orchids",
+          "notes": "(XTC cover)"
+        },
+        {
+          "name": "Don't Talk (Put Your Head on My Shoulder)",
+          "notes": "(The Beach Boys cover)"
+        },
+        {
+          "name": "Wild Mountain Thyme",
+          "notes": "(Francis McPeake cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Red Clay Halo",
+          "notes": "(Gillian Welch cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/jacob-collier/2023/lincoln-center-for-the-performing-arts-david-geffen-hall-new-york-ny-7bbb1e54.html"
+}

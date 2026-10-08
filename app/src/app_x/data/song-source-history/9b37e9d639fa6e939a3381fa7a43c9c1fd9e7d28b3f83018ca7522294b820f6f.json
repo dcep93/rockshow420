@@ -1,0 +1,27 @@
+{
+  "artist": "Pink Stiletto",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pink Stiletto",
+      "name": "Bananza"
+    },
+    {
+      "artists": "Pink Stiletto",
+      "name": "Synthesize"
+    },
+    {
+      "artists": "Pink Stiletto",
+      "name": "Ice Eyes - Remix"
+    },
+    {
+      "artists": "Pink Stiletto",
+      "name": "Metro Alien"
+    },
+    {
+      "artists": "Pink Stiletto",
+      "name": "Do It For Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5X7aA68MU4iTPy5k2PwJq5"
+}

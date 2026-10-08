@@ -1,0 +1,48 @@
+{
+  "artist": "Phoebe Bridgers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phoebe Bridgers",
+      "explicit": true,
+      "name": "Scott Street"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "The Governor’s Waltz"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Waiting Room"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Motion Sickness"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Kill Me"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "I Know The End"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Haunted"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Lost Boys"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "Bobby"
+    },
+    {
+      "artists": "Phoebe Bridgers",
+      "name": "I Can’t Wait"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1r1uxoy19fzMxunt3ONAkG"
+}

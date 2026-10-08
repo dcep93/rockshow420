@@ -1,0 +1,28 @@
+{
+  "artist": "Austin Meade",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Austin Meade, Treaty Oak Revival",
+      "name": "Slim Pickins"
+    },
+    {
+      "artists": "Austin Meade, Treaty Oak Revival",
+      "name": "Hooked"
+    },
+    {
+      "artists": "Austin Meade, Treaty Oak Revival",
+      "name": "Rio Grande"
+    },
+    {
+      "artists": "Austin Meade, Treaty Oak Revival",
+      "name": "Funemployed"
+    },
+    {
+      "artists": "Austin Meade, Treaty Oak Revival",
+      "explicit": true,
+      "name": "Mirror"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7Jd98Mm2x1fQBzQmQOeX79"
+}

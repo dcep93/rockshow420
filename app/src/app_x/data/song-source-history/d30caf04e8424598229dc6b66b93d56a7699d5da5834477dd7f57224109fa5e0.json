@@ -1,0 +1,27 @@
+{
+  "artist": "AFROJACK",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pitbull, AFROJACK, Ne-Yo, Nayer",
+      "name": "Give Me Everything (feat. Nayer)"
+    },
+    {
+      "artists": "AFROJACK, Eva Simons",
+      "name": "Take Over Control (feat. Eva Simons) - Radio Edit"
+    },
+    {
+      "artists": "Pitbull, AFROJACK",
+      "name": "Maldito Alcohol (Pitbull vs. Afrojack)"
+    },
+    {
+      "artists": "AFROJACK, WRABEL",
+      "name": "Ten Feet Tall"
+    },
+    {
+      "artists": "AFROJACK, Martin Garrix, David Guetta, Amél",
+      "name": "Our Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4D75GcNG95ebPtNvoNVXhz"
+}

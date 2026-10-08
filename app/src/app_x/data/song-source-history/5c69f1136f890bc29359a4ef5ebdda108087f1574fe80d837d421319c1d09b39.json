@@ -1,0 +1,27 @@
+{
+  "artist": "Eric B. & Rakim",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Eric B. & Rakim",
+      "name": "Don't Sweat The Technique"
+    },
+    {
+      "artists": "Eric B. & Rakim, Marley Marl",
+      "name": "Paid In Full"
+    },
+    {
+      "artists": "Eric B. & Rakim",
+      "name": "Know The Ledge"
+    },
+    {
+      "artists": "Eric B. & Rakim",
+      "name": "I Ain't No Joke"
+    },
+    {
+      "artists": "Eric B. & Rakim",
+      "name": "Keep The Beat"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6jHG1YQkqgojdEzerwvrVv"
+}

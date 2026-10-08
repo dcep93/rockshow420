@@ -1,0 +1,27 @@
+{
+  "artist": "Justin Jay",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Justin Jay, EVA",
+      "name": "Do I Like You Like That?"
+    },
+    {
+      "artists": "Justin Jay, coldsweat, DJ Deeon",
+      "name": "Back To The Groove"
+    },
+    {
+      "artists": "Justin Jay, Josh Taylor, Benny Bridges",
+      "name": "Let Go"
+    },
+    {
+      "artists": "Justin Jay, Josh Taylor",
+      "name": "I Just Wanna Sleep"
+    },
+    {
+      "artists": "Justin Jay, Mija",
+      "name": "Summer Groove"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5k5eiijuHxrGwXp2Pz37GZ"
+}

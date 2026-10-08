@@ -1,0 +1,27 @@
+{
+  "artist": "All That Remains",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "All That Remains",
+      "name": "Two Weeks"
+    },
+    {
+      "artists": "All That Remains",
+      "name": "This Calling"
+    },
+    {
+      "artists": "All That Remains",
+      "name": "What If I Was Nothing"
+    },
+    {
+      "artists": "All That Remains",
+      "name": "Six"
+    },
+    {
+      "artists": "All That Remains",
+      "name": "The Air That I Breathe"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2zgG1GPDvjaBgxeQaVXI14"
+}

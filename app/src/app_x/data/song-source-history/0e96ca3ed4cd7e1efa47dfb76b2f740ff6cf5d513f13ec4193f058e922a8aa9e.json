@@ -1,0 +1,28 @@
+{
+  "artist": "Foreign Air",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foreign Air",
+      "name": "Free Animal"
+    },
+    {
+      "artists": "Foreign Air",
+      "name": "Your Touch"
+    },
+    {
+      "artists": "Foreign Air",
+      "name": "In the Shadows"
+    },
+    {
+      "artists": "Foreign Air",
+      "name": "Caffeine"
+    },
+    {
+      "artists": "Foreign Air",
+      "explicit": true,
+      "name": "The Therapist"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ApQnMT6oR8eLguf24xb9S"
+}

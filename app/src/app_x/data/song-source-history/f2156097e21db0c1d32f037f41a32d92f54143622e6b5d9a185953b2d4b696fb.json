@@ -1,0 +1,49 @@
+{
+  "artist": "Bad Wolves",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Wolves",
+      "name": "Zombie"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Killing Me Slowly"
+    },
+    {
+      "artists": "Bad Wolves, DIAMANTE",
+      "name": "Hear Me Now"
+    },
+    {
+      "artists": "Bad Wolves",
+      "explicit": true,
+      "name": "Remember When"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Sober"
+    },
+    {
+      "artists": "The HU, Serj Tankian, Bad Wolves, Daniel Laskiewicz",
+      "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Learn To Walk Again"
+    },
+    {
+      "artists": "Bad Wolves",
+      "explicit": true,
+      "name": "No Masters"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Jolene"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Paint It Red"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0eI3X5rAzHRZVe5FPk4MN1"
+}

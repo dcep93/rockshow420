@@ -1,0 +1,77 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "As It Was"
+        },
+        {
+          "name": "Dinner & Diatribes"
+        },
+        {
+          "name": "Nina Cried Power"
+        },
+        {
+          "name": "To Be Alone"
+        },
+        {
+          "name": "Angel of Small Death and the Codeine Scene"
+        },
+        {
+          "name": "Someone New"
+        },
+        {
+          "name": "Nobody"
+        },
+        {
+          "name": "Talk"
+        },
+        {
+          "name": "Jack Boot Jump"
+        },
+        {
+          "name": "From Eden"
+        },
+        {
+          "name": "Shrike"
+        },
+        {
+          "name": "No Plan"
+        },
+        {
+          "name": "Living for the City",
+          "notes": "(Stevie Wonder cover)"
+        },
+        {
+          "name": "Jackie and Wilson"
+        },
+        {
+          "name": "Almost (Sweet Music)"
+        },
+        {
+          "name": "Moment's Silence (Common Tongue)"
+        },
+        {
+          "name": "Movement"
+        },
+        {
+          "name": "Take Me to Church"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Cherry Wine"
+        },
+        {
+          "name": "Work Song"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hozier/2019/william-randolph-hearst-greek-theatre-berkeley-ca-2b9de85a.html"
+}

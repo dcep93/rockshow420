@@ -1,0 +1,28 @@
+{
+  "artist": "Junior Mesa",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Junior Mesa",
+      "explicit": true,
+      "name": "the cops are coming"
+    },
+    {
+      "artists": "Junior Mesa",
+      "name": "Quit Your Job, Runaway!"
+    },
+    {
+      "artists": "Junior Mesa",
+      "name": "im not your man"
+    },
+    {
+      "artists": "Junior Mesa",
+      "name": "Will I love again?"
+    },
+    {
+      "artists": "Junior Mesa",
+      "name": "good time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0tqSrr7nI6j3yOlMZJGCUX"
+}

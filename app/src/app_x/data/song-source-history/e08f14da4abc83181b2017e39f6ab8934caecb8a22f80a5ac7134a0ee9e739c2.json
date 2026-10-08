@@ -1,0 +1,28 @@
+{
+  "artist": "Angélica Garcia",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Angélica Garcia",
+      "name": "Paloma"
+    },
+    {
+      "artists": "Angélica Garcia",
+      "name": "Juanita"
+    },
+    {
+      "artists": "Sinego, Xinobi, Angélica Garcia",
+      "name": "Delirando"
+    },
+    {
+      "artists": "Angélica Garcia",
+      "explicit": true,
+      "name": "Karma the Knife"
+    },
+    {
+      "artists": "Adrian Quesada, Angélica Garcia",
+      "name": "No Juego (with Angélica Garcia)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2rjGbM0H8EUQzTVx6BgUlG"
+}

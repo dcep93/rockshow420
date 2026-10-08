@@ -1,0 +1,28 @@
+{
+  "artist": "Lawrence",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lawrence",
+      "name": "Guy I Used To Be"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Whatcha Want"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Family Business"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Do You Wanna Do Nothing With Me?"
+    },
+    {
+      "artists": "Lawrence",
+      "explicit": true,
+      "name": "Don't Lose Sight"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5rwUYLyUq8gBsVaOUcUxpE"
+}

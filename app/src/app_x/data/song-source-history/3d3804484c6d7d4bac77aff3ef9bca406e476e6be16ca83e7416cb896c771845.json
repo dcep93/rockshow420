@@ -1,0 +1,28 @@
+{
+  "artist": "Daniel Caesar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daniel Caesar",
+      "name": "Who Knows"
+    },
+    {
+      "artists": "Daniel Caesar, H.E.R.",
+      "name": "Best Part (feat. H.E.R.)"
+    },
+    {
+      "artists": "Daniel Caesar",
+      "name": "Superpowers"
+    },
+    {
+      "artists": "Daniel Caesar, Kali Uchis",
+      "name": "Get You (feat. Kali Uchis)"
+    },
+    {
+      "artists": "Daniel Caesar",
+      "explicit": true,
+      "name": "Always"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/20wkVLutqVOYrc0kxFs7rA"
+}

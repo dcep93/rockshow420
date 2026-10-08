@@ -1,0 +1,32 @@
+{
+  "artist": "brakence",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "brakence",
+      "explicit": true,
+      "name": "ready or noT"
+    },
+    {
+      "artists": "brakence",
+      "explicit": true,
+      "name": "crystallized"
+    },
+    {
+      "artists": "brakence",
+      "explicit": true,
+      "name": "death rolL"
+    },
+    {
+      "artists": "brakence",
+      "explicit": true,
+      "name": "venus fly trap"
+    },
+    {
+      "artists": "brakence",
+      "explicit": true,
+      "name": "deepfake"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4kqFrZkeqDfOIEqTWqbOOV"
+}

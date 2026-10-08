@@ -1,0 +1,90 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Anyhow"
+        },
+        {
+          "name": "Playing With My Emotions"
+        },
+        {
+          "name": "Ain't That Something"
+        },
+        {
+          "name": "Part of Me",
+          "notes": "(\"I Can Feel You Smiling\" tease)"
+        },
+        {
+          "name": "Doo Doo Doo Doo Doo (Heartbreaker)",
+          "notes": "(The Rolling Stones cover)"
+        },
+        {
+          "name": "I Am the Moon"
+        },
+        {
+          "name": "Pasaquan"
+        },
+        {
+          "name": "Have a Little Faith in Me",
+          "notes": "(John Hiatt cover) (with Norah Jones) (live debut by TTB)"
+        },
+        {
+          "name": "You Wreck Me",
+          "notes": "(Tom Petty cover) (with Norah Jones) (live debut by TTB)"
+        },
+        {
+          "name": "Midnight in Harlem"
+        },
+        {
+          "name": "Made Up Mind"
+        },
+        {
+          "name": "I Want More"
+        },
+        {
+          "name": "Beck's Bolero",
+          "notes": "(Jeff Beck cover) (with \"Freeway Jam\" tease)"
+        },
+        {
+          "name": "Angel From Montgomery",
+          "notes": "(John Prine cover) (>)"
+        },
+        {
+          "name": "Sugaree",
+          "notes": "(Jerry Garcia cover)"
+        },
+        {
+          "name": "The Seeker",
+          "notes": "(The Who cover) (with Trey Anastasio) (live debut by TTB)"
+        },
+        {
+          "name": "Bell Bottom Blues",
+          "notes": "(Derek and the Dominos cover) (with Trey Anastasio)"
+        },
+        {
+          "name": "Layla",
+          "notes": "(Derek and the Dominos cover) (with Trey Anastasio) (and with Lukas Nelson; last played by TTB 8/24/2019)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "A Song for You",
+          "notes": "(Leon Russell cover) (with Lukas Nelson) (last played by TTB 11/30/2018)"
+        },
+        {
+          "name": "Soul Sweet Song"
+        },
+        {
+          "name": "Sing a Simple Song / I Want to Take You Higher",
+          "notes": "(Sly & the Family Stone cover) (with Trey Anastasio, Norah Jones, and Lukas Nelson)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2023/madison-square-garden-new-york-ny-23a3e8ef.html"
+}

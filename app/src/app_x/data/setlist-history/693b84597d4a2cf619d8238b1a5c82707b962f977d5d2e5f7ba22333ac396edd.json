@@ -1,0 +1,99 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Limbo"
+        },
+        {
+          "name": "Probably Up"
+        },
+        {
+          "name": "It's Not All About You",
+          "notes": "(with Eric Freeman, the actor from the music video)"
+        },
+        {
+          "name": "Misty Morning"
+        },
+        {
+          "name": "Homesick",
+          "notes": "(Clyde Lawrence song)"
+        },
+        {
+          "name": "The Heartburn Song"
+        },
+        {
+          "name": "Try",
+          "notes": "(with Jon Lampley)"
+        },
+        {
+          "name": "Living for the City",
+          "notes": "(Stevie Wonder cover)"
+        },
+        {
+          "name": "(You Make Me Feel Like) A Natural Woman",
+          "notes": "(Carole King cover)"
+        },
+        {
+          "name": "Superficial"
+        },
+        {
+          "name": "Jet Lag"
+        },
+        {
+          "name": "Cabaret",
+          "notes": "(John Kander cover)"
+        },
+        {
+          "name": "Summer Nights",
+          "notes": "(Jim Jacobs & Warren Casey cover) (with Darren Criss)"
+        },
+        {
+          "name": "You Can't Stop the Beat",
+          "notes": "(Marc Shaiman cover) (with Darren Criss)"
+        },
+        {
+          "name": "Don't Rain on My Parade",
+          "notes": "(Jule Styne cover) (with Darren Criss)"
+        },
+        {
+          "name": "Defying Gravity",
+          "notes": "(Stephen Schwartz cover)"
+        },
+        {
+          "name": "My Shot",
+          "notes": "(Lin‐Manuel Miranda cover)"
+        },
+        {
+          "name": "Tomorrow",
+          "notes": "(Charles Strouse cover)"
+        },
+        {
+          "name": "Do You Wanna Do Nothing With Me?"
+        },
+        {
+          "name": "Quarantined with You",
+          "notes": "(Live debut)"
+        },
+        {
+          "name": "New York State of Mind",
+          "notes": "(Billy Joel cover)"
+        },
+        {
+          "name": "Don't Lose Sight"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Theme From New York, New York / Meet the Mets"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-4bbe0f7e.html"
+}

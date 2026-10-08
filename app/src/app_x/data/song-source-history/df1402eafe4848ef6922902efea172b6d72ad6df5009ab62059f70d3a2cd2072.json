@@ -1,0 +1,32 @@
+{
+  "artist": "Baby Keem",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Baby Keem, Kendrick Lamar",
+      "explicit": true,
+      "name": "family ties (with Kendrick Lamar)"
+    },
+    {
+      "artists": "Baby Keem",
+      "explicit": true,
+      "name": "ORANGE SODA"
+    },
+    {
+      "artists": "Baby Keem",
+      "explicit": true,
+      "name": "16"
+    },
+    {
+      "artists": "Fred again.., Baby Keem",
+      "explicit": true,
+      "name": "leavemealone"
+    },
+    {
+      "artists": "Baby Keem",
+      "explicit": true,
+      "name": "HONEST"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5SXuuuRpukkTvsLuUknva1"
+}

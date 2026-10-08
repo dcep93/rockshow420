@@ -1,0 +1,27 @@
+{
+  "artist": "Dominic Fike",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dominic Fike",
+      "name": "Babydoll"
+    },
+    {
+      "artists": "Dominic Fike",
+      "name": "White Keys"
+    },
+    {
+      "artists": "Dominic Fike",
+      "name": "3 Nights"
+    },
+    {
+      "artists": "Dominic Fike",
+      "name": "Mama's Boy"
+    },
+    {
+      "artists": "Dominic Fike",
+      "name": "misses"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6USv9qhCn6zfxlBQIYJ9qs"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Atlas Genius",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Atlas Genius",
+      "name": "Trojans"
+    },
+    {
+      "artists": "Atlas Genius",
+      "name": "If So"
+    },
+    {
+      "artists": "Atlas Genius",
+      "name": "Stockholm"
+    },
+    {
+      "artists": "Atlas Genius",
+      "name": "Molecules"
+    },
+    {
+      "artists": "Atlas Genius",
+      "name": "Back Seat"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/42vg2T0Xg9yPaAgogJzoQH"
+}

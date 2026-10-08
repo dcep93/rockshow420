@@ -1,0 +1,27 @@
+{
+  "artist": "John Francis Flynn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "John Francis Flynn",
+      "name": "My Son Tim"
+    },
+    {
+      "artists": "John Francis Flynn",
+      "name": "Kitty"
+    },
+    {
+      "artists": "John Francis Flynn",
+      "name": "Mole in the Ground"
+    },
+    {
+      "artists": "John Francis Flynn",
+      "name": "Lovely Joan"
+    },
+    {
+      "artists": "John Francis Flynn",
+      "name": "Dirty Old Town"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Fk7AKTOKr4iB3Xth93KHX"
+}

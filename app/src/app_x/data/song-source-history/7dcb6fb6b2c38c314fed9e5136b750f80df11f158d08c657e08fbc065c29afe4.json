@@ -1,0 +1,31 @@
+{
+  "artist": "Dylan Brady",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ADÉLA, Dylan Brady",
+      "explicit": true,
+      "name": "Ain't In LA - Coachella 2016 Remix"
+    },
+    {
+      "artists": "Skrillex, Noisia, josh pan, Dylan Brady",
+      "name": "Supersonic (my existence)"
+    },
+    {
+      "artists": "xaviersobased, Skrillex, Dylan Brady",
+      "explicit": true,
+      "name": "Party At My Place"
+    },
+    {
+      "artists": "100 gecs, Laura Les, Dylan Brady",
+      "explicit": true,
+      "name": "money machine"
+    },
+    {
+      "artists": "100 gecs, Laura Les, Dylan Brady",
+      "explicit": true,
+      "name": "hand crushed by a mallet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Cm6C9PNHioyjRKBfO7n9N"
+}

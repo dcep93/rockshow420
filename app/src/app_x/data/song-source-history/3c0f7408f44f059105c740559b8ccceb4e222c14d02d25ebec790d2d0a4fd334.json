@@ -1,0 +1,30 @@
+{
+  "artist": "Obongjayar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fred again.., Obongjayar",
+      "name": "adore u"
+    },
+    {
+      "artists": "Little Simz, Obongjayar",
+      "name": "Point and Kill"
+    },
+    {
+      "artists": "Jeshi, Obongjayar",
+      "explicit": true,
+      "name": "Protein"
+    },
+    {
+      "artists": "Obongjayar",
+      "explicit": true,
+      "name": "Just Cool"
+    },
+    {
+      "artists": "Jeshi, Obongjayar, WESTSIDE BOOGIE",
+      "explicit": true,
+      "name": "Protein v2"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6l7R1jntPahGxwJt7Tky8h"
+}

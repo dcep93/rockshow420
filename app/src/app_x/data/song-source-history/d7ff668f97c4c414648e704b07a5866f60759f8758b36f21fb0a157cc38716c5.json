@@ -1,0 +1,27 @@
+{
+  "artist": "Mk.gee",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mk.gee",
+      "name": "Alesis"
+    },
+    {
+      "artists": "Mk.gee",
+      "name": "Are You Looking Up"
+    },
+    {
+      "artists": "Mk.gee",
+      "name": "ROCKMAN"
+    },
+    {
+      "artists": "Mk.gee",
+      "name": "I Want"
+    },
+    {
+      "artists": "Mk.gee",
+      "name": "How many miles"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7tr9pbgNEKtG0GQTKe08Tz"
+}

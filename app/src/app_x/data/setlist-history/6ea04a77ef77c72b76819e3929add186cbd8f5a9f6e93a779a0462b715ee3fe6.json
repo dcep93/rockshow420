@@ -1,0 +1,65 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Fire"
+        },
+        {
+          "name": "Gemini Sun"
+        },
+        {
+          "name": "Know You Better"
+        },
+        {
+          "name": "Black Moon Rising"
+        },
+        {
+          "name": "Sauvignon"
+        },
+        {
+          "name": "Ice Cream (Pay Phone)"
+        },
+        {
+          "name": "Angel"
+        },
+        {
+          "name": "More Than a Love Song"
+        },
+        {
+          "name": "Hello"
+        },
+        {
+          "name": "Confines"
+        },
+        {
+          "name": "Chronicles of a Diamond"
+        },
+        {
+          "name": "Mrs. Postman"
+        },
+        {
+          "name": "OCT 33"
+        },
+        {
+          "name": "Colors"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Fast Car",
+          "notes": "(Tracy Chapman cover)"
+        },
+        {
+          "name": "Rock and Roll"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/black-pumas/2024/radio-city-music-hall-new-york-ny-5bacb358.html"
+}

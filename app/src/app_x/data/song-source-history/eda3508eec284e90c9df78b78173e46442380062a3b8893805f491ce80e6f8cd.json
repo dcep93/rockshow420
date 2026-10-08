@@ -1,0 +1,27 @@
+{
+  "artist": "Bishop Briggs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bishop Briggs",
+      "name": "River"
+    },
+    {
+      "artists": "Bishop Briggs",
+      "name": "White Flag"
+    },
+    {
+      "artists": "Bishop Briggs",
+      "name": "Never Tear Us Apart"
+    },
+    {
+      "artists": "Bishop Briggs",
+      "name": "Be Your Love"
+    },
+    {
+      "artists": "Bishop Briggs",
+      "name": "Dark Side"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+}

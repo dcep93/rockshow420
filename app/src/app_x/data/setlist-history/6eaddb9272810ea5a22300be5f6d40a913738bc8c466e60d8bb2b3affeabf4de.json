@@ -1,0 +1,76 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: BottleRock AfterDark Presents: CHVRCHES at The Fillmore.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro",
+          "tape": true
+        },
+        {
+          "name": "He Said She Said"
+        },
+        {
+          "name": "Forever"
+        },
+        {
+          "name": "Leave a Trace"
+        },
+        {
+          "name": "California"
+        },
+        {
+          "name": "How Not to Drown"
+        },
+        {
+          "name": "Violent Delights"
+        },
+        {
+          "name": "Science/Visions"
+        },
+        {
+          "name": "Good Girls"
+        },
+        {
+          "name": "Bury It"
+        },
+        {
+          "name": "Miracle"
+        },
+        {
+          "name": "Night Sky",
+          "notes": "(Ext. Outro)"
+        },
+        {
+          "name": "Final Girl",
+          "notes": "(Ext. Intro)"
+        },
+        {
+          "name": "Recover"
+        },
+        {
+          "name": "Never Say Die",
+          "notes": "(Ext. Outro)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Asking for a Friend"
+        },
+        {
+          "name": "The Mother We Share"
+        },
+        {
+          "name": "Clearest Blue",
+          "notes": "(With \"Just Can't Get Enough\" snippet by Depeche Mode as a tribute to Andy Fletcher)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/chvrches/2022/the-fillmore-san-francisco-ca-7bb74e4c.html"
+}

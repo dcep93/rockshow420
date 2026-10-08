@@ -1,0 +1,27 @@
+{
+  "artist": "Michigander",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Michigander",
+      "name": "Freaking Out"
+    },
+    {
+      "artists": "Michigander",
+      "name": "Misery"
+    },
+    {
+      "artists": "Michigander",
+      "name": "YYY"
+    },
+    {
+      "artists": "Michigander",
+      "name": "East Chicago, IN"
+    },
+    {
+      "artists": "Michigander",
+      "name": "Taxi"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0oL26Dn9y761yfJgNb3vfu"
+}

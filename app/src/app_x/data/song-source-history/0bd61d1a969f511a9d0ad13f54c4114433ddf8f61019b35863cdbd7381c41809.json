@@ -1,0 +1,52 @@
+{
+  "artist": "Neck Deep",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Neck Deep",
+      "name": "Wish You Were Here"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "December"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "In Bloom"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "A Part Of Me (feat. Laura Whiteside)"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "December (again) [feat. Mark Hoppus]"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "Can't Kick Up The Roots"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "Torn"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "Gold Steps"
+    },
+    {
+      "artists": "Neck Deep",
+      "explicit": true,
+      "name": "Kali Ma"
+    },
+    {
+      "artists": "Neck Deep",
+      "name": "Motion Sickness"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2TM0qnbJH4QPhGMCdPt7fH"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "LAUNDRY DAY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LAUNDRY DAY",
+      "name": "I WANNA LOVE YOU BABE"
+    },
+    {
+      "artists": "LAUNDRY DAY",
+      "name": "FRIENDS"
+    },
+    {
+      "artists": "LAUNDRY DAY",
+      "name": "I KINDA LIKE THAT"
+    },
+    {
+      "artists": "LAUNDRY DAY",
+      "name": "SUPERMODEL"
+    },
+    {
+      "artists": "LAUNDRY DAY",
+      "name": "Other Side of the World"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+}

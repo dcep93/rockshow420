@@ -1,0 +1,32 @@
+{
+  "artist": "RMR",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RMR, Future, Lil Baby",
+      "explicit": true,
+      "name": "DEALER (feat. Future & Lil Baby)"
+    },
+    {
+      "artists": "Darci, RMR",
+      "explicit": true,
+      "name": "Thin Glass"
+    },
+    {
+      "artists": "Shaboozey, RMR",
+      "explicit": true,
+      "name": "Hanging High"
+    },
+    {
+      "artists": "RMR",
+      "explicit": true,
+      "name": "RASCAL"
+    },
+    {
+      "artists": "RMR, Westside Gunn",
+      "explicit": true,
+      "name": "WELFARE (feat. Westside Gunn)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+}

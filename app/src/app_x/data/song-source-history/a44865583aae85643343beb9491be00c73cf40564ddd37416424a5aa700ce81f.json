@@ -1,0 +1,28 @@
+{
+  "artist": "Cydeways",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cydeways, Grieves",
+      "name": "Shadows"
+    },
+    {
+      "artists": "Cydeways",
+      "explicit": true,
+      "name": "Ocean"
+    },
+    {
+      "artists": "Cydeways, Ballyhoo!",
+      "name": "Come Alive"
+    },
+    {
+      "artists": "Cydeways, Kash'd Out",
+      "name": "Sun Goes Down (feat. Kash'd Out)"
+    },
+    {
+      "artists": "Cydeways, Pepper",
+      "name": "No Cigar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/398HIuiMcfxwWLwAUD5Z2G"
+}

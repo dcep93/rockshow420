@@ -1,0 +1,28 @@
+{
+  "artist": "Sierra Ferrell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sierra Ferrell",
+      "name": "In Dreams"
+    },
+    {
+      "artists": "Sierra Ferrell",
+      "name": "Years"
+    },
+    {
+      "artists": "Zach Bryan, Sierra Ferrell",
+      "explicit": true,
+      "name": "Holy Roller (feat. Sierra Ferrell)"
+    },
+    {
+      "artists": "Sierra Ferrell",
+      "name": "American Dreaming"
+    },
+    {
+      "artists": "Shakey Graves, Sierra Ferrell",
+      "name": "Ready or Not (feat. Sierra Ferrell)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3oVcF3VdpMuvMvLLyHPT4t"
+}

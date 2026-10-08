@@ -1,0 +1,27 @@
+{
+  "artist": "Phew",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phew, Danielle De Picciotto",
+      "name": "Sugar Sprinkles"
+    },
+    {
+      "artists": "Phew",
+      "name": "SIGNAL"
+    },
+    {
+      "artists": "Phew",
+      "name": "CLOSED"
+    },
+    {
+      "artists": "Phew, Danielle De Picciotto",
+      "name": "The Cat"
+    },
+    {
+      "artists": "Phew",
+      "name": "Hearts And Flowers"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7mTJBVGJmkgbjwvbzc0Bqb"
+}

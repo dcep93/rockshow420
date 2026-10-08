@@ -1,0 +1,49 @@
+{
+  "artist": "FINNEAS",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ashe, FINNEAS",
+      "explicit": true,
+      "name": "Till Forever Falls Apart"
+    },
+    {
+      "artists": "FINNEAS",
+      "name": "For Cryin' Out Loud!"
+    },
+    {
+      "artists": "FINNEAS",
+      "name": "Break My Heart Again"
+    },
+    {
+      "artists": "FINNEAS",
+      "explicit": true,
+      "name": "Let's Fall in Love for the Night"
+    },
+    {
+      "artists": "The Favors, FINNEAS, Ashe",
+      "name": "The Little Mess You Made"
+    },
+    {
+      "artists": "Lizzy McAlpine, FINNEAS",
+      "name": "hate to be lame"
+    },
+    {
+      "artists": "The Favors, FINNEAS, Ashe",
+      "name": "Home Sweet Home"
+    },
+    {
+      "artists": "The Favors, FINNEAS, Ashe",
+      "name": "The Hudson"
+    },
+    {
+      "artists": "FINNEAS",
+      "name": "I Lost a Friend"
+    },
+    {
+      "artists": "FINNEAS",
+      "name": "2001"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/37M5pPGs6V1fchFJSgCguX"
+}

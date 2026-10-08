@@ -1,0 +1,28 @@
+{
+  "artist": "Khalid",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Billie Eilish, Khalid",
+      "name": "lovely (with Khalid)"
+    },
+    {
+      "artists": "Khalid",
+      "name": "Young Dumb & Broke"
+    },
+    {
+      "artists": "Marshmello, Khalid",
+      "name": "Silence"
+    },
+    {
+      "artists": "Khalid",
+      "explicit": true,
+      "name": "Better"
+    },
+    {
+      "artists": "benny blanco, Halsey, Khalid",
+      "name": "Eastside (with Halsey & Khalid)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6LuN9FCkKOj5PcnpouEgny"
+}

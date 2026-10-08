@@ -1,0 +1,29 @@
+{
+  "artist": "The Frights",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Frights",
+      "explicit": true,
+      "name": "You Are Going To Hate This"
+    },
+    {
+      "artists": "The Frights",
+      "explicit": true,
+      "name": "Tungs"
+    },
+    {
+      "artists": "The Frights",
+      "name": "Tongues"
+    },
+    {
+      "artists": "The Frights",
+      "name": "Crust Bucket"
+    },
+    {
+      "artists": "The Frights",
+      "name": "All I Need"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2HSEdXKVq1WWtBbsIeNjRX"
+}

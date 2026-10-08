@@ -1,0 +1,27 @@
+{
+  "artist": "KAYTRANADA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "KAYTRANADA, H.E.R.",
+      "name": "Intimidated (feat. H.E.R.)"
+    },
+    {
+      "artists": "KAYTRANADA, Syd",
+      "name": "YOU'RE THE ONE"
+    },
+    {
+      "artists": "KAYTRANADA, Charlotte Day Wilson",
+      "name": "What You Need (feat. Charlotte Day Wilson)"
+    },
+    {
+      "artists": "Teedra Moses, KAYTRANADA",
+      "name": "BE YOUR GIRL - KAYTRANADA REMIX"
+    },
+    {
+      "artists": "Shay Lia, KAYTRANADA",
+      "name": "SO GOOD"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6qgnBH6iDM91ipVXv28OMu"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Husbands",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Husbands",
+      "name": "Mexico"
+    },
+    {
+      "artists": "Husbands",
+      "name": "Try Not to Worry"
+    },
+    {
+      "artists": "Husbands",
+      "name": "Vangelis"
+    },
+    {
+      "artists": "Husbands",
+      "name": "Liked to Party"
+    },
+    {
+      "artists": "Husbands",
+      "name": "Must Be a Cop"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2FUIaEhxMNdiBpO8ykabdP"
+}

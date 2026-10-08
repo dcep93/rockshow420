@@ -1,0 +1,27 @@
+{
+  "artist": "Dinosaur Jr.",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dinosaur Jr.",
+      "name": "Feel the Pain"
+    },
+    {
+      "artists": "Dinosaur Jr.",
+      "name": "Start Choppin'"
+    },
+    {
+      "artists": "Dinosaur Jr.",
+      "name": "In a Jar"
+    },
+    {
+      "artists": "Dinosaur Jr.",
+      "name": "Several Got Away"
+    },
+    {
+      "artists": "Dinosaur Jr.",
+      "name": "Everything At Once"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/267VY6GX5LyU5c9M85ECZQ"
+}

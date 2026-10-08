@@ -1,0 +1,27 @@
+{
+  "artist": "Sultan + Shepard",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sultan + Shepard",
+      "name": "The Way"
+    },
+    {
+      "artists": "Sultan + Shepard",
+      "name": "Assassin"
+    },
+    {
+      "artists": "Sultan + Shepard, Prinze George",
+      "name": "Centuries"
+    },
+    {
+      "artists": "Sultan + Shepard",
+      "name": "You Are My High"
+    },
+    {
+      "artists": "Sultan + Shepard, The Kite String Tangle",
+      "name": "Memories"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/14Tg9FvbNismPR1PJHxRau"
+}

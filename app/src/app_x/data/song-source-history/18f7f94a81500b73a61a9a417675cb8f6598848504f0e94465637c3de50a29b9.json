@@ -1,0 +1,27 @@
+{
+  "artist": "Los Aptos",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Los Aptos",
+      "name": "Enamorado"
+    },
+    {
+      "artists": "Los Aptos, Cuco",
+      "name": "Miel"
+    },
+    {
+      "artists": "Los Aptos, DannyLux",
+      "name": "Me Voy Contigo"
+    },
+    {
+      "artists": "Los Aptos, DannyLux",
+      "name": "Tú Me Llevas a Un Espacio"
+    },
+    {
+      "artists": "Xavi, Los Aptos",
+      "name": "Solo Recuerdos"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4tenlYn9MG8Fda3OyDtPRO"
+}

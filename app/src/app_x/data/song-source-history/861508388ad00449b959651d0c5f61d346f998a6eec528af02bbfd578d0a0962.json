@@ -1,0 +1,32 @@
+{
+  "artist": "YOVNGCHIMI",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "YOVNGCHIMI, JC Reyes",
+      "explicit": true,
+      "name": "MVLAN"
+    },
+    {
+      "artists": "Bad Bunny, YOVNGCHIMI",
+      "explicit": true,
+      "name": "MERCEDES CAROTA"
+    },
+    {
+      "artists": "Mora, YOVNGCHIMI",
+      "explicit": true,
+      "name": "MODELITO"
+    },
+    {
+      "artists": "YOVNGCHIMI, Dei V",
+      "explicit": true,
+      "name": "TU$$I (with Dei V)"
+    },
+    {
+      "artists": "Pressure 9X19, Anuel AA, YOVNGCHIMI, CDobleta, Luar La L",
+      "explicit": true,
+      "name": "VVS SWITCH (feat. Luar La L & CDobleta) - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4aSlfXDn9R60UlbZEboBUy"
+}

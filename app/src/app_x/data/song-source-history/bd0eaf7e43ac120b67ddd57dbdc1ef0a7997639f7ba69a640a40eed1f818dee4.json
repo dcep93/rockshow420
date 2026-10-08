@@ -1,0 +1,31 @@
+{
+  "artist": "Hobo Johnson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hobo Johnson",
+      "explicit": true,
+      "name": "Peach Scone"
+    },
+    {
+      "artists": "Hobo Johnson",
+      "explicit": true,
+      "name": "Typical Story"
+    },
+    {
+      "artists": "Hobo Johnson",
+      "explicit": true,
+      "name": "Subaru Crosstrek XV"
+    },
+    {
+      "artists": "Hobo Johnson",
+      "name": "Mover Awayer"
+    },
+    {
+      "artists": "Hobo Johnson",
+      "explicit": true,
+      "name": "Romeo & Juliet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/05SdqPzK4m3k1ljK2wrTSP"
+}

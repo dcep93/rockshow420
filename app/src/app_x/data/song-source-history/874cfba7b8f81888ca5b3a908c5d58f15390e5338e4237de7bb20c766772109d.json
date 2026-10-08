@@ -1,0 +1,27 @@
+{
+  "artist": "Dijon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dijon",
+      "name": "The Dress"
+    },
+    {
+      "artists": "Justin Bieber, Dijon",
+      "name": "DEVOTION"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Talk Down"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Skin"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Yamaha"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0knGpCTbmG4ctl1wzYRZs4"
+}

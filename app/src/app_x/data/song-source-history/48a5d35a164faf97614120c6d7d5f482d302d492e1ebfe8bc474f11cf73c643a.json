@@ -1,0 +1,28 @@
+{
+  "artist": "Troye Sivan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dua Lipa, Troye Sivan",
+      "name": "Physical (feat. Troye Sivan)"
+    },
+    {
+      "artists": "Troye Sivan",
+      "explicit": true,
+      "name": "Rush"
+    },
+    {
+      "artists": "Troye Sivan",
+      "name": "Party"
+    },
+    {
+      "artists": "Troye Sivan",
+      "name": "One Of Your Girls"
+    },
+    {
+      "artists": "Troye Sivan",
+      "name": "Angel Baby"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3WGpXCj9YhhfX11TToZcXP"
+}

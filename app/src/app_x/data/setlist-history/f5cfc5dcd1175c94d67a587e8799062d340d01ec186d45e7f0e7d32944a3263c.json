@@ -1,0 +1,82 @@
+{
+  "sets": [
+    {
+      "name": "Act 1: Still Avoiding Tomorrow",
+      "songs": [
+        {
+          "name": "Quarter Past Midnight"
+        },
+        {
+          "name": "Send Them Off!"
+        },
+        {
+          "name": "Things We Lost in the Fire"
+        },
+        {
+          "name": "The Waves"
+        },
+        {
+          "name": "Two Evils"
+        },
+        {
+          "name": "Happier",
+          "notes": "(Marshmello & Bastille song) (Shame intro)"
+        },
+        {
+          "name": "Bad Decisions",
+          "notes": "(with Dan from Joywave)"
+        },
+        {
+          "name": "Flaws",
+          "notes": "(Dan in crowd)"
+        }
+      ]
+    },
+    {
+      "name": "Act 2: Those Nights",
+      "songs": [
+        {
+          "name": "Those Nights",
+          "notes": "(Weapon intro)"
+        },
+        {
+          "name": "4AM"
+        },
+        {
+          "name": "Bad Blood"
+        },
+        {
+          "name": "Doom Days"
+        },
+        {
+          "name": "Blame"
+        }
+      ]
+    },
+    {
+      "name": "Act 3: The Morning Doesn’t Reach Us",
+      "songs": [
+        {
+          "name": "Joy"
+        },
+        {
+          "name": "Another Place"
+        },
+        {
+          "name": "Good Grief"
+        },
+        {
+          "name": "Of the Night"
+        },
+        {
+          "name": "Million Pieces"
+        },
+        {
+          "name": "Pompeii",
+          "notes": "(with Joywave)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/bastille/2019/william-randolph-hearst-greek-theatre-berkeley-ca-339dacd5.html"
+}

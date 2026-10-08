@@ -1,0 +1,27 @@
+{
+  "artist": "HOKO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "HOKO",
+      "name": "Hellogoodbye"
+    },
+    {
+      "artists": "HOKO",
+      "name": "OK OK"
+    },
+    {
+      "artists": "HOKO, PVRIS",
+      "name": "Hellogoodbye - PVRIS Remix"
+    },
+    {
+      "artists": "HOKO",
+      "name": "Candy Eyes"
+    },
+    {
+      "artists": "HOKO",
+      "name": "I Feel Like I'm Falling"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7DBibsUWd2RMKmXbple4xZ"
+}

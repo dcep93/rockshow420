@@ -1,0 +1,27 @@
+{
+  "artist": "Foreigner",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foreigner",
+      "name": "I Want to Know What Love Is - 1999 Remaster"
+    },
+    {
+      "artists": "Foreigner",
+      "name": "Waiting for a Girl like You"
+    },
+    {
+      "artists": "Foreigner",
+      "name": "Cold as Ice"
+    },
+    {
+      "artists": "Foreigner",
+      "name": "Juke Box Hero"
+    },
+    {
+      "artists": "Foreigner",
+      "name": "I Want to Know What Love Is"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6IRouO5mvvfcyxtPDKMYFN"
+}

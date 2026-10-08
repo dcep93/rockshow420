@@ -1,0 +1,28 @@
+{
+  "artist": "Mikky Ekko",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "21 Savage, Tommy Newport, Mikky Ekko",
+      "explicit": true,
+      "name": "red sky"
+    },
+    {
+      "artists": "Mikky Ekko",
+      "name": "Cherish You"
+    },
+    {
+      "artists": "Mikky Ekko",
+      "name": "Who Are You, Really?"
+    },
+    {
+      "artists": "Mikky Ekko",
+      "name": "Smile"
+    },
+    {
+      "artists": "Mikky Ekko",
+      "name": "Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1buzCmyYZE4kcdLRudsb8V"
+}

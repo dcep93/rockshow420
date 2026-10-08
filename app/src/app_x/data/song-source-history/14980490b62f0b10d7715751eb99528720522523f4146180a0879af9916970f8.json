@@ -1,0 +1,27 @@
+{
+  "artist": "The Thing",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Thing",
+      "name": "India"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Reboot"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Life On Mars"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Viking"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Viking Disco / Perfection"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1y6pZKfx9YSeG5ToaZPBZq"
+}

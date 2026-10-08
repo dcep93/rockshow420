@@ -1,0 +1,29 @@
+{
+  "artist": "UPSAHL",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LE SSERAFIM, UPSAHL",
+      "name": "Eve, Psyche & the Bluebeard’s wife (feat. UPSAHL)"
+    },
+    {
+      "artists": "UPSAHL",
+      "explicit": true,
+      "name": "People I Don't Like"
+    },
+    {
+      "artists": "UPSAHL",
+      "explicit": true,
+      "name": "Bender"
+    },
+    {
+      "artists": "UPSAHL",
+      "name": "I LIKE IT!"
+    },
+    {
+      "artists": "UPSAHL",
+      "name": "Drugs"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1294QqYm1VuxxjRiL9M0h9"
+}

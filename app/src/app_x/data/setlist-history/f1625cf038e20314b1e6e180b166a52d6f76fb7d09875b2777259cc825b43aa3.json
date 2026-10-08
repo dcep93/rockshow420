@@ -1,0 +1,78 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: \"We Need Medicine\" and \"Runaround Sue\" were on the setlist, but were not played because Jon Fratelli was losing his voice.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Henrietta"
+        },
+        {
+          "name": "Starcrossed Losers"
+        },
+        {
+          "name": "Baby Don't You Lie to Me!"
+        },
+        {
+          "name": "Flathead"
+        },
+        {
+          "name": "Impostors (Little by Little)"
+        },
+        {
+          "name": "Whistle for the Choir"
+        },
+        {
+          "name": "Sugartown"
+        },
+        {
+          "name": "For the Girl"
+        },
+        {
+          "name": "I've Been Blind"
+        },
+        {
+          "name": "Everybody Knows You Cried Last Night"
+        },
+        {
+          "name": "Told You So"
+        },
+        {
+          "name": "Creepin' Up the Backstairs"
+        },
+        {
+          "name": "Dogtown"
+        },
+        {
+          "name": "Ole Black 'n' Blue Eyes"
+        },
+        {
+          "name": "Stand Up Tragedy"
+        },
+        {
+          "name": "Too Much Wine"
+        },
+        {
+          "name": "Baby Fratelli"
+        },
+        {
+          "name": "A Heady Tale"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "I Am That",
+          "notes": "(Live Debut)"
+        },
+        {
+          "name": "Chelsea Dagger"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-fratellis/2018/the-fillmore-san-francisco-ca-53ec5fe1.html"
+}

@@ -1,0 +1,83 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro",
+          "tape": true
+        },
+        {
+          "name": "Captain Kelly's Kitchen"
+        },
+        {
+          "name": "The Boys Are Back"
+        },
+        {
+          "name": "Famous for Nothing"
+        },
+        {
+          "name": "Sandlot"
+        },
+        {
+          "name": "Johnny, I Hardly Knew Ya"
+        },
+        {
+          "name": "Blood"
+        },
+        {
+          "name": "The State of Massachusetts"
+        },
+        {
+          "name": "First Class Loser"
+        },
+        {
+          "name": "You'll Never Walk Alone",
+          "notes": "(Rodgers & Hammerstein cover)"
+        },
+        {
+          "name": "The Walking Dead"
+        },
+        {
+          "name": "Paying My Way"
+        },
+        {
+          "name": "Worker's Song"
+        },
+        {
+          "name": "Rose Tattoo"
+        },
+        {
+          "name": "Out of Our Heads"
+        },
+        {
+          "name": "Going Out in Style"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Body of an American",
+          "notes": "(The Pogues cover)"
+        },
+        {
+          "name": "I'm Shipping Up to Boston"
+        },
+        {
+          "name": "Kiss Me, I'm Shitfaced"
+        },
+        {
+          "name": "Skinhead on the MBTA"
+        },
+        {
+          "name": "Dirty Deeds Done Dirt Cheap",
+          "notes": "(AC/DC cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/dropkick-murphys/2018/bill-graham-civic-auditorium-san-francisco-ca-4be91f7a.html"
+}

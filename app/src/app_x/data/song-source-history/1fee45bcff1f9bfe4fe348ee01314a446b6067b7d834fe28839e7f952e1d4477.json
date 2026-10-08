@@ -1,0 +1,27 @@
+{
+  "artist": "Trixie Mattel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Trixie Mattel",
+      "name": "Heavy Crown"
+    },
+    {
+      "artists": "Trixie Mattel",
+      "name": "Video Games"
+    },
+    {
+      "artists": "Trixie Mattel",
+      "name": "Ghost On The Moon"
+    },
+    {
+      "artists": "Trixie Mattel, Orville Peck",
+      "name": "Jackson (feat. Orville Peck)"
+    },
+    {
+      "artists": "Wolf Parade, Trixie Mattel",
+      "name": "I'll Believe in Anything - Trixie Mattel Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/33hAj1SghVYxDAxZxNDcyc"
+}

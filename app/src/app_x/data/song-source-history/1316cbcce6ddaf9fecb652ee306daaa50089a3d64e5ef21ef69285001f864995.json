@@ -1,0 +1,28 @@
+{
+  "artist": "blink-182",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "blink-182",
+      "name": "All The Small Things"
+    },
+    {
+      "artists": "blink-182",
+      "name": "I Miss You"
+    },
+    {
+      "artists": "blink-182",
+      "explicit": true,
+      "name": "What's My Age Again?"
+    },
+    {
+      "artists": "blink-182",
+      "name": "First Date"
+    },
+    {
+      "artists": "blink-182",
+      "name": "Adam's Song"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6FBDaR13swtiWwGhX1WQsP"
+}

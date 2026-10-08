@@ -1,0 +1,31 @@
+{
+  "artist": "Trippie Redd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "XXXTENTACION, Trippie Redd",
+      "explicit": true,
+      "name": "Fuck Love"
+    },
+    {
+      "artists": "Diplo, Trippie Redd",
+      "explicit": true,
+      "name": "Wish (feat. Trippie Redd) - Trippie Mix"
+    },
+    {
+      "artists": "Trippie Redd, Reese LAFLARE, Young Thug",
+      "explicit": true,
+      "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)"
+    },
+    {
+      "artists": "Trippie Redd, Diplo",
+      "explicit": true,
+      "name": "Wish - Audiomack Trap Symphony Version"
+    },
+    {
+      "artists": "Tory Lanez, Trippie Redd, Yoko Gold",
+      "name": "Hurts Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Xgp2XMz1fhVYe7i6yNAax"
+}

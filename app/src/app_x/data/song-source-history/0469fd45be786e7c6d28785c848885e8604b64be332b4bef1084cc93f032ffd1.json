@@ -1,0 +1,27 @@
+{
+  "artist": "Foster The People",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foster The People",
+      "name": "Pumped Up Kicks"
+    },
+    {
+      "artists": "Foster The People",
+      "name": "Sit Next to Me"
+    },
+    {
+      "artists": "Foster The People",
+      "name": "Imagination"
+    },
+    {
+      "artists": "Foster The People",
+      "name": "Houdini"
+    },
+    {
+      "artists": "Foster The People",
+      "name": "Helena Beat"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7gP3bB2nilZXLfPHJhMdvc"
+}

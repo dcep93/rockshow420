@@ -1,0 +1,73 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Stake"
+        },
+        {
+          "name": "Swingtown"
+        },
+        {
+          "name": "Abracadabra"
+        },
+        {
+          "name": "Living in the U.S.A."
+        },
+        {
+          "name": "Take the Money and Run"
+        },
+        {
+          "name": "Mercury Boogie",
+          "notes": "(K.C. Douglas cover) (with Peter Frampton)"
+        },
+        {
+          "name": "All Your Love (I Miss Loving)",
+          "notes": "(Otis Rush & His Band cover) (with Peter Frampton)"
+        },
+        {
+          "name": "Stranger’s Blues",
+          "notes": "(Sippie Wallace cover) (with Peter Frampton)"
+        },
+        {
+          "name": "Dance, Dance, Dance"
+        },
+        {
+          "name": "Wild Mountain Honey"
+        },
+        {
+          "name": "Serenade"
+        },
+        {
+          "name": "Space Cowboy"
+        },
+        {
+          "name": "Shu Ba Da Du Ma Ma Ma Ma"
+        },
+        {
+          "name": "The Joker"
+        },
+        {
+          "name": "Fly Like an Eagle"
+        },
+        {
+          "name": "Rock'n Me"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Jungle Love"
+        },
+        {
+          "name": "Jet Airliner",
+          "notes": "(Paul Pena cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/steve-miller-band/2017/shoreline-amphitheatre-mountain-view-ca-5be50bc8.html"
+}

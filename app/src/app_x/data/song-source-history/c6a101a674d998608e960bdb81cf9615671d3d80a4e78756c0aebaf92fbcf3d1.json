@@ -1,0 +1,28 @@
+{
+  "artist": "Spacey Jane",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Spacey Jane",
+      "name": "Booster Seat"
+    },
+    {
+      "artists": "Spacey Jane",
+      "name": "Feeding the Family"
+    },
+    {
+      "artists": "Spacey Jane",
+      "name": "Do You Really Love Her"
+    },
+    {
+      "artists": "Spacey Jane",
+      "explicit": true,
+      "name": "Whateverrrr"
+    },
+    {
+      "artists": "Spacey Jane",
+      "name": "Lots of Nothing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6V70yeZQCoSR2M3fyW8qiA"
+}

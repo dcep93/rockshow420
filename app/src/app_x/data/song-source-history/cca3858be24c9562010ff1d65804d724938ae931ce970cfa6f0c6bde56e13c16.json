@@ -1,0 +1,32 @@
+{
+  "artist": "Destroy Lonely",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Destroy Lonely",
+      "explicit": true,
+      "name": "NOSTYLIST"
+    },
+    {
+      "artists": "Destroy Lonely",
+      "explicit": true,
+      "name": "if looks could kill"
+    },
+    {
+      "artists": "Destroy Lonely",
+      "explicit": true,
+      "name": "MONSTER"
+    },
+    {
+      "artists": "Ken Carson, Destroy Lonely",
+      "explicit": true,
+      "name": "the acronym (with Destroy Lonely)"
+    },
+    {
+      "artists": "Destroy Lonely",
+      "explicit": true,
+      "name": "JETLGGD"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1HPW4jeRjXBFRoUnSvBzoD"
+}

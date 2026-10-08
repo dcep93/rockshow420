@@ -1,0 +1,31 @@
+{
+  "artist": "The Walrus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Walrus",
+      "name": "The Sunday"
+    },
+    {
+      "artists": "The Walrus",
+      "name": "Insight"
+    },
+    {
+      "artists": "The Walrus",
+      "name": "Two"
+    },
+    {
+      "artists": "EThe Walrus",
+      "name": "One"
+    },
+    {
+      "artists": "The Walrus",
+      "name": "IDK"
+    },
+    {
+      "artists": "The Walrus",
+      "name": "Mib"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7dKkJUCgcEvtb9t1bxFjx0"
+}

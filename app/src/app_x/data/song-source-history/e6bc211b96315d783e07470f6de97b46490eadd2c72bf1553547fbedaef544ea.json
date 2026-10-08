@@ -1,0 +1,32 @@
+{
+  "artist": "Night Lovell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Night Lovell, $uicideboy$",
+      "explicit": true,
+      "name": "JOAN OF ARC"
+    },
+    {
+      "artists": "Night Lovell",
+      "explicit": true,
+      "name": "Dark Light"
+    },
+    {
+      "artists": "CORPSE, Night Lovell",
+      "explicit": true,
+      "name": "HOT DEMON B!TCHES NEAR U ! ! !"
+    },
+    {
+      "artists": "Night Lovell",
+      "explicit": true,
+      "name": "Deira City Centre"
+    },
+    {
+      "artists": "$uicideboy$, Night Lovell",
+      "explicit": true,
+      "name": "Carried Away"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2y246nnP9pQT0E6v3ZMMOO"
+}

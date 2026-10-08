@@ -1,0 +1,27 @@
+{
+  "artist": "Wolfgang Gartner",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Skrillex, Wolfgang Gartner",
+      "name": "The Devil's Den"
+    },
+    {
+      "artists": "deadmau5, Wolfgang Gartner",
+      "name": "Animal Rights"
+    },
+    {
+      "artists": "deadmau5, Wolfgang Gartner, Westend",
+      "name": "Animal Rights - Westend Remix"
+    },
+    {
+      "artists": "Wolfgang Gartner",
+      "name": "Illmerica"
+    },
+    {
+      "artists": "deadmau5, Wolfgang Gartner",
+      "name": "Channel 42"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3534yWWzmxx8NbKVoNolsK"
+}

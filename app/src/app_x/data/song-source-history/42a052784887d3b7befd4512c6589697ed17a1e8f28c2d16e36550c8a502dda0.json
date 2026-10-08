@@ -1,0 +1,30 @@
+{
+  "artist": "Friday Pilots Club",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Friday Pilots Club",
+      "name": "End of It"
+    },
+    {
+      "artists": "Friday Pilots Club",
+      "explicit": true,
+      "name": "Spectator"
+    },
+    {
+      "artists": "Friday Pilots Club",
+      "explicit": true,
+      "name": "We Don't Wanna Talk"
+    },
+    {
+      "artists": "Friday Pilots Club",
+      "name": "For The Wicked"
+    },
+    {
+      "artists": "Friday Pilots Club",
+      "explicit": true,
+      "name": "Vampire Disco"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3PgEvPJKRuil74QPX8wtXY"
+}

@@ -1,0 +1,15 @@
+{
+  "artist": "Rooz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rooz, MoTrip",
+      "name": "Immer wieder (feat. MoTrip)"
+    },
+    {
+      "artists": "Rooz, Milano",
+      "name": "Très jolie"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/22qcssYcY9HKu3mgcXXEGq"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Kygo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kygo, Selena Gomez",
+      "name": "It Ain’t Me (with Selena Gomez)"
+    },
+    {
+      "artists": "Kygo, Conrad Sewell",
+      "name": "Firestone"
+    },
+    {
+      "artists": "Kygo, Parson James",
+      "name": "Stole the Show"
+    },
+    {
+      "artists": "Kygo, Whitney Houston",
+      "name": "Higher Love"
+    },
+    {
+      "artists": "Kygo, Ava Max",
+      "name": "Whatever"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/23fqKkggKUBHNkbKtXEls4"
+}

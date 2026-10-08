@@ -1,0 +1,15 @@
+{
+  "artist": "Geese",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EFranklin Arce Music, Bucledd, Geese",
+      "name": "Cerquita De Mi"
+    },
+    {
+      "artists": "Franklin Arce Music, Geese",
+      "name": "Solo Tu"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4Ol2YcNcJZX5GiuXkSfTK7"
+}

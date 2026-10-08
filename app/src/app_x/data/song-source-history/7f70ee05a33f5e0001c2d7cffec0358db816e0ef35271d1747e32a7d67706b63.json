@@ -1,0 +1,27 @@
+{
+  "artist": "Chloé Caillet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chloé Caillet, Luke Alessi, Jocelyn Brown",
+      "name": "The One (feat. Jocelyn Brown)"
+    },
+    {
+      "artists": "Chloé Caillet, D Stone",
+      "name": "Noise Keeper"
+    },
+    {
+      "artists": "Chloé Caillet, Myd",
+      "name": "Lemme Dance"
+    },
+    {
+      "artists": "Chloé Caillet, Luke Alessi, Jocelyn Brown, Obskür",
+      "name": "The One (feat. Jocelyn Brown) [Obskür Remix]"
+    },
+    {
+      "artists": "Chloé Caillet",
+      "name": "Bad Bara"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/68ywCN6ZpInbcilOfLBa3a"
+}

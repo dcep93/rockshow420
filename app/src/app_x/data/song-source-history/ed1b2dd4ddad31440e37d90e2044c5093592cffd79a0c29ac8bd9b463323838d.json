@@ -1,0 +1,27 @@
+{
+  "artist": "Moon Taxi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Moon Taxi",
+      "name": "Morocco"
+    },
+    {
+      "artists": "Moon Taxi",
+      "name": "Two High"
+    },
+    {
+      "artists": "Moon Taxi",
+      "name": "All Day All Night"
+    },
+    {
+      "artists": "Moon Taxi",
+      "name": "Lay Low"
+    },
+    {
+      "artists": "Claire Wright, Moon Taxi, Coyote Island",
+      "name": "Last Sunset (with Moon Taxi & Coyote Island)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5DK8eK7fjvRsziXzyr3sFA"
+}

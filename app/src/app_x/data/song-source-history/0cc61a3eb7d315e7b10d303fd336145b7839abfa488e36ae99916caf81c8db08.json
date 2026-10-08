@@ -1,0 +1,27 @@
+{
+  "artist": "Conan Gray",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Conan Gray",
+      "name": "Heather"
+    },
+    {
+      "artists": "Conan Gray",
+      "name": "The Cut That Always Bleeds"
+    },
+    {
+      "artists": "Conan Gray",
+      "name": "Memories"
+    },
+    {
+      "artists": "Conan Gray",
+      "name": "Vodka Cranberry"
+    },
+    {
+      "artists": "Conan Gray",
+      "name": "Maniac"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4Uc8Dsxct0oMqx0P6i60ea"
+}

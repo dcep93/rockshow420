@@ -1,0 +1,27 @@
+{
+  "artist": "Grace VanderWaal",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Grace VanderWaal",
+      "name": "Moonlight"
+    },
+    {
+      "artists": "Grace VanderWaal",
+      "name": "I Don't Know My Name"
+    },
+    {
+      "artists": "Grace VanderWaal",
+      "name": "Burned"
+    },
+    {
+      "artists": "Grace VanderWaal",
+      "name": "So Much More Than This"
+    },
+    {
+      "artists": "Grace VanderWaal",
+      "name": "Clearly"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+}

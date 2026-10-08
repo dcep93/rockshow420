@@ -1,0 +1,47 @@
+{
+  "artist": "King Willow",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EKing Willow",
+      "name": "Your Band"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Talk Like That"
+    },
+    {
+      "artists": "King Willow",
+      "name": "California"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Galapagos"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Settled"
+    },
+    {
+      "artists": "King Willow",
+      "name": "City Lights"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Kiddie Pool"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Selfish"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Dream Girl"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Bodies"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/69KMf1tEHAWHxacVjcjqKD"
+}

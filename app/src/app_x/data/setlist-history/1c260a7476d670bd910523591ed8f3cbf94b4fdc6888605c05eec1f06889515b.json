@@ -1,0 +1,84 @@
+{
+  "notes": "Note: With the New York Pops",
+  "sets": [
+    {
+      "name": "Set One",
+      "songs": [
+        {
+          "name": "Getting Started"
+        },
+        {
+          "name": "Let's See What the Night Can Do"
+        },
+        {
+          "name": "3 Things"
+        },
+        {
+          "name": "The Remedy (I Won't Worry)"
+        },
+        {
+          "name": "A Beautiful Mess"
+        },
+        {
+          "name": "Lucky",
+          "notes": "(with Chaska Potter)"
+        },
+        {
+          "name": "Make It Mine"
+        },
+        {
+          "name": "Have It All"
+        },
+        {
+          "name": "You Might Like It"
+        }
+      ]
+    },
+    {
+      "name": "Set Two",
+      "songs": [
+        {
+          "name": "93 Million Miles"
+        },
+        {
+          "name": "Feel Good Too"
+        },
+        {
+          "name": "Pancakes & Butter"
+        },
+        {
+          "name": "Details in the Fabric"
+        },
+        {
+          "name": "Little Time",
+          "notes": "(band only)"
+        },
+        {
+          "name": "Irony of Loneliness"
+        },
+        {
+          "name": "I Won't Give Up"
+        },
+        {
+          "name": "I'm Yours"
+        },
+        {
+          "name": "I Feel Like Dancing"
+        }
+      ]
+    },
+    {
+      "name": "Encore",
+      "songs": [
+        {
+          "name": "If You Think You've Seen It All"
+        },
+        {
+          "name": "Getting Started",
+          "notes": "(reprise)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/jason-mraz/2023/forest-hills-stadium-queens-ny-3a591bb.html"
+}

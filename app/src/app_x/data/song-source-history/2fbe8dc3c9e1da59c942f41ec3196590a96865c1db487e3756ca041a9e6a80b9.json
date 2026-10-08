@@ -1,0 +1,19 @@
+{
+  "artist": "MIKA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MIKA",
+      "name": "Kimino Warau Syunkanwo"
+    },
+    {
+      "artists": "MIKA",
+      "name": "NATSUZORA NO YAKUSOKU"
+    },
+    {
+      "artists": "MIKA",
+      "name": "NIZINOMUKOUNI"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0uHrbfa6o1Fi09HvzkIxwb"
+}

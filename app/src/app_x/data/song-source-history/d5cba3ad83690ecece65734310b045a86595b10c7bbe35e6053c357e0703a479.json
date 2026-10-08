@@ -1,0 +1,28 @@
+{
+  "artist": "Royel Otis",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Royel Otis",
+      "name": "Linger - SiriusXM Session"
+    },
+    {
+      "artists": "Royel Otis",
+      "name": "Oysters In My Pocket"
+    },
+    {
+      "artists": "Royel Otis",
+      "explicit": true,
+      "name": "Sofa King"
+    },
+    {
+      "artists": "Royel Otis",
+      "name": "Kool Aid"
+    },
+    {
+      "artists": "Royel Otis",
+      "name": "who’s your boyfriend"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5b5bt4mZQpJMoCRbiQ7diH"
+}

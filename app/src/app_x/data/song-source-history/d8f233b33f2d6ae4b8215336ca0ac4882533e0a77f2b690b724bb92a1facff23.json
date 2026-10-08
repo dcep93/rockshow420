@@ -1,0 +1,47 @@
+{
+  "artist": "Jason Mraz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jason Mraz",
+      "name": "I'm Yours"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "I Won't Give Up"
+    },
+    {
+      "artists": "Jason Mraz, Colbie Caillat",
+      "name": "Lucky"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "93 Million Miles"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "Have It All"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "The Remedy (I Won't Worry)"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "Love Someone"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "I Feel Like Dancing"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "You and I Both"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "Make It Mine"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4phGZZrJZRo4ElhRtViYdl"
+}

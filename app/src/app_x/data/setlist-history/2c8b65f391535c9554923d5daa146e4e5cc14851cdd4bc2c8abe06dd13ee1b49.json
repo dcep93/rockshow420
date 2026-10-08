@@ -1,0 +1,68 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Friends Intro"
+        },
+        {
+          "name": "Thieves"
+        },
+        {
+          "name": "The Feeling/Friends Intro"
+        },
+        {
+          "name": "We Made It"
+        },
+        {
+          "name": "Jackie Onassis"
+        },
+        {
+          "name": "Cool-Doug, at Night"
+        },
+        {
+          "name": "No Rulebook"
+        },
+        {
+          "name": "David",
+          "notes": "(Acoustic)"
+        },
+        {
+          "name": "I Get It Now",
+          "notes": "(Acoustic)"
+        },
+        {
+          "name": "Call Ya Back",
+          "notes": "(Acapella)"
+        },
+        {
+          "name": "888-98-CALLYABAK",
+          "tape": true
+        },
+        {
+          "name": "Good Time Tavern"
+        },
+        {
+          "name": "Luck of the Draw"
+        },
+        {
+          "name": "Kick it to me/Talk it Up/Good life"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "State Song",
+          "notes": "(Solo + Acoustic)"
+        },
+        {
+          "name": "Coming Home Song"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/sammy-rae-and-the-friends/2024/terminal-5-new-york-ny-73534a8d.html"
+}

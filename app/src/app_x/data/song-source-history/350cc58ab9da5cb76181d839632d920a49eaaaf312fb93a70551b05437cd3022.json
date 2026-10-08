@@ -1,0 +1,28 @@
+{
+  "artist": "Kailee Morgue",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kailee Morgue",
+      "name": "Siren"
+    },
+    {
+      "artists": "Mike Shinoda, Kailee Morgue",
+      "name": "In My Head"
+    },
+    {
+      "artists": "Kailee Morgue",
+      "name": "Black Sheep"
+    },
+    {
+      "artists": "Kailee Morgue",
+      "name": "Medusa"
+    },
+    {
+      "artists": "Kailee Morgue",
+      "explicit": true,
+      "name": "This Is Why I'm Hot"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/245PKF3hKjtxJKIG153kF0"
+}

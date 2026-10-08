@@ -1,0 +1,27 @@
+{
+  "artist": "Peter Frampton",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Peter Frampton",
+      "name": "Show Me The Way"
+    },
+    {
+      "artists": "Peter Frampton",
+      "name": "Baby, I Love Your Way - Live"
+    },
+    {
+      "artists": "Peter Frampton",
+      "name": "Baby, I Love Your Way"
+    },
+    {
+      "artists": "Peter Frampton",
+      "name": "Show Me The Way - Live"
+    },
+    {
+      "artists": "Peter Frampton",
+      "name": "Do You Feel Like We Do - Live"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0543y7yrvny4KymoaneT4W"
+}

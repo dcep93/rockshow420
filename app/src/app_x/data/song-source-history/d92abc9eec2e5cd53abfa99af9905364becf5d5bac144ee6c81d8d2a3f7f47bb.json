@@ -1,0 +1,19 @@
+{
+  "artist": "DJ MEL",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DJ MEL",
+      "name": "Get"
+    },
+    {
+      "artists": "DJ MEL, Jae, CHILLCAT THE BASTET",
+      "name": "Set Me Free (feat. JAE & Chillcat the Bastet)"
+    },
+    {
+      "artists": "DJ MEL",
+      "name": "I Feel Coke"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2VAK3OAV6FwD1y2wsGBPIw"
+}

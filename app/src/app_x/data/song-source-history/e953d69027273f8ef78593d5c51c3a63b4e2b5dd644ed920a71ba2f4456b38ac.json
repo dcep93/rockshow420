@@ -1,0 +1,32 @@
+{
+  "artist": "BROCKHAMPTON",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BROCKHAMPTON",
+      "explicit": true,
+      "name": "SUGAR"
+    },
+    {
+      "artists": "BROCKHAMPTON",
+      "explicit": true,
+      "name": "SUMMER"
+    },
+    {
+      "artists": "BROCKHAMPTON",
+      "explicit": true,
+      "name": "BLEACH"
+    },
+    {
+      "artists": "BROCKHAMPTON",
+      "explicit": true,
+      "name": "BOOGIE"
+    },
+    {
+      "artists": "BROCKHAMPTON",
+      "explicit": true,
+      "name": "FACE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+}

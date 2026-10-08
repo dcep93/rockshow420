@@ -1,0 +1,30 @@
+{
+  "artist": "OSTON",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "OSTON",
+      "name": "Sorta, kinda"
+    },
+    {
+      "artists": "OSTON",
+      "name": "I think the drugs are working now"
+    },
+    {
+      "artists": "OSTON",
+      "explicit": true,
+      "name": "Burton St."
+    },
+    {
+      "artists": "OSTON",
+      "explicit": true,
+      "name": "True-ish"
+    },
+    {
+      "artists": "OSTON",
+      "explicit": true,
+      "name": "Placebo effect"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4PR77KtW5drJXCsqcyfuzJ"
+}

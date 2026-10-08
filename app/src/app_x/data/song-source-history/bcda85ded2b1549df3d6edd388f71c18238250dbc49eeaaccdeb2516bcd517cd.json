@@ -1,0 +1,27 @@
+{
+  "artist": "Lily Meola",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lily Meola",
+      "name": "Daydream"
+    },
+    {
+      "artists": "Kenny Chesney, Lily Meola",
+      "name": "Goldfish"
+    },
+    {
+      "artists": "Lily Meola",
+      "name": "Sunshine"
+    },
+    {
+      "artists": "Lily Meola",
+      "name": "Sleeping with My Boots On"
+    },
+    {
+      "artists": "Lily Meola",
+      "name": "Butterfly"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5WC6EbIrTO76x30w5LtzS6"
+}

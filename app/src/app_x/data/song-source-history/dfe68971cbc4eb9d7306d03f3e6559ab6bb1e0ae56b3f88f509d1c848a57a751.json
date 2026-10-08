@@ -1,0 +1,29 @@
+{
+  "artist": "Leven Kali",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ANOTR, Leven Kali, Erik Bandt",
+      "name": "How You Feel (ft Leven Kali)"
+    },
+    {
+      "artists": "Leven Kali, Lucky Daye",
+      "name": "Pieces (+ Lucky Daye)"
+    },
+    {
+      "artists": "Leven Kali",
+      "name": "Sleepwalking"
+    },
+    {
+      "artists": "Jay Worthy, Leven Kali, Na-Kel Smith",
+      "explicit": true,
+      "name": "Wait On You"
+    },
+    {
+      "artists": "Disclosure, Chris Lake, Leven Kali",
+      "explicit": true,
+      "name": "one2three (feat. Leven Kali)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5YZ5AExR68U3ZblH6HcO6B"
+}

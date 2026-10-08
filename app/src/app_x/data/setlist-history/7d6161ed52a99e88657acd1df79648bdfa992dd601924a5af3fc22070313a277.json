@@ -1,0 +1,69 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Charlie Be Quiet!"
+        },
+        {
+          "name": "No More Drama / Forget You"
+        },
+        {
+          "name": "Attention"
+        },
+        {
+          "name": "STAY",
+          "notes": "(The Kid LAROI cover)"
+        },
+        {
+          "name": "Left and Right"
+        },
+        {
+          "name": "BOY"
+        },
+        {
+          "name": "Light Switch"
+        },
+        {
+          "name": "Slow Motion",
+          "notes": "(Trey Songz cover)"
+        },
+        {
+          "name": "We Don't Talk Anymore / Dreaming of You / I Don't Wanna Know"
+        },
+        {
+          "name": "I Don't Think That I Like Her"
+        },
+        {
+          "name": "When You're Sad I'm Sad / I Knew You Were Trouble"
+        },
+        {
+          "name": "That's Not How This Works"
+        },
+        {
+          "name": "Loser"
+        },
+        {
+          "name": "Done for Me"
+        },
+        {
+          "name": "How Long"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "One Call Away"
+        },
+        {
+          "name": "See You Again",
+          "notes": "(Wiz Khalifa cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/charlie-puth/2023/radio-city-music-hall-new-york-ny-63a62e37.html"
+}

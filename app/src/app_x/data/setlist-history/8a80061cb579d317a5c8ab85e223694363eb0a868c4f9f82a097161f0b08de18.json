@@ -1,0 +1,69 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Jump",
+          "notes": "(Van Halen song)",
+          "tape": true
+        },
+        {
+          "name": "Hero"
+        },
+        {
+          "name": "Hash Pipe"
+        },
+        {
+          "name": "All the Good Ones",
+          "notes": "(Partial; guitar solo transitioned directly into “Beverly Hills”)"
+        },
+        {
+          "name": "Beverly Hills"
+        },
+        {
+          "name": "The End of the Game",
+          "notes": "(Ended before the bridge)"
+        },
+        {
+          "name": "My Name Is Jonas"
+        },
+        {
+          "name": "Pork and Beans"
+        },
+        {
+          "name": "Feels Like Summer"
+        },
+        {
+          "name": "All My Favorite Songs"
+        },
+        {
+          "name": "Undone - The Sweater Song"
+        },
+        {
+          "name": "Surf Wax America"
+        },
+        {
+          "name": "El Scorcho"
+        },
+        {
+          "name": "Island in the Sun"
+        },
+        {
+          "name": "Africa",
+          "notes": "(Toto cover) (Rivers & Patrick drum duet during the bridge)"
+        },
+        {
+          "name": "California Snow",
+          "notes": "(First verse and chorus only)"
+        },
+        {
+          "name": "Say It Ain't So"
+        },
+        {
+          "name": "Buddy Holly"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/weezer/2021/oracle-park-san-francisco-ca-38cfd87.html"
+}

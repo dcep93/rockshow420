@@ -1,0 +1,121 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Billed as The Beacon Jams (celebrating the 5th anniversary of 2020's Beacon Jams residency). Benefit for Divided Sky Foundation",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Speak to Me",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Olivia",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Pigtail",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Set Your Soul Free"
+        },
+        {
+          "name": "Petrichor",
+          "notes": "(Phish cover) (with Rescue Squad Strings) (Trey solo acoustic with TAB horn section) (also with Jeff Tanski)"
+        },
+        {
+          "name": "About to Run",
+          "notes": "(Ghosts of The Forest cover) (without horn section)"
+        },
+        {
+          "name": "Evolve",
+          "notes": "(Trey Anastasio song) (with Rescue Squad Strings)"
+        },
+        {
+          "name": "The Inlaw Josie Wales",
+          "notes": "(Phish cover) (with Rescue Squad Strings) (Trey solo acoustic) (also with Jeff Tanski)"
+        },
+        {
+          "name": "Water in the Sky",
+          "notes": "(Phish cover) (with Rescue Squad Strings) (Trey solo acoustic)"
+        },
+        {
+          "name": "Valentine",
+          "notes": "(Trey Anastasio song) (with Rescue Squad Strings)"
+        },
+        {
+          "name": "Sand",
+          "notes": "(Phish cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Wolfman's Brother",
+          "notes": "(Phish cover)"
+        },
+        {
+          "name": "Oblivion",
+          "notes": "(Phish cover)"
+        },
+        {
+          "name": "Pebbles and Marbles",
+          "notes": "(Phish cover) (with Rescue Squad Strings) (Trey solo acoustic with TAB horn section only for the first half) (also with Jeff Tanski)"
+        },
+        {
+          "name": "A Wave of Hope",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Twist",
+          "notes": "(Phish cover) (preceded by Cyro Baptista avant-garde percussion solo) (>)"
+        },
+        {
+          "name": "Last Tube",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "In Long Lines",
+          "notes": "(Ghosts of The Forest cover) (with Rescue Squad Strings)"
+        },
+        {
+          "name": "Shine",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Money, Love and Change",
+          "notes": "(Trey Anastasio song)"
+        },
+        {
+          "name": "Simeon"
+        },
+        {
+          "name": "Ghost",
+          "notes": "(Phish cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Snowflakes in the Sand",
+          "notes": "(Trey Anastasio song) (Trey solo acoustic)"
+        },
+        {
+          "name": "Brian and Robert",
+          "notes": "(Phish cover) (with Rescue Squad Strings) (False start)"
+        },
+        {
+          "name": "Say It to Me S.A.N.T.O.S.",
+          "notes": "(Phish cover) (with Rescue Squad Strings)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-2b4360ae.html"
+}

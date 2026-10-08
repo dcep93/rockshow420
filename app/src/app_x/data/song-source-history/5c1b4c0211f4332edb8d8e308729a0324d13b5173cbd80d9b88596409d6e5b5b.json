@@ -1,0 +1,48 @@
+{
+  "artist": "Muse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Muse",
+      "name": "Supermassive Black Hole"
+    },
+    {
+      "artists": "Muse",
+      "name": "Uprising"
+    },
+    {
+      "artists": "Muse",
+      "name": "Hysteria"
+    },
+    {
+      "artists": "Muse",
+      "name": "Starlight"
+    },
+    {
+      "artists": "Muse",
+      "name": "Time is Running Out"
+    },
+    {
+      "artists": "Muse",
+      "name": "Plug in Baby"
+    },
+    {
+      "artists": "Muse",
+      "name": "Knights of Cydonia"
+    },
+    {
+      "artists": "Muse",
+      "name": "Madness"
+    },
+    {
+      "artists": "Muse",
+      "explicit": true,
+      "name": "Psycho"
+    },
+    {
+      "artists": "Muse",
+      "name": "Stockholm Syndrome"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/12Chz98pHFMPJEknJQMWvI"
+}

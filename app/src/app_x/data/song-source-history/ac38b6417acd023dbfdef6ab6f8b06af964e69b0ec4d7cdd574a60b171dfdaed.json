@@ -1,0 +1,29 @@
+{
+  "artist": "Malcolm Todd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Malcolm Todd",
+      "name": "Earrings"
+    },
+    {
+      "artists": "Malcolm Todd",
+      "explicit": true,
+      "name": "Sweet Boy"
+    },
+    {
+      "artists": "Malcolm Todd",
+      "name": "Roommates"
+    },
+    {
+      "artists": "Malcolm Todd",
+      "name": "Chest Pain (I Love)"
+    },
+    {
+      "artists": "Malcolm Todd",
+      "explicit": true,
+      "name": "Obsessica"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7eKkW1zo5uzW8kUntiiBvz"
+}

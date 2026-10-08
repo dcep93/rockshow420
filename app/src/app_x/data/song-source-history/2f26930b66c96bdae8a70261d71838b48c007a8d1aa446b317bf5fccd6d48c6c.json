@@ -1,0 +1,27 @@
+{
+  "artist": "Unknown Mortal Orchestra",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Unknown Mortal Orchestra",
+      "name": "So Good at Being in Trouble"
+    },
+    {
+      "artists": "Unknown Mortal Orchestra",
+      "name": "Hunnybee"
+    },
+    {
+      "artists": "Unknown Mortal Orchestra",
+      "name": "Multi-Love"
+    },
+    {
+      "artists": "Unknown Mortal Orchestra",
+      "name": "That Life"
+    },
+    {
+      "artists": "Unknown Mortal Orchestra",
+      "name": "Swim and Sleep (Like a Shark)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Jesse Jo Stark",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jesse Jo Stark",
+      "name": "Mystery"
+    },
+    {
+      "artists": "Jesse Jo Stark",
+      "name": "Fire of Love"
+    },
+    {
+      "artists": "Jesse Jo Stark",
+      "name": "Breakfast With Lou"
+    },
+    {
+      "artists": "Jesse Jo Stark",
+      "name": "Dandelion"
+    },
+    {
+      "artists": "Jesse Jo Stark",
+      "name": "Monster Man"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1VmIiQ7VHrqHg90igSWrB0"
+}

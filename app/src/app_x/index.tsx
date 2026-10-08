@@ -4,7 +4,7 @@ import type { EntityKind } from "./data/model";
 import { exportUserLog } from "./data/exportLog";
 import { AppProvider, useApp } from "./data/store";
 import { Link } from "./components/navigation";
-import { navigate, readRoute, usePath } from "./components/routing";
+import { canonicalPath, navigate, readRoute, usePath } from "./components/routing";
 import { Empty, Message } from "./components/ui";
 import { errorMessage } from "./components/errors";
 import { Login } from "./pages/Login";
@@ -23,6 +23,10 @@ function Shell() {
   const [actionError, setActionError] = useState("");
   const [signingOut, setSigningOut] = useState(false);
   useEffect(() => {
+    const canonical = canonicalPath(path);
+    if (canonical !== path) navigate(canonical, true);
+  }, [path]);
+  useEffect(() => {
     const reset = () => {
       setActionError("");
     };
@@ -35,6 +39,15 @@ function Shell() {
       navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
   }, [ready, viewer, route.kind, route.id]);
   const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/";
+  useEffect(() => {
+    const goHome = (event: KeyboardEvent) => {
+      if (event.key !== "Escape" || event.isComposing || event.repeat || !ready) return;
+      event.preventDefault();
+      if (window.location.pathname !== home) navigate(home);
+    };
+    window.addEventListener("keydown", goHome);
+    return () => window.removeEventListener("keydown", goHome);
+  }, [home, ready]);
   return (
     <div className="rs-shell">
       {route.kind !== "home" && (
@@ -87,7 +100,7 @@ function Shell() {
           <UserPage key={route.id} username={route.id} />
         ) : route.kind === "manage" ? (
           isAdmin ? <Manager catalog={catalog} /> : <Empty title="Admin access required" />
-        ) : ["concert", "venue", "artist", "festival"].includes(route.kind) ? (
+        ) : ["concert", "venue", "artist"].includes(route.kind) ? (
           <EntityPage key={`${route.kind}:${route.id}`} kind={route.kind as EntityKind} id={route.id} />
         ) : (
           <Empty title="Page not found">

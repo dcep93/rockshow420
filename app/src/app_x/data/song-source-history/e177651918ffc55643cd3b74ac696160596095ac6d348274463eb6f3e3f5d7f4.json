@@ -1,0 +1,27 @@
+{
+  "artist": "wave to earth",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "wave to earth",
+      "name": "love."
+    },
+    {
+      "artists": "wave to earth",
+      "name": "seasons"
+    },
+    {
+      "artists": "wave to earth",
+      "name": "bad"
+    },
+    {
+      "artists": "wave to earth",
+      "name": "homesick"
+    },
+    {
+      "artists": "wave to earth",
+      "name": "cherry flavoured love inside your heart"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5069JTmv5ZDyPeZaCCXiCg"
+}

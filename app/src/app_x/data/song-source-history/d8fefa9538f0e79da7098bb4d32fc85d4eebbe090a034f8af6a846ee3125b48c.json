@@ -1,0 +1,47 @@
+{
+  "artist": "Billy Joel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Billy Joel",
+      "name": "Piano Man"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Uptown Girl"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Vienna"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "We Didn't Start the Fire"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "My Life"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "She's Always a Woman"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Just the Way You Are"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "Movin' Out (Anthony's Song)"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "It's Still Rock and Roll to Me"
+    },
+    {
+      "artists": "Billy Joel",
+      "name": "The River of Dreams"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6zFYqv1mOsgBRQbae3JJ9e"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Frost Children",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Frost Children",
+      "name": "Satellites"
+    },
+    {
+      "artists": "Frost Children",
+      "name": "Falling"
+    },
+    {
+      "artists": "Frost Children",
+      "name": "Creep"
+    },
+    {
+      "artists": "Frost Children, Kim Petras",
+      "explicit": true,
+      "name": "RADIO (feat. Kim Petras)"
+    },
+    {
+      "artists": "Frost Children",
+      "name": "Light Leak"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6R1kfr0GIWnwxY4zW11Vag"
+}

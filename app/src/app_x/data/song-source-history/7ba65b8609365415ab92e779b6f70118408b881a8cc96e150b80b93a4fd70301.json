@@ -1,0 +1,47 @@
+{
+  "artist": "Chromeo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chromeo",
+      "name": "Fancy Footwork"
+    },
+    {
+      "artists": "Chris Lorenzo, Chromeo",
+      "name": "Fancy Footwork"
+    },
+    {
+      "artists": "MAX, Chromeo",
+      "name": "Checklist (feat. Chromeo)"
+    },
+    {
+      "artists": "Chromeo",
+      "name": "Jealous (I Ain't With It)"
+    },
+    {
+      "artists": "Lorde, Chromeo",
+      "name": "Green Light - Chromeo Remix"
+    },
+    {
+      "artists": "Chromeo",
+      "name": "Night by Night"
+    },
+    {
+      "artists": "Girl Ultra, Buscabulla, Chromeo",
+      "name": "Mentirasmentiras"
+    },
+    {
+      "artists": "Sia, Chromeo",
+      "name": "I Forgive You - (Chromeo Remix) [radio edit]"
+    },
+    {
+      "artists": "Girl Ultra, Chromeo",
+      "name": "Te Caigo"
+    },
+    {
+      "artists": "Purple Disco Machine, Chromeo",
+      "name": "Heartbreaker"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2mV8aJphiSHYJf43DxL7Gt"
+}

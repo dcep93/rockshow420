@@ -1,0 +1,27 @@
+{
+  "artist": "David Solomon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Whitney Houston, David Solomon",
+      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix"
+    },
+    {
+      "artists": "David Solomon, Alex Newell",
+      "name": "Rescue Me (feat. Alex Newell)"
+    },
+    {
+      "artists": "Sam Feldt, David Solomon, Aloe Blacc",
+      "name": "Future In Your Hands (feat. Aloe Blacc)"
+    },
+    {
+      "artists": "David Solomon, Ryan Tedder",
+      "name": "Learn To Love Me (feat. Ryan Tedder)"
+    },
+    {
+      "artists": "David Solomon",
+      "name": "Don't Stop"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3fzRb5i8Wn7ao2KPDxEiTR"
+}

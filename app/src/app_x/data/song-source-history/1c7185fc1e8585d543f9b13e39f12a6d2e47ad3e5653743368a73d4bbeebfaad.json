@@ -1,0 +1,27 @@
+{
+  "artist": "Margo Price",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Willie Nelson, Jimmy Buffett, Emmylou Harris, Sheryl Crow, Eric Church, George Strait, Dave Matthews, Chris Stapleton, Derek Trucks, Kris Kristofferson",
+      "name": "Roll Me Up and Smoke Me When I Die - Live"
+    },
+    {
+      "artists": "Willie Nelson, The Avett Brothers, Bobby Bare, Chris Stapleton, Dave Matthews, Emmylou Harris, Eric Church, George Strait, Jack Johnson, Jamey Johnson",
+      "name": "On The Road Again - Live"
+    },
+    {
+      "artists": "Margo Price",
+      "name": "Hurtin' (On the Bottle)"
+    },
+    {
+      "artists": "Margo Price, Sierra Ferrell",
+      "name": "Change Of Heart [Feat. Sierra Ferrell]"
+    },
+    {
+      "artists": "Margo Price, Tyler Childers",
+      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/09yvLritEUxHrzx5TlFvbl"
+}

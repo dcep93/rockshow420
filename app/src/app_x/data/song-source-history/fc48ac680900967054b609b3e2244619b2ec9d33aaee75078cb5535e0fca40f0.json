@@ -1,0 +1,27 @@
+{
+  "artist": "Cafuné",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cafuné",
+      "name": "Tek It"
+    },
+    {
+      "artists": "Cafuné",
+      "name": "Tek It - Sped Up"
+    },
+    {
+      "artists": "Cafuné",
+      "name": "Tek It - Acoustic"
+    },
+    {
+      "artists": "Cafuné",
+      "name": "Tek It - Slowed"
+    },
+    {
+      "artists": "Cafuné",
+      "name": "Friction"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/581C5Qwl87TskfBEzuoisu"
+}

@@ -1,0 +1,49 @@
+{
+  "artist": "Nitepunk",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Skrillex, Nitepunk",
+      "name": "Soma"
+    },
+    {
+      "artists": "Nitepunk",
+      "name": "Umbra"
+    },
+    {
+      "artists": "Nitepunk, Silcrow, josh pan",
+      "name": "Ether"
+    },
+    {
+      "artists": "Nitepunk",
+      "explicit": true,
+      "name": "Steps On You (Peep My Style)"
+    },
+    {
+      "artists": "PEEKABOO, Nitepunk, LYNY, SAYAK DAS, Nick Smith",
+      "name": "Answer All My Prayers (feat. Nick Smith)"
+    },
+    {
+      "artists": "Nitepunk",
+      "name": "Flow"
+    },
+    {
+      "artists": "aespa, Nitepunk",
+      "name": "Spicy - Nitepunk Remix"
+    },
+    {
+      "artists": "Nitepunk, REAPER",
+      "name": "Miracle - REAPER Remix"
+    },
+    {
+      "artists": "Nitepunk, SOH SOH",
+      "explicit": true,
+      "name": "SPILL"
+    },
+    {
+      "artists": "Nitepunk",
+      "name": "Hyperdust"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6iPbI11utXY9CVhX6SPXEg"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Reignwolf",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Reignwolf",
+      "name": "Keeper"
+    },
+    {
+      "artists": "Reignwolf",
+      "name": "Black and Red"
+    },
+    {
+      "artists": "Reignwolf",
+      "name": "Wanna Don't Wanna"
+    },
+    {
+      "artists": "Reignwolf",
+      "name": "Ritual"
+    },
+    {
+      "artists": "Reignwolf",
+      "name": "Are You Satisfied?"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/66YGDwn22fjphzqGCSIbbK"
+}

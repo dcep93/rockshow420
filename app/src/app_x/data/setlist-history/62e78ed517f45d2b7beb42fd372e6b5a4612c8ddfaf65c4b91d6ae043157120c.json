@@ -1,0 +1,115 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "We Didn't Start the Fire"
+        },
+        {
+          "name": "Pressure"
+        },
+        {
+          "name": "The Entertainer"
+        },
+        {
+          "name": "Zanzibar"
+        },
+        {
+          "name": "Vienna",
+          "notes": "(Fielder's choice over \"Just The Way You Are\")"
+        },
+        {
+          "name": "The Ballad of Billy the Kid",
+          "notes": "(Fielder's Choice Over \"This is the Time\", with \"Magnificent Seven Theme\" intro, & lyric explanation)"
+        },
+        {
+          "name": "Goodbye to You",
+          "notes": "(Scandal cover) (with Patty Smythe)"
+        },
+        {
+          "name": "A Day in the Life",
+          "notes": "(The Beatles cover)"
+        },
+        {
+          "name": "Movin' Out (Anthony's Song)"
+        },
+        {
+          "name": "New York State of Mind"
+        },
+        {
+          "name": "A Room of Our Own"
+        },
+        {
+          "name": "My Life",
+          "notes": "(with \"Ode to Joy\" intro)"
+        },
+        {
+          "name": "Allentown"
+        },
+        {
+          "name": "Sunshine of Your Love",
+          "notes": "(Cream cover) (Snippet)"
+        },
+        {
+          "name": "Good Day Sunshine",
+          "notes": "(The Beatles cover) (Snippet)"
+        },
+        {
+          "name": "Sunny",
+          "notes": "(Bobby Hebb cover) (Snippet)"
+        },
+        {
+          "name": "Walking on Sunshine",
+          "notes": "(Katrina and the Waves cover) (Snippet)"
+        },
+        {
+          "name": "Here Comes the Sun",
+          "notes": "(The Beatles cover) (Snippet)"
+        },
+        {
+          "name": "Sometimes a Fantasy"
+        },
+        {
+          "name": "She's Always a Woman"
+        },
+        {
+          "name": "Don't Ask Me Why"
+        },
+        {
+          "name": "The River of Dreams",
+          "notes": "(with \"Shout\" (The Isley Brothers) Interlude)"
+        },
+        {
+          "name": "Nessun dorma",
+          "notes": "(Giacomo Puccini cover) (guitarist Michael DelGuidice on vocal)"
+        },
+        {
+          "name": "Scenes From an Italian Restaurant"
+        },
+        {
+          "name": "Piano Man"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Uptown Girl"
+        },
+        {
+          "name": "It's Still Rock and Roll to Me"
+        },
+        {
+          "name": "Big Shot"
+        },
+        {
+          "name": "You May Be Right",
+          "notes": "(with \"Rock And Roll\" (Led Zeppelin) Interlude)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/billy-joel/2017/madison-square-garden-new-york-ny-7be54a88.html"
+}

@@ -1,0 +1,96 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Happy Days Intro",
+          "tape": true
+        },
+        {
+          "name": "Buddy Holly"
+        },
+        {
+          "name": "Beverly Hills"
+        },
+        {
+          "name": "Pork and Beans"
+        },
+        {
+          "name": "Undone - The Sweater Song"
+        },
+        {
+          "name": "Hash Pipe"
+        },
+        {
+          "name": "Perfect Situation"
+        },
+        {
+          "name": "My Name Is Jonas"
+        },
+        {
+          "name": "El Scorcho"
+        },
+        {
+          "name": "The Good Life"
+        },
+        {
+          "name": "In the Garage"
+        },
+        {
+          "name": "Happy Together",
+          "notes": "(The Turtles cover) (with a snippet of \"Longview\" by Green Day)"
+        },
+        {
+          "name": "Keep Fishin'",
+          "notes": "(Brian on vocals)"
+        }
+      ]
+    },
+    {
+      "name": "B-Stage",
+      "songs": [
+        {
+          "name": "Island in the Sun",
+          "notes": "(Rivers solo acoustic)"
+        },
+        {
+          "name": "Take On Me",
+          "notes": "(a‐ha cover) (Rivers solo acoustic)"
+        }
+      ]
+    },
+    {
+      "songs": [
+        {
+          "name": "Burndt Jamb",
+          "notes": "(Brian on vocals; with lyrics from \"Smells Like Teen Spirit\" by Nirvana)"
+        },
+        {
+          "name": "(If You're Wondering If I Want You To) I Want You To"
+        },
+        {
+          "name": "Feels Like Summer"
+        },
+        {
+          "name": "Africa",
+          "notes": "(Toto cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Surf Wax America"
+        },
+        {
+          "name": "Say It Ain't So",
+          "notes": "(with a snippet of \"Paranoid\" by Black Sabbath)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/weezer/2018/shoreline-amphitheatre-mountain-view-ca-73eb56e1.html"
+}

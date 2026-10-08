@@ -1,0 +1,29 @@
+{
+  "artist": "Chappell Roan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chappell Roan",
+      "name": "Good Luck, Babe!"
+    },
+    {
+      "artists": "Chappell Roan",
+      "name": "Pink Pony Club"
+    },
+    {
+      "artists": "Chappell Roan",
+      "explicit": true,
+      "name": "Casual"
+    },
+    {
+      "artists": "Chappell Roan",
+      "explicit": true,
+      "name": "The Subway"
+    },
+    {
+      "artists": "Chappell Roan",
+      "name": "HOT TO GO!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7GlBOeep6PqTfFi59PTUUN"
+}

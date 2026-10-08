@@ -1,0 +1,27 @@
+{
+  "artist": "Princess Superstar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mason, Princess Superstar",
+      "name": "Perfect (Exceeder)"
+    },
+    {
+      "artists": "Disco Lines, Maesic, Mason, Princess Superstar",
+      "name": "Push It"
+    },
+    {
+      "artists": "David Guetta, Mason, Princess Superstar",
+      "name": "Perfect (Exceeder)"
+    },
+    {
+      "artists": "Larry Tee, Princess Superstar",
+      "name": "Licky (Work It Out) - Hervé UK Radio Edit"
+    },
+    {
+      "artists": "Mason, Princess Superstar, 1991",
+      "name": "Perfect (Exceeder) - 1991 Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7JQn9DfFTtsFTg2dFc75jM"
+}

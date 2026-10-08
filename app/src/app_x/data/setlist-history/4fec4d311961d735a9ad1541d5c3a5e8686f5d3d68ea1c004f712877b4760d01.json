@@ -1,0 +1,84 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Munich II",
+          "tape": true
+        },
+        {
+          "name": "Vogue"
+        },
+        {
+          "name": "Sun Hands"
+        },
+        {
+          "name": "You & I",
+          "notes": "(extended intro)"
+        },
+        {
+          "name": "Gulf Shores"
+        },
+        {
+          "name": "Ceilings"
+        },
+        {
+          "name": "I Saw You Close Your Eyes"
+        },
+        {
+          "name": "Coins"
+        },
+        {
+          "name": "Megaton Mile"
+        },
+        {
+          "name": "Someday Now"
+        },
+        {
+          "name": "Heavy Feet"
+        },
+        {
+          "name": "Past Lives"
+        },
+        {
+          "name": "Fountain of Youth"
+        },
+        {
+          "name": "Café Amarillo"
+        },
+        {
+          "name": "Airplanes"
+        },
+        {
+          "name": "Wide Eyes"
+        },
+        {
+          "name": "Garden of Elysian"
+        },
+        {
+          "name": "Dark Days"
+        },
+        {
+          "name": "When Am I Gonna Lose You"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Shy"
+        },
+        {
+          "name": "Tap Dancer"
+        },
+        {
+          "name": "Who Knows, Who Cares"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/local-natives/2019/fox-theater-oakland-ca-4391236b.html"
+}

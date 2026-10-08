@@ -1,0 +1,28 @@
+{
+  "artist": "Subtronics",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "John Summit, Subtronics, Inéz",
+      "name": "crystallized (feat. Inéz) - Subtronics Remix"
+    },
+    {
+      "artists": "Oliver Tree, Subtronics",
+      "explicit": true,
+      "name": "Fuck The Whole World - Subtronics Remix"
+    },
+    {
+      "artists": "Phantogram, Subtronics",
+      "name": "Black Out Days - Subtronics Remix"
+    },
+    {
+      "artists": "Subtronics, Inéz",
+      "name": "Eyes Cut Deeper (feat. Inéz)"
+    },
+    {
+      "artists": "Subtronics",
+      "name": "Itchy Scratchy"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3NJ94iuAmmMjbszODYT6pO"
+}

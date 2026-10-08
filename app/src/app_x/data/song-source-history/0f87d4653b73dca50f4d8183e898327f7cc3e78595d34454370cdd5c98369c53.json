@@ -1,0 +1,32 @@
+{
+  "artist": "Ken Carson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ken Carson",
+      "explicit": true,
+      "name": "ss"
+    },
+    {
+      "artists": "Ken Carson",
+      "explicit": true,
+      "name": "Yale"
+    },
+    {
+      "artists": "Ken Carson",
+      "explicit": true,
+      "name": "overseas"
+    },
+    {
+      "artists": "Ken Carson",
+      "explicit": true,
+      "name": "Fighting My Demons"
+    },
+    {
+      "artists": "Ken Carson",
+      "explicit": true,
+      "name": "gynecologist"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3gBZUcNeVumkeeJ19CY2sX"
+}

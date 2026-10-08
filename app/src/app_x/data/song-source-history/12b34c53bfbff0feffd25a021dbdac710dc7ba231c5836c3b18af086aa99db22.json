@@ -1,0 +1,27 @@
+{
+  "artist": "Luke Alessi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chloé Caillet, Luke Alessi, Jocelyn Brown",
+      "name": "The One (feat. Jocelyn Brown)"
+    },
+    {
+      "artists": "Luke Alessi",
+      "name": "Day Dreams of Beaches"
+    },
+    {
+      "artists": "Chloé Caillet, Luke Alessi, Jocelyn Brown, Obskür",
+      "name": "The One (feat. Jocelyn Brown) [Obskür Remix]"
+    },
+    {
+      "artists": "Chloé Caillet, Luke Alessi",
+      "name": "Change"
+    },
+    {
+      "artists": "Luke Alessi",
+      "name": "After Five"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Foat3c8Ui3HkvZghZAzQp"
+}

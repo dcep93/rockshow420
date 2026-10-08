@@ -1,0 +1,27 @@
+{
+  "artist": "Rainbow Girls",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rainbow Girls",
+      "name": "Down Home Girl"
+    },
+    {
+      "artists": "Rainbow Girls, Ben Morrison, John Craigie",
+      "name": "A Hard Rain's Gonna Fall (feat. John Craigie & Ben Morrison)"
+    },
+    {
+      "artists": "Rainbow Girls",
+      "name": "American Dream"
+    },
+    {
+      "artists": "Rainbow Girls",
+      "name": "Helplessly Hoping"
+    },
+    {
+      "artists": "Rainbow Girls",
+      "name": "Angel from Montgomery"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5qV8qZrppecEsKTWwCCtA7"
+}

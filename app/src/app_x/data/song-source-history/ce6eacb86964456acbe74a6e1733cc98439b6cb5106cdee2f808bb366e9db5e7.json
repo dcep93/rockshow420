@@ -1,0 +1,27 @@
+{
+  "artist": "flor",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "flor",
+      "name": "Midas"
+    },
+    {
+      "artists": "flor",
+      "name": "hold on"
+    },
+    {
+      "artists": "flor",
+      "name": "lmho"
+    },
+    {
+      "artists": "flor",
+      "name": "heart"
+    },
+    {
+      "artists": "flor",
+      "name": "warm blood"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0szWPxzzE8DVEfXFRCLBUb"
+}

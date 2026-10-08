@@ -1,0 +1,29 @@
+{
+  "artist": "hemlocke springs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "hemlocke springs",
+      "name": "girlfriend"
+    },
+    {
+      "artists": "hemlocke springs",
+      "name": "gloria!"
+    },
+    {
+      "artists": "hemlocke springs",
+      "name": "sever the blight"
+    },
+    {
+      "artists": "hemlocke springs",
+      "explicit": true,
+      "name": "w-w-w-w-w"
+    },
+    {
+      "artists": "hemlocke springs",
+      "explicit": true,
+      "name": "head, shoulders, knees and ankles"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/52PdgUJOjvS6Mpmjy1SAlx"
+}

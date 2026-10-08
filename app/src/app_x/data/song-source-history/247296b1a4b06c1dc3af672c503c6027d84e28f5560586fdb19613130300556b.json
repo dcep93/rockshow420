@@ -1,0 +1,30 @@
+{
+  "artist": "SAINt JHN",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SAINt JHN, Imanbek",
+      "explicit": true,
+      "name": "Roses - Imanbek Remix"
+    },
+    {
+      "artists": "SAINt JHN, A Boogie Wit da Hoodie",
+      "explicit": true,
+      "name": "Monica Lewinsky [Feat. A Boogie Wit da Hoodie]"
+    },
+    {
+      "artists": "SAINt JHN",
+      "name": "The Best Part of Life"
+    },
+    {
+      "artists": "SAINt JHN, Lil Baby",
+      "explicit": true,
+      "name": "Trap [Feat. Lil Baby]"
+    },
+    {
+      "artists": "Blue Ivy, SAINt JHN, Beyoncé, Wizkid",
+      "name": "BROWN SKIN GIRL"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0H39MdGGX6dbnnQPt6NQkZ"
+}

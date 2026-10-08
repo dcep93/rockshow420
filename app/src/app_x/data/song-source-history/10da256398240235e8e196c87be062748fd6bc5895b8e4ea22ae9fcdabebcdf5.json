@@ -1,0 +1,27 @@
+{
+  "artist": "Choir Boy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Choir Boy",
+      "name": "Two Lips"
+    },
+    {
+      "artists": "Choir Boy",
+      "name": "Hellmouth"
+    },
+    {
+      "artists": "Choir Boy",
+      "name": "Complainer"
+    },
+    {
+      "artists": "Choir Boy",
+      "name": "Leave Me Be"
+    },
+    {
+      "artists": "Choir Boy",
+      "name": "I'll Always Let You Down"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2EvEdhJhS6JhayAsJZyAyL"
+}

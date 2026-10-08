@@ -1,0 +1,27 @@
+{
+  "artist": "Cruz Beckham",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cruz Beckham",
+      "name": "WANNABE"
+    },
+    {
+      "artists": "Cruz Beckham",
+      "name": "for your love"
+    },
+    {
+      "artists": "Cruz Beckham",
+      "name": "Wear & Tear"
+    },
+    {
+      "artists": "Cruz Beckham",
+      "name": "waste your pain"
+    },
+    {
+      "artists": "Cruz Beckham",
+      "name": "OPTICS"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3ZPOiGqgEbfNlKFFKxXVsD"
+}

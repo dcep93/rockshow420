@@ -1,0 +1,28 @@
+{
+  "artist": "Guns N' Roses",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Guns N' Roses",
+      "name": "Sweet Child O' Mine"
+    },
+    {
+      "artists": "Guns N' Roses",
+      "explicit": true,
+      "name": "Welcome To The Jungle"
+    },
+    {
+      "artists": "Guns N' Roses",
+      "name": "November Rain"
+    },
+    {
+      "artists": "Guns N' Roses",
+      "name": "Paradise City"
+    },
+    {
+      "artists": "Guns N' Roses",
+      "name": "Knockin' On Heaven's Door"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3qm84nBOXUEQ2vnTfUTTFC"
+}

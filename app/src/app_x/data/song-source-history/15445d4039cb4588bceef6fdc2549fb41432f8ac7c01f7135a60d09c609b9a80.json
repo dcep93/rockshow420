@@ -1,0 +1,27 @@
+{
+  "artist": "Rush",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rush",
+      "name": "Tom Sawyer"
+    },
+    {
+      "artists": "Rush",
+      "name": "Limelight"
+    },
+    {
+      "artists": "Rush",
+      "name": "The Spirit Of Radio"
+    },
+    {
+      "artists": "Rush",
+      "name": "Closer To The Heart"
+    },
+    {
+      "artists": "Rush",
+      "name": "Working Man"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Hkut4rAAyrQxRdof7FVJq"
+}

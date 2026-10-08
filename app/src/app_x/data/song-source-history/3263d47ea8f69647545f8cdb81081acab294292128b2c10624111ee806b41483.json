@@ -1,0 +1,28 @@
+{
+  "artist": "Three Days Grace",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Three Days Grace",
+      "name": "Animal I Have Become"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "I Hate Everything About You"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Never Too Late"
+    },
+    {
+      "artists": "Three Days Grace",
+      "explicit": true,
+      "name": "Riot"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Time of Dying"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2xiIXseIJcq3nG7C8fHeBj"
+}

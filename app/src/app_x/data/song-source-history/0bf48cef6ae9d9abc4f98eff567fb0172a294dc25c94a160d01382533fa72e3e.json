@@ -1,0 +1,27 @@
+{
+  "artist": "Stevie Nicks",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Stevie Nicks",
+      "name": "Edge of Seventeen - 2016 Remaster"
+    },
+    {
+      "artists": "Stevie Nicks, Tom Petty and the Heartbreakers",
+      "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster"
+    },
+    {
+      "artists": "Stevie Nicks, Don Henley",
+      "name": "Leather and Lace - 2016 Remaster"
+    },
+    {
+      "artists": "Stevie Nicks",
+      "name": "Crystal - 2023 Remaster"
+    },
+    {
+      "artists": "Miley Cyrus, Stevie Nicks",
+      "name": "Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7crPfGd2k81ekOoSqQKWWz"
+}

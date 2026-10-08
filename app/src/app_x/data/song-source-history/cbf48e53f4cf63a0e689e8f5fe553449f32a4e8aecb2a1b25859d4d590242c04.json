@@ -1,0 +1,28 @@
+{
+  "artist": "Suki Waterhouse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Suki Waterhouse",
+      "name": "Good Looking"
+    },
+    {
+      "artists": "Suki Waterhouse",
+      "name": "Weirdo"
+    },
+    {
+      "artists": "Suki Waterhouse",
+      "name": "Moves"
+    },
+    {
+      "artists": "Suki Waterhouse",
+      "explicit": true,
+      "name": "When I Get Drunk (I Want You Boy)"
+    },
+    {
+      "artists": "Suki Waterhouse",
+      "name": "OMG"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5GGJosGMs08YEmKTZJe1fL"
+}

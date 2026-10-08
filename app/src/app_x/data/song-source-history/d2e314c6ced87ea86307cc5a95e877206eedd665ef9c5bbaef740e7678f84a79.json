@@ -1,0 +1,27 @@
+{
+  "artist": "Anderson .Paak",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "name": "Leave The Door Open"
+    },
+    {
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "name": "Smokin Out The Window"
+    },
+    {
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins",
+      "name": "After Last Night (with Thundercat & Bootsy Collins)"
+    },
+    {
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "name": "Skate"
+    },
+    {
+      "artists": "Bruno Mars, Anderson .Paak, Silk Sonic",
+      "name": "Fly As Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3jK9MiCrA42lLAdMGUZpwa"
+}

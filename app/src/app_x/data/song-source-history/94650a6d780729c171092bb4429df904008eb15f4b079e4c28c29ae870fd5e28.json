@@ -1,0 +1,30 @@
+{
+  "artist": "RAYE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RAYE",
+      "name": "WHERE IS MY HUSBAND!"
+    },
+    {
+      "artists": "RAYE, 070 Shake",
+      "explicit": true,
+      "name": "Escapism."
+    },
+    {
+      "artists": "cassö, RAYE, D-Block Europe",
+      "explicit": true,
+      "name": "Prada"
+    },
+    {
+      "artists": "LISA, Doja Cat, RAYE",
+      "explicit": true,
+      "name": "Born Again (feat. Doja Cat & RAYE)"
+    },
+    {
+      "artists": "RAYE, Hans Zimmer",
+      "name": "Click Clack Symphony. (feat. Hans Zimmer)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5KKpBU5eC2tJDzf0wmlRp2"
+}

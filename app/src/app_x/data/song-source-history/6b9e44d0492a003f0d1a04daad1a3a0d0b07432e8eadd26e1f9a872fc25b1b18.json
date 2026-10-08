@@ -1,0 +1,27 @@
+{
+  "artist": "Trousdale",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Trousdale",
+      "name": "Wouldn't Come Back"
+    },
+    {
+      "artists": "Trousdale",
+      "name": "Wouldn't It Be Nice"
+    },
+    {
+      "artists": "Trousdale",
+      "name": "If I'm Honest"
+    },
+    {
+      "artists": "Trousdale",
+      "name": "Any Day Now"
+    },
+    {
+      "artists": "Trousdale",
+      "name": "Where Did You Go"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/26DvqLYszG0oIOeelTF5kE"
+}

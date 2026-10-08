@@ -21,23 +21,28 @@ export interface Concert {
   supporting_artist_ids: string[];
   setlist_fm_url: string;
 }
-export interface Festival {
+export interface ScheduledSet {
   id: string;
-  name: string;
-  concert_ids: string[];
+  artist_id: string;
+  day?: string;
+  start?: string;
+  end?: string;
+  stage?: string;
 }
+export interface Schedule { id: string; sets: ScheduledSet[] }
 export interface Profile {
   id: string;
   user_id: string;
   username: string;
 }
-export type TicketStatus = "" | "purchased" | "sold_out";
-export const ticketStatusLabels: Record<TicketStatus, string> = { "": "", purchased: "Purchased", sold_out: "Sold out" };
+export type TicketStatus = "" | "purchased" | "sold_out" | "cancelled";
+export const ticketStatusLabels: Record<TicketStatus, string> = { "": "", purchased: "Purchased", sold_out: "Sold out", cancelled: "Cancelled" };
 export function isTicketStatus(value: unknown): value is TicketStatus {
-  return value === "" || value === "purchased" || value === "sold_out";
+  return value === "" || value === "purchased" || value === "sold_out" || value === "cancelled";
 }
 export interface UserConcert {
   removed: boolean;
+  seen_set_ids: string[];
   id: string;
   user_id: string;
   concert_id: string;
@@ -49,16 +54,16 @@ export interface Catalog {
   venues: Venue[];
   artists: Artist[];
   concerts: Concert[];
-  festivals: Festival[];
+  schedules: Schedule[];
   profiles: Profile[];
   logs: UserConcert[];
 }
-export type EntityKind = "venue" | "artist" | "concert" | "festival";
+export type EntityKind = "venue" | "artist" | "concert";
 export const emptyCatalog: Catalog = {
   venues: [],
   artists: [],
   concerts: [],
-  festivals: [],
+  schedules: [],
   profiles: [],
   logs: [],
 };
@@ -67,7 +72,6 @@ export const collections = {
   venue: "venues",
   artist: "artists",
   concert: "concerts",
-  festival: "festivals",
 } as const;
 
 const string = (value: unknown): string => (typeof value === "string" ? value : "");
@@ -110,10 +114,23 @@ export const normalizeConcert = (id: string, raw: Raw): Concert => ({
   supporting_artist_ids: strings(raw.supporting_artist_ids),
   setlist_fm_url: string(raw.setlist_fm_url),
 });
-export const normalizeFestival = (id: string, raw: Raw): Festival => ({
+export const normalizeSchedule = (id: string, raw: Raw): Schedule => ({
   id,
-  name: string(raw.name),
-  concert_ids: strings(raw.concert_ids),
+  sets: Object.entries((raw.sets || {}) as Record<string, Raw>).map(([id, value]) => ({
+    id, artist_id: string(value.artist_id),
+    ...(string(value.day) ? { day: string(value.day) } : {}),
+    ...(string(value.start) ? { start: string(value.start) } : {}),
+    ...(string(value.end) ? { end: string(value.end) } : {}),
+    ...(string(value.stage) ? { stage: string(value.stage) } : {}),
+  })).sort((a, b) => {
+    // UTC fallback keeps undated sets chronological across offsets. Explicit
+    // programme days group by their stated date, including overnight starts.
+    const aDay = a.day || timestampISO(a.start).slice(0, 10);
+    const bDay = b.day || timestampISO(b.start).slice(0, 10);
+    return Number(!aDay) - Number(!bDay) || aDay.localeCompare(bDay)
+      || (a.start && b.start ? Date.parse(a.start) - Date.parse(b.start) : Number(!a.start) - Number(!b.start))
+      || (a.stage || "").localeCompare(b.stage || "") || a.id.localeCompare(b.id);
+  }),
 });
 export const normalizeProfile = (id: string, raw: Raw): Profile => ({
   id,
@@ -122,6 +139,7 @@ export const normalizeProfile = (id: string, raw: Raw): Profile => ({
 });
 export const normalizeLog = (id: string, raw: Raw): UserConcert => ({
   removed: raw.removed === true,
+  seen_set_ids: strings(raw.seen_set_ids),
   id,
   user_id: string(raw.user_id),
   concert_id: string(raw.concert_id),

@@ -1,0 +1,29 @@
+{
+  "artist": "Gracie Abrams",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gracie Abrams",
+      "explicit": true,
+      "name": "That’s So True"
+    },
+    {
+      "artists": "Gracie Abrams",
+      "explicit": true,
+      "name": "I Love You, I'm Sorry"
+    },
+    {
+      "artists": "Gracie Abrams",
+      "name": "Hit the Wall"
+    },
+    {
+      "artists": "Gracie Abrams",
+      "name": "I miss you, I’m sorry"
+    },
+    {
+      "artists": "Gracie Abrams",
+      "name": "Minibar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4tuJ0bMpJh08umKkEXKUI5"
+}

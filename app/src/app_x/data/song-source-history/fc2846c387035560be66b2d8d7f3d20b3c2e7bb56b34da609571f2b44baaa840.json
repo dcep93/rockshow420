@@ -1,0 +1,27 @@
+{
+  "artist": "Jimmy Eat World",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jimmy Eat World",
+      "name": "The Middle"
+    },
+    {
+      "artists": "Jimmy Eat World",
+      "name": "Sweetness"
+    },
+    {
+      "artists": "Jimmy Eat World",
+      "name": "Hear You Me"
+    },
+    {
+      "artists": "Jimmy Eat World",
+      "name": "Bleed American"
+    },
+    {
+      "artists": "Jimmy Eat World",
+      "name": "Pain"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Ayl7mCk0nScecqOzvNp6s"
+}

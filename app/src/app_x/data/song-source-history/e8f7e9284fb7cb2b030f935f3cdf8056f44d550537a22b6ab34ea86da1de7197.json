@@ -1,0 +1,29 @@
+{
+  "artist": "Steve Aoki",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Farruko, Greeicy, Steve Aoki",
+      "name": "YAPAQUE"
+    },
+    {
+      "artists": "Kid Cudi, MGMT, Ratatat, Steve Aoki",
+      "explicit": true,
+      "name": "Pursuit Of Happiness - Extended Steve Aoki Remix"
+    },
+    {
+      "artists": "BTS, Steve Aoki",
+      "name": "MIC Drop (Steve Aoki Remix) (Full Length Edition)"
+    },
+    {
+      "artists": "Natanael Cano, Steve Aoki",
+      "explicit": true,
+      "name": "Nataaoki"
+    },
+    {
+      "artists": "Dimitri Vegas, Steve Aoki, Ann Lee, Sound Of Legend",
+      "name": "2 Times"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/77AiFEVeAVj2ORpC85QVJs"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Artemas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Artemas",
+      "name": "i like the way you kiss me"
+    },
+    {
+      "artists": "Artemas",
+      "explicit": true,
+      "name": "if u think i'm pretty"
+    },
+    {
+      "artists": "Artemas",
+      "explicit": true,
+      "name": "southbound"
+    },
+    {
+      "artists": "Artemas",
+      "name": "how could u love somebody like me?"
+    },
+    {
+      "artists": "Artemas",
+      "name": "dirty little secret"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+}

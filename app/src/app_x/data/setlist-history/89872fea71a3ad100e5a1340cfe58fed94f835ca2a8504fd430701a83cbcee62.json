@@ -1,0 +1,93 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "At Dawn"
+        },
+        {
+          "name": "Circuital"
+        },
+        {
+          "name": "Touch Me I'm Going to Scream Pt. 1"
+        },
+        {
+          "name": "It's About Twilight Now"
+        },
+        {
+          "name": "Golden"
+        },
+        {
+          "name": "Least Expected",
+          "notes": "(Incleded snippet of Bob Marley's \"One Love\")"
+        },
+        {
+          "name": "Lemme Know"
+        },
+        {
+          "name": "First Light"
+        },
+        {
+          "name": "River Road"
+        },
+        {
+          "name": "Out in the Open"
+        },
+        {
+          "name": "Outta My System"
+        },
+        {
+          "name": "Remnants"
+        },
+        {
+          "name": "Nashville to Kentucky"
+        },
+        {
+          "name": "Slow Slow Tune"
+        },
+        {
+          "name": "I'll Be Your Mirror",
+          "notes": "(The Velvet Underground cover) (Not on setlist)"
+        },
+        {
+          "name": "I'm Amazed",
+          "notes": "(with I'll Be Your Mirror outro)"
+        },
+        {
+          "name": "Never in the Real World"
+        },
+        {
+          "name": "Steam Engine"
+        },
+        {
+          "name": "Cobra",
+          "notes": "(with Karina Rykman) (part 1 >)"
+        },
+        {
+          "name": "For Whom the Bell Tolls",
+          "notes": "(Metallica cover) (with Karina Rykman) (> Cobra Parts 2 & 3)"
+        },
+        {
+          "name": "Dancefloors"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "State of the Art (A.E.I.O.U.)",
+          "notes": "(Jim James song)"
+        },
+        {
+          "name": "The Way That He Sings"
+        },
+        {
+          "name": "One Big Holiday"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/my-morning-jacket/2025/brooklyn-paramount-brooklyn-ny-1b5b2908.html"
+}

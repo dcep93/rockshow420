@@ -1,0 +1,70 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Anywhere With You"
+        },
+        {
+          "name": "Want Want"
+        },
+        {
+          "name": "Say It"
+        },
+        {
+          "name": "The Kill"
+        },
+        {
+          "name": "Give a Little"
+        },
+        {
+          "name": "So Sick of Dreaming"
+        },
+        {
+          "name": "Overnight"
+        },
+        {
+          "name": "Dog Years"
+        },
+        {
+          "name": "Shatter"
+        },
+        {
+          "name": "Don't Forget Me"
+        },
+        {
+          "name": "Symphony"
+        },
+        {
+          "name": "Alaska"
+        },
+        {
+          "name": "Retrograde / I Wanna Dance With Somebody (Who Loves Me)"
+        },
+        {
+          "name": "Love You for a Long Time"
+        },
+        {
+          "name": "Light On"
+        },
+        {
+          "name": "That's Where I Am"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Back in My Body"
+        },
+        {
+          "name": "Different Kind of World"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/maggie-rogers/2023/forest-hills-stadium-queens-ny-43a4e3c7.html"
+}

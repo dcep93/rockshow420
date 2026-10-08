@@ -1,0 +1,27 @@
+{
+  "artist": "Beyoncé",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Beyoncé, JAŸ-Z",
+      "name": "Crazy In Love (feat. JAŸ-Z)"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Halo"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "MORNING DEW (DONK)"
+    },
+    {
+      "artists": "Beyoncé",
+      "name": "Irreplaceable"
+    },
+    {
+      "artists": "Beyoncé, Shakira",
+      "name": "Beautiful Liar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6vWDO969PvNqNYHIOW5v0m"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Water From Your Eyes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Water From Your Eyes",
+      "name": "Adeleine"
+    },
+    {
+      "artists": "Water From Your Eyes",
+      "name": "Playing Classics"
+    },
+    {
+      "artists": "Water From Your Eyes",
+      "name": "Somebody Else's Song"
+    },
+    {
+      "artists": "Water From Your Eyes",
+      "name": "That's the Girl"
+    },
+    {
+      "artists": "Water From Your Eyes",
+      "name": "Life Signs"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6hYlNLoZJg74dVhA8FHIc0"
+}

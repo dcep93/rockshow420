@@ -1,0 +1,27 @@
+{
+  "artist": "Dehd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dehd",
+      "name": "Bad Love"
+    },
+    {
+      "artists": "Dehd",
+      "name": "Lucky"
+    },
+    {
+      "artists": "Dehd",
+      "name": "Loner"
+    },
+    {
+      "artists": "Dehd",
+      "name": "Light On"
+    },
+    {
+      "artists": "Dehd",
+      "name": "Flying"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6yzuBFtT6dK2aQMZJZtcB1"
+}

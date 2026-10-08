@@ -1,0 +1,27 @@
+{
+  "artist": "Phoenix",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phoenix",
+      "name": "Price Tag"
+    },
+    {
+      "artists": "Phoenix",
+      "name": "Take My Hand"
+    },
+    {
+      "artists": "Phoenix",
+      "name": "Redemption"
+    },
+    {
+      "artists": "Phoenix",
+      "name": "Upendo = Love"
+    },
+    {
+      "artists": "Phoenix",
+      "name": "Feeling"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Uz3njYEOBsQINe5pUebYP"
+}

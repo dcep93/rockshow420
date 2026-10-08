@@ -1,0 +1,30 @@
+{
+  "artist": "Bilal",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bilal",
+      "explicit": true,
+      "name": "Soul Sista"
+    },
+    {
+      "artists": "Bilal, Raphael Saadiq",
+      "name": "Soul Sista - Remix / From \"Queen & Slim: The Soundtrack\""
+    },
+    {
+      "artists": "Bilal, Mos Def, Common",
+      "explicit": true,
+      "name": "Reminisce"
+    },
+    {
+      "artists": "Bilal, Jadakiss, Dr. Dre",
+      "name": "Fast Lane - Remix"
+    },
+    {
+      "artists": "Bilal",
+      "explicit": true,
+      "name": "Sometimes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+}

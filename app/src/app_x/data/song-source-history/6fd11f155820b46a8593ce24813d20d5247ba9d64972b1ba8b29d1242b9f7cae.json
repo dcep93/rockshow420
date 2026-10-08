@@ -1,0 +1,27 @@
+{
+  "artist": "The Last Bandoleros",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Last Bandoleros",
+      "name": "Hey Baby Que Pasó - Live from Texas"
+    },
+    {
+      "artists": "Udo Lindenberg, The Last Bandoleros",
+      "name": "Cowboy Rocker (feat. The Last Bandoleros) - MTV Unplugged 2"
+    },
+    {
+      "artists": "The Last Bandoleros",
+      "name": "I Don't Want to Know"
+    },
+    {
+      "artists": "The Last Bandoleros",
+      "name": "Where I'm Going"
+    },
+    {
+      "artists": "Sting, The Last Bandoleros",
+      "name": "Next To You - Live At Rockwood Music Hall"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Zk03qhmFLepNYW2atWkmE"
+}

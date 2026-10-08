@@ -1,0 +1,29 @@
+{
+  "artist": "Bebe Rexha",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "David Guetta, Bebe Rexha",
+      "explicit": true,
+      "name": "I'm Good (Blue)"
+    },
+    {
+      "artists": "Bebe Rexha, Faithless",
+      "name": "New Religion"
+    },
+    {
+      "artists": "David Guetta, Bebe Rexha, J Balvin",
+      "name": "Say My Name"
+    },
+    {
+      "artists": "G-Eazy, Bebe Rexha",
+      "explicit": true,
+      "name": "Me, Myself & I"
+    },
+    {
+      "artists": "Martin Garrix, Bebe Rexha",
+      "name": "In the Name of Love"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/64M6ah0SkkRsnPGtGiRAbb"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "T-Pain",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pitbull, T-Pain",
+      "name": "Hey Baby (Drop It to the Floor) (feat. T-Pain)"
+    },
+    {
+      "artists": "T-Pain, B.o.B",
+      "explicit": true,
+      "name": "Up Down (Do This All Day) (feat. B.o.B)"
+    },
+    {
+      "artists": "T-Pain, Yung Joc",
+      "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)"
+    },
+    {
+      "artists": "T-Pain, Akon",
+      "explicit": true,
+      "name": "Bartender (feat. Akon)"
+    },
+    {
+      "artists": "T-Pain",
+      "name": "I'm Sprung"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3aQeKQSyrW4qWr35idm0cy"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Monolake",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Monolake",
+      "name": "Reminiscence"
+    },
+    {
+      "artists": "Monolake",
+      "name": "Mass Transit Railway"
+    },
+    {
+      "artists": "Monolake",
+      "name": "Invisible"
+    },
+    {
+      "artists": "Monolake",
+      "name": "Bicom"
+    },
+    {
+      "artists": "Monolake",
+      "name": "Cyan"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4XvKzACpcdk5iiZbWNvfbq"
+}

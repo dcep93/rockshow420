@@ -1,0 +1,84 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Alabama Getaway",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Shakedown Street",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Althea",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "The Harder They Come",
+          "notes": "(Jimmy Cliff cover) (live debut by D&C) (Oteil on lead vocals)"
+        },
+        {
+          "name": "Mississippi Half-Step Uptown Toodeloo",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Sugaree",
+          "notes": "(Jerry Garcia cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Cold Rain and Snow",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "Estimated Prophet",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Eyes of the World",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Row Jimmy",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Drums",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Space",
+          "notes": "(Grateful Dead cover) (with Renée Fleming)"
+        },
+        {
+          "name": "Days Between",
+          "notes": "(Grateful Dead cover) (With elements of Shine On You Crazy Diamond)"
+        },
+        {
+          "name": "Going Down the Road Feeling Bad",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "Knockin' on Heaven's Door",
+          "notes": "(Bob Dylan cover)"
+        },
+        {
+          "name": "Old News Broadcast of the Grateful Dead",
+          "tape": true
+        },
+        {
+          "name": "Ripple",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-5b5fdfac.html"
+}

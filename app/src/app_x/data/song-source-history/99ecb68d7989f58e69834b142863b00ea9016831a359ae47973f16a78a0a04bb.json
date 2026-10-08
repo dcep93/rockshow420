@@ -1,0 +1,27 @@
+{
+  "artist": "Matt Nathanson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Matt Nathanson",
+      "name": "Come On Get Higher"
+    },
+    {
+      "artists": "Matt Nathanson",
+      "name": "Laid"
+    },
+    {
+      "artists": "Matt Nathanson",
+      "name": "Faster"
+    },
+    {
+      "artists": "Matt Nathanson",
+      "name": "German Cars"
+    },
+    {
+      "artists": "Matt Nathanson",
+      "name": "All We Are"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4NGiEU3Pkd8ASRyQR30jcA"
+}

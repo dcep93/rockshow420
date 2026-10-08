@@ -1,0 +1,27 @@
+{
+  "artist": "Devault",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "John Summit, Devault, Julia Church",
+      "name": "SHADES OF BLUE"
+    },
+    {
+      "artists": "Devault, GiGi Grombacher",
+      "name": "Feels Like Us"
+    },
+    {
+      "artists": "Devault",
+      "name": "Let's Begin"
+    },
+    {
+      "artists": "Devault",
+      "name": "What I Came For"
+    },
+    {
+      "artists": "Devault",
+      "name": "Zero"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1VBAKMui4zm5MnBWNn3NbL"
+}

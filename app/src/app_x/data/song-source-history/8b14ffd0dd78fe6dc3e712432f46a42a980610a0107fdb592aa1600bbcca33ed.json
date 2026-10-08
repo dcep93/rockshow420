@@ -1,0 +1,28 @@
+{
+  "artist": "yeule",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "yeule",
+      "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\""
+    },
+    {
+      "artists": "yeule",
+      "name": "Dudu"
+    },
+    {
+      "artists": "yeule",
+      "explicit": true,
+      "name": "Evangelic Girl is a Gun"
+    },
+    {
+      "artists": "yeule",
+      "name": "Eko"
+    },
+    {
+      "artists": "Mura Masa, yeule",
+      "name": "We Are Making Out"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1WZarnZpWEv7dDtjAETt4X"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Tate McRae",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tate McRae",
+      "explicit": true,
+      "name": "greedy"
+    },
+    {
+      "artists": "Tate McRae, F1 The Album",
+      "name": "Just Keep Watching (From F1® The Movie)"
+    },
+    {
+      "artists": "Tate McRae",
+      "name": "Sports car"
+    },
+    {
+      "artists": "Tate McRae",
+      "explicit": true,
+      "name": "you broke me first"
+    },
+    {
+      "artists": "Morgan Wallen, Tate McRae",
+      "name": "What I Want (feat. Tate McRae)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/45dkTj5sMRSjrmBSBeiHym"
+}

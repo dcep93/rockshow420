@@ -1,0 +1,98 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Playing in the Band",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Shakedown Street",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Brown-Eyed Women",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Mama Tried",
+          "notes": "(Merle Haggard cover) (live debut D&C)"
+        },
+        {
+          "name": "Peggy-O",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "It Hurts Me Too",
+          "notes": "(Tampa Red cover)"
+        },
+        {
+          "name": "Black-Throated Wind",
+          "notes": "(Bob Weir song)"
+        },
+        {
+          "name": "Casey Jones",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Scarlet Begonias",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Fire on the Mountain",
+          "notes": "(Grateful Dead cover) (Oteil on lead vocals)"
+        },
+        {
+          "name": "Althea",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Estimated Prophet",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Eyes of the World",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Drums",
+          "notes": "(Grateful Dead cover) (with Oteil) (>)"
+        },
+        {
+          "name": "Space",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "The Wheel",
+          "notes": "(Jerry Garcia cover) (>)"
+        },
+        {
+          "name": "Wharf Rat",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Sugar Magnolia",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Weight",
+          "notes": "(The Band cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/dead-and-company/2019/shoreline-amphitheatre-mountain-view-ca-63904ed3.html"
+}

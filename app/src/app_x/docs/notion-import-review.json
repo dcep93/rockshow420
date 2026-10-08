@@ -4,7 +4,7 @@
   "new_events": 352,
   "already_present": 2,
   "festival_ranges": 15,
-  "time_unverified": 241,
+  "time_unverified": 145,
   "setlist_links_added": 109,
   "notes": [
     "Trailing year headings apply to entries above them.",
@@ -27,12 +27,13 @@
         "notion-3aa8eae5-7-2026-10-30",
         "notion-3aa8eae5-7-2026-10-31"
       ],
-      "review": "October 31 listings conflict (Ticketmaster 5 PM, earlier listing 6 PM); time left unverified.",
+      "review": "Resolved October 31: Live Nation event description distinguishes 5 PM doors and 6 PM show. Saved 6 PM EDT.",
       "time_verified": true,
       "research_links": [
         "https://www.ticketmaster.com/lawrence-staycation-3-day-pass-brooklyn-new-york-10-29-2026/event/000064410845ECF9?tt_scene=anchor_view",
         "https://www.ticketmaster.com/lawrence-tickets/artist/2147764?msockid=0ec5050424346bc23aab13da256f6a96&tt_scene=anchor_view",
-        "https://www.ticketmaster.co.uk/lawrence-tickets/artist/2147764"
+        "https://www.ticketmaster.co.uk/lawrence-tickets/artist/2147764",
+        "https://www.concertowl.com/concert/lawrence-brooklyn-paramount-31-october"
       ]
     },
     {
@@ -109,25 +110,6 @@
         "https://theark.org/event/abigail-lapell-250917/",
         "https://www.concertarchives.org/venues/nublu-classic",
         "https://www.setlist.fm/setlist/low-phase/2025/cobra-lounge-chicago-il-63403aff.html"
-      ]
-    },
-    {
-      "row": 66,
-      "original": "bushwick's dead 7/21 brooklyn bowl",
-      "year": 2025,
-      "name": "Bushwick’s Dead",
-      "start": "2025-07-21",
-      "end": "2025-07-21",
-      "venue": "Brooklyn Bowl",
-      "records": [
-        "notion-3aa8eae5-66-2025-07-21"
-      ],
-      "review": "Notion says July 21; venue archive found July 19. Preserve Notion date pending clarification.",
-      "time_verified": false,
-      "research_links": [
-        "https://www.brooklynbowl.com/brooklyn/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
-        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
-        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbwewcneq"
       ]
     },
     {
@@ -226,25 +208,6 @@
       ]
     },
     {
-      "row": 97,
-      "original": "The dip 11/2 Webster hall",
-      "year": 2024,
-      "name": "The Dip",
-      "start": "2024-11-02",
-      "end": "2024-11-02",
-      "venue": "Webster Hall",
-      "records": [
-        "notion-3aa8eae5-97-2024-11-02"
-      ],
-      "review": "Venue lists November 3; Notion says November 2. Preserve listed date.",
-      "time_verified": false,
-      "research_links": [
-        "https://www.setlist.fm/setlist/the-dip/2024/webster-hall-new-york-ny-53517b05.html",
-        "https://www.websterhall.com/events/detail/?event_id=1178408",
-        "https://www.websterhall.com/events/detail?event_id=1187878"
-      ]
-    },
-    {
       "row": 128,
       "original": "primavera barcelona 5/27-6/3",
       "year": 2024,
@@ -255,7 +218,7 @@
       "records": [
         "notion-3aa8eae5-128-2024-05-27"
       ],
-      "review": "Festival has multiple Barcelona venues; preserve listed May 27–June 3 range.",
+      "review": "Festival has multiple Barcelona venues; preserve listed May 27\u2013June 3 range.",
       "time_verified": false,
       "research_links": [
         "https://www.sala-apolo.com/en/event/primavera-a-la-ciutat-2024-abstract-concrete-maustetytot-john-francis-flynn-tiemei-5351",
@@ -289,7 +252,7 @@
       "name": "Vulfpeck",
       "start": "2023-11-12",
       "end": "2023-11-12",
-      "venue": "Avant Gardner – Great Hall",
+      "venue": "Avant Gardner \u2013 Great Hall",
       "records": [
         "notion-3aa8eae5-154-2023-11-12"
       ],
@@ -308,7 +271,7 @@
       "name": "Seven Lions",
       "start": "2023-09-23",
       "end": "2023-09-23",
-      "venue": "Avant Gardner – Great Hall",
+      "venue": "Avant Gardner \u2013 Great Hall",
       "records": [
         "notion-3aa8eae5-164-2023-09-23"
       ],
@@ -337,25 +300,6 @@
         "https://www.mccawhall.com/events/detail/patti-lupone",
         "https://www.sebastians.org/event/the-five-concerti/",
         "https://www.broadwayleague.com/press/press-releases/melissa-etheridge-to-make-an-appearance-as-a-presenter-at-curtain-up-live-from-broadway-finale-concert-live-in-times-square-and-to-be-aired-live-on-wabc-tv-on-sunday-september-10th-at-110/"
-      ]
-    },
-    {
-      "row": 185,
-      "original": "high life 6/9 brooklyn bowl",
-      "year": 2023,
-      "name": "High Time",
-      "start": "2023-06-09",
-      "end": "2023-06-09",
-      "venue": "Brooklyn Bowl",
-      "records": [
-        "notion-3aa8eae5-185-2023-06-09"
-      ],
-      "review": "Notion says High Life; venue archive identifies High Time.",
-      "time_verified": false,
-      "research_links": [
-        "https://www.brooklynbowl.com/brooklyn/events/detail/high-time-13158738",
-        "https://en.wikipedia.org/wiki/The_Spinnin_Tour",
-        "https://www.brooklynbowl.com/events/detail/king-krule-space-heavy-tour-g5viz9tmotkoo"
       ]
     },
     {
@@ -432,25 +376,6 @@
         "https://en.wikipedia.org/wiki/JoJo_Tour_2022",
         "https://www.ososhow.com/topics/lishangan/2022",
         "https://en.wikipedia.org/wiki/Mercury_World_Tour"
-      ]
-    },
-    {
-      "row": 231,
-      "original": "Lollapalooza 7/28 Chicago",
-      "year": 2021,
-      "name": "Lollapalooza",
-      "start": "2021-07-28",
-      "end": "2021-07-28",
-      "venue": "Grant Park",
-      "records": [
-        "notion-3aa8eae5-231-2021-07-28"
-      ],
-      "review": "Notion lists July 28; festival ran July 29–August 1. Preserve source date pending review.",
-      "time_verified": false,
-      "research_links": [
-        "https://qromag.com/lollapalooza-2021-preview/",
-        "https://en.as.com/en/2021/07/28/latest_news/1627501278_675093.html",
-        "https://lollapalooza.frontgatetickets.com/event/82c4g1kgpskdp4ip"
       ]
     },
     {
@@ -546,25 +471,6 @@
         "https://www.sfstation.com/theater-performance-arts/calendar/fishermans-wharf/san-francisco/09-09-2018",
         "https://www.broadwayworld.com/shows/The-Phantom-of-the-Opera-330656.html",
         "https://www.ibdb.com/tour-production/the-phantom-of-the-opera--500558"
-      ]
-    },
-    {
-      "row": 316,
-      "original": "alt j 4/17 bill graham",
-      "year": 2018,
-      "name": "alt-J",
-      "start": "2018-04-17",
-      "end": "2018-04-17",
-      "venue": "Bill Graham Civic Auditorium",
-      "records": [
-        "notion-3aa8eae5-316-2018-04-17"
-      ],
-      "review": "Archive found April 18; source says April 17. Source date preserved.",
-      "time_verified": false,
-      "research_links": [
-        "https://www.altjtourdates.com/",
-        "https://www.setlist.fm/setlist/altj/2018/santa-barbara-bowl-santa-barbara-ca-2bece4c6.html",
-        "https://www.antimusic.com/news/18/February/06alt-J_Announce_North_American_Tour_Including_Special_Stadium_Show.shtml"
       ]
     }
   ],
@@ -1166,7 +1072,7 @@
     },
     {
       "id": "notion-3aa8eae5-193-2023-03-28",
-      "source": "Chris thile  3/28 65th street",
+      "source": "Chris thile\u00a0 3/28 65th street",
       "year": 2023
     },
     {
@@ -1701,7 +1607,7 @@
     },
     {
       "id": "notion-3aa8eae5-321-2018-01-17",
-      "source": "Børns 1/17 fox",
+      "source": "B\u00f8rns 1/17 fox",
       "year": 2018
     },
     {
@@ -1885,5 +1791,127 @@
     "notion-3aa8eae5-330-2017-10-07": "https://www.setlist.fm/setlist/father-john-misty/2017/william-randolph-hearst-greek-theatre-berkeley-ca-2be380e6.html",
     "notion-3aa8eae5-334-2017-08-21": "https://www.setlist.fm/setlist/billy-joel/2017/madison-square-garden-new-york-ny-7be54a88.html",
     "notion-3aa8eae5-336-2017-08-05": "https://www.setlist.fm/setlist/green-day/2017/oakland-coliseum-oakland-ca-13e53da5.html"
+  },
+  "resolved": [
+    {
+      "row": 66,
+      "original": "bushwick's dead 7/21 brooklyn bowl",
+      "year": 2025,
+      "name": "Bushwick\u2019s Dead",
+      "start": "2025-07-21",
+      "end": "2025-07-21",
+      "venue": "Brooklyn Bowl",
+      "records": [
+        "notion-3aa8eae5-66-2025-07-21"
+      ],
+      "review": "Notion says July 21; venue archive found July 19. Preserve Notion date pending clarification.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.brooklynbowl.com/brooklyn/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
+        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
+        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbwewcneq"
+      ],
+      "resolution": "User confirmed July 19, 2025.",
+      "resolved_concert_id": "wentpi",
+      "resolved_start": "2025-07-19"
+    },
+    {
+      "row": 97,
+      "original": "The dip 11/2 Webster hall",
+      "year": 2024,
+      "name": "The Dip",
+      "start": "2024-11-02",
+      "end": "2024-11-02",
+      "venue": "Webster Hall",
+      "records": [
+        "notion-3aa8eae5-97-2024-11-02"
+      ],
+      "review": "Venue lists November 3; Notion says November 2. Preserve listed date.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.setlist.fm/setlist/the-dip/2024/webster-hall-new-york-ny-53517b05.html",
+        "https://www.websterhall.com/events/detail/?event_id=1178408",
+        "https://www.websterhall.com/events/detail?event_id=1187878"
+      ],
+      "resolution": "User confirmed November 3, 2024.",
+      "resolved_concert_id": "5nejlp",
+      "resolved_start": "2024-11-03"
+    },
+    {
+      "row": 185,
+      "original": "high life 6/9 brooklyn bowl",
+      "year": 2023,
+      "name": "High Time",
+      "start": "2023-06-09",
+      "end": "2023-06-09",
+      "venue": "Brooklyn Bowl",
+      "records": [
+        "notion-3aa8eae5-185-2023-06-09"
+      ],
+      "review": "Notion says High Life; venue archive identifies High Time.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.brooklynbowl.com/brooklyn/events/detail/high-time-13158738",
+        "https://en.wikipedia.org/wiki/The_Spinnin_Tour",
+        "https://www.brooklynbowl.com/events/detail/king-krule-space-heavy-tour-g5viz9tmotkoo"
+      ],
+      "resolution": "User confirmed High Time; the existing artist reference was already correct.",
+      "resolved_concert_id": "3o6zqo",
+      "resolved_start": "2023-06-09"
+    },
+    {
+      "row": 231,
+      "original": "Lollapalooza 7/28 Chicago",
+      "year": 2021,
+      "name": "Lollapalooza",
+      "start": "2021-07-28",
+      "end": "2021-07-28",
+      "venue": "Grant Park",
+      "records": [
+        "notion-3aa8eae5-231-2021-07-28"
+      ],
+      "review": "Notion lists July 28; festival ran July 29\u2013August 1. Preserve source date pending review.",
+      "time_verified": false,
+      "research_links": [
+        "https://qromag.com/lollapalooza-2021-preview/",
+        "https://en.as.com/en/2021/07/28/latest_news/1627501278_675093.html",
+        "https://lollapalooza.frontgatetickets.com/event/82c4g1kgpskdp4ip"
+      ],
+      "resolution": "User confirmed the festival range July 29\u2013August 1, 2021.",
+      "resolved_concert_id": "yyea3y",
+      "resolved_start": "2021-07-29",
+      "resolved_end": "2021-08-01"
+    },
+    {
+      "row": 316,
+      "original": "alt j 4/17 bill graham",
+      "year": 2018,
+      "name": "alt-J",
+      "start": "2018-04-17",
+      "end": "2018-04-17",
+      "venue": "Bill Graham Civic Auditorium",
+      "records": [
+        "notion-3aa8eae5-316-2018-04-17"
+      ],
+      "review": "Archive found April 18; source says April 17. Source date preserved.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.altjtourdates.com/",
+        "https://www.setlist.fm/setlist/altj/2018/santa-barbara-bowl-santa-barbara-ca-2bece4c6.html",
+        "https://www.antimusic.com/news/18/February/06alt-J_Announce_North_American_Tour_Including_Special_Stadium_Show.shtml"
+      ],
+      "resolution": "User confirmed April 18, 2018.",
+      "resolved_concert_id": "i3tccp",
+      "resolved_start": "2018-04-18"
+    }
+  ],
+  "event_time_research": {
+    "researched_events": 260,
+    "saved_events": 111,
+    "missing_times_filled": 96,
+    "existing_times_corrected": 15,
+    "date_only_remaining": 145,
+    "date": "2026-10-08",
+    "sources_and_remaining": "event-time-research.json"
   }
 }

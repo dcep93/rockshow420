@@ -1,0 +1,28 @@
+{
+  "artist": "The Front Bottoms",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Front Bottoms",
+      "name": "Twin Size Mattress"
+    },
+    {
+      "artists": "The Front Bottoms",
+      "name": "Be Nice To Me"
+    },
+    {
+      "artists": "The Front Bottoms",
+      "name": "Lone Star"
+    },
+    {
+      "artists": "The Front Bottoms",
+      "explicit": true,
+      "name": "Father"
+    },
+    {
+      "artists": "The Front Bottoms",
+      "name": "Lonely Eyes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ictveRyhWRs8Gt8Dvt1hS"
+}

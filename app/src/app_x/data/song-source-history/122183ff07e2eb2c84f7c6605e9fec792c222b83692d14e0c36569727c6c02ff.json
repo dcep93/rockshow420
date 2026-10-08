@@ -1,0 +1,28 @@
+{
+  "artist": "Brandi Carlile",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Brandi Carlile",
+      "name": "The Story"
+    },
+    {
+      "artists": "Noah Kahan, Brandi Carlile",
+      "explicit": true,
+      "name": "You’re Gonna Go Far (with Brandi Carlile)"
+    },
+    {
+      "artists": "Brandi Carlile",
+      "name": "The Joke"
+    },
+    {
+      "artists": "The Highwomen, Brandi Carlile, Natalie Hemby, Maren Morris, Amanda Shires",
+      "name": "Crowded Table"
+    },
+    {
+      "artists": "Hozier, Brandi Carlile",
+      "name": "Damage Gets Done (feat. Brandi Carlile)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+}

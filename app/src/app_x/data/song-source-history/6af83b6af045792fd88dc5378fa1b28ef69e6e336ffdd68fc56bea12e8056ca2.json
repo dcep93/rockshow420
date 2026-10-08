@@ -1,0 +1,28 @@
+{
+  "artist": "Ally Evenson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ally Evenson",
+      "name": "The Martyr"
+    },
+    {
+      "artists": "Ally Evenson",
+      "name": "Porch Light"
+    },
+    {
+      "artists": "Ally Evenson",
+      "name": "Say It"
+    },
+    {
+      "artists": "Ally Evenson",
+      "explicit": true,
+      "name": "Strawberry"
+    },
+    {
+      "artists": "Ally Evenson",
+      "name": "One Trick Pony"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6UzwpF9cqjxgxXb2N6mb7y"
+}

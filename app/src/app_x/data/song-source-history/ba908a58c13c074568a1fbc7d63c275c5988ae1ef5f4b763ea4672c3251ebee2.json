@@ -1,0 +1,27 @@
+{
+  "artist": "Wunderhorse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wunderhorse",
+      "name": "Teal"
+    },
+    {
+      "artists": "Wunderhorse",
+      "name": "Purple"
+    },
+    {
+      "artists": "Wunderhorse",
+      "name": "Leader of the Pack"
+    },
+    {
+      "artists": "Wunderhorse",
+      "name": "Rain"
+    },
+    {
+      "artists": "Wunderhorse",
+      "name": "Midas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/41pd7r1XBRsvdxY3vHEgib"
+}

@@ -1,0 +1,50 @@
+{
+  "artist": "Bilal",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bilal",
+      "explicit": true,
+      "name": "Soul Sista"
+    },
+    {
+      "artists": "Bilal, Raphael Saadiq",
+      "name": "Soul Sista - Remix / From \"Queen & Slim: The Soundtrack\""
+    },
+    {
+      "artists": "Bilal, Mos Def, Common",
+      "explicit": true,
+      "name": "Reminisce"
+    },
+    {
+      "artists": "Bilal, Jadakiss, Dr. Dre",
+      "name": "Fast Lane - Remix"
+    },
+    {
+      "artists": "Bilal",
+      "explicit": true,
+      "name": "Sometimes"
+    },
+    {
+      "artists": "Denzel Curry, Bilal",
+      "name": "Didn't Cha Know - Live At Electric Lady"
+    },
+    {
+      "artists": "Beyoncé, Bilal",
+      "name": "Everything I Do"
+    },
+    {
+      "artists": "Son Lux, Bilal",
+      "name": "Now I’m Listening"
+    },
+    {
+      "artists": "Miles Davis, Robert Glasper, Bilal",
+      "name": "Ghetto Walkin'"
+    },
+    {
+      "artists": "Nao Yoshioka, Bilal",
+      "name": "Shadow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+}

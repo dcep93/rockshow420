@@ -1,0 +1,28 @@
+{
+  "artist": "Yaeji",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Yaeji",
+      "name": "Raingurl"
+    },
+    {
+      "artists": "Yaeji",
+      "name": "Passionfruit"
+    },
+    {
+      "artists": "Yaeji",
+      "name": "booboo"
+    },
+    {
+      "artists": "Yaeji",
+      "name": "For Granted"
+    },
+    {
+      "artists": "Yaeji, underscores, Aliyah's Interlude",
+      "explicit": true,
+      "name": "booboo2"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2RqrWplViWHSGLzlhmDcbt"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Amen Dunes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Amen Dunes",
+      "name": "Blue Rose"
+    },
+    {
+      "artists": "Amen Dunes",
+      "name": "Miki Dora"
+    },
+    {
+      "artists": "Amen Dunes",
+      "name": "Song to the Siren"
+    },
+    {
+      "artists": "Amen Dunes",
+      "name": "Believe"
+    },
+    {
+      "artists": "Amen Dunes",
+      "name": "Lonely Richard"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1jwOuEBcOKq0BeudSarbEM"
+}

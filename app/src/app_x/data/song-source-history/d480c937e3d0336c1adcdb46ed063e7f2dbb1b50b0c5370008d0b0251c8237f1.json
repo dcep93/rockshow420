@@ -1,0 +1,32 @@
+{
+  "artist": "Audrey Hobert",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Audrey Hobert",
+      "explicit": true,
+      "name": "Sue me"
+    },
+    {
+      "artists": "Audrey Hobert",
+      "explicit": true,
+      "name": "Silver Jubilee"
+    },
+    {
+      "artists": "Audrey Hobert",
+      "explicit": true,
+      "name": "Phoebe"
+    },
+    {
+      "artists": "Audrey Hobert",
+      "explicit": true,
+      "name": "Bowling alley"
+    },
+    {
+      "artists": "Audrey Hobert",
+      "explicit": true,
+      "name": "Shooting star"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4N0TAwz9vhnQtjCqS65aKS"
+}

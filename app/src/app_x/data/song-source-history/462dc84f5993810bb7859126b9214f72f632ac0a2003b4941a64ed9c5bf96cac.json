@@ -1,0 +1,49 @@
+{
+  "artist": "Coheed and Cambria",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Coheed and Cambria",
+      "explicit": true,
+      "name": "Welcome Home"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "A Favor House Atlantic"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "The Suffering"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "Blood Red Summer"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "The Liars Club"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "In Keeping Secrets of Silent Earth: 3"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "Searching for Tomorrow"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "Ten Speed (Of God's Blood & Burial)"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "explicit": true,
+      "name": "Wake Up"
+    },
+    {
+      "artists": "Coheed and Cambria",
+      "name": "Here to Mars"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3utxjLheHaVEd9bPjQRsy8"
+}

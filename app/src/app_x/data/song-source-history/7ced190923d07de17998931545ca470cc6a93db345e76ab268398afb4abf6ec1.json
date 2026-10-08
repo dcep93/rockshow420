@@ -1,0 +1,32 @@
+{
+  "artist": "Lil Yachty",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Nemzzz, Lil Yachty",
+      "explicit": true,
+      "name": "GEEKIN (feat. Lil Yachty)"
+    },
+    {
+      "artists": "Lil Yachty, Diana Gordon",
+      "explicit": true,
+      "name": "drive ME crazy!"
+    },
+    {
+      "artists": "DRAM, Lil Yachty",
+      "explicit": true,
+      "name": "Broccoli (feat. Lil Yachty)"
+    },
+    {
+      "artists": "Lil Yachty, Future, Playboi Carti",
+      "explicit": true,
+      "name": "Flex Up (feat. Future & Playboi Carti)"
+    },
+    {
+      "artists": "Lil Yachty, Future, Mike WiLL Made-It",
+      "explicit": true,
+      "name": "Pardon Me (Lil Yachty feat. Future & Mike WiLL Made-It)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6icQOAFXDZKsumw3YXyusw"
+}

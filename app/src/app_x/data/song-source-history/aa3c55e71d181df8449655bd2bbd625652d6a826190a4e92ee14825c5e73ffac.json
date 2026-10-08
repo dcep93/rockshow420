@@ -1,0 +1,50 @@
+{
+  "artist": "The Script",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Script",
+      "name": "The Man Who Can't Be Moved"
+    },
+    {
+      "artists": "The Script, will.i.am",
+      "name": "Hall of Fame (feat. will.i.am)"
+    },
+    {
+      "artists": "The Script",
+      "name": "Breakeven"
+    },
+    {
+      "artists": "The Script",
+      "name": "Superheroes"
+    },
+    {
+      "artists": "The Script",
+      "explicit": true,
+      "name": "For the First Time"
+    },
+    {
+      "artists": "The Script",
+      "explicit": true,
+      "name": "If You Could See Me Now"
+    },
+    {
+      "artists": "The Script",
+      "name": "Nothing"
+    },
+    {
+      "artists": "The Script",
+      "name": "If You Ever Come Back"
+    },
+    {
+      "artists": "The Script",
+      "explicit": true,
+      "name": "Six Degrees of Separation"
+    },
+    {
+      "artists": "The Script",
+      "name": "Man in the Arena"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3AQRLZ9PuTAozP28Skbq8V"
+}

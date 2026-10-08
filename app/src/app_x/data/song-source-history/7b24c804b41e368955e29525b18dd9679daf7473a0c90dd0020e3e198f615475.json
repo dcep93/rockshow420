@@ -1,0 +1,47 @@
+{
+  "artist": "Lucky Chops",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lucky Chops",
+      "name": "Funkytown / I Feel Good"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Full Heart Fancy"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Coco - Live"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Hello"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Buyo"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "I Want You Back"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Mo' Momo!"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Problem"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Pizza Day"
+    },
+    {
+      "artists": "Lucky Chops",
+      "name": "Helter Skelter"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2b6gc4EVpO6OTlDvKrK852"
+}

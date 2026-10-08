@@ -1,0 +1,29 @@
+{
+  "artist": "Mariah the Scientist",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mariah the Scientist",
+      "name": "Burning Blue"
+    },
+    {
+      "artists": "Mariah the Scientist, Kali Uchis",
+      "explicit": true,
+      "name": "Is It a Crime"
+    },
+    {
+      "artists": "Mariah the Scientist",
+      "name": "Spread Thin"
+    },
+    {
+      "artists": "Mariah the Scientist, Lil Baby",
+      "explicit": true,
+      "name": "Always n Forever (feat. Lil Baby)"
+    },
+    {
+      "artists": "Mariah the Scientist",
+      "name": "All For Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7HO5fOXE4gh3lzZn64tX2E"
+}

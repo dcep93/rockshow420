@@ -1,0 +1,47 @@
+{
+  "artist": "Lynyrd Skynyrd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Sweet Home Alabama"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Simple Man"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Free Bird"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Tuesday's Gone"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "I Need You"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Gimme Three Steps"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "That Smell"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "Call Me The Breeze"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "The Ballad Of Curtis Loew"
+    },
+    {
+      "artists": "Lynyrd Skynyrd",
+      "name": "On The Hunt"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4MVyzYMgTwdP7Z49wAZHx0"
+}

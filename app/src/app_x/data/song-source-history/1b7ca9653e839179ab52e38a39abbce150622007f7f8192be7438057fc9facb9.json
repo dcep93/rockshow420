@@ -1,0 +1,29 @@
+{
+  "artist": "Z-Trip",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Joey Valence & Brae, Z-Trip",
+      "name": "NO HANDS (feat. Z-Trip)"
+    },
+    {
+      "artists": "Little Stranger, Z-Trip",
+      "name": "Your Favorite Guy"
+    },
+    {
+      "artists": "The Jackson 5, Z-Trip",
+      "name": "I Want You Back - Z-Trip Remix"
+    },
+    {
+      "artists": "Z-Trip, Dead Prez, Deftones",
+      "explicit": true,
+      "name": "Locked and Loaded"
+    },
+    {
+      "artists": "Z-Trip",
+      "explicit": true,
+      "name": "Breakfast Club"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0YUefH6Li1IsJBtlUWgtwc"
+}

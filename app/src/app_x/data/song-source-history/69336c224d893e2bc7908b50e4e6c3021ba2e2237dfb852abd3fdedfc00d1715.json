@@ -1,0 +1,29 @@
+{
+  "artist": "Model/Actriz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Miley Cyrus, Model/Actriz",
+      "name": "Different Religion (feat. Model/Actriz)"
+    },
+    {
+      "artists": "Miley Cyrus, Model/Actriz",
+      "name": "Bass Persuades Remixx"
+    },
+    {
+      "artists": "Model/Actriz",
+      "explicit": true,
+      "name": "Diva"
+    },
+    {
+      "artists": "Model/Actriz",
+      "name": "Cinderella"
+    },
+    {
+      "artists": "Model/Actriz",
+      "explicit": true,
+      "name": "Vespers"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7gdb1IQFHFQqCc5KoLTYNC"
+}

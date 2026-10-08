@@ -1,0 +1,28 @@
+{
+  "artist": "Lisasinson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lisasinson",
+      "explicit": true,
+      "name": "Barakaldo"
+    },
+    {
+      "artists": "Lisasinson",
+      "name": "Atasco"
+    },
+    {
+      "artists": "Lisasinson",
+      "name": "Se Me Ha Muerto Una Flor"
+    },
+    {
+      "artists": "interrogación amor, Lisasinson",
+      "name": "tú y yo"
+    },
+    {
+      "artists": "Lisasinson",
+      "name": "Volverte A Enamorar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0bvq2O2MrIINNOJTVuqQ32"
+}

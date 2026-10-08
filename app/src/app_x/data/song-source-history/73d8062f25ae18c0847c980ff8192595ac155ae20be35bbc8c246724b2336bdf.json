@@ -1,0 +1,29 @@
+{
+  "artist": "Ashe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ashe",
+      "name": "Stop The Wedding!"
+    },
+    {
+      "artists": "Ashe",
+      "explicit": true,
+      "name": "Moral of the Story"
+    },
+    {
+      "artists": "Ashe, FINNEAS",
+      "explicit": true,
+      "name": "Till Forever Falls Apart"
+    },
+    {
+      "artists": "Ashe",
+      "name": "Funeral"
+    },
+    {
+      "artists": "The Favors, FINNEAS, Ashe",
+      "name": "The Little Mess You Made"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6P5NO5hzJbuOqSdyPB7SJM"
+}

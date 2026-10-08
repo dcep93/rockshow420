@@ -1,0 +1,31 @@
+{
+  "artist": "N.E.R.D",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "N.E.R.D",
+      "explicit": true,
+      "name": "Bobby James"
+    },
+    {
+      "artists": "N.E.R.D",
+      "explicit": true,
+      "name": "You Know What"
+    },
+    {
+      "artists": "N.E.R.D, Rihanna, Pharrell Williams",
+      "explicit": true,
+      "name": "Lemon"
+    },
+    {
+      "artists": "N.E.R.D",
+      "name": "Run To The Sun"
+    },
+    {
+      "artists": "N.E.R.D, Vita, Lee Harvey",
+      "explicit": true,
+      "name": "Lapdance"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5wPoxI5si3eJsYYwyXV4Wi"
+}

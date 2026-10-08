@@ -1,0 +1,30 @@
+{
+  "artist": "EARTHGANG",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dreamville, EARTHGANG, J. Cole, Smino, Saba",
+      "explicit": true,
+      "name": "Sacrifices (with EARTHGANG & J. Cole feat. Smino & Saba)"
+    },
+    {
+      "artists": "Young Franco, EARTHGANG, Jafunk",
+      "explicit": true,
+      "name": "Lose Control"
+    },
+    {
+      "artists": "Tiana Major9, EARTHGANG, Johnny Venus",
+      "name": "Collide - From \"Queen & Slim: The Soundtrack\""
+    },
+    {
+      "artists": "EARTHGANG, Benji.",
+      "name": "Swing - From \"Marvel's Spider-Man 2\""
+    },
+    {
+      "artists": "JID, Ciara, EARTHGANG",
+      "explicit": true,
+      "name": "Sk8 (with Ciara & EARTHGANG)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5MbNzCW3qokGyoo9giHA3V"
+}

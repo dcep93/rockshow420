@@ -1,0 +1,47 @@
+{
+  "artist": "Simple Plan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Simple Plan",
+      "name": "I'm Just a Kid"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "Welcome to My Life"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "Perfect"
+    },
+    {
+      "artists": "Simple Plan, Natasha Bedingfield",
+      "name": "Jet Lag (feat. Natasha Bedingfield)"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "I'd Do Anything"
+    },
+    {
+      "artists": "Simple Plan, Sean Paul",
+      "name": "Summer Paradise (feat. Sean Paul) - Single Version"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "What's New Scooby-Doo?"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "Addicted"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "Shut Up!"
+    },
+    {
+      "artists": "Simple Plan",
+      "name": "Untitled (How Could This Happen to Me?)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2p4FqHnazRucYQHyDCdBrJ"
+}

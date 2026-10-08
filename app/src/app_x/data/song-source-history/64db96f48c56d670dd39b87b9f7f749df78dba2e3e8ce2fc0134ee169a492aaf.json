@@ -1,0 +1,19 @@
+{
+  "artist": "POOLSIDE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "POOLSIDE",
+      "name": "Sundown - Club Dub"
+    },
+    {
+      "artists": "POOLSIDE",
+      "name": "Around You"
+    },
+    {
+      "artists": "POOLSIDE",
+      "name": "Sundown - Extralong Extended Vocal"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5mQqd4OFcSO9mLlIa8m0Nq"
+}

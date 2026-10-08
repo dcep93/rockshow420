@@ -1,0 +1,28 @@
+{
+  "artist": "The Armed",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Armed, Homeschool Dropouts",
+      "name": "Night City Aliens"
+    },
+    {
+      "artists": "The Armed",
+      "name": "AN ITERATION"
+    },
+    {
+      "artists": "The Armed",
+      "name": "Sharp Teeth"
+    },
+    {
+      "artists": "The Armed",
+      "explicit": true,
+      "name": "ALL FUTURES"
+    },
+    {
+      "artists": "The Armed",
+      "name": "Fortune's Daughter"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4V5obzWMr7BHZrjOiQwB4K"
+}

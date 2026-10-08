@@ -1,0 +1,27 @@
+{
+  "artist": "NewJeans",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NewJeans",
+      "name": "Ditto"
+    },
+    {
+      "artists": "NewJeans",
+      "name": "Super Shy"
+    },
+    {
+      "artists": "NewJeans",
+      "name": "New Jeans"
+    },
+    {
+      "artists": "NewJeans",
+      "name": "OMG"
+    },
+    {
+      "artists": "NewJeans",
+      "name": "Hype Boy"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6HvZYsbFfjnjFrWF950C9d"
+}

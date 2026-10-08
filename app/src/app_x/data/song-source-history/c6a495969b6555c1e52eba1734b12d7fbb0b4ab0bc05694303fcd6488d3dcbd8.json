@@ -1,0 +1,28 @@
+{
+  "artist": "Lucy Dacus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lucy Dacus",
+      "explicit": true,
+      "name": "Night Shift"
+    },
+    {
+      "artists": "Lucy Dacus",
+      "name": "No Thank You, I Love You, Goodbye"
+    },
+    {
+      "artists": "Lucy Dacus, Hozier",
+      "name": "Bullseye (with Hozier)"
+    },
+    {
+      "artists": "Lucy Dacus",
+      "name": "Ankles"
+    },
+    {
+      "artists": "Lucy Dacus",
+      "name": "Best Guess"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/07D1Bjaof0NFlU32KXiqUP"
+}

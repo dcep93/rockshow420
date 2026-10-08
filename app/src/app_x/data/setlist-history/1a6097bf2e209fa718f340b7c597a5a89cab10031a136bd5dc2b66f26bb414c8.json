@@ -1,0 +1,68 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: With Nate Werth on percussion",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Forever Feel"
+        },
+        {
+          "name": "Karma"
+        },
+        {
+          "name": "Endorphins"
+        },
+        {
+          "name": "Laurelwood"
+        },
+        {
+          "name": "Take Me Out",
+          "notes": "(Franz Ferdinand cover)"
+        },
+        {
+          "name": "Little Bit",
+          "notes": "(With drum/percussion duet intro)"
+        },
+        {
+          "name": "Dr. Funk"
+        },
+        {
+          "name": "Acid Blues"
+        },
+        {
+          "name": "It’s No Wonder"
+        },
+        {
+          "name": "Wildest Dreams"
+        },
+        {
+          "name": "Return of the Mack",
+          "notes": "(Mark Morrison cover) (with Antwaun Stanley)"
+        },
+        {
+          "name": "I'll Take Another",
+          "notes": "(First half only)"
+        },
+        {
+          "name": "Descent"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Man in the Mirror",
+          "notes": "(Michael Jackson cover) (with Antwaun Stanley)"
+        },
+        {
+          "name": "Fire",
+          "notes": "(The Jimi Hendrix Experience cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-main-squeeze/2025/irving-plaza-new-york-ny-358f5f3.html"
+}

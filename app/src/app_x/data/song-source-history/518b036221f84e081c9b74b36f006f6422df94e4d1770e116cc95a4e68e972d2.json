@@ -1,0 +1,27 @@
+{
+  "artist": "Dogpark",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dogpark",
+      "name": "September"
+    },
+    {
+      "artists": "Dogpark",
+      "name": "Dreamwalker"
+    },
+    {
+      "artists": "Dogpark",
+      "name": "Caviar"
+    },
+    {
+      "artists": "Dogpark",
+      "name": "Don’t Lie"
+    },
+    {
+      "artists": "Dogpark",
+      "name": "Breaking In Brooklyn"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2VlmDb05CPERyCZfmZI3x7"
+}

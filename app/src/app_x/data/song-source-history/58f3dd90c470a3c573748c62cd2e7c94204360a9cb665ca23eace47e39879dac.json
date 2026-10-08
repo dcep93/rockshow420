@@ -1,0 +1,28 @@
+{
+  "artist": "Rema",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rema, Selena Gomez",
+      "name": "Calm Down (with Selena Gomez)"
+    },
+    {
+      "artists": "Don Toliver, Rema",
+      "explicit": true,
+      "name": "Secondhand (feat. Rema)"
+    },
+    {
+      "artists": "Rema",
+      "name": "Oh No"
+    },
+    {
+      "artists": "Rema",
+      "name": "Calm Down"
+    },
+    {
+      "artists": "Rema",
+      "name": "TEA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/46pWGuE3dSwY3bMMXGBvVS"
+}

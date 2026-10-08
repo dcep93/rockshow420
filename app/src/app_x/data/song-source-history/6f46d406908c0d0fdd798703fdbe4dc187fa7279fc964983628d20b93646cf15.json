@@ -1,0 +1,32 @@
+{
+  "artist": "Arab Strap",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arab Strap",
+      "explicit": true,
+      "name": "You You You"
+    },
+    {
+      "artists": "Arab Strap",
+      "explicit": true,
+      "name": "I Get Noise"
+    },
+    {
+      "artists": "Arab Strap",
+      "explicit": true,
+      "name": "Be a Man"
+    },
+    {
+      "artists": "Arab Strap",
+      "explicit": true,
+      "name": "The Turning of Our Bones"
+    },
+    {
+      "artists": "Arab Strap",
+      "explicit": true,
+      "name": "Glamour Magick"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6g8Jqb5JMfv92eB2r0awTN"
+}

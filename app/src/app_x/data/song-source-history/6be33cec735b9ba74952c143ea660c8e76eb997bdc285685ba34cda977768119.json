@@ -1,0 +1,31 @@
+{
+  "artist": "Teezo Touchdown",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tyler, The Creator, Teezo Touchdown",
+      "explicit": true,
+      "name": "Darling, I (feat. Teezo Touchdown)"
+    },
+    {
+      "artists": "CORTIS, Teezo Touchdown",
+      "name": "What You Want (feat. Teezo Touchdown)"
+    },
+    {
+      "artists": "Don Toliver, Teezo Touchdown",
+      "explicit": true,
+      "name": "All The Signs (feat. Teezo Touchdown)"
+    },
+    {
+      "artists": "Don Toliver, Teezo Touchdown",
+      "explicit": true,
+      "name": "BACKSTREETS (FEAT. TEEZO TOUCHDOWN)"
+    },
+    {
+      "artists": "Travis Scott, Teezo Touchdown",
+      "explicit": true,
+      "name": "MODERN JAM (feat. Teezo Touchdown)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0fGcIStdT1OpFFhOC7Wp36"
+}

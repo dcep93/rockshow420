@@ -4,26 +4,38 @@ function value(input) {
   if (Array.isArray(input)) return { arrayValue: { values: input.map(value) } };
   if (typeof input === "boolean") return { booleanValue: input };
   if (input instanceof Date) return { timestampValue: input.toISOString() };
+  if (input === null) return { nullValue: null };
+  if (typeof input === "number") return { integerValue: String(input) };
+  if (typeof input === "object") return { mapValue: { fields: Object.fromEntries(Object.entries(input).map(([key, item]) => [key, value(item)])) } };
   return { stringValue: String(input) };
 }
+const tableNames = ["venues", "artists", "concerts", "schedules", "users", "user_concerts"];
+const field = id => "records.`" + id.replaceAll("\\", "\\\\").replaceAll("`", "\\`") + "`";
 export async function put(path, data) {
-  const response = await fetch(`${base}/${path}`, {
-    method: "PATCH",
-    headers: { Authorization: "Bearer owner", "Content-Type": "application/json" },
-    body: JSON.stringify({
-      fields: Object.fromEntries(Object.entries(data).map(([key, item]) => [key, value(item)])),
-    }),
+  const [name, id] = path.split("/");
+  const table = tableNames.includes(name);
+  const mask = table ? new URLSearchParams([["updateMask.fieldPaths", field(id)], ["updateMask.fieldPaths", "schema_version"]]) : "";
+  const target = table ? `tables/${name}?${mask}` : path;
+  const body = table ? { schema_version: 1, records: { [id]: data } } : data;
+  const response = await fetch(`${base}/${target}`, {
+    method: "PATCH", headers: { Authorization: "Bearer owner", "Content-Type": "application/json" },
+    body: JSON.stringify({ fields: Object.fromEntries(Object.entries(body).map(([key, item]) => [key, value(item)])) }),
   });
   if (!response.ok) throw new Error(await response.text());
 }
 export async function remove(path) {
-  const response = await fetch(`${base}/${path}`, {
-    method: "DELETE",
-    headers: { Authorization: "Bearer owner" },
+  const [name, id] = path.split("/");
+  const table = tableNames.includes(name);
+  const target = table ? `tables/${name}?${new URLSearchParams([["updateMask.fieldPaths", field(id)]])}` : path;
+  const response = await fetch(`${base}/${target}`, {
+    method: table ? "PATCH" : "DELETE", headers: { Authorization: "Bearer owner", "Content-Type": "application/json" },
+    ...(table ? { body: JSON.stringify({ fields: {} }) } : {}),
   });
   if (!response.ok) throw new Error(await response.text());
 }
 export async function seed() {
+  const response = await fetch(`${base}/tables/schedules`, { method: "PATCH", headers: { Authorization: "Bearer owner", "Content-Type": "application/json" }, body: JSON.stringify({ fields: { schema_version: value(1), records: value({}) } }) });
+  if (!response.ok) throw new Error(await response.text());
   const entries = {
     "artists/radiohead": { name: "Radiohead" },
     "artists/national": { name: "The National" },
@@ -65,7 +77,6 @@ export async function seed() {
       artist_id: "slowdive",
       supporting_artist_ids: [],
     },
-    "festivals/f1": { name: "A Weekend Outside", concert_ids: ["c1", "c4"] },
     "users/dcep93": { user_id: "admin-seed", username: "dcep93" },
     "users/alice": { user_id: "alice-seed", username: "alice" },
     "user_concerts/admin-seed_c1": {

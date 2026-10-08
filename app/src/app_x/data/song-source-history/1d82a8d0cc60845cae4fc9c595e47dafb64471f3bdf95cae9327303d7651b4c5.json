@@ -1,0 +1,28 @@
+{
+  "artist": "Mochakk",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mochakk, Joni",
+      "name": "Da Fonk (feat. Joni)"
+    },
+    {
+      "artists": "Mochakk",
+      "name": "Jealous"
+    },
+    {
+      "artists": "Mochakk",
+      "name": "False Need"
+    },
+    {
+      "artists": "The Martinez Brothers, Gordo, Mochakk, Rema",
+      "explicit": true,
+      "name": "Rizzla - Mochakk Remix"
+    },
+    {
+      "artists": "Nina Simone, Mochakk",
+      "name": "See-Line Woman - Mochakk Mix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0rTh1tAdrEbdKZBTiiAQSo"
+}

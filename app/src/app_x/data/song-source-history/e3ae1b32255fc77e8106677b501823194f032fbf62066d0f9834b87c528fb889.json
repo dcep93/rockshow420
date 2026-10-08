@@ -1,0 +1,27 @@
+{
+  "artist": "Jack White",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jack White",
+      "name": "G.O.D. And The Broken Ribs"
+    },
+    {
+      "artists": "Jack White, Alicia Keys",
+      "name": "Another Way to Die"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Lazaretto"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Archbishop Harold Holmes"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Love Is Blindness"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4FZ3j1oH43e7cukCALsCwf"
+}

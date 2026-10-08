@@ -1,0 +1,27 @@
+{
+  "artist": "it's murph",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RSCL, it's murph, Twin Diplomacy, Jack August",
+      "name": "Lost"
+    },
+    {
+      "artists": "it's murph",
+      "name": "Food for the Soul"
+    },
+    {
+      "artists": "it's murph, Evalyn",
+      "name": "High and I Like it"
+    },
+    {
+      "artists": "it's murph, YDG",
+      "name": "Down Low - YDG Remix"
+    },
+    {
+      "artists": "it's murph, Emi Grace",
+      "name": "Stone Cold Eyes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3zW0xazqnHoq9QV9zBROVC"
+}

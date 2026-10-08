@@ -1,0 +1,27 @@
+{
+  "artist": "Monophonics",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Monophonics, Kelly Finnigan",
+      "name": "Sage Motel"
+    },
+    {
+      "artists": "Monophonics, Kelly Finnigan",
+      "name": "It's Only Us"
+    },
+    {
+      "artists": "Monophonics, Kelly Finnigan",
+      "name": "Last One Standing"
+    },
+    {
+      "artists": "Monophonics",
+      "name": "La La La Love Me"
+    },
+    {
+      "artists": "Monophonics",
+      "name": "Hanging On"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6LXZac7iBIZgnNrywTkQRw"
+}

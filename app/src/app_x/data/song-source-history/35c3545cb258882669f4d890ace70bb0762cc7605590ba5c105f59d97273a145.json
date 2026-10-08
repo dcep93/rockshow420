@@ -1,0 +1,29 @@
+{
+  "artist": "JESSIA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JESSIA",
+      "explicit": true,
+      "name": "I'm not Pretty"
+    },
+    {
+      "artists": "JESSIA",
+      "name": "Care About Me"
+    },
+    {
+      "artists": "JESSIA",
+      "name": "He's A 10"
+    },
+    {
+      "artists": "JESSIA",
+      "name": "Different People"
+    },
+    {
+      "artists": "JESSIA",
+      "explicit": true,
+      "name": "Next Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6DdbeAeBlrYj8bNToZv4TY"
+}

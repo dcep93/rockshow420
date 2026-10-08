@@ -1,0 +1,30 @@
+{
+  "artist": "Riot Ten",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Riot Ten, Rico Act",
+      "explicit": true,
+      "name": "Rail Breaker (feat. Rico Act)"
+    },
+    {
+      "artists": "Riot Ten, AlienPark, $teven Cannon",
+      "explicit": true,
+      "name": "NOISE COMPLAINT"
+    },
+    {
+      "artists": "Seven Lions, Andrew Bayer, Oaks, Riot Ten",
+      "name": "Hurricane - Riot Ten Remix"
+    },
+    {
+      "artists": "Riot Ten, SubDocta, JV Rhymes",
+      "explicit": true,
+      "name": "Bussin Bussin (feat. JV Rhymes)"
+    },
+    {
+      "artists": "Deorro, Riot Ten, J. Cruze",
+      "name": "2 Da Floor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Zxy5LwBatI5kw4uponwHQ"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "The Revivalists",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Revivalists",
+      "name": "Wish I Knew You"
+    },
+    {
+      "artists": "The Revivalists",
+      "name": "Soulfight"
+    },
+    {
+      "artists": "The Revivalists, Portugal. The Man",
+      "name": "It Was A Sin [Feat. Portugal. The Man]"
+    },
+    {
+      "artists": "The Revivalists",
+      "name": "Otherside Of Paradise"
+    },
+    {
+      "artists": "The Revivalists",
+      "name": "Heart Stop"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5kuJibJcwOC53s3OkoGMRA"
+}

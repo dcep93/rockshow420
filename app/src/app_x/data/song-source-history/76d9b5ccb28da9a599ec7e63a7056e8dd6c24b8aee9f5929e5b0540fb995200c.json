@@ -1,0 +1,28 @@
+{
+  "artist": "The Rose",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Rose",
+      "explicit": true,
+      "name": "Back To Me"
+    },
+    {
+      "artists": "The Rose",
+      "name": "sorry"
+    },
+    {
+      "artists": "The Rose",
+      "name": "CHEMICAL"
+    },
+    {
+      "artists": "The Rose",
+      "name": "Walking On Clouds"
+    },
+    {
+      "artists": "The Rose",
+      "name": "She′s In The Rain"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5na1LmEmK2VzNLje9snJYW"
+}

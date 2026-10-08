@@ -1,0 +1,28 @@
+{
+  "artist": "Big Gigantic",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Big Gigantic, Logic, ROZES",
+      "explicit": true,
+      "name": "All of Me (feat. Logic, ROZES)"
+    },
+    {
+      "artists": "Big Gigantic, Kasbo, Angela McCluskey",
+      "name": "The Little Things (feat. Angela McCluskey) - Kasbo Remix"
+    },
+    {
+      "artists": "GRiZ, Big Gigantic",
+      "name": "Good Times Roll"
+    },
+    {
+      "artists": "Wooli, Trivecta, Sam Adams, Big Gigantic",
+      "name": "Play It"
+    },
+    {
+      "artists": "Big Gigantic, AVELLO",
+      "name": "Psychedelic Symphony"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7o7mC95EDbJKTcPAAs8C3r"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Holly Humberstone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Holly Humberstone",
+      "explicit": true,
+      "name": "To Love Somebody"
+    },
+    {
+      "artists": "Holly Humberstone",
+      "name": "White Noise"
+    },
+    {
+      "artists": "Holly Humberstone",
+      "name": "Too Cute To Be Lonely"
+    },
+    {
+      "artists": "Holly Humberstone",
+      "name": "Cruel World"
+    },
+    {
+      "artists": "Holly Humberstone",
+      "name": "Falling Asleep At The Wheel"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0nnYdIpahs41QiZ9MWp5Wx"
+}

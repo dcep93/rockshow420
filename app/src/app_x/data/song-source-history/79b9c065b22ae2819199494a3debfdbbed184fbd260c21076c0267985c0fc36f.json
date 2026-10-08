@@ -1,0 +1,30 @@
+{
+  "artist": "kwn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "kwn",
+      "explicit": true,
+      "name": "good girl"
+    },
+    {
+      "artists": "kwn",
+      "explicit": true,
+      "name": "risk it all"
+    },
+    {
+      "artists": "kwn, Kehlani",
+      "explicit": true,
+      "name": "worst behaviour (feat. Kehlani)"
+    },
+    {
+      "artists": "kwn",
+      "name": "back of the club"
+    },
+    {
+      "artists": "kwn",
+      "name": "touch myself"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2KnhnL8zuqLhIhGk601fsb"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "The New York Pops",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The New York Pops",
+      "name": "Parade Of The Wooden Soldiers"
+    },
+    {
+      "artists": "Skitch Henderson, The New York Pops",
+      "name": "Title Theme (From \"The Phantom of the Opera\")"
+    },
+    {
+      "artists": "Michael Maguire, Skitch Henderson, The New York Pops",
+      "name": "Maria (From \"West Side Story\")"
+    },
+    {
+      "artists": "Michael Maguire, Skitch Henderson, The New York Pops",
+      "name": "The Music of the Night (From \"The Phantom of the Opera\")"
+    },
+    {
+      "artists": "Michael Maguire, Skitch Henderson, The New York Pops",
+      "name": "Bring Him Home (From \"Les Misérables\")"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/675mxFTZsBY5xQDHmRWHNc"
+}

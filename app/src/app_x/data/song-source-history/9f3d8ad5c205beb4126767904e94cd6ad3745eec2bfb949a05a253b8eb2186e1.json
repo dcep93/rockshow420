@@ -1,0 +1,32 @@
+{
+  "artist": "Young Miko",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Young Miko, Clarent",
+      "explicit": true,
+      "name": "BnB"
+    },
+    {
+      "artists": "Feid, Young Miko",
+      "explicit": true,
+      "name": "CLASSY 101"
+    },
+    {
+      "artists": "Young Miko",
+      "explicit": true,
+      "name": "WASSUP"
+    },
+    {
+      "artists": "Young Miko",
+      "explicit": true,
+      "name": "BIAF <3"
+    },
+    {
+      "artists": "Bad Bunny, Young Miko",
+      "explicit": true,
+      "name": "FINA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3qsKSpcV3ncke3hw52JSMB"
+}

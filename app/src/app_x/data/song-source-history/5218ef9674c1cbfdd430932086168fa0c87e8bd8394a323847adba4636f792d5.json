@@ -1,0 +1,28 @@
+{
+  "artist": "Wednesday",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wednesday",
+      "name": "Elderberry Wine"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "June 2 - Early Version"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Townies"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Wound Up Here (By Holdin On)"
+    },
+    {
+      "artists": "Wednesday",
+      "explicit": true,
+      "name": "Women Without Whiskey (Drive-By Truckers)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4j7DrazfBZLLD0OrVoAtEe"
+}

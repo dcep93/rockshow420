@@ -1,0 +1,27 @@
+{
+  "artist": "Justice",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Justice, Tame Impala",
+      "name": "Neverender"
+    },
+    {
+      "artists": "The Weeknd, Justice",
+      "name": "Wake Me Up (feat. Justice)"
+    },
+    {
+      "artists": "Angèle, Justice",
+      "name": "What You Want"
+    },
+    {
+      "artists": "Justice",
+      "name": "D.A.N.C.E."
+    },
+    {
+      "artists": "Justice, Tame Impala",
+      "name": "One Night/All Night"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1gR0gsQYfi6joyO1dlp76N"
+}

@@ -1,0 +1,39 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "A Believable Boy"
+        },
+        {
+          "name": "Nara"
+        },
+        {
+          "name": "Honey Understand"
+        },
+        {
+          "name": "Feeling Like a Woman Lately"
+        },
+        {
+          "name": "I Feel You"
+        },
+        {
+          "name": "Sugar"
+        },
+        {
+          "name": "Suburbia"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "David"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/noso/2025/cafe-du-nord-san-francisco-ca-34f351f.html"
+}

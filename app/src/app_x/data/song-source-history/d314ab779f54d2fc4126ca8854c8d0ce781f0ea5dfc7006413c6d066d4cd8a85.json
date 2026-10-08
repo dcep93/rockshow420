@@ -1,0 +1,27 @@
+{
+  "artist": "ILLENIUM",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ILLENIUM, Teddy Swims",
+      "name": "All That Really Matters"
+    },
+    {
+      "artists": "Marshmello, ILLENIUM, SACHA",
+      "name": "Close My Eyes (feat. SACHA)"
+    },
+    {
+      "artists": "The Chainsmokers, ILLENIUM, Lennon Stella",
+      "name": "Takeaway"
+    },
+    {
+      "artists": "ILLENIUM, Jon Bellion",
+      "name": "Good Things Fall Apart (with Jon Bellion)"
+    },
+    {
+      "artists": "Gryffin, ILLENIUM, Daya",
+      "name": "Feel Good (with Daya)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/45eNHdiiabvmbp4erw26rg"
+}

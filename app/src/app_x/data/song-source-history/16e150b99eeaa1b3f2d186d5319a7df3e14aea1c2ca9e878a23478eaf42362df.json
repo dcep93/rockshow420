@@ -1,0 +1,28 @@
+{
+  "artist": "The Blessed Madonna",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fred again.., The Blessed Madonna",
+      "name": "Marea (we’ve lost dancing)"
+    },
+    {
+      "artists": "The Blessed Madonna, Clementine Douglas",
+      "name": "Happier (feat. Clementine Douglas)"
+    },
+    {
+      "artists": "The Blessed Madonna, Uffie",
+      "explicit": true,
+      "name": "Serotonin Moonbeams"
+    },
+    {
+      "artists": "The Blessed Madonna, Jacob Lusk",
+      "name": "Mercy (feat. Jacob Lusk)"
+    },
+    {
+      "artists": "Dua Lipa, Madonna, Missy Elliott, The Blessed Madonna",
+      "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4TvhRzxIL1le2PWCeUqxQw"
+}

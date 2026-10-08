@@ -1,0 +1,29 @@
+{
+  "artist": "Linafornia",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Linafornia",
+      "name": "Wetttt"
+    },
+    {
+      "artists": "Linafornia, Jack Bastian",
+      "name": "Wussup"
+    },
+    {
+      "artists": "Linafornia, Devi Wonder",
+      "explicit": true,
+      "name": "Dot Wav"
+    },
+    {
+      "artists": "Linafornia",
+      "name": "Hi Shrimp"
+    },
+    {
+      "artists": "Linafornia",
+      "explicit": true,
+      "name": "GotchuallinCHECK!!!!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5laybiZu79BTKzGygMIjFT"
+}

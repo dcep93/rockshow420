@@ -1,0 +1,28 @@
+{
+  "artist": "Red Leather",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Red Leather",
+      "name": "LAST CALL"
+    },
+    {
+      "artists": "Red Leather",
+      "explicit": true,
+      "name": "SINS"
+    },
+    {
+      "artists": "Red Leather",
+      "name": "CAN'T GET HIGH"
+    },
+    {
+      "artists": "Red Leather",
+      "name": "BONNIE AND CLYDE"
+    },
+    {
+      "artists": "Red Leather, WesGhost, RedGhost",
+      "name": "FRIENDLYFIRE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qltFRTCjw1j67Da9FR8F1"
+}

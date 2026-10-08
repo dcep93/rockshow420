@@ -1,0 +1,32 @@
+{
+  "artist": "Skizzy Mars",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vice, Jasmine Thompson, Skizzy Mars",
+      "explicit": true,
+      "name": "Steady 1234 (feat. Jasmine Thompson & Skizzy Mars)"
+    },
+    {
+      "artists": "Skizzy Mars, Marc E. Bassy",
+      "explicit": true,
+      "name": "Leave Me (feat. Marc E. Bassy)"
+    },
+    {
+      "artists": "Skizzy Mars, Olivver the Kid, G-Eazy",
+      "explicit": true,
+      "name": "Time (feat. G-Eazy & Olivver the Kid)"
+    },
+    {
+      "artists": "Skizzy Mars",
+      "explicit": true,
+      "name": "Girl on a Train"
+    },
+    {
+      "artists": "Skizzy Mars, Marc E. Bassy",
+      "explicit": true,
+      "name": "Do You There (feat. Marc E. Bassy)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/00Z3UDoAQwzvGu13HoAM7J"
+}

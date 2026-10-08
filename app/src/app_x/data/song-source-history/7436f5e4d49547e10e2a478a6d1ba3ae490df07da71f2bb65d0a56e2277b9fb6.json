@@ -1,0 +1,27 @@
+{
+  "artist": "Jon Batiste",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lana Del Rey, Jon Batiste",
+      "name": "Candy Necklace (feat. Jon Batiste)"
+    },
+    {
+      "artists": "Jon Batiste",
+      "name": "FREEDOM"
+    },
+    {
+      "artists": "Jon Batiste",
+      "name": "Dusklight Movement"
+    },
+    {
+      "artists": "Jon Batiste",
+      "name": "I NEED YOU"
+    },
+    {
+      "artists": "James Bay, Jon Batiste",
+      "name": "Sunshine In The Room (feat. Jon Batiste)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0eRbECAGCLLiTyVXPBRexU"
+}

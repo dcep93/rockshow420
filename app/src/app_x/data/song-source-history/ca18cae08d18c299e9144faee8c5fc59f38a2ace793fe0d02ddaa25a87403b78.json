@@ -1,0 +1,27 @@
+{
+  "artist": "Tessa Violet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tessa Violet",
+      "name": "Crush"
+    },
+    {
+      "artists": "Tessa Violet",
+      "name": "YES MOM"
+    },
+    {
+      "artists": "Cavetown, Tessa Violet",
+      "name": "Smoke Signals (feat. Tessa Violet)"
+    },
+    {
+      "artists": "Tessa Violet",
+      "name": "Just Right"
+    },
+    {
+      "artists": "Tessa Violet",
+      "name": "Bad Ideas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5DD5GZd4ElmQTy9NleMvKJ"
+}

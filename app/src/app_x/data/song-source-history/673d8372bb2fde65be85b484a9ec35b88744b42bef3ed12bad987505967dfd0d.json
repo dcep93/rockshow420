@@ -1,0 +1,27 @@
+{
+  "artist": "Michael Franti & Spearhead",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Michael Franti & Spearhead, Cherine Anderson",
+      "name": "Say Hey (I Love You) (feat. Cherine Anderson)"
+    },
+    {
+      "artists": "Michael Franti & Spearhead",
+      "name": "The Sound Of Sunshine"
+    },
+    {
+      "artists": "Michael Franti & Spearhead",
+      "name": "Life Is Better With You"
+    },
+    {
+      "artists": "Michael Franti & Spearhead",
+      "name": "I Got You"
+    },
+    {
+      "artists": "Michael Franti & Spearhead",
+      "name": "I’m Alive (Life Sounds Like)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1mHuZMOP8FG5ip4yAb1vrB"
+}

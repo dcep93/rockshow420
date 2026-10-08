@@ -1,0 +1,86 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Flood",
+      "songs": [
+        {
+          "name": "Prayer Man"
+        },
+        {
+          "name": "Paranoid"
+        },
+        {
+          "name": "Fences"
+        },
+        {
+          "name": "Everything At Once"
+        },
+        {
+          "name": "Flood"
+        },
+        {
+          "name": "Corduroy"
+        },
+        {
+          "name": "Slipping Away"
+        },
+        {
+          "name": "Brand New"
+        },
+        {
+          "name": "Tooth Fairy"
+        },
+        {
+          "name": "Madman"
+        },
+        {
+          "name": "Forget It"
+        },
+        {
+          "name": "Closer"
+        },
+        {
+          "name": "I Got Time"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Yippie Ki Yay"
+        },
+        {
+          "name": "Deepfake"
+        },
+        {
+          "name": "Sex Tape"
+        },
+        {
+          "name": "Bang Bang"
+        },
+        {
+          "name": "Boys"
+        },
+        {
+          "name": "Buttercup"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "No Poms"
+        },
+        {
+          "name": "South"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hippo-campus/2024/bowery-ballroom-new-york-ny-13531d39.html"
+}

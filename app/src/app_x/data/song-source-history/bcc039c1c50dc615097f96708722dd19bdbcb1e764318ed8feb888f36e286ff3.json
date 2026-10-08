@@ -1,0 +1,27 @@
+{
+  "artist": "Madeline Edwards",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "C. James, Madeline Edwards",
+      "name": "Take Me Home"
+    },
+    {
+      "artists": "Madeline Edwards",
+      "name": "Hold My Horses"
+    },
+    {
+      "artists": "Madeline Edwards",
+      "name": "How Strong I Am"
+    },
+    {
+      "artists": "Madeline Edwards, Delaney Ramsdell",
+      "name": "Me, After"
+    },
+    {
+      "artists": "Madeline Edwards",
+      "name": "The Wolves"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3eJCIS7ytlYvT3pgReuWWa"
+}

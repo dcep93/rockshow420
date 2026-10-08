@@ -1,0 +1,28 @@
+{
+  "artist": "Bartees Strange",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bartees Strange",
+      "name": "Sober"
+    },
+    {
+      "artists": "Paramore, Bartees Strange",
+      "name": "Figure 8 (Re: Bartees Strange)"
+    },
+    {
+      "artists": "Bartees Strange",
+      "name": "Big Glow"
+    },
+    {
+      "artists": "Bartees Strange",
+      "explicit": true,
+      "name": "Boomer"
+    },
+    {
+      "artists": "Bartees Strange",
+      "name": "Wretched"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Crumb",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Crumb",
+      "name": "Ghostride"
+    },
+    {
+      "artists": "Crumb",
+      "name": "Locket"
+    },
+    {
+      "artists": "Crumb",
+      "name": "Ice Melt"
+    },
+    {
+      "artists": "Crumb",
+      "name": "Plants"
+    },
+    {
+      "artists": "Crumb",
+      "name": "Cracking"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4kSGbjWGxTchKpIxXPJv0B"
+}

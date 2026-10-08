@@ -1,0 +1,27 @@
+{
+  "artist": "Journey",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Journey",
+      "name": "Don't Stop Believin' (2022 Remaster)"
+    },
+    {
+      "artists": "Journey",
+      "name": "Separate Ways (Worlds Apart) [2023 Remaster]"
+    },
+    {
+      "artists": "Journey",
+      "name": "Any Way You Want It"
+    },
+    {
+      "artists": "Journey",
+      "name": "Who's Crying Now (2022 Remaster)"
+    },
+    {
+      "artists": "Journey",
+      "name": "Faithfully (2023 Remaster)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0rvjqX7ttXeg3mTy8Xscbt"
+}

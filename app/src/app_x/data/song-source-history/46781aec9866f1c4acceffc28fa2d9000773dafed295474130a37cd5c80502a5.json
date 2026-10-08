@@ -1,0 +1,28 @@
+{
+  "artist": "MARINA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MARINA",
+      "explicit": true,
+      "name": "Bubblegum Bitch"
+    },
+    {
+      "artists": "MARINA",
+      "name": "Primadonna"
+    },
+    {
+      "artists": "MARINA",
+      "name": "Oh No!"
+    },
+    {
+      "artists": "MARINA",
+      "name": "Are You Satisfied?"
+    },
+    {
+      "artists": "MARINA",
+      "name": "How to Be a Heartbreaker"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6CwfuxIqcltXDGjfZsMd9A"
+}

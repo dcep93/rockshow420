@@ -1,0 +1,27 @@
+{
+  "artist": "Lainey Wilson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lainey Wilson",
+      "name": "4×4×U"
+    },
+    {
+      "artists": "Lainey Wilson",
+      "name": "Heart Like A Truck"
+    },
+    {
+      "artists": "Lainey Wilson, John Mayer",
+      "name": "Phone, Keys, Wallet"
+    },
+    {
+      "artists": "Lainey Wilson",
+      "name": "Watermelon Moonshine"
+    },
+    {
+      "artists": "Lainey Wilson",
+      "name": "Things A Man Oughta Know"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6tPHARSq45lQ8BSALCfkFC"
+}

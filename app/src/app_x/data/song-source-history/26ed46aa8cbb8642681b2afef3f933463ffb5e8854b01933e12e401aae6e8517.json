@@ -1,0 +1,27 @@
+{
+  "artist": "Josh Fudge",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Josh Fudge",
+      "name": "When She's Gone"
+    },
+    {
+      "artists": "Josh Fudge",
+      "name": "Second Date"
+    },
+    {
+      "artists": "Josh Fudge",
+      "name": "FEEL LIKE"
+    },
+    {
+      "artists": "Josh Fudge",
+      "name": "Losing Time"
+    },
+    {
+      "artists": "Josh Fudge",
+      "name": "Summer Something"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6FvkNLhuBDTYfqbl6PV0xp"
+}

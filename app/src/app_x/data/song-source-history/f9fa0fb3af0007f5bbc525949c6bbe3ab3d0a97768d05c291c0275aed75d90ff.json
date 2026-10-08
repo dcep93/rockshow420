@@ -1,0 +1,27 @@
+{
+  "artist": "Weyes Blood",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Weyes Blood",
+      "name": "Andromeda"
+    },
+    {
+      "artists": "Weyes Blood",
+      "name": "A Lot's Gonna Change"
+    },
+    {
+      "artists": "Weyes Blood",
+      "name": "Movies"
+    },
+    {
+      "artists": "Drugdealer, Weyes Blood",
+      "name": "Honey"
+    },
+    {
+      "artists": "Drugdealer, Weyes Blood",
+      "name": "Real Thing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Uqu1mEdkUJxPe7s31n1M9"
+}

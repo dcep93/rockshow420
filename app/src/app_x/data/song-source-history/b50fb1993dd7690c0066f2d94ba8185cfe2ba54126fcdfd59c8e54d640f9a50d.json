@@ -1,0 +1,28 @@
+{
+  "artist": "System Of A Down",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "System Of A Down",
+      "name": "Chop Suey!"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Toxicity"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Aerials"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Lonely Day"
+    },
+    {
+      "artists": "System Of A Down",
+      "explicit": true,
+      "name": "B.Y.O.B."
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5eAWCfyUhZtHHtBdNk56l1"
+}

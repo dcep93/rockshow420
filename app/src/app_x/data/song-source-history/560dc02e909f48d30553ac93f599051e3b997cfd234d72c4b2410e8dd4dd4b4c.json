@@ -1,0 +1,32 @@
+{
+  "artist": "Sexyy Red",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Drake, Sexyy Red, SZA",
+      "explicit": true,
+      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)"
+    },
+    {
+      "artists": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+      "explicit": true,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)"
+    },
+    {
+      "artists": "GloRilla, Sexyy Red",
+      "explicit": true,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)"
+    },
+    {
+      "artists": "Sexyy Red",
+      "explicit": true,
+      "name": "Get It Sexyy"
+    },
+    {
+      "artists": "Drake, Sexyy Red",
+      "explicit": true,
+      "name": "Cheetah Print (feat. Sexyy Red)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3DbwFQlvLxRSi2uX8mf81A"
+}

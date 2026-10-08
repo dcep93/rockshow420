@@ -1,0 +1,27 @@
+{
+  "artist": "Gryffin",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kygo, Khalid, Gryffin",
+      "name": "Save My Love"
+    },
+    {
+      "artists": "Olly Alexander (Years & Years), Gryffin",
+      "name": "Desire - Gryffin Remix"
+    },
+    {
+      "artists": "Gryffin, Elley Duhé",
+      "name": "Tie Me Down (with Elley Duhé)"
+    },
+    {
+      "artists": "Gryffin, BUNT., Inéz",
+      "name": "World Away"
+    },
+    {
+      "artists": "Gryffin, ILLENIUM, Daya",
+      "name": "Feel Good (with Daya)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+}

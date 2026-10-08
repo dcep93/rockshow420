@@ -1,0 +1,27 @@
+{
+  "artist": "Maria Jaume",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Maria Jaume, FADES",
+      "name": "Mon Cheri Go Home"
+    },
+    {
+      "artists": "Maria Jaume",
+      "name": "Sant Domingo Forever"
+    },
+    {
+      "artists": "Maria Jaume",
+      "name": "Me desplom"
+    },
+    {
+      "artists": "Maria Jaume",
+      "name": "Festa i drama"
+    },
+    {
+      "artists": "Al·lèrgiques al pol·len, Maria Jaume",
+      "name": "Bombolles (feat. Maria Jaume)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2QYudLHQwV6MDxWpZZtMNO"
+}

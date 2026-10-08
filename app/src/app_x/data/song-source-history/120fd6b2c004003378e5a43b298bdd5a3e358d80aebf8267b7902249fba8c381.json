@@ -1,0 +1,27 @@
+{
+  "artist": "Ikonika",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ikonika",
+      "name": "CRY-1"
+    },
+    {
+      "artists": "Ikonika",
+      "name": "Your Body"
+    },
+    {
+      "artists": "Ikonika",
+      "name": "Listen To Your Heart"
+    },
+    {
+      "artists": "Ikonika",
+      "name": "Praxis"
+    },
+    {
+      "artists": "Ikonika",
+      "name": "Where Is Your Wife?"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1GbZUOowT6BhrI9QVoUniG"
+}

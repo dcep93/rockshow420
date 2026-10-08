@@ -1,0 +1,27 @@
+{
+  "artist": "Blanke",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ray Volpe, Blanke, ÆON:MODE",
+      "name": "Laserbeam - ÆON:MODE Remix"
+    },
+    {
+      "artists": "Blanke, Jason Ross, ZOHARA",
+      "name": "Born Again"
+    },
+    {
+      "artists": "Blanke, REAPER",
+      "name": "Death Rattle"
+    },
+    {
+      "artists": "Blanke, Jex",
+      "name": "Sunrise"
+    },
+    {
+      "artists": "Blanke, Virtual Riot",
+      "name": "Ultraliminal"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/59Yq0xrABEihHANsfo9QMT"
+}

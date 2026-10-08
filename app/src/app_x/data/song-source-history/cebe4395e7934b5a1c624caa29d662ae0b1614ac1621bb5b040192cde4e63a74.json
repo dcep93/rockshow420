@@ -1,0 +1,28 @@
+{
+  "artist": "Safety Trance",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Safety Trance, Arca",
+      "explicit": true,
+      "name": "El Alma Que Te Trajo"
+    },
+    {
+      "artists": "Safety Trance, Sega Bodega, Eartheater",
+      "name": "most of me (is elsewhere)"
+    },
+    {
+      "artists": "Safety Trance",
+      "name": "Destruccion"
+    },
+    {
+      "artists": "Safety Trance, Thoom, Lillith",
+      "name": "hustlin"
+    },
+    {
+      "artists": "Safety Trance",
+      "name": "Cuando Suena El Dembow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1tUbyAgdYNOjxXrNSfgquF"
+}

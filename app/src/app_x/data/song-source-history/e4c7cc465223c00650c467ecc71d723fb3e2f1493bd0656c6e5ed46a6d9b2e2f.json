@@ -1,0 +1,27 @@
+{
+  "artist": "Maren Morris",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zedd, Maren Morris, Grey",
+      "name": "The Middle"
+    },
+    {
+      "artists": "Maren Morris",
+      "name": "The Bones"
+    },
+    {
+      "artists": "Maren Morris",
+      "name": "My Church"
+    },
+    {
+      "artists": "Ryan Hurd, Maren Morris",
+      "name": "Chasing After You"
+    },
+    {
+      "artists": "Maren Morris, Hozier",
+      "name": "The Bones - with Hozier"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6WY7D3jk8zTrHtmkqqo5GI"
+}

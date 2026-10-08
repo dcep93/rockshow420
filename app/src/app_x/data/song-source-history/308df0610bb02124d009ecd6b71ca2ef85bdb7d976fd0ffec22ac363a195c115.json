@@ -1,0 +1,27 @@
+{
+  "artist": "Counting Crows",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Counting Crows",
+      "name": "Mr. Jones"
+    },
+    {
+      "artists": "Counting Crows",
+      "name": "Accidentally In Love"
+    },
+    {
+      "artists": "Counting Crows, Vanessa Carlton",
+      "name": "Big Yellow Taxi"
+    },
+    {
+      "artists": "Counting Crows",
+      "name": "Round Here"
+    },
+    {
+      "artists": "Counting Crows",
+      "name": "Hanginaround"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0vEsuISMWAKNctLlUAhSZC"
+}

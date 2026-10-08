@@ -1,0 +1,32 @@
+{
+  "artist": "Paris Texas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Paris Texas",
+      "explicit": true,
+      "name": "girls like drugs"
+    },
+    {
+      "artists": "Paris Texas",
+      "explicit": true,
+      "name": "FORCE OF HABIT"
+    },
+    {
+      "artists": "Paris Texas",
+      "explicit": true,
+      "name": "PANIC!!!"
+    },
+    {
+      "artists": "Paris Texas",
+      "explicit": true,
+      "name": "HEAVY METAL"
+    },
+    {
+      "artists": "Kenny Mason, Paris Texas",
+      "explicit": true,
+      "name": "BE WHAT I WANT (feat. Paris Texas)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1SCrMreNPJYSRZIlRe9SUq"
+}

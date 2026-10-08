@@ -1,0 +1,29 @@
+{
+  "artist": "boygenius",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Cool About It"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Not Strong Enough"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "explicit": true,
+      "name": "True Blue"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Letter To An Old Poet"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "explicit": true,
+      "name": "Emily I'm Sorry"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1hLiboQ98IQWhpKeP9vRFw"
+}

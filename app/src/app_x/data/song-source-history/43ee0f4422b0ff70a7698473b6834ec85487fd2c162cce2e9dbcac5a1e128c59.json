@@ -1,0 +1,27 @@
+{
+  "artist": "Bandalos Chinos",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bandalos Chinos",
+      "name": "Vámonos De Viaje"
+    },
+    {
+      "artists": "Bandalos Chinos, Adanowsky",
+      "name": "Departamento"
+    },
+    {
+      "artists": "Bandalos Chinos",
+      "name": "Mi Fiesta"
+    },
+    {
+      "artists": "Bandalos Chinos",
+      "name": "Demasiado"
+    },
+    {
+      "artists": "Bandalos Chinos",
+      "name": "Cállame"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0wn2qDKzeFlhjRUtJAwJjp"
+}

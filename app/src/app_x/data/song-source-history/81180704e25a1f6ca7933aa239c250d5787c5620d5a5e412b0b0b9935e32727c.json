@@ -1,0 +1,47 @@
+{
+  "artist": "Zac Brown Band",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zac Brown Band",
+      "name": "Chicken Fried"
+    },
+    {
+      "artists": "Zac Brown Band, Jimmy Buffett",
+      "name": "Knee Deep (feat. Jimmy Buffett)"
+    },
+    {
+      "artists": "EZac Brown Band",
+      "name": "Toes"
+    },
+    {
+      "artists": "ESublime, Zac Brown Band",
+      "name": "Wrong Way"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Homegrown"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Colder Weather"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Whatever It Is"
+    },
+    {
+      "artists": "Zac Brown Band, Alan Jackson",
+      "name": "As She's Walking Away (feat. Alan Jackson)"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Free"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Keep Me in Mind"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6yJCxee7QumYr820xdIsjo"
+}

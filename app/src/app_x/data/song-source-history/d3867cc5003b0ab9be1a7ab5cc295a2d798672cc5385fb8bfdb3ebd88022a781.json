@@ -1,0 +1,28 @@
+{
+  "artist": "Jai Paul",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jai Paul",
+      "name": "Jasmine - Demo"
+    },
+    {
+      "artists": "Jai Paul",
+      "explicit": true,
+      "name": "BTSTU - Demo"
+    },
+    {
+      "artists": "Jai Paul",
+      "name": "Str8 Outta Mumbai"
+    },
+    {
+      "artists": "Jai Paul",
+      "name": "Crush - Unfinished"
+    },
+    {
+      "artists": "Jai Paul",
+      "name": "Do You Love Her Now"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/53wZLCnhshZKDRs3uopFBc"
+}

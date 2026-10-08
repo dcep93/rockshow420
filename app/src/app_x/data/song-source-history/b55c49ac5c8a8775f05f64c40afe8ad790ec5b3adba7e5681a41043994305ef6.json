@@ -1,0 +1,28 @@
+{
+  "artist": "Tyla",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tyla",
+      "name": "Water"
+    },
+    {
+      "artists": "Tyla",
+      "explicit": true,
+      "name": "CHANEL"
+    },
+    {
+      "artists": "WizTheMc, bees & honey, Tyla",
+      "name": "Show Me Love (with Tyla)"
+    },
+    {
+      "artists": "Tyla, Zara Larsson",
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)"
+    },
+    {
+      "artists": "Tyla",
+      "name": "PUSH 2 START"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3SozjO3Lat463tQICI9LcE"
+}

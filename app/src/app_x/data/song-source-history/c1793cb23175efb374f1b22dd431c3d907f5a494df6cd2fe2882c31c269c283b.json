@@ -1,0 +1,27 @@
+{
+  "artist": "The Dip",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Dip",
+      "name": "Sure Don't Miss You"
+    },
+    {
+      "artists": "The Dip",
+      "name": "Slow Sipper"
+    },
+    {
+      "artists": "The Dip",
+      "name": "Fill My Cup"
+    },
+    {
+      "artists": "The Dip",
+      "name": "State Line"
+    },
+    {
+      "artists": "The Dip",
+      "name": "Atlas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qFOYqFxPaIwEnffVhJhEn"
+}

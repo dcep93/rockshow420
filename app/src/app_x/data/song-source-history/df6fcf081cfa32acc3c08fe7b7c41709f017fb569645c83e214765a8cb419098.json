@@ -1,0 +1,27 @@
+{
+  "artist": "Maustetytöt",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Maustetytöt",
+      "name": "Jos mulla ei ois sua, mulla ei ois mitään"
+    },
+    {
+      "artists": "Maustetytöt",
+      "name": "Tein kai lottorivini väärin"
+    },
+    {
+      "artists": "Markus Krunegård, Maustetytöt",
+      "name": "Vaasankatu 4-ever"
+    },
+    {
+      "artists": "Maustetytöt",
+      "name": "Eivät enkelitkään ilman siipiä lennä"
+    },
+    {
+      "artists": "Maustetytöt",
+      "name": "Syntynyt suruun ja puettu pettymyksin"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7JHNSkrbx2b0w8psFeVE4I"
+}

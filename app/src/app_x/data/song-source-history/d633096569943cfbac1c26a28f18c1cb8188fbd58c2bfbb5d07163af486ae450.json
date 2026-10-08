@@ -1,0 +1,27 @@
+{
+  "artist": "Thirty Seconds To Mars",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Thirty Seconds To Mars",
+      "name": "The Kill"
+    },
+    {
+      "artists": "Thirty Seconds To Mars",
+      "name": "This Is War"
+    },
+    {
+      "artists": "Thirty Seconds To Mars",
+      "name": "Attack"
+    },
+    {
+      "artists": "Thirty Seconds To Mars",
+      "name": "From Yesterday"
+    },
+    {
+      "artists": "Thirty Seconds To Mars",
+      "name": "Closer To The Edge"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0RqtSIYZmd4fiBKVFqyIqD"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Charli xcx",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Charli xcx",
+      "name": "party 4 u"
+    },
+    {
+      "artists": "Charli xcx, Billie Eilish",
+      "name": "Guess featuring billie eilish"
+    },
+    {
+      "artists": "Charli xcx",
+      "explicit": true,
+      "name": "360"
+    },
+    {
+      "artists": "Charli xcx",
+      "explicit": true,
+      "name": "Von dutch"
+    },
+    {
+      "artists": "Charli xcx",
+      "explicit": true,
+      "name": "Camera"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/25uiPmTg16RbhZWAqwLBy5"
+}

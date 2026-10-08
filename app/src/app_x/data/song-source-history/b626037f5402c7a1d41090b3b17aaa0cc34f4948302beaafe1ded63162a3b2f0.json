@@ -1,0 +1,47 @@
+{
+  "artist": "boygenius",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Cool About It"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Not Strong Enough"
+    },
+    {
+      "artists": "Eboygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "True Blue"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Letter To An Old Poet"
+    },
+    {
+      "artists": "Eboygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Emily I'm Sorry"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Me & My Dog"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Souvenir"
+    },
+    {
+      "artists": "boygenius",
+      "name": "Voyager"
+    },
+    {
+      "artists": "Eboygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Revolution 0"
+    },
+    {
+      "artists": "boygenius, Julien Baker, Phoebe Bridgers, Lucy Dacus",
+      "name": "Bite The Hand"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1hLiboQ98IQWhpKeP9vRFw"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "ROLE MODEL",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ROLE MODEL",
+      "explicit": true,
+      "name": "Sally, When The Wine Runs Out"
+    },
+    {
+      "artists": "ROLE MODEL",
+      "name": "High Hopes 3000"
+    },
+    {
+      "artists": "ROLE MODEL",
+      "name": "Writing's On The Wall"
+    },
+    {
+      "artists": "ROLE MODEL",
+      "name": "Love I You"
+    },
+    {
+      "artists": "ROLE MODEL",
+      "name": "Look At That Woman"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1dy5WNgIKQU6ezkpZs4y8z"
+}

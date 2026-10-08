@@ -1,0 +1,31 @@
+{
+  "artist": "Kendrick Lamar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kendrick Lamar, SZA",
+      "explicit": true,
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\""
+    },
+    {
+      "artists": "Kendrick Lamar, SZA",
+      "name": "luther (with sza)"
+    },
+    {
+      "artists": "Kendrick Lamar",
+      "explicit": true,
+      "name": "Not Like Us"
+    },
+    {
+      "artists": "Kendrick Lamar, Jay Rock",
+      "explicit": true,
+      "name": "Money Trees"
+    },
+    {
+      "artists": "Kendrick Lamar",
+      "explicit": true,
+      "name": "HUMBLE."
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+}

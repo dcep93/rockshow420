@@ -1,0 +1,27 @@
+{
+  "artist": "Blossom",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Blossom",
+      "name": "Good Vibrations"
+    },
+    {
+      "artists": "Blossom",
+      "name": "Loosen Up"
+    },
+    {
+      "artists": "Blossom, Queen Millz, Shapes",
+      "name": "Decline"
+    },
+    {
+      "artists": "Axel Boy, Blossom, Samara",
+      "name": "What They Say"
+    },
+    {
+      "artists": "Blossom, Nitepunk",
+      "name": "Stronger - Nitepunk Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0FhgVFxDmcXH3blEWtt13V"
+}

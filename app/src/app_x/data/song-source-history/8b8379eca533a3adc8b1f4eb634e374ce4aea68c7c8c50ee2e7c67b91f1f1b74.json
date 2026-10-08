@@ -1,0 +1,27 @@
+{
+  "artist": "Julian Lamadrid",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Julian Lamadrid",
+      "name": "15 Minutes"
+    },
+    {
+      "artists": "Julian Lamadrid",
+      "name": "Mess"
+    },
+    {
+      "artists": "Julian Lamadrid",
+      "name": "Cigarette - Remastered"
+    },
+    {
+      "artists": "Julian Lamadrid",
+      "name": "Stay"
+    },
+    {
+      "artists": "Julian Lamadrid",
+      "name": "Patience"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/60rE8L4eGCSSaJCS1kqNKy"
+}

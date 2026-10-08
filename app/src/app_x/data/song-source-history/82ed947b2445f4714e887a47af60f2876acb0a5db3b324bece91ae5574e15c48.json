@@ -1,0 +1,32 @@
+{
+  "artist": "Flipp Dinero",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flipp Dinero",
+      "explicit": true,
+      "name": "Leave Me Alone"
+    },
+    {
+      "artists": "Flipp Dinero, Lil Baby",
+      "explicit": true,
+      "name": "How I Move (feat. Lil Baby)"
+    },
+    {
+      "artists": "Flipp Dinero, Kodak Black",
+      "explicit": true,
+      "name": "Till im Gone (feat. Kodak Black)"
+    },
+    {
+      "artists": "Flipp Dinero",
+      "explicit": true,
+      "name": "On Some"
+    },
+    {
+      "artists": "Flipp Dinero",
+      "explicit": true,
+      "name": "No Option"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2HUwZ0kumzCSlhFcjFZfpp"
+}

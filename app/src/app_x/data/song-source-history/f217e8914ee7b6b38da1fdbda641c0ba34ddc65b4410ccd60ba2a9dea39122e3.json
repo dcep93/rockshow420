@@ -1,0 +1,27 @@
+{
+  "artist": "Sam Johnson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sam Johnson",
+      "name": "Peter Pan"
+    },
+    {
+      "artists": "Sam Johnson",
+      "name": "World Gone Mad"
+    },
+    {
+      "artists": "Sam Johnson",
+      "name": "Way Back Home"
+    },
+    {
+      "artists": "Sam Johnson",
+      "name": "Nineteen"
+    },
+    {
+      "artists": "Sam Johnson",
+      "name": "Medicine For My Brain"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4FePLXv9OD4k0vOfZLBn43"
+}

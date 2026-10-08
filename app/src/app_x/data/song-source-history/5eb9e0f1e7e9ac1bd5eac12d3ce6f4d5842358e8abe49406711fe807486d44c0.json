@@ -1,0 +1,48 @@
+{
+  "artist": "Chris Thile",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Meshell Ndegeocello, Bill Callahan, Chris Thile",
+      "name": "With God on Our Side (with Bill Callahan, Chris Thile)"
+    },
+    {
+      "artists": "Nickel Creek, Chris Thile, Adam McKenzie",
+      "name": "The Lighthouse's Tale"
+    },
+    {
+      "artists": "Chris Thile",
+      "explicit": true,
+      "name": "Heart In A Cage"
+    },
+    {
+      "artists": "Stuart Duncan, Edgar Meyer, Chris Thile, Yo-Yo Ma",
+      "name": "Attaboy"
+    },
+    {
+      "artists": "Chris Thile",
+      "name": "Golden Pond"
+    },
+    {
+      "artists": "Chris Thile, Brad Mehldau",
+      "name": "Tabhair dom do Lámh"
+    },
+    {
+      "artists": "Nickel Creek, Chris Thile",
+      "name": "Ode to a Butterfly"
+    },
+    {
+      "artists": "Chris Thile",
+      "name": "Raining At Sunset"
+    },
+    {
+      "artists": "Johann Sebastian Bach, Yo-Yo Ma, Chris Thile, Edgar Meyer",
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio"
+    },
+    {
+      "artists": "Chris Thile",
+      "name": "Dead Leaves And The Dirty Ground"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1dyGPAYZZHHW6WIqwKN5QF"
+}

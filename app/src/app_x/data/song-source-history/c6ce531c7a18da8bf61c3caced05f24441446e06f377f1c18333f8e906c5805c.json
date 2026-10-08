@@ -1,0 +1,27 @@
+{
+  "artist": "Johnny Jewel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Weeknd, Chromatics, Johnny Jewel",
+      "name": "Blinding Lights - Chromatics Remix"
+    },
+    {
+      "artists": "Johnny Jewel",
+      "name": "Tell Me (Feat. Saoirse Ronan)"
+    },
+    {
+      "artists": "Zola Jesus, Johnny Jewel",
+      "name": "Wiseblood (Johnny Jewel Remix)"
+    },
+    {
+      "artists": "Johnny Jewel",
+      "name": "Windswept"
+    },
+    {
+      "artists": "Johnny Jewel",
+      "name": "Windswept - Reprise"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2KofAEA8S0jDDXjSg6a3HR"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "The 1975",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The 1975",
+      "name": "About You"
+    },
+    {
+      "artists": "The 1975",
+      "explicit": true,
+      "name": "Somebody Else"
+    },
+    {
+      "artists": "The 1975",
+      "name": "Robbers"
+    },
+    {
+      "artists": "The 1975",
+      "name": "All I Need To Hear"
+    },
+    {
+      "artists": "The 1975",
+      "name": "It's Not Living (If It's Not With You)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3mIj9lX2MWuHmhNCA7LSCW"
+}

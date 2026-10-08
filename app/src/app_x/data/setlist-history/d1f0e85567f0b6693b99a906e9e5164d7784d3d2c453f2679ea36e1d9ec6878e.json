@@ -1,0 +1,79 @@
+{
+  "sets": [
+    {
+      "name": "The Sickness",
+      "songs": [
+        {
+          "name": "Voices"
+        },
+        {
+          "name": "The Game"
+        },
+        {
+          "name": "Stupify"
+        },
+        {
+          "name": "Down With the Sickness"
+        },
+        {
+          "name": "Violence Fetish"
+        },
+        {
+          "name": "Fear"
+        },
+        {
+          "name": "Numb"
+        },
+        {
+          "name": "Want",
+          "notes": "(Lead singer's (David Draiman) son Samuel came out and sang the song with him)"
+        },
+        {
+          "name": "Conflict"
+        },
+        {
+          "name": "Shout",
+          "notes": "(Tears for Fears cover)"
+        },
+        {
+          "name": "Droppin' Plates"
+        },
+        {
+          "name": "Meaning of Life"
+        }
+      ]
+    },
+    {
+      "name": "Greatest Hits",
+      "songs": [
+        {
+          "name": "Ten Thousand Fists"
+        },
+        {
+          "name": "I Will Not Break"
+        },
+        {
+          "name": "Bad Man"
+        },
+        {
+          "name": "Land of Confusion",
+          "notes": "(Genesis cover) (With Adam Gontier and Matt Walst of Three Days Grace)"
+        },
+        {
+          "name": "Indestructible"
+        },
+        {
+          "name": "The Sound of Silence",
+          "notes": "(Simon & Garfunkel cover)"
+        },
+        {
+          "name": "The Light"
+        },
+        {
+          "name": "Inside the Fire"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/disturbed/2025/madison-square-garden-new-york-ny-3b50e864.html"
+}

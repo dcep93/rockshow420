@@ -1,0 +1,30 @@
+{
+  "artist": "Chri$tian Gate$",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chri$tian Gate$",
+      "explicit": true,
+      "name": "NUMB"
+    },
+    {
+      "artists": "Chri$tian Gate$",
+      "name": "I Won't Beg for You"
+    },
+    {
+      "artists": "Chri$tian Gate$",
+      "explicit": true,
+      "name": "Dangerous State of Mind"
+    },
+    {
+      "artists": "Royal & the Serpent, Chri$tian Gate$",
+      "explicit": true,
+      "name": "overwhelmed - Chri$tian Gate$ remix"
+    },
+    {
+      "artists": "Chri$tian Gate$",
+      "name": "ARSON"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0OEYE03fBF2VoTBxGuaUxL"
+}

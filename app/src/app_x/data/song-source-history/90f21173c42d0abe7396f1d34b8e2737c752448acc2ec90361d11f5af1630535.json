@@ -1,0 +1,27 @@
+{
+  "artist": "Deftones",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Deftones",
+      "name": "My Own Summer (Shove It)"
+    },
+    {
+      "artists": "Deftones",
+      "name": "Change (In the House of Flies)"
+    },
+    {
+      "artists": "Deftones",
+      "name": "Cherry Waves"
+    },
+    {
+      "artists": "Deftones",
+      "name": "Sextape"
+    },
+    {
+      "artists": "Deftones",
+      "name": "Be Quiet and Drive (Far Away)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Ghvu1VvMGScGpOUJBAHNH"
+}

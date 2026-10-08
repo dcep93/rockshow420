@@ -1,0 +1,86 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1",
+      "songs": [
+        {
+          "name": "Song In My Head"
+        },
+        {
+          "name": "Get Tight",
+          "notes": "(>)"
+        },
+        {
+          "name": "Brooklyn Jam",
+          "notes": "(>)"
+        },
+        {
+          "name": "Rollover",
+          "notes": "(>)"
+        },
+        {
+          "name": "Life During Wartime",
+          "notes": "(Talking Heads cover) (>)"
+        },
+        {
+          "name": "Rollover"
+        },
+        {
+          "name": "Manga"
+        },
+        {
+          "name": "Sing a New Song",
+          "notes": "(>)"
+        },
+        {
+          "name": "Impressions",
+          "notes": "(John Coltrane cover) (>)"
+        },
+        {
+          "name": "Colliding"
+        }
+      ]
+    },
+    {
+      "name": "Set 2",
+      "songs": [
+        {
+          "name": "Beautiful"
+        },
+        {
+          "name": "Looking Glass",
+          "notes": "(>)"
+        },
+        {
+          "name": "Damn Yankees Jam",
+          "notes": "(>)"
+        },
+        {
+          "name": "Dirk"
+        },
+        {
+          "name": "Gone Crooked"
+        },
+        {
+          "name": "Texas",
+          "notes": "(>)"
+        },
+        {
+          "name": "Valley of the Jig"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Roll in My Sweet Baby's Arms",
+          "notes": "([traditional] cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-string-cheese-incident/2024/brooklyn-paramount-brooklyn-ny-2351ccb3.html"
+}

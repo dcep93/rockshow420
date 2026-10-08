@@ -1,0 +1,28 @@
+{
+  "artist": "hey, nothing",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "hey, nothing",
+      "name": "Beluga Whale (Call Again)"
+    },
+    {
+      "artists": "hey, nothing",
+      "name": "Arteries"
+    },
+    {
+      "artists": "hey, nothing",
+      "name": "Hound"
+    },
+    {
+      "artists": "hey, nothing",
+      "name": "Maine"
+    },
+    {
+      "artists": "hey, nothing",
+      "explicit": true,
+      "name": "Boat Garage"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6YWqJQS9TETSb8LgZONUzI"
+}

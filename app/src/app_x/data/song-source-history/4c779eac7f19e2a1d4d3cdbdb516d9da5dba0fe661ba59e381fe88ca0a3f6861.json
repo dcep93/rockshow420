@@ -1,0 +1,23 @@
+{
+  "artist": "Hotline TNT",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hotline TNT, Audiotree",
+      "name": "Stampede - Audiotree Live"
+    },
+    {
+      "artists": "Hotline TNT, Audiotree",
+      "name": "Antonio - Audiotree Live"
+    },
+    {
+      "artists": "Hotline TNT, Audiotree",
+      "name": "Had 2 Try - Audiotree Live"
+    },
+    {
+      "artists": "Hotline TNT, Audiotree",
+      "name": "Slider - Audiotree Live"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5DDuwU1X2Aqdp3CxfXstRe"
+}

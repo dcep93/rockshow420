@@ -1,0 +1,47 @@
+{
+  "artist": "Taylor Swift",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Swift",
+      "name": "The Fate of Ophelia"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Patient Zero"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Cleveland!"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Blank Space"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Opalite"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Babylon"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Pink Clouding"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\""
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Cruel Summer"
+    },
+    {
+      "artists": "Taylor Swift",
+      "name": "Style"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/06HL4z0CvFAxyc27GXpf02"
+}

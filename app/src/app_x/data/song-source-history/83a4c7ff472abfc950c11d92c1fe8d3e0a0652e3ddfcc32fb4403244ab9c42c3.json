@@ -1,0 +1,27 @@
+{
+  "artist": "L'Rain",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "L'Rain",
+      "name": "elmyra"
+    },
+    {
+      "artists": "L'Rain",
+      "name": "borderline"
+    },
+    {
+      "artists": "L'Rain",
+      "name": "soulless cycle"
+    },
+    {
+      "artists": "L'Rain",
+      "name": "with time"
+    },
+    {
+      "artists": "L'Rain",
+      "name": "july 5th"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/68BVYIej5jGdIh8au5qELn"
+}

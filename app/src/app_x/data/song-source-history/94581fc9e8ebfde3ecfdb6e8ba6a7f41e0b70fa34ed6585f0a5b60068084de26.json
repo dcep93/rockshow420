@@ -1,0 +1,27 @@
+{
+  "artist": "Voxtrot",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Voxtrot",
+      "name": "The Start of Something"
+    },
+    {
+      "artists": "Voxtrot",
+      "name": "Raised By Wolves"
+    },
+    {
+      "artists": "Voxtrot",
+      "name": "Berlin Without Return"
+    },
+    {
+      "artists": "Voxtrot",
+      "name": "Soft & Warm"
+    },
+    {
+      "artists": "Voxtrot",
+      "name": "Warmest Part of the Winter"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7b697TI9p2abLzSo3eJTKW"
+}

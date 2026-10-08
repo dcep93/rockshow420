@@ -1,0 +1,111 @@
+{
+  "sets": [
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "The Outside"
+        },
+        {
+          "name": "Motion Sickness"
+        },
+        {
+          "name": "Kill Me"
+        },
+        {
+          "name": "The Governor's Waltz"
+        },
+        {
+          "name": "Lost Boys"
+        },
+        {
+          "name": "DVD Menu"
+        },
+        {
+          "name": "Garden Song"
+        },
+        {
+          "name": "Moon Song"
+        },
+        {
+          "name": "Liberty Tree"
+        },
+        {
+          "name": "Panorama",
+          "notes": "(Band only)"
+        }
+      ]
+    },
+    {
+      "name": "B Stage",
+      "songs": [
+        {
+          "name": "Lost Weekend"
+        },
+        {
+          "name": "Funeral"
+        },
+        {
+          "name": "Graceland Too"
+        },
+        {
+          "name": "Haunted"
+        },
+        {
+          "name": "Still Standing"
+        },
+        {
+          "name": "As Above"
+        }
+      ]
+    },
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "Bobby"
+        },
+        {
+          "name": "Georgia"
+        },
+        {
+          "name": "I Can't Wait"
+        },
+        {
+          "name": "On Video"
+        },
+        {
+          "name": "Not Strong Enough",
+          "notes": "(boygenius song) (with boygenius) (Tour debut)"
+        },
+        {
+          "name": "Cool About It",
+          "notes": "(boygenius song) (with boygenius) (Tour debut)"
+        },
+        {
+          "name": "Kyoto"
+        },
+        {
+          "name": "I Know the End"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Lost Weekend (Reprise)"
+        },
+        {
+          "name": "Scott Street"
+        },
+        {
+          "name": "Never Going Back!",
+          "notes": "(Band Only)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-5375770d.html"
+}

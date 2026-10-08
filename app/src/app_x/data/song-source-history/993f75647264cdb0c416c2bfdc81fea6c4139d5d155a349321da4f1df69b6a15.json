@@ -1,0 +1,31 @@
+{
+  "artist": "Annie DiRusso",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Annie DiRusso",
+      "explicit": true,
+      "name": "Muck"
+    },
+    {
+      "artists": "Annie DiRusso",
+      "explicit": true,
+      "name": "Legs"
+    },
+    {
+      "artists": "Annie DiRusso",
+      "explicit": true,
+      "name": "Coming Soon"
+    },
+    {
+      "artists": "Annie DiRusso",
+      "explicit": true,
+      "name": "Back In Town"
+    },
+    {
+      "artists": "Annie DiRusso",
+      "name": "Wet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/58jk0945bnQBG9xfij6hHw"
+}

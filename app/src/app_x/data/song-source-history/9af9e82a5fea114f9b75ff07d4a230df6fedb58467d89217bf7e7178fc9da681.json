@@ -1,0 +1,30 @@
+{
+  "artist": "Sophie Cates",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sophie Cates",
+      "name": "drinking games"
+    },
+    {
+      "artists": "Sophie Cates",
+      "explicit": true,
+      "name": "Best You Ever Had"
+    },
+    {
+      "artists": "Sophie Cates",
+      "explicit": true,
+      "name": "ghosts!"
+    },
+    {
+      "artists": "Sophie Cates",
+      "explicit": true,
+      "name": "Chaos Exposure"
+    },
+    {
+      "artists": "Sophie Cates",
+      "name": "sucks 4 u"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+}

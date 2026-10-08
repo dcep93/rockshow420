@@ -1,0 +1,27 @@
+{
+  "artist": "REYKO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "REYKO",
+      "name": "Spinning Over You"
+    },
+    {
+      "artists": "REYKO",
+      "name": "Hierba Mala"
+    },
+    {
+      "artists": "REYKO",
+      "name": "Set You Free (Main Theme from \"Toy Boy\")"
+    },
+    {
+      "artists": "REYKO",
+      "name": "Lose Myself"
+    },
+    {
+      "artists": "REYKO",
+      "name": "Your Game (From \"Toy Boy\" Series)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1asECxd7DPIjTLu8NTc3ZA"
+}

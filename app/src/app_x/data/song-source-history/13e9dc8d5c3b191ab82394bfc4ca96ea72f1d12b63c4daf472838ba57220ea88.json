@@ -1,0 +1,27 @@
+{
+  "artist": "Now, Now",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Now, Now",
+      "name": "MJ"
+    },
+    {
+      "artists": "Now, Now",
+      "name": "SGL"
+    },
+    {
+      "artists": "MUNA, Now, Now",
+      "name": "Stayaway - Now, Now Remix"
+    },
+    {
+      "artists": "Now, Now",
+      "name": "Yours"
+    },
+    {
+      "artists": "Now, Now",
+      "name": "Thread"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ZitSwtBSGqj00w11GvMU3"
+}

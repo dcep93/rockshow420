@@ -1,0 +1,48 @@
+{
+  "artist": "Wednesday",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wednesday",
+      "name": "Elderberry Wine"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "June 2 - Early Version"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Townies"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Wound Up Here (By Holdin On)"
+    },
+    {
+      "artists": "Wednesday",
+      "explicit": true,
+      "name": "Women Without Whiskey (Drive-By Truckers)"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Reality TV Argument Bleeds"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Quarry"
+    },
+    {
+      "artists": "Wednesday, Advance Base",
+      "name": "Phish Pepsi"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "Pick Up That Knife"
+    },
+    {
+      "artists": "Wednesday",
+      "name": "She's Actin' Single (I'm Drinkin Double) [Gary Stewart]"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4j7DrazfBZLLD0OrVoAtEe"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Alex Chapman",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zara Larsson, Alex Chapman",
+      "name": "Midnight Sun - Alex Chapman Remix"
+    },
+    {
+      "artists": "ADÉLA, Alex Chapman",
+      "explicit": true,
+      "name": "SexOnTheBeat - Alex Chapman Remix"
+    },
+    {
+      "artists": "Marlon Hoffstadt, TAET, Alex Chapman",
+      "explicit": true,
+      "name": "Shuga"
+    },
+    {
+      "artists": "Alex Chapman, Kim Petras",
+      "name": "Horsey"
+    },
+    {
+      "artists": "Ashnikko, Alex Chapman",
+      "explicit": true,
+      "name": "Itty Bitty - Alex Chapman Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3c8wfedCs5BJGHcFyusyeh"
+}

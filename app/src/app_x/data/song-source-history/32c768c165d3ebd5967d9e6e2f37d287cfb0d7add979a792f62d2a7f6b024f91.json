@@ -1,0 +1,49 @@
+{
+  "artist": "Disturbed",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Disturbed, CYRIL",
+      "name": "The Sound of Silence - CYRIL Remix"
+    },
+    {
+      "artists": "Disturbed",
+      "explicit": true,
+      "name": "Down with the Sickness"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "The Sound of Silence"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "Stricken"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "Indestructible"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "Decadence"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "Inside the Fire"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "The Vengeful One"
+    },
+    {
+      "artists": "Disturbed",
+      "name": "Ten Thousand Fists"
+    },
+    {
+      "artists": "Disturbed",
+      "explicit": true,
+      "name": "Stupify"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3TOqt5oJwL9BE2NG9MEwDa"
+}

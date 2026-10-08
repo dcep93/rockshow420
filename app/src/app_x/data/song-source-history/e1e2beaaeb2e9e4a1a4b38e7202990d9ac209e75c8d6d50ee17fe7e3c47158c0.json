@@ -1,0 +1,27 @@
+{
+  "artist": "boy pablo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "boy pablo",
+      "name": "Dance, Baby!"
+    },
+    {
+      "artists": "boy pablo",
+      "name": "Everytime"
+    },
+    {
+      "artists": "boy pablo",
+      "name": "Sick Feeling"
+    },
+    {
+      "artists": "boy pablo, Cuco",
+      "name": "La Novela"
+    },
+    {
+      "artists": "boy pablo",
+      "name": "Feeling Lonely"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wbkl3zgDZEoZer357mVIw"
+}

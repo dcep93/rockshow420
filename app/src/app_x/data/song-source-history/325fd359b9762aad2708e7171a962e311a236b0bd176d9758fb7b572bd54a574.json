@@ -1,0 +1,29 @@
+{
+  "artist": "CID",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "CID, Taylr Renee",
+      "explicit": true,
+      "name": "Fancy $hit"
+    },
+    {
+      "artists": "CID",
+      "name": "Party Jumpin'"
+    },
+    {
+      "artists": "Kaskade, CID, Anabel Englund",
+      "name": "Vision Blurred"
+    },
+    {
+      "artists": "CID",
+      "name": "Loaded Gun"
+    },
+    {
+      "artists": "CID, Taylr Renee",
+      "explicit": true,
+      "name": "1800"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4FCzCS0KEgb0rgySWINItO"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "William Basinski",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "William Basinski",
+      "name": "Melancholia II"
+    },
+    {
+      "artists": "William Basinski",
+      "name": "dlp 1.1.1"
+    },
+    {
+      "artists": "William Basinski",
+      "name": "92982.3"
+    },
+    {
+      "artists": "William Basinski",
+      "name": "dlp 1.1"
+    },
+    {
+      "artists": "William Basinski",
+      "name": "dlp 1.1.2"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6u5axd0rpDsWSmzhFfb2VB"
+}

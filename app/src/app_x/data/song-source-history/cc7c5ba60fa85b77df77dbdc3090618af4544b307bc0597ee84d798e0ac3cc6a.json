@@ -1,0 +1,28 @@
+{
+  "artist": "Tom Odell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tom Odell",
+      "explicit": true,
+      "name": "Another Love"
+    },
+    {
+      "artists": "Lost Frequencies, Tom Odell",
+      "name": "Black Friday - pretty like the sun"
+    },
+    {
+      "artists": "Tom Odell",
+      "name": "Black Friday"
+    },
+    {
+      "artists": "Tom Odell",
+      "name": "When I Close My Eyes"
+    },
+    {
+      "artists": "Tom Odell",
+      "name": "Heal"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2txHhyCwHjUEpJjWrEyqyX"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Vampire Weekend",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vampire Weekend",
+      "name": "A-Punk"
+    },
+    {
+      "artists": "Vampire Weekend",
+      "name": "Campus"
+    },
+    {
+      "artists": "Vampire Weekend",
+      "explicit": true,
+      "name": "Oxford Comma"
+    },
+    {
+      "artists": "Vampire Weekend",
+      "name": "Harmony Hall"
+    },
+    {
+      "artists": "Vampire Weekend",
+      "name": "This Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5BvJzeQpmsdsFp4HGUYUEx"
+}

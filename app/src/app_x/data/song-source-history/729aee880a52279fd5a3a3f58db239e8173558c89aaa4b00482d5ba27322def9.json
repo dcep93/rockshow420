@@ -1,0 +1,27 @@
+{
+  "artist": "Dulce",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dulce",
+      "name": "Tu Muñeca"
+    },
+    {
+      "artists": "Dulce",
+      "name": "Lobo"
+    },
+    {
+      "artists": "Dulce",
+      "name": "Déjame Volver Contigo"
+    },
+    {
+      "artists": "Dulce",
+      "name": "Aun Lo Amo"
+    },
+    {
+      "artists": "Dulce",
+      "name": "Heridas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ZYIXbXuZWooEUSJlRtew2"
+}

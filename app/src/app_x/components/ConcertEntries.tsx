@@ -1,4 +1,5 @@
 import type { Catalog, Concert, Profile, UserConcert } from "../data/model";
+import { setLabel } from "../data/schedules";
 import { ticketStatusLabels } from "../data/model";
 import { Link } from "./navigation";
 import { LogEditor } from "../forms/LogEditor";
@@ -7,6 +8,8 @@ function UserEntry({ catalog, concert, profile, log, own }: {
   catalog: Catalog; concert: Concert; profile: Profile; log?: UserConcert; own: boolean;
 }) {
   const supports = (log?.supporting_artist_ids || []).map((id) => catalog.artists.find((artist) => artist.id === id)?.name || "Unavailable artist");
+  const sets = catalog.schedules.find(item => item.id === concert.id)?.sets || [];
+  const seen = sets.filter(set => log?.seen_set_ids.includes(set.id));
   return (
     <article className="rs-entry" aria-label={`@${profile.username} entry`}>
       <div className="rs-entry-heading">
@@ -18,7 +21,8 @@ function UserEntry({ catalog, concert, profile, log, own }: {
       ) : (
         <>
           {log?.ticket_status && <p className="rs-support">Ticket status: {ticketStatusLabels[log.ticket_status]}</p>}
-          {!!supports.length && <p className="rs-support">Supporting acts: {supports.join(" · ")}</p>}
+          {!!seen.length && <ul className="rs-seen-sets">{seen.map(set => <li key={set.id}>{setLabel(set, catalog, concert)}</li>)}</ul>}
+          {!sets.length && !!supports.length && <p className="rs-support">Supporting acts: {supports.join(" · ")}</p>}
           {log?.notes && <p className="rs-notes">{log.notes}</p>}
         </>
       )}

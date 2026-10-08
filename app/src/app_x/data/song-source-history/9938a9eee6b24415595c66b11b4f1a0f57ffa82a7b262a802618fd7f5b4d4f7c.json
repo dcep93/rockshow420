@@ -1,0 +1,28 @@
+{
+  "artist": "Windser",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Macklemore, Windser",
+      "explicit": true,
+      "name": "Next Year (feat. Windser)"
+    },
+    {
+      "artists": "Macklemore, Windser",
+      "name": "MANIAC (feat. Windser)"
+    },
+    {
+      "artists": "Windser",
+      "name": "Memory"
+    },
+    {
+      "artists": "Windser",
+      "name": "July"
+    },
+    {
+      "artists": "Windser",
+      "name": "Paris"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "CHVRCHES",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marshmello, CHVRCHES",
+      "name": "Here With Me"
+    },
+    {
+      "artists": "CHVRCHES",
+      "explicit": true,
+      "name": "Roses"
+    },
+    {
+      "artists": "CHVRCHES",
+      "explicit": true,
+      "name": "The Mother We Share"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Clearest Blue"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Forever"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3CjlHNtplJyTf9npxaPl5w"
+}

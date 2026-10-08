@@ -1,0 +1,27 @@
+{
+  "artist": "Bahamas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bahamas",
+      "name": "Lost In The Light"
+    },
+    {
+      "artists": "Bahamas",
+      "name": "All The Time"
+    },
+    {
+      "artists": "Bahamas",
+      "name": "Way With Words"
+    },
+    {
+      "artists": "Bahamas",
+      "name": "Trick To Happy"
+    },
+    {
+      "artists": "Bahamas, The Weather Station",
+      "name": "Don't You Want Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4C50EbCS11M0VbGyH3OfLt"
+}

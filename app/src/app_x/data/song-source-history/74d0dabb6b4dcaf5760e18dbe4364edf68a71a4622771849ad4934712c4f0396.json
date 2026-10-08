@@ -1,0 +1,47 @@
+{
+  "artist": "Phish",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phish",
+      "name": "Sample in a Jar"
+    },
+    {
+      "artists": "Phish",
+      "name": "Farmhouse"
+    },
+    {
+      "artists": "Phish",
+      "name": "Free"
+    },
+    {
+      "artists": "Phish",
+      "name": "Bouncing Around the Room - Live at Boston Garden, Boston, MA, 12/31/1994"
+    },
+    {
+      "artists": "Phish",
+      "name": "Waste"
+    },
+    {
+      "artists": "Phish",
+      "name": "Heavy Things"
+    },
+    {
+      "artists": "Phish",
+      "name": "Down With Disease"
+    },
+    {
+      "artists": "Phish",
+      "name": "Bouncing Around the Room"
+    },
+    {
+      "artists": "Phish",
+      "name": "Character Zero"
+    },
+    {
+      "artists": "Phish",
+      "name": "Back on the Train"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5wbIWUzTPuTxTyG6ouQKqz"
+}

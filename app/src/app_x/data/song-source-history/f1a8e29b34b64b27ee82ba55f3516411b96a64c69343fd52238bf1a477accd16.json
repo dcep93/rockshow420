@@ -1,0 +1,28 @@
+{
+  "artist": "Ax and the Hatchetmen",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ax and the Hatchetmen",
+      "name": "Hotel Room"
+    },
+    {
+      "artists": "Ax and the Hatchetmen",
+      "name": "Everybody Talks"
+    },
+    {
+      "artists": "Ax and the Hatchetmen",
+      "explicit": true,
+      "name": "Sunscreen"
+    },
+    {
+      "artists": "Ax and the Hatchetmen",
+      "name": "Stay // Honestly"
+    },
+    {
+      "artists": "Ax and the Hatchetmen, Albert Hammond Jr",
+      "name": "Blurry Lights (with Albert Hammond Jr)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5WJCUSIw2Td5IEfa3LXCo9"
+}

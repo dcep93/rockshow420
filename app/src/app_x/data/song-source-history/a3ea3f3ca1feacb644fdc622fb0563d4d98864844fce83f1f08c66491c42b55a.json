@@ -1,0 +1,27 @@
+{
+  "artist": "Eprom",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flume, SOPHIE, Eprom",
+      "name": "Is It Cold In The Water? - Flume & Eprom Remix"
+    },
+    {
+      "artists": "Flume, Eprom",
+      "name": "Spring"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "1000 Cuts"
+    },
+    {
+      "artists": "Shades, Alix Perez, Eprom",
+      "name": "Into Stone"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "R.A.V.E."
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2c2X6dr1PHctH24BxNOjHi"
+}

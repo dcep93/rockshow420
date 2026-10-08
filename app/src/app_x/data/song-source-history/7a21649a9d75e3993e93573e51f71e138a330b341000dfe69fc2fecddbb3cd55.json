@@ -1,0 +1,29 @@
+{
+  "artist": "Jon Bellion",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jon Bellion",
+      "explicit": true,
+      "name": "All Time Low"
+    },
+    {
+      "artists": "ILLENIUM, Jon Bellion",
+      "name": "Good Things Fall Apart (with Jon Bellion)"
+    },
+    {
+      "artists": "Jon Bellion, Luke Combs",
+      "name": "WHY (feat. Luke Combs)"
+    },
+    {
+      "artists": "Jon Bellion, Travis Mendes",
+      "name": "Guillotine"
+    },
+    {
+      "artists": "Jon Bellion",
+      "explicit": true,
+      "name": "Overwhelming"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/50JJSqHUf2RQ9xsHs0KMHg"
+}

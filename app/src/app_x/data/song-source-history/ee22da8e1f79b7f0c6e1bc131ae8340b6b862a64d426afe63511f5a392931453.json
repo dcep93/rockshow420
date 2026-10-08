@@ -1,0 +1,27 @@
+{
+  "artist": "GoldFish",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bakermat, GoldFish, Marie Plassard",
+      "name": "Games Continued (feat. Marie Plassard) - Radio Edit"
+    },
+    {
+      "artists": "CARSTN, GoldFish, Anna Graceman",
+      "name": "Chasing Tomorrow"
+    },
+    {
+      "artists": "GoldFish",
+      "name": "Moonwalk Away"
+    },
+    {
+      "artists": "GoldFish, Cat Dealers",
+      "name": "Colours & Lights"
+    },
+    {
+      "artists": "GoldFish",
+      "name": "Little Lies"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0uRdK8gy7fXJGRywrlmPM7"
+}

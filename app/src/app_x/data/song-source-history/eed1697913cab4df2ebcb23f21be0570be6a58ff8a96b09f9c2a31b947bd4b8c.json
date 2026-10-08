@@ -1,0 +1,28 @@
+{
+  "artist": "Wet Leg",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wet Leg",
+      "explicit": true,
+      "name": "mangetout"
+    },
+    {
+      "artists": "Wet Leg",
+      "name": "Wet Dream"
+    },
+    {
+      "artists": "Wet Leg",
+      "name": "Chaise Longue"
+    },
+    {
+      "artists": "Wet Leg",
+      "name": "catch these fists"
+    },
+    {
+      "artists": "Wet Leg",
+      "name": "pokemon"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+}

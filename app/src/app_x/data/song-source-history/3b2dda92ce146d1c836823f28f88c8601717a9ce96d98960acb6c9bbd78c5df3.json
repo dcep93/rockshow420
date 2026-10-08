@@ -1,0 +1,28 @@
+{
+  "artist": "Sudan Archives",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sudan Archives",
+      "name": "Selfish Soul"
+    },
+    {
+      "artists": "Sudan Archives",
+      "name": "Come Meh Way"
+    },
+    {
+      "artists": "Sudan Archives, ODESZA",
+      "explicit": true,
+      "name": "Selfish Soul (ODESZA Remix)"
+    },
+    {
+      "artists": "Sudan Archives",
+      "name": "DEAD"
+    },
+    {
+      "artists": "Sudan Archives",
+      "name": "Confessions"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2MPHBxznH1fj59jbOWY38u"
+}

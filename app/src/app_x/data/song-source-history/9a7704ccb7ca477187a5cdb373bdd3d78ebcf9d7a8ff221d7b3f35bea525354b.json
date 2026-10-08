@@ -1,0 +1,27 @@
+{
+  "artist": "Sir Sly",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sir Sly",
+      "name": "High"
+    },
+    {
+      "artists": "Sir Sly",
+      "name": "&Run"
+    },
+    {
+      "artists": "Sir Sly",
+      "name": "Astronaut"
+    },
+    {
+      "artists": "Sir Sly",
+      "name": "Fun"
+    },
+    {
+      "artists": "Sir Sly",
+      "name": "Gold"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3DFoVPonoAAt4EZ1FEI8ue"
+}

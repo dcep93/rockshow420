@@ -1,0 +1,27 @@
+{
+  "artist": "Lake Street Dive",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lake Street Dive",
+      "name": "Hypotheticals"
+    },
+    {
+      "artists": "Lake Street Dive",
+      "name": "Better Than"
+    },
+    {
+      "artists": "Lake Street Dive",
+      "name": "Rich Girl"
+    },
+    {
+      "artists": "Lake Street Dive",
+      "name": "Good Kisser"
+    },
+    {
+      "artists": "Lake Street Dive",
+      "name": "Know That I Know"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3nuc29fYGlQbIrwh4yrNWd"
+}

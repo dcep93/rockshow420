@@ -1,0 +1,28 @@
+{
+  "artist": "Matt Champion",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Matt Champion, JENNIE",
+      "name": "Slow Motion"
+    },
+    {
+      "artists": "Matt Champion",
+      "explicit": true,
+      "name": "Fangs"
+    },
+    {
+      "artists": "Matt Champion",
+      "name": "Aphid (feat. Dijon)"
+    },
+    {
+      "artists": "Matt Champion",
+      "name": "Slug"
+    },
+    {
+      "artists": "Matt Champion",
+      "name": "Aren't You Excited"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "RemK",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Knock2, RemK, XAELO",
+      "explicit": true,
+      "name": "lights down low"
+    },
+    {
+      "artists": "RemK",
+      "explicit": true,
+      "name": "GOIN' ALL THE WAY"
+    },
+    {
+      "artists": "RemK",
+      "name": "UH OH!"
+    },
+    {
+      "artists": "FrostTop, RemK",
+      "name": "powerANTHEM"
+    },
+    {
+      "artists": "RemK",
+      "name": "Ain't No Joke"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4IVi10Tw5s4iwiPUvh6DcF"
+}

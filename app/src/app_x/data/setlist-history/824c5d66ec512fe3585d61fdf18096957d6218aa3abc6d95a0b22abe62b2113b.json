@@ -1,0 +1,64 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "New Blues"
+        },
+        {
+          "name": "Favourite Colour"
+        },
+        {
+          "name": "Hercules"
+        },
+        {
+          "name": "Zap"
+        },
+        {
+          "name": "Simple Dude"
+        },
+        {
+          "name": "Outtatime"
+        },
+        {
+          "name": "Pigs"
+        },
+        {
+          "name": "Big Difference"
+        },
+        {
+          "name": "Edgy"
+        },
+        {
+          "name": "Argentina (Parts I, II, III)"
+        },
+        {
+          "name": "Wait Up (Boots of Danger)"
+        },
+        {
+          "name": "Nature of the Experiment"
+        },
+        {
+          "name": "Bambi"
+        },
+        {
+          "name": "Tessellate"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Breakneck Speed"
+        },
+        {
+          "name": "Your English Is Good"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/tokyo-police-club/2018/bottom-of-the-hill-san-francisco-ca-4b964b96.html"
+}

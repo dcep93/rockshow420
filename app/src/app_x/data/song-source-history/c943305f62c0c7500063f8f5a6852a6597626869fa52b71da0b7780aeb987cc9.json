@@ -1,0 +1,49 @@
+{
+  "artist": "The Voidz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daft Punk, Julian Casablancas, The Voidz",
+      "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Did My Best"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Leave It In My Dreams"
+    },
+    {
+      "artists": "The Voidz",
+      "explicit": true,
+      "name": "Human Sadness"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Square Wave"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Pink Ocean"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Lazy Boy"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Flexorcist"
+    },
+    {
+      "artists": "The Voidz",
+      "explicit": true,
+      "name": "Prophecy of the Dragon"
+    },
+    {
+      "artists": "The Voidz",
+      "name": "Permanent High School"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4nUBBtLtzqZGpdiynTJbYJ"
+}

@@ -1,0 +1,68 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Possum"
+        },
+        {
+          "name": "Halley's Comet"
+        },
+        {
+          "name": "46 Days"
+        },
+        {
+          "name": "Slave to the Traffic Light"
+        },
+        {
+          "name": "Simple"
+        },
+        {
+          "name": "Shade"
+        },
+        {
+          "name": "Winterqueen"
+        },
+        {
+          "name": "Meat"
+        },
+        {
+          "name": "Run Like an Antelope"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Bathtub Gin"
+        },
+        {
+          "name": "Everything's Right"
+        },
+        {
+          "name": "Frankie Says",
+          "notes": "(first time played since 2015)"
+        },
+        {
+          "name": "The Wedge"
+        },
+        {
+          "name": "The Moma Dance"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Carini"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phish/2021/chase-center-san-francisco-ca-38d11e7.html"
+}

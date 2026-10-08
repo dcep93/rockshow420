@@ -1,0 +1,28 @@
+{
+  "artist": "The Knocks",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Knocks, SOFI TUKKER",
+      "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version"
+    },
+    {
+      "artists": "Purple Disco Machine, Moss Kena, The Knocks",
+      "name": "Fireworks (feat. Moss Kena & The Knocks)"
+    },
+    {
+      "artists": "SOFI TUKKER, NERVO, The Knocks, ALISA UENO",
+      "explicit": true,
+      "name": "Best Friend"
+    },
+    {
+      "artists": "The Knocks, Dragonette",
+      "name": "Slow Song (with Dragonette)"
+    },
+    {
+      "artists": "The Knocks, Foster The People",
+      "name": "Ride or Die (feat. Foster the People)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2x7EATekOPhFGRx3syMGEC"
+}

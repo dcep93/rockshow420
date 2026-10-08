@@ -1,0 +1,27 @@
+{
+  "artist": "The Strokes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Strokes",
+      "name": "The Adults Are Talking"
+    },
+    {
+      "artists": "The Strokes",
+      "name": "Last Nite"
+    },
+    {
+      "artists": "The Strokes",
+      "name": "Selfless"
+    },
+    {
+      "artists": "The Strokes",
+      "name": "Someday"
+    },
+    {
+      "artists": "The Strokes",
+      "name": "Reptilia"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0epOFNiUfyON9EYx7Tpr6V"
+}

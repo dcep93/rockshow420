@@ -1,0 +1,69 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro",
+          "notes": "(Controversy - Prince)",
+          "tape": true
+        },
+        {
+          "name": "J-Boy"
+        },
+        {
+          "name": "Lasso"
+        },
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Lisztomania"
+        },
+        {
+          "name": "Trying to Be Cool / Drakkar Noir"
+        },
+        {
+          "name": "Rally"
+        },
+        {
+          "name": "Too Young / Girlfriend"
+        },
+        {
+          "name": "Sunskrupt!"
+        },
+        {
+          "name": "Ti amo"
+        },
+        {
+          "name": "Armistice"
+        },
+        {
+          "name": "Rome"
+        },
+        {
+          "name": "If I Ever Feel Better / Funky Squaredance"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Countdown",
+          "notes": "(acoustic)"
+        },
+        {
+          "name": "Fior di latte"
+        },
+        {
+          "name": "1901"
+        },
+        {
+          "name": "Ti amo (di più)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phoenix/2018/william-randolph-hearst-greek-theatre-berkeley-ca-3e9b997.html"
+}

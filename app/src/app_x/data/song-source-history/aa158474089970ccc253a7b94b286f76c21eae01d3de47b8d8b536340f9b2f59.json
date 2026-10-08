@@ -1,0 +1,27 @@
+{
+  "artist": "The Smashing Pumpkins",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Smashing Pumpkins",
+      "name": "1979 - Remastered 2012"
+    },
+    {
+      "artists": "The Smashing Pumpkins",
+      "name": "Bullet With Butterfly Wings - Remastered 2012"
+    },
+    {
+      "artists": "The Smashing Pumpkins",
+      "name": "Today - 2011 Remaster"
+    },
+    {
+      "artists": "The Smashing Pumpkins",
+      "name": "Tonight, Tonight - Remastered 2012"
+    },
+    {
+      "artists": "The Smashing Pumpkins",
+      "name": "Disarm - 2011 Remaster"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+}

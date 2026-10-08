@@ -1,0 +1,28 @@
+{
+  "artist": "Flying Lotus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flying Lotus, Kendrick Lamar",
+      "name": "Never Catch Me"
+    },
+    {
+      "artists": "Flying Lotus",
+      "name": "Crust"
+    },
+    {
+      "artists": "Flying Lotus, Denzel Curry",
+      "name": "Black Balloons Reprise"
+    },
+    {
+      "artists": "Your Old Droog, Flying Lotus, Georgia Anne Muldrow",
+      "explicit": true,
+      "name": "I Don't Care"
+    },
+    {
+      "artists": "Flying Lotus, Anderson .Paak",
+      "name": "More"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29XOeO6KIWxGthejQqn793"
+}

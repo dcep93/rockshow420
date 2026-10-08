@@ -1,0 +1,31 @@
+{
+  "artist": "Black Joe Lewis & The Honeybears",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Black Joe Lewis & The Honeybears",
+      "explicit": true,
+      "name": "I'm Broke"
+    },
+    {
+      "artists": "Black Joe Lewis & The Honeybears",
+      "explicit": true,
+      "name": "Bitch, I Love You"
+    },
+    {
+      "artists": "Black Joe Lewis & The Honeybears",
+      "name": "Black Snake"
+    },
+    {
+      "artists": "Black Joe Lewis & The Honeybears",
+      "explicit": true,
+      "name": "Sugarfoot"
+    },
+    {
+      "artists": "Black Joe Lewis & The Honeybears",
+      "explicit": true,
+      "name": "Get Yo Shit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6kbzJ40luXJ5IKnSpWr7SD"
+}

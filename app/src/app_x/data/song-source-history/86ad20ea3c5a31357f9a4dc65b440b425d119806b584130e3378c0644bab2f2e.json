@@ -1,0 +1,27 @@
+{
+  "artist": "Boris Brejcha",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Boris Brejcha, Laura Korinth",
+      "name": "Gravity (feat. Laura Korinth) - Edit"
+    },
+    {
+      "artists": "Boris Brejcha",
+      "name": "Purple Noise"
+    },
+    {
+      "artists": "Boris Brejcha",
+      "name": "Up Down Jumper"
+    },
+    {
+      "artists": "Moby, Boris Brejcha",
+      "name": "In This World - Boris Brejcha Remix"
+    },
+    {
+      "artists": "Boris Brejcha, Ginger",
+      "name": "Spicy (feat. Ginger) - Edit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6caPJFLv1wesmM7gwK1ACy"
+}

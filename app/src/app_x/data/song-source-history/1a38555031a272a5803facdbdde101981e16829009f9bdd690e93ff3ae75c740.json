@@ -1,0 +1,32 @@
+{
+  "artist": "P-Lo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Denise Julia, P-Lo",
+      "explicit": true,
+      "name": "B.A.D."
+    },
+    {
+      "artists": "P-Lo, E-40",
+      "explicit": true,
+      "name": "Put Me on Somethin'"
+    },
+    {
+      "artists": "Kool John, P-Lo",
+      "explicit": true,
+      "name": "Blue Hunnids"
+    },
+    {
+      "artists": "P-Lo",
+      "explicit": true,
+      "name": "same squad"
+    },
+    {
+      "artists": "P-Lo, Kool John",
+      "explicit": true,
+      "name": "MARDI GRAS (GO CRAZY)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2QLM9IFaHBtB16b8ZDaA3A"
+}

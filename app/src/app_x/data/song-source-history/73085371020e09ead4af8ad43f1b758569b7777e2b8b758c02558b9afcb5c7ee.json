@@ -1,0 +1,32 @@
+{
+  "artist": "Roc Marciano",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Boldy James, The Alchemist, Roc Marciano, Earl Sweatshirt",
+      "explicit": true,
+      "name": "Photographic Memories (feat. Earl Sweatshirt)"
+    },
+    {
+      "artists": "DJ Muggs, Roc Marciano",
+      "explicit": true,
+      "name": "Shit I'm On"
+    },
+    {
+      "artists": "Roc Marciano, The Alchemist",
+      "explicit": true,
+      "name": "Quantum Leap"
+    },
+    {
+      "artists": "Roc Marciano, The Alchemist, Action Bronson",
+      "explicit": true,
+      "name": "Daddy Kane (feat. Action Bronson)"
+    },
+    {
+      "artists": "Roc Marciano, The Alchemist",
+      "explicit": true,
+      "name": "The Elephant Man's Bones"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5X0V59ipZnbvnubW0rQVri"
+}

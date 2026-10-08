@@ -1,0 +1,27 @@
+{
+  "artist": "Gigi Perez",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gigi Perez",
+      "name": "Sailor Song"
+    },
+    {
+      "artists": "Gigi Perez",
+      "name": "Fable"
+    },
+    {
+      "artists": "Gigi Perez",
+      "name": "At The Beach, In Every Life"
+    },
+    {
+      "artists": "Gigi Perez",
+      "name": "Please Be Rude"
+    },
+    {
+      "artists": "Alex Warren, Gigi Perez",
+      "name": "Eternity"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1iCnM8foFssWlPRLfAbIwo"
+}

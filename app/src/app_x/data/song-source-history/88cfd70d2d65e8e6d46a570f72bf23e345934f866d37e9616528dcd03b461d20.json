@@ -1,0 +1,27 @@
+{
+  "artist": "Local Natives",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Local Natives",
+      "name": "Dark Days"
+    },
+    {
+      "artists": "Local Natives",
+      "name": "When Am I Gonna Lose You"
+    },
+    {
+      "artists": "Local Natives",
+      "name": "I Saw You Close Your Eyes"
+    },
+    {
+      "artists": "Local Natives",
+      "name": "Mt. Washington"
+    },
+    {
+      "artists": "Local Natives",
+      "name": "Wide Eyes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/75dQReiBOHN37fQgWQrIAJ"
+}

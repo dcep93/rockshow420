@@ -1,6 +1,9 @@
 import { ConcertEntries } from "../components/ConcertEntries";
+import { ConcertSetlists } from "../components/ConcertSetlists";
 import { useApp } from "../data/store";
 import type { Concert, EntityKind } from "../data/model";
+import { setLabel } from "../data/schedules";
+import { canonicalId } from "../data/ids";
 import { formatConcertDate } from "../data/time";
 import { ConcertRow } from "../components/ConcertRow";
 import { Link } from "../components/navigation";
@@ -17,19 +20,20 @@ export function EntityPage({
   const { catalog, viewer, isAdmin, loading } = useApp();
   const record =
     kind === "concert"
-      ? catalog.concerts.find((item) => item.id === id)
+      ? catalog.concerts.find((item) => canonicalId(kind, item.id) === id)
       : kind === "artist"
         ? catalog.artists.find((item) => item.id === id)
         : kind === "venue"
           ? catalog.venues.find((item) => item.id === id)
-          : catalog.festivals.find((item) => item.id === id);
+          : undefined;
   if (loading) return null;
   if (!record) return <Empty title={`${kind[0].toUpperCase()}${kind.slice(1)} not found`} />;
   if (kind === "concert") {
     const concert = record as Concert;
     const artist = catalog.artists.find((item) => item.id === concert.artist_id);
+    const schedule = catalog.schedules.find(item => item.id === concert.id);
+    const scheduled = new Set(schedule?.sets.map(set => set.artist_id));
     const venue = catalog.venues.find((item) => item.id === concert.venue_id);
-    const festivals = catalog.festivals.filter((item) => item.concert_ids.includes(id));
     return (
       <>
         <section className="rs-detail-heading">
@@ -49,8 +53,12 @@ export function EntityPage({
         </section>
         <div className="rs-detail-grid">
           <section className="rs-panel">
-            {(artist || concert.supporting_artist_ids.length > 0) && <h2>Lineup</h2>}
-            {artist && (
+            {!!schedule?.sets.length && <>
+              <h2>Schedule</h2>
+              {schedule.sets.map(set => <p key={set.id}>{setLabel(set, catalog, concert)}</p>)}
+            </>}
+            {!schedule?.sets.length && (artist || concert.supporting_artist_ids.length > 0) && <h2>Lineup</h2>}
+            {artist && !scheduled.has(artist.id) && (
               <Link className="rs-lineup-item" href={entityPath("artist", artist.id, artist.name)}>
                 <Picture src={artist.image} name={artist.name} />
                 <span>
@@ -59,7 +67,7 @@ export function EntityPage({
                 </span>
               </Link>
             )}
-            {concert.supporting_artist_ids.map((artistId) => {
+            {concert.supporting_artist_ids.filter(id => !scheduled.has(id)).map((artistId) => {
               const support = catalog.artists.find((item) => item.id === artistId);
               return support ? (
                 <Link
@@ -70,7 +78,7 @@ export function EntityPage({
                   <Picture src={support.image} name={support.name} />
                   <span>
                     {support.name}
-                    <small>Supporting</small>
+                    {concert.artist_id && <small>Supporting</small>}
                   </span>
                 </Link>
               ) : (
@@ -84,18 +92,10 @@ export function EntityPage({
                 Setlist.fm
               </a>
             )}
-            {festivals.map((festival) => (
-              <Link
-                key={festival.id}
-                className="rs-outbound"
-                href={entityPath("festival", festival.id, festival.name)}
-              >
-                {festival.name}
-              </Link>
-            ))}
           </section>
           <ConcertEntries catalog={catalog} concert={concert} viewerUid={viewer?.uid} isAdmin={isAdmin} />
         </div>
+        <ConcertSetlists concert={concert} artists={catalog.artists} />
       </>
     );
   }
@@ -107,7 +107,7 @@ export function EntityPage({
         ? concert.venue_id === id
         : kind === "artist"
           ? concert.artist_id === id || concert.supporting_artist_ids.includes(id)
-          : "concert_ids" in record && record.concert_ids.includes(concert.id),
+          : false,
     )
     .sort((a, b) => b.date.localeCompare(a.date));
   return (

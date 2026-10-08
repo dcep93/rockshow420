@@ -1,0 +1,28 @@
+{
+  "artist": "EKKSTACY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EKKSTACY",
+      "explicit": true,
+      "name": "i walk this earth all by myself"
+    },
+    {
+      "artists": "EKKSTACY, The Kid LAROI",
+      "name": "alright (feat. The Kid LAROI)"
+    },
+    {
+      "artists": "EKKSTACY",
+      "name": "it only gets worse, i promise"
+    },
+    {
+      "artists": "EKKSTACY",
+      "name": "Starry Eyes"
+    },
+    {
+      "artists": "EKKSTACY",
+      "name": "then i met her"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ynzbXwyCzxicMKHBoOkSH"
+}

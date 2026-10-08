@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import festivalConcertIds from "../data/festivalConcertIds.json";
+import { canonicalId } from "../data/ids";
 
 export function navigate(path: string, replace = false) {
   if (replace) window.history.replaceState(null, "", path);
@@ -29,10 +31,27 @@ export function slug(value: string) {
 }
 
 export function entityPath(kind: string, id: string, name: string) {
-  return `/${kind}/${encodeURIComponent(id)}/${slug(name)}`;
+  return `/${kind}/${encodeURIComponent(canonicalId(kind, id))}/${slug(name)}`;
+}
+
+export function canonicalPath(path: string): string {
+  try {
+    const parts = path.split("/");
+    const id = decodeURIComponent(parts[2] || "");
+    const canonical = canonicalId(parts[1], id);
+    const target = parts[1] === "festival" && Object.hasOwn(festivalConcertIds, canonical) ? (festivalConcertIds as Record<string, string>)[canonical] : undefined;
+    const next = target || canonical;
+    if (target) parts[1] = "concert";
+    if (next !== id) {
+      parts[2] = encodeURIComponent(next);
+      return parts.join("/");
+    }
+  } catch { /* Keep malformed paths for the not-found page. */ }
+  return path;
 }
 
 export function readRoute(path: string) {
+  path = canonicalPath(path);
   try {
     const parts = path.split("/").filter(Boolean).map(decodeURIComponent);
     if (!parts.length) return { kind: "home", id: "" };
@@ -40,11 +59,11 @@ export function readRoute(path: string) {
       return { kind: "manage", id: "" };
     if (parts[0] === "user" && parts.length === 2) return { kind: "user", id: parts[1].toLowerCase() };
     if (
-      ["venue", "artist", "festival", "concert"].includes(parts[0]) &&
+      ["venue", "artist", "concert"].includes(parts[0]) &&
       parts.length >= 2 &&
       parts.length <= 3
     )
-      return { kind: parts[0], id: parts[1] };
+      return { kind: parts[0], id: canonicalId(parts[0], parts[1]) };
   } catch {
     /* Malformed URL is a not-found page. */
   }

@@ -1,0 +1,11 @@
+/* Shared by newapp.sh. Keep Comic Sans when installed; bundle the mobile fallback. */
+@font-face {
+  font-family: "Comic Relief";
+  src: url("./fonts/ComicRelief-Regular.ttf?inline") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+}
+:root {
+  --app-title-font: "Comic Sans MS", "Comic Sans", "Comic Relief", sans-serif;
+}

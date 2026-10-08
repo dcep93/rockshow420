@@ -1,0 +1,27 @@
+{
+  "artist": "Rosa Linn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rosa Linn",
+      "name": "SNAP"
+    },
+    {
+      "artists": "Rosa Linn",
+      "name": "SNAP - High and Fast"
+    },
+    {
+      "artists": "Rosa Linn, Luca Schreiner",
+      "name": "SNAP - Luca Schreiner Remix"
+    },
+    {
+      "artists": "Rosa Linn",
+      "name": "SNAP - Low and Slow"
+    },
+    {
+      "artists": "Sam Feldt, Rosa Linn",
+      "name": "Heart Like Mine (feat. Rosa Linn)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/46xBNx0j6cwY6sD9LgMTm1"
+}

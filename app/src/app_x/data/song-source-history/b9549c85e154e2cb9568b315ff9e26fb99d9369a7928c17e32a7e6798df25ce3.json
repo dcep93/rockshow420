@@ -1,0 +1,47 @@
+{
+  "artist": "OK Go",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "OK Go",
+      "name": "Here It Goes Again"
+    },
+    {
+      "artists": "OK Go",
+      "name": "This Too Shall Pass"
+    },
+    {
+      "artists": "OK Go",
+      "name": "Shooting the Moon"
+    },
+    {
+      "artists": "OK Go",
+      "name": "Get Over It"
+    },
+    {
+      "artists": "OK Go",
+      "name": "Upside Down & Inside Out"
+    },
+    {
+      "artists": "OK Go",
+      "name": "I Won't Let You Down"
+    },
+    {
+      "artists": "OK Go",
+      "name": "The Writing's On the Wall"
+    },
+    {
+      "artists": "OK Go",
+      "name": "White Knuckles"
+    },
+    {
+      "artists": "OK Go",
+      "name": "Needing / Getting"
+    },
+    {
+      "artists": "OK Go",
+      "name": "A Million Ways"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3hozsZ9hqNq7CoBGYNlFTz"
+}

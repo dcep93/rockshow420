@@ -1,0 +1,47 @@
+{
+  "artist": "Green Day",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EGreen Day",
+      "name": "Boulevard of Broken Dreams"
+    },
+    {
+      "artists": "Green Day",
+      "name": "Basket Case"
+    },
+    {
+      "artists": "EGreen Day",
+      "name": "American Idiot"
+    },
+    {
+      "artists": "EGreen Day",
+      "name": "Wake Me Up When September Ends"
+    },
+    {
+      "artists": "EGreen Day",
+      "name": "Brain Stew"
+    },
+    {
+      "artists": "Green Day",
+      "name": "Holiday"
+    },
+    {
+      "artists": "EGreen Day",
+      "name": "Good Riddance (Time of Your Life)"
+    },
+    {
+      "artists": "Green Day",
+      "name": "21 Guns"
+    },
+    {
+      "artists": "Green Day",
+      "name": "When I Come Around"
+    },
+    {
+      "artists": "Green Day",
+      "name": "Last Night on Earth"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7oPftvlwr6VrsViSDV7fJY"
+}

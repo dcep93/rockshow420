@@ -1,0 +1,75 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Well"
+        },
+        {
+          "name": "Hero"
+        },
+        {
+          "name": "Inglewood Motel (Halestorm)"
+        },
+        {
+          "name": "Beautiful Stranger"
+        },
+        {
+          "name": "Honky Tonk Hell",
+          "notes": "(Gabe Lee cover)"
+        },
+        {
+          "name": "Die Alone",
+          "notes": "(The Marcus King Band song)"
+        },
+        {
+          "name": "Bipolar Love"
+        },
+        {
+          "name": "Goodbye Carolina",
+          "notes": "(The Marcus King Band song)"
+        },
+        {
+          "name": "F*ck My Life Up Again"
+        },
+        {
+          "name": "8 A.M.",
+          "notes": "(The Marcus King Band song)"
+        },
+        {
+          "name": "Shake the Frost",
+          "notes": "(Tyler Childers cover) (Acoustic)"
+        },
+        {
+          "name": "Lie Lie Lie"
+        },
+        {
+          "name": "Me and Bobby McGee",
+          "notes": "(Kris Kristofferson cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Delilah"
+        },
+        {
+          "name": "Wildflowers & Wine"
+        },
+        {
+          "name": "When a Man Loves a Woman",
+          "notes": "(Percy Sledge cover)"
+        },
+        {
+          "name": "War Pigs",
+          "notes": "(Black Sabbath cover) (with Grace Bowers)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/marcus-king/2024/brooklyn-paramount-brooklyn-ny-7b53ee08.html"
+}

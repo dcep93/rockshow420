@@ -1,0 +1,29 @@
+{
+  "artist": "SVDDEN DEATH",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marshmello, SVDDEN DEATH",
+      "explicit": true,
+      "name": "Crusade"
+    },
+    {
+      "artists": "SVDDEN DEATH",
+      "name": "Comprehension Barrier"
+    },
+    {
+      "artists": "SVDDEN DEATH",
+      "explicit": true,
+      "name": "Behemoth"
+    },
+    {
+      "artists": "SVDDEN DEATH, SLANDER",
+      "name": "Blood On Me"
+    },
+    {
+      "artists": "SVDDEN DEATH",
+      "name": "Behemoth VIP"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2u01kCKA5wDvvztuH8lyT0"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Harry Edohoukwa",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BLK ODYSSY, Harry Edohoukwa",
+      "explicit": true,
+      "name": "CREEP"
+    },
+    {
+      "artists": "LARA', Harry Edohoukwa, Rapsody",
+      "explicit": true,
+      "name": "Good Wine (feat. Rapsody)"
+    },
+    {
+      "artists": "Harry Edohoukwa",
+      "explicit": true,
+      "name": "FOUND ME"
+    },
+    {
+      "artists": "Harry Edohoukwa",
+      "explicit": true,
+      "name": "ZOMBiES"
+    },
+    {
+      "artists": "Harry Edohoukwa",
+      "explicit": true,
+      "name": "LIKE ME"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ugmrMhuc5JJjQFFwACJYa"
+}

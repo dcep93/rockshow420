@@ -1,0 +1,27 @@
+{
+  "artist": "Morgan Wade",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Morgan Wade",
+      "name": "Wilder Days"
+    },
+    {
+      "artists": "Morgan Wade",
+      "name": "Love's Insane"
+    },
+    {
+      "artists": "Morgan Wade",
+      "name": "Take Me Away"
+    },
+    {
+      "artists": "Morgan Wade, OurVinyl",
+      "name": "The Night (OurVinyl Sessions)"
+    },
+    {
+      "artists": "Morgan Wade, John Paul White",
+      "name": "Old History"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4eYE8Z6cfEHEdG22lTyucP"
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "Ed Maverick",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ed Maverick",
+      "explicit": true,
+      "name": "Fuentes de Ortiz"
+    },
+    {
+      "artists": "Ed Maverick, Bratty",
+      "explicit": true,
+      "name": "Ropa De Bazar"
+    },
+    {
+      "artists": "Ed Maverick",
+      "explicit": true,
+      "name": "Acurrucar"
+    },
+    {
+      "artists": "Jasiel Nuñez, Ed Maverick",
+      "name": "Linda Mujer"
+    },
+    {
+      "artists": "Ed Maverick",
+      "explicit": true,
+      "name": "Del río"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3JSSjGYcIkgsrz7892CelT"
+}

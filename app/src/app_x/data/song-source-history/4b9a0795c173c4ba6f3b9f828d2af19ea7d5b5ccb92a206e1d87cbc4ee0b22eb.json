@@ -1,0 +1,27 @@
+{
+  "artist": "GoGo Penguin",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "GoGo Penguin",
+      "name": "Hopopono"
+    },
+    {
+      "artists": "GoGo Penguin",
+      "name": "Murmuration"
+    },
+    {
+      "artists": "GoGo Penguin",
+      "name": "Branches Break"
+    },
+    {
+      "artists": "GoGo Penguin",
+      "name": "Don’t Go"
+    },
+    {
+      "artists": "GoGo Penguin",
+      "name": "Kamaloka"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/19f2JXwlRU26376TCKmp6L"
+}

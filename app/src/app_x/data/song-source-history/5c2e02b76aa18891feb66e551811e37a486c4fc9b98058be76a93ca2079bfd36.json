@@ -1,0 +1,29 @@
+{
+  "artist": "The Weeknd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Weeknd, Daft Punk",
+      "explicit": true,
+      "name": "Starboy"
+    },
+    {
+      "artists": "The Weeknd, JENNIE, Lily-Rose Depp",
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)"
+    },
+    {
+      "artists": "The Weeknd",
+      "name": "Blinding Lights"
+    },
+    {
+      "artists": "The Weeknd",
+      "name": "Die For You"
+    },
+    {
+      "artists": "The Weeknd, Playboi Carti",
+      "explicit": true,
+      "name": "Timeless (feat Playboi Carti)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+}

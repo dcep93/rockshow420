@@ -1,0 +1,27 @@
+{
+  "artist": "Cage The Elephant",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cage The Elephant",
+      "name": "Cigarette Daydreams"
+    },
+    {
+      "artists": "Cage The Elephant",
+      "name": "Ain't No Rest for the Wicked"
+    },
+    {
+      "artists": "Cage The Elephant",
+      "name": "Come a Little Closer"
+    },
+    {
+      "artists": "Cage The Elephant",
+      "name": "Trouble"
+    },
+    {
+      "artists": "Cage The Elephant",
+      "name": "Dying In Reverse"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/26T3LtbuGT1Fu9m0eRq5X3"
+}

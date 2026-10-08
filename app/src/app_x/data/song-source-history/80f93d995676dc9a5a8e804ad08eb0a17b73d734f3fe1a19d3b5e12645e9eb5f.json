@@ -1,0 +1,28 @@
+{
+  "artist": "Guided By Voices",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Guided By Voices",
+      "name": "Game Of Pricks"
+    },
+    {
+      "artists": "Guided By Voices",
+      "name": "If We Wait"
+    },
+    {
+      "artists": "Guided By Voices",
+      "explicit": true,
+      "name": "As We Go Up, We Go Down"
+    },
+    {
+      "artists": "Guided By Voices",
+      "name": "I Am A Scientist"
+    },
+    {
+      "artists": "Guided By Voices",
+      "name": "Hot Freaks"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4oV5EVJ0XFWsJKoOvdRPvl"
+}

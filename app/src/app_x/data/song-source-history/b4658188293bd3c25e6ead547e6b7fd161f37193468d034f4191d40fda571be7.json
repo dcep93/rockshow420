@@ -1,0 +1,29 @@
+{
+  "artist": "GIVĒON",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Justin Bieber, Daniel Caesar, GIVĒON",
+      "explicit": true,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)"
+    },
+    {
+      "artists": "GIVĒON",
+      "name": "Heartbreak Anniversary"
+    },
+    {
+      "artists": "Drake, GIVĒON",
+      "explicit": true,
+      "name": "Chicago Freestyle (feat. Giveon)"
+    },
+    {
+      "artists": "GIVĒON",
+      "name": "Like I Want You"
+    },
+    {
+      "artists": "GIVĒON",
+      "name": "TWENTIES"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+}

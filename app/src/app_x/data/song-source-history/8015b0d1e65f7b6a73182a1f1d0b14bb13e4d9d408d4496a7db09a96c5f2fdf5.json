@@ -1,0 +1,28 @@
+{
+  "artist": "Alan Walker",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alan Walker",
+      "name": "Faded"
+    },
+    {
+      "artists": "Alok, Alan Walker, KIDDO",
+      "name": "Headlights (feat. KIDDO)"
+    },
+    {
+      "artists": "Alan Walker, Dash Berlin, Vikkstar",
+      "name": "Better Off (Alone, Pt. III)"
+    },
+    {
+      "artists": "Alan Walker",
+      "name": "Alone"
+    },
+    {
+      "artists": "Alan Walker, Sabrina Carpenter, Farruko",
+      "explicit": true,
+      "name": "On My Way"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7vk5e3vY1uw9plTHJAMwjN"
+}

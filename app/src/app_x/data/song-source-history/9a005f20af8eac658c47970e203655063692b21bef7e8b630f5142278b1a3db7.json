@@ -1,0 +1,29 @@
+{
+  "artist": "Noga Erez",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Noga Erez",
+      "name": "Vandalist"
+    },
+    {
+      "artists": "Noga Erez",
+      "name": "DUMB"
+    },
+    {
+      "artists": "Noga Erez, Reo Cragun, ROUSSO",
+      "explicit": true,
+      "name": "VIEWS"
+    },
+    {
+      "artists": "Noga Erez",
+      "explicit": true,
+      "name": "BUBBLING"
+    },
+    {
+      "artists": "Noga Erez",
+      "name": "End of the Road"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+}

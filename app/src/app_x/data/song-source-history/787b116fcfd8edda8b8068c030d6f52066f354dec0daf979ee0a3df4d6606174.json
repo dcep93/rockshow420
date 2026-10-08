@@ -1,0 +1,27 @@
+{
+  "artist": "Stolen Gin",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Stolen Gin, ADLR, Different Hits",
+      "name": "Gypsy Woman"
+    },
+    {
+      "artists": "Stolen Gin",
+      "name": "If We Go Down"
+    },
+    {
+      "artists": "Stolen Gin",
+      "name": "Out of Sight and Mind"
+    },
+    {
+      "artists": "Stolen Gin",
+      "name": "Analie"
+    },
+    {
+      "artists": "Stolen Gin",
+      "name": "Underwater"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6sItBAb1Jl3KiNo6o3G0mG"
+}

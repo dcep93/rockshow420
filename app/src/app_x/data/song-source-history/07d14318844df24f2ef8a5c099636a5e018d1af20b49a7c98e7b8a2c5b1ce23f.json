@@ -1,0 +1,28 @@
+{
+  "artist": "Trevor Daniel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Trevor Daniel",
+      "name": "Falling"
+    },
+    {
+      "artists": "FLETCHER, Trevor Daniel",
+      "explicit": true,
+      "name": "Bitter"
+    },
+    {
+      "artists": "Trevor Daniel, Selena Gomez",
+      "name": "Past Life (with Selena Gomez)"
+    },
+    {
+      "artists": "Trevor Daniel, blackbear",
+      "name": "Falling (feat. blackbear) - blackbear Remix"
+    },
+    {
+      "artists": "Sigala, Trevor Daniel, 24kGoldn",
+      "name": "It's A Feeling"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7uaIm6Pw7xplS8Dy06V6pT"
+}

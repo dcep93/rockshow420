@@ -1,0 +1,53 @@
+{
+  "artist": "Ruby Waters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ruby Waters",
+      "name": "WET T-SHIRT"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Quantum Physics"
+    },
+    {
+      "artists": "Ruby Waters",
+      "name": "Liquor Run"
+    },
+    {
+      "artists": "Ruby Waters",
+      "name": "GET A GRIP"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Sweet Sublime"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "BLINDERS"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Supernatural"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "6 FEET UNDER"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Adult Swim"
+    },
+    {
+      "artists": "Ruby Waters",
+      "name": "Droppin Out"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ybU1P0ufoGH5CMclUKebd"
+}

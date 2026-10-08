@@ -1,0 +1,27 @@
+{
+  "artist": "SAYMYNAME",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Junkie Kid, SAYMYNAME, POISAN",
+      "name": "WHAT'S UP FOO"
+    },
+    {
+      "artists": "Junkie Kid, SAYMYNAME, POISAN",
+      "name": "WHAT'S UP FOO - Extended Mix"
+    },
+    {
+      "artists": "Riot Ten, SAYMYNAME, Milano The Don",
+      "name": "Glocks (feat. Milano The Don)"
+    },
+    {
+      "artists": "SLANDER, SAYMYNAME, Feli Ferraro, Mahalo",
+      "name": "I Can't Escape - Mahalo Remix"
+    },
+    {
+      "artists": "SAYMYNAME",
+      "name": "Drop It"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1PP0a3KRZiaqtahgtJ3bdv"
+}

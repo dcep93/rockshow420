@@ -16,16 +16,13 @@ export function Manager({
     concert: "Concerts",
     venue: "Venues",
     artist: "Artists",
-    festival: "Festivals",
   };
   const items =
     kind === "concert"
       ? catalog.concerts.map((item) => ({ id: item.id, name: concertName(item, catalog) }))
       : kind === "artist"
         ? catalog.artists
-        : kind === "venue"
-          ? catalog.venues
-          : catalog.festivals;
+        : catalog.venues;
   const visible = items.filter((item) => item.name.toLowerCase().includes(search.toLowerCase()));
   return (
     <section className="rs-manager">

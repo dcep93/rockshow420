@@ -1,0 +1,28 @@
+{
+  "artist": "King Willow",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "King Willow",
+      "explicit": true,
+      "name": "Your Band"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Talk Like That"
+    },
+    {
+      "artists": "King Willow",
+      "name": "California"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Galapagos"
+    },
+    {
+      "artists": "King Willow",
+      "name": "Settled"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/69KMf1tEHAWHxacVjcjqKD"
+}

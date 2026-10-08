@@ -1,0 +1,29 @@
+{
+  "artist": "Toosii",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Toosii",
+      "name": "Favorite Song"
+    },
+    {
+      "artists": "Lil Tjay, Toosii",
+      "explicit": true,
+      "name": "Love Hurts (feat. Toosii)"
+    },
+    {
+      "artists": "Toosii",
+      "explicit": true,
+      "name": "Love is..."
+    },
+    {
+      "artists": "Toosii, Khalid",
+      "name": "Favorite Song (with Khalid) [Remix]"
+    },
+    {
+      "artists": "Toosii",
+      "name": "Yesterday"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6BH1xcDkwbbyrLMUKECsW1"
+}

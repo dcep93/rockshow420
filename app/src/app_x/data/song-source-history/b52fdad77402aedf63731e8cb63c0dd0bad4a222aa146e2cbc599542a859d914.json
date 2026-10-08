@@ -1,0 +1,32 @@
+{
+  "artist": "Joey Bada$$",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Joey Bada$$",
+      "explicit": true,
+      "name": "Love Is Only a Feeling"
+    },
+    {
+      "artists": "Joey Bada$$",
+      "explicit": true,
+      "name": "Show Me"
+    },
+    {
+      "artists": "Joey Bada$$",
+      "explicit": true,
+      "name": "TEMPTATION"
+    },
+    {
+      "artists": "Joey Bada$$",
+      "explicit": true,
+      "name": "Righteous Minds"
+    },
+    {
+      "artists": "Joey Bada$$",
+      "explicit": true,
+      "name": "DEVASTATED"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2P5sC9cVZDToPxyomzF1UH"
+}

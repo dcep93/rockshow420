@@ -1,0 +1,28 @@
+{
+  "artist": "Dani Deahl",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pegboard Nerds, Dani Deahl",
+      "name": "BADBOI - Dani Deahl Remix"
+    },
+    {
+      "artists": "Armin van Buuren, Dani Deahl",
+      "name": "Ping Pong - Dani Deahl Remix"
+    },
+    {
+      "artists": "Dani Deahl, The Dirty Tees",
+      "name": "Paralyzed - Radio Edit"
+    },
+    {
+      "artists": "Dani Deahl, Rohan da Great",
+      "explicit": true,
+      "name": "SMYK (feat. Rohan da Great)"
+    },
+    {
+      "artists": "Gazzo, Dani Deahl, Crywolf",
+      "name": "Control Myself"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ZSfvlL7saepOXm3vAloZ3"
+}

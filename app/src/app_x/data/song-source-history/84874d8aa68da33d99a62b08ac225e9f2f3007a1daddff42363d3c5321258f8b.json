@@ -1,0 +1,51 @@
+{
+  "artist": "IDLES",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gorillaz, IDLES",
+      "name": "The God of Lying (feat. IDLES)"
+    },
+    {
+      "artists": "IDLES, LCD Soundsystem",
+      "name": "Dancer"
+    },
+    {
+      "artists": "IDLES",
+      "explicit": true,
+      "name": "Never Fight A Man With A Perm"
+    },
+    {
+      "artists": "IDLES",
+      "explicit": true,
+      "name": "Gift Horse"
+    },
+    {
+      "artists": "IDLES",
+      "name": "I'm Scum"
+    },
+    {
+      "artists": "IDLES",
+      "explicit": true,
+      "name": "Mother"
+    },
+    {
+      "artists": "IDLES",
+      "explicit": true,
+      "name": "Danny Nedelko"
+    },
+    {
+      "artists": "IDLES",
+      "name": "POP POP POP"
+    },
+    {
+      "artists": "IDLES",
+      "name": "The Beachland Ballroom"
+    },
+    {
+      "artists": "IDLES, Gang Of Four",
+      "name": "Damaged Goods"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/75mafsNqNE1WSEVxIKuY5C"
+}

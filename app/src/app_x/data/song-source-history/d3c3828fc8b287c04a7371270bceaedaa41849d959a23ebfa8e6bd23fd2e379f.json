@@ -1,0 +1,27 @@
+{
+  "artist": "Ripe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ripe",
+      "name": "Downward"
+    },
+    {
+      "artists": "Ripe",
+      "name": "First Time Feeling"
+    },
+    {
+      "artists": "Ripe",
+      "name": "Little Lighter"
+    },
+    {
+      "artists": "Ripe",
+      "name": "Pretty Dirty (In the Fading Light)"
+    },
+    {
+      "artists": "Ripe",
+      "name": "Five in the Morning"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/19lQ2rJLlP71FOKESiMNJT"
+}

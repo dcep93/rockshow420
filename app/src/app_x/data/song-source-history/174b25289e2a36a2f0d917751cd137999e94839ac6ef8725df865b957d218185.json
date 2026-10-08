@@ -1,0 +1,30 @@
+{
+  "artist": "Lizzo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lizzo",
+      "explicit": true,
+      "name": "About Damn Time"
+    },
+    {
+      "artists": "Lizzo",
+      "explicit": true,
+      "name": "Truth Hurts"
+    },
+    {
+      "artists": "Lizzo",
+      "name": "Good as Hell"
+    },
+    {
+      "artists": "Lizzo",
+      "explicit": true,
+      "name": "Juice"
+    },
+    {
+      "artists": "Lizzo",
+      "name": "2 Be Loved (Am I Ready)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/56oDRnqbIiwx4mymNEv7dS"
+}

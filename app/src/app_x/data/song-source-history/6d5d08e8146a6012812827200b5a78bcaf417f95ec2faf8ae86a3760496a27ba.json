@@ -1,0 +1,32 @@
+{
+  "artist": "Flo Milli",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flo Milli",
+      "explicit": true,
+      "name": "Never Lose Me"
+    },
+    {
+      "artists": "Lah Pat, Flo Milli",
+      "explicit": true,
+      "name": "Rodeo (Remix)"
+    },
+    {
+      "artists": "Megan Thee Stallion, Flo Milli",
+      "explicit": true,
+      "name": "Roc Steady (feat. Flo Milli)"
+    },
+    {
+      "artists": "Flo Milli",
+      "explicit": true,
+      "name": "Flo Jackson"
+    },
+    {
+      "artists": "Tate McRae, Flo Milli",
+      "explicit": true,
+      "name": "bloodonmyhands (feat. Flo Milli)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/08PvCOlef4xdOr20jFSTPd"
+}

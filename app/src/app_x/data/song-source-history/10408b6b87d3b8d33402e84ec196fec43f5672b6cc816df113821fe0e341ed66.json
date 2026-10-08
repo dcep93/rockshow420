@@ -1,0 +1,27 @@
+{
+  "artist": "ACRAZE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ACRAZE, Cherish",
+      "name": "Do It To It"
+    },
+    {
+      "artists": "Sam Smith, Kim Petras, ACRAZE",
+      "name": "Unholy (feat. Kim Petras) - ACRAZE Remix"
+    },
+    {
+      "artists": "ACRAZE, Cherish, Tiësto",
+      "name": "Do It To It - Tiësto Remix"
+    },
+    {
+      "artists": "ACRAZE",
+      "name": "Funky Town"
+    },
+    {
+      "artists": "ACRAZE",
+      "name": "Take Me Away"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4pnp4w9g30yLfVIAFnZMRd"
+}

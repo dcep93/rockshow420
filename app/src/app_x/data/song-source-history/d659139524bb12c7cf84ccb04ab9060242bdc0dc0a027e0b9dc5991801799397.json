@@ -1,0 +1,27 @@
+{
+  "artist": "Perfume Genius",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Perfume Genius",
+      "name": "Natural High"
+    },
+    {
+      "artists": "Perfume Genius",
+      "name": "Slip Away"
+    },
+    {
+      "artists": "Bronski Beat, The Knocks, Perfume Genius",
+      "name": "Smalltown Boy (feat. Perfume Genius)"
+    },
+    {
+      "artists": "Perfume Genius",
+      "name": "Queen"
+    },
+    {
+      "artists": "Perfume Genius",
+      "name": "On the Floor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ueoLVCXQ948OfhVvAy3Nn"
+}

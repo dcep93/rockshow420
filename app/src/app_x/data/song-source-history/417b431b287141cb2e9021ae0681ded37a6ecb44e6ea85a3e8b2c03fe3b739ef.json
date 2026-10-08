@@ -1,0 +1,48 @@
+{
+  "artist": "The Fratellis",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Fratellis",
+      "name": "Chelsea Dagger"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "She's Not Gone Yet but She's Leaving"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Whistle For The Choir"
+    },
+    {
+      "artists": "The Fratellis",
+      "explicit": true,
+      "name": "Henrietta"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Rock n Roll Will Break Your Heart"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Flathead"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Creepin Up The Backstairs"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Baby Fratelli"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "For The Girl"
+    },
+    {
+      "artists": "The Fratellis",
+      "name": "Yes Sir, I Can Boogie"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3M4ThdJR28z9eSMcQHAZ5G"
+}

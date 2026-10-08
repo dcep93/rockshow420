@@ -1,0 +1,27 @@
+{
+  "artist": "Grace Enger",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Grace Enger",
+      "name": "The Neighborhood"
+    },
+    {
+      "artists": "Grace Enger, Bebe Stockwell",
+      "name": "Winter Song"
+    },
+    {
+      "artists": "Bebe Stockwell, Grace Enger",
+      "name": "Look At Us Now (feat. Grace Enger)"
+    },
+    {
+      "artists": "Grace Enger",
+      "name": "Running Back To You"
+    },
+    {
+      "artists": "Grace Enger",
+      "name": "All My Songs"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/49EzPBcvDdWe93QJcA7UPf"
+}

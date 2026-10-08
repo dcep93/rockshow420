@@ -1,0 +1,27 @@
+{
+  "artist": "The Red Clay Strays",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Red Clay Strays",
+      "name": "Wondering Why"
+    },
+    {
+      "artists": "The Red Clay Strays",
+      "name": "Wanna Be Loved"
+    },
+    {
+      "artists": "The Red Clay Strays",
+      "name": "I'm Still Fine"
+    },
+    {
+      "artists": "The Red Clay Strays",
+      "name": "Drowning"
+    },
+    {
+      "artists": "The Red Clay Strays",
+      "name": "Stone's Throw"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6IKlXZEFOvk9itrP1s0knJ"
+}

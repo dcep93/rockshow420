@@ -1,0 +1,27 @@
+{
+  "artist": "The California Honeydrops",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The California Honeydrops",
+      "name": "365 Flavors"
+    },
+    {
+      "artists": "The California Honeydrops",
+      "name": "Live Learn"
+    },
+    {
+      "artists": "The California Honeydrops",
+      "name": "When It Was Wrong"
+    },
+    {
+      "artists": "The California Honeydrops",
+      "name": "All Day, All Night"
+    },
+    {
+      "artists": "The California Honeydrops, Amethyst Starr",
+      "name": "Lead Me Home"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/21t0aavYGSGFkYYFhu6urk"
+}

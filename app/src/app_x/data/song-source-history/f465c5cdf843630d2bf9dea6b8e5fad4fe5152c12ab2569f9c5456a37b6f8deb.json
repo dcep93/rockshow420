@@ -1,0 +1,47 @@
+{
+  "artist": "Norah Jones",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Norah Jones",
+      "name": "Don't Know Why"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Sunrise"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Come Away With Me"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Turn Me On"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Those Sweet Words"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "What Am I To You?"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Carry On"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "The Nearness Of You"
+    },
+    {
+      "artists": "Norah Jones",
+      "name": "Shoot The Moon"
+    },
+    {
+      "artists": "Norah Jones, Dolly Parton",
+      "name": "Creepin' In"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Kx7MNY7cI1ENniW7vT30N"
+}

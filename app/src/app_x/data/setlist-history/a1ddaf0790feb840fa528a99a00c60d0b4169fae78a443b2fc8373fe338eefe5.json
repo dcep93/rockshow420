@@ -1,0 +1,91 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Before \"Swept Away\", Scott announces 'Swept Away\" the musical will be opening on Broadway in the Fall; the cast joins the band on stage to sing the title song.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Never Apart (w/ Vocal Prelude)"
+        },
+        {
+          "name": "Satan Pulls the Strings"
+        },
+        {
+          "name": "Live and Die"
+        },
+        {
+          "name": "Swept Away",
+          "notes": "(with Wayne Duvall) (Adrian Blake Enscoe, John Gallagher Jr., and Stark Sands)"
+        },
+        {
+          "name": "Love of a Girl"
+        },
+        {
+          "name": "Murder in the City"
+        },
+        {
+          "name": "Country Kid"
+        },
+        {
+          "name": "Forever Now"
+        },
+        {
+          "name": "Vanity"
+        },
+        {
+          "name": "Kick Drum Heart"
+        },
+        {
+          "name": "Cheap Coffee"
+        },
+        {
+          "name": "I and Love and You"
+        },
+        {
+          "name": "I Wish I Was"
+        },
+        {
+          "name": "Hard Worker",
+          "notes": "(with The Avetts puppets: Seth Monster, Scott Monster, Bob Monster)"
+        },
+        {
+          "name": "I Would Be Sad",
+          "notes": "(with The Avetts puppets: Seth Monster, Scott Monster, Bob Monster)"
+        },
+        {
+          "name": "Head Full of Doubt/Road Full of Promise"
+        },
+        {
+          "name": "Orion's Belt"
+        },
+        {
+          "name": "2020 Regret"
+        },
+        {
+          "name": "Ain't No Man",
+          "notes": "(with The Avetts puppets: Seth Monster, Scott Monster, Bob Monster)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "We Are Loved",
+          "notes": "(Scott & Seth acoustic; downstage edge)"
+        },
+        {
+          "name": "Laundry Room"
+        },
+        {
+          "name": "Talk on Indolence"
+        },
+        {
+          "name": "No Hard Feelings"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-avett-brothers/2024/forest-hills-stadium-queens-ny-3abb9db.html"
+}

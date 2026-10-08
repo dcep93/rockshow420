@@ -1,0 +1,32 @@
+{
+  "artist": "Berner",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Berner, T3R Elemento",
+      "explicit": true,
+      "name": "El Chivo (feat. T3r Elemento)"
+    },
+    {
+      "artists": "Berner, T3R Elemento",
+      "explicit": true,
+      "name": "Somebody's Girl"
+    },
+    {
+      "artists": "Berner, Babyface Ray",
+      "explicit": true,
+      "name": "Reminiscing"
+    },
+    {
+      "artists": "Berner, Nava",
+      "explicit": true,
+      "name": "Volando"
+    },
+    {
+      "artists": "Berner",
+      "explicit": true,
+      "name": "20 Joints"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2lrtGWxNXWjd0JzDLKXubI"
+}

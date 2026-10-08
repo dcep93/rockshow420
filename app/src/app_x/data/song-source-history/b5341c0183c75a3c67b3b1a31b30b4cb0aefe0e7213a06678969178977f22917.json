@@ -1,0 +1,27 @@
+{
+  "artist": "J. Worra",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "J. Worra, Leo Stannard",
+      "name": "Check Out"
+    },
+    {
+      "artists": "J. Worra, Bipolar Sunshine",
+      "name": "Music Don't Stop"
+    },
+    {
+      "artists": "J. Worra",
+      "name": "Talk"
+    },
+    {
+      "artists": "J. Worra, Taylor Moody",
+      "name": "Lose My Mind"
+    },
+    {
+      "artists": "J. Worra, Nathan Nicholson",
+      "name": "Lightning To Strike"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4q0N3EI67tVnAeeaXbNQIj"
+}

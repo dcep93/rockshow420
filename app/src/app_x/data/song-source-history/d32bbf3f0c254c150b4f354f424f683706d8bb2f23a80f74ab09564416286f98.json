@@ -1,0 +1,29 @@
+{
+  "artist": "Feid",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Feid, ATL Jacob",
+      "name": "LUNA"
+    },
+    {
+      "artists": "KAROL G, Feid",
+      "name": "Verano Rosa"
+    },
+    {
+      "artists": "Bad Bunny, Feid",
+      "explicit": true,
+      "name": "PERRO NEGRO"
+    },
+    {
+      "artists": "Feid, Young Miko",
+      "explicit": true,
+      "name": "CLASSY 101"
+    },
+    {
+      "artists": "Feid, El Americano 4KT, Pirlo",
+      "name": "PARADIXE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2LRoIwlKmHjgvigdNGBHNo"
+}

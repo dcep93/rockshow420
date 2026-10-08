@@ -1,0 +1,27 @@
+{
+  "artist": "Sofy Suars",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sofy Suars, Genosidra",
+      "name": "NO ME INVITES"
+    },
+    {
+      "artists": "Sofy Suars, Genosidra",
+      "name": "BOCA LLENA"
+    },
+    {
+      "artists": "Sofy Suars, Genosidra, SEWA",
+      "name": "BOCA LLENA (Sewa Choki Remix)"
+    },
+    {
+      "artists": "Sofy Suars, Genosidra, LaJelboi",
+      "name": "NO ME INVITES (LaJelboi Remix)"
+    },
+    {
+      "artists": "Sofy Suars, Genosidra, Fortunato",
+      "name": "NO ME INVITES (Fortunato Remix)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4measzsPGppUmapFbJ9s1d"
+}

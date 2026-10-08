@@ -1,0 +1,27 @@
+{
+  "artist": "ANOTR",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ANOTR, 54 Ultra",
+      "name": "Talk To You (ft. 54 Ultra)"
+    },
+    {
+      "artists": "ANOTR, Abel Balder",
+      "name": "Relax My Eyes"
+    },
+    {
+      "artists": "ANOTR, Emily Warren",
+      "name": "Silver Lines"
+    },
+    {
+      "artists": "ANOTR, Leven Kali, Erik Bandt",
+      "name": "How You Feel (ft Leven Kali)"
+    },
+    {
+      "artists": "ANOTR, 3DDY",
+      "name": "Like It"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4p5WgeiPSPpqPDs7T6OkWf"
+}

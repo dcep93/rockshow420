@@ -1,0 +1,27 @@
+{
+  "artist": "MorMor",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MorMor",
+      "name": "Heaven's Only Wishful"
+    },
+    {
+      "artists": "MorMor",
+      "name": "Some Place Else"
+    },
+    {
+      "artists": "MorMor",
+      "name": "Pass The Hours"
+    },
+    {
+      "artists": "MorMor",
+      "name": "Don't Need It"
+    },
+    {
+      "artists": "MorMor",
+      "name": "Outside"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/63vaeIIBKIe9zT91EORVbr"
+}

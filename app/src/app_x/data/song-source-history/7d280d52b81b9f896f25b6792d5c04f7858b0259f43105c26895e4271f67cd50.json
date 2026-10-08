@@ -1,0 +1,27 @@
+{
+  "artist": "Seven Lions",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Seven Lions, Myon, Shane 54, Tove Lo",
+      "name": "Strangers"
+    },
+    {
+      "artists": "Seven Lions, SLANDER, Dabin, Dylan Matthew",
+      "name": "First Time (feat. Dylan Matthew)"
+    },
+    {
+      "artists": "Gryffin, Seven Lions, Noah Kahan",
+      "name": "Need Your Love (with Noah Kahan)"
+    },
+    {
+      "artists": "Seven Lions, ILLENIUM, Said The Sky, HALIENE",
+      "name": "Rush Over Me"
+    },
+    {
+      "artists": "Seven Lions, Kill The Noise",
+      "name": "I Need"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6fcTRFpz0yH79qSKfof7lp"
+}

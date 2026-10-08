@@ -1,0 +1,28 @@
+{
+  "artist": "Wiegedood",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wiegedood",
+      "name": "De Doden Hebben Het Goed"
+    },
+    {
+      "artists": "Wiegedood",
+      "explicit": true,
+      "name": "FN SCAR 16"
+    },
+    {
+      "artists": "Wiegedood",
+      "name": "Ontzieling"
+    },
+    {
+      "artists": "Wiegedood",
+      "name": "Svanesang"
+    },
+    {
+      "artists": "Wiegedood",
+      "name": "Now Will Always Be"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1JjP30v8j95bAMZN3ws8Kb"
+}

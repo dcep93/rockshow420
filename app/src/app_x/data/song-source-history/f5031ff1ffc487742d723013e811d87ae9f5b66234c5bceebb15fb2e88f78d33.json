@@ -1,0 +1,27 @@
+{
+  "artist": "Dayglow",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dayglow",
+      "name": "Can I Call You Tonight?"
+    },
+    {
+      "artists": "Dayglow",
+      "name": "Hot Rod"
+    },
+    {
+      "artists": "Dayglow",
+      "name": "Close To You"
+    },
+    {
+      "artists": "Dayglow",
+      "name": "Listerine"
+    },
+    {
+      "artists": "Dayglow",
+      "name": "Run the World!!!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6eJa3zG1QZLRB3xgRuyxbm"
+}

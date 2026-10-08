@@ -1,0 +1,47 @@
+{
+  "artist": "John Mayer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "John Mayer",
+      "name": "New Light"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Slow Dancing in a Burning Room"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Waiting On the World to Change"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Gravity"
+    },
+    {
+      "artists": "Lainey Wilson, John Mayer",
+      "name": "Phone, Keys, Wallet"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Your Body Is a Wonderland"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "You're Gonna Live Forever in Me"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Daughters"
+    },
+    {
+      "artists": "Zach Bryan, John Mayer",
+      "name": "Better Days (feat. John Mayer)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0hEurMDQu99nJRq8pTxO14"
+}

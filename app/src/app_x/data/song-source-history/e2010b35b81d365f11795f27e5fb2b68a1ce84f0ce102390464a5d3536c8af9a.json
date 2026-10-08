@@ -1,0 +1,28 @@
+{
+  "artist": "Labrinth",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sia, Diplo, Labrinth, LSD",
+      "name": "Genius (feat. Sia, Diplo, and Labrinth)"
+    },
+    {
+      "artists": "Labrinth",
+      "name": "Formula (From \"Euphoria: Season 1\" Soundtrack)"
+    },
+    {
+      "artists": "Labrinth, Zendaya",
+      "name": "All For Us"
+    },
+    {
+      "artists": "Labrinth",
+      "name": "Never Felt So Alone"
+    },
+    {
+      "artists": "Labrinth",
+      "explicit": true,
+      "name": "Mount Everest"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2feDdbD5araYcm6JhFHHw7"
+}

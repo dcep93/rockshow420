@@ -1,0 +1,27 @@
+{
+  "artist": "Shannon & The Clams",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Shannon & The Clams",
+      "name": "The Boy"
+    },
+    {
+      "artists": "Shannon & The Clams",
+      "name": "Ozma"
+    },
+    {
+      "artists": "Shannon & The Clams",
+      "name": "Vanishing"
+    },
+    {
+      "artists": "Shannon & The Clams",
+      "name": "Runaway"
+    },
+    {
+      "artists": "Shannon & The Clams",
+      "name": "I Leave Again"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+}

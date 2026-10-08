@@ -1,0 +1,47 @@
+{
+  "artist": "San Francisco Symphony",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gabriel Fauré, San Francisco Symphony, Michael Tilson Thomas",
+      "name": "Fauré: Pavane, Op. 50"
+    },
+    {
+      "artists": "Edvard Grieg, San Francisco Symphony, Herbert Blomstedt",
+      "name": "Peer Gynt, Op. 23, Act IV: No. 13, Prelude. Morning Mood"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "Nothing Else Matters (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "All Within My Hands (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "The Unforgiven III (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "The Day that Never Comes (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "No Leaf Clover (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "For Whom the Bell Tolls (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "The Ecstasy of Gold (Live)"
+    },
+    {
+      "artists": "Metallica, San Francisco Symphony",
+      "name": "Enter Sandman (Live)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1qHStDLIc8uV7hvTG6FGRJ"
+}

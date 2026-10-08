@@ -1,0 +1,27 @@
+{
+  "artist": "Finish Ticket",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Finish Ticket",
+      "name": "Dream Song"
+    },
+    {
+      "artists": "Finish Ticket",
+      "name": "Color - Remastered"
+    },
+    {
+      "artists": "Finish Ticket",
+      "name": "Ceiling Won't Break"
+    },
+    {
+      "artists": "Finish Ticket",
+      "name": "Wrong"
+    },
+    {
+      "artists": "Finish Ticket",
+      "name": "Scavenger"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3RthMq3xfDQZl80cMEg1JQ"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Sunday (1994)",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sunday (1994)",
+      "explicit": true,
+      "name": "Tired Boy"
+    },
+    {
+      "artists": "Sunday (1994)",
+      "explicit": true,
+      "name": "Blonde"
+    },
+    {
+      "artists": "Sunday (1994)",
+      "name": "TV Car Chase"
+    },
+    {
+      "artists": "Sunday (1994)",
+      "name": "Stained Glass Window"
+    },
+    {
+      "artists": "Sunday (1994)",
+      "name": "Devotion"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1vTFaCiaR50b2IXELHW52U"
+}

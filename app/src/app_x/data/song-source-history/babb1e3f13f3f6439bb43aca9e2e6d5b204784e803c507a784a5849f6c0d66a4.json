@@ -1,0 +1,27 @@
+{
+  "artist": "Mac DeMarco",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mac DeMarco",
+      "name": "For the First Time"
+    },
+    {
+      "artists": "Mac DeMarco",
+      "name": "Chamber Of Reflection"
+    },
+    {
+      "artists": "Mac DeMarco",
+      "name": "Heart To Heart"
+    },
+    {
+      "artists": "Mac DeMarco",
+      "name": "My Kind of Woman"
+    },
+    {
+      "artists": "Mac DeMarco",
+      "name": "No Other Heart"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+}

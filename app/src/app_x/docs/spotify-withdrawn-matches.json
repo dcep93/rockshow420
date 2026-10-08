@@ -1,0 +1,29 @@
+{
+  "reason": "Unverified same-name identities withdrawn from the current cache. Their immutable source snapshots remain historical evidence only.",
+  "entries": {
+    "law": {
+      "content_sha256": "a9e68466279e3731e85ca6ba948b6978ed27082745221778975031c05cebaa26",
+      "first_fetched_at": "2026-10-08T05:53:24.019746+00:00",
+      "last_fetched_at": "2026-10-08T05:53:24.019746+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-08T05:53:24.019746+00:00",
+          "sha256": "a9e68466279e3731e85ca6ba948b6978ed27082745221778975031c05cebaa26"
+        }
+      ],
+      "source_html_sha256": "7390ad47e25d0fe345db65326c3b12979230149174b5de87233d0ae8a6e6802b"
+    },
+    "walrus": {
+      "content_sha256": "3d56ba9bfaef00407628fa10509212792bed6d3ed2ed811939bc2a65909c4451",
+      "first_fetched_at": "2026-10-08T05:55:05.656935+00:00",
+      "last_fetched_at": "2026-10-08T05:55:05.656935+00:00",
+      "revisions": [
+        {
+          "first_seen_at": "2026-10-08T05:55:05.656935+00:00",
+          "sha256": "3d56ba9bfaef00407628fa10509212792bed6d3ed2ed811939bc2a65909c4451"
+        }
+      ],
+      "source_html_sha256": "f1dc003d58e6b4aab422aec9e2e33544f0c6820e2aa80823ff059105b5bba09a"
+    }
+  }
+}

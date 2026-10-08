@@ -1,0 +1,28 @@
+{
+  "artist": "Olivia Rodrigo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Olivia Rodrigo",
+      "explicit": true,
+      "name": "the cure"
+    },
+    {
+      "artists": "Olivia Rodrigo",
+      "name": "stupid song"
+    },
+    {
+      "artists": "Olivia Rodrigo",
+      "name": "drop dead"
+    },
+    {
+      "artists": "Olivia Rodrigo",
+      "name": "honeybee"
+    },
+    {
+      "artists": "Olivia Rodrigo",
+      "name": "maggots for brains"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1McMsnEElThX1knmY4oliG"
+}

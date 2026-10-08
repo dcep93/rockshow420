@@ -1,0 +1,27 @@
+{
+  "artist": "Band of Horses",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Band of Horses",
+      "name": "The Funeral"
+    },
+    {
+      "artists": "Band of Horses",
+      "name": "No One's Gonna Love You"
+    },
+    {
+      "artists": "Band of Horses",
+      "name": "Our Swords"
+    },
+    {
+      "artists": "Band of Horses",
+      "name": "Is There A Ghost"
+    },
+    {
+      "artists": "Band of Horses",
+      "name": "Detlef Schrempf"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0OdUWJ0sBjDrqHygGUXeCF"
+}

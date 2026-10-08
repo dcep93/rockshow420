@@ -1,0 +1,32 @@
+{
+  "artist": "Tyler, The Creator",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tyler, The Creator, Kali Uchis",
+      "explicit": true,
+      "name": "See You Again (feat. Kali Uchis)"
+    },
+    {
+      "artists": "Tyler, The Creator, Lola Young",
+      "explicit": true,
+      "name": "Like Him (feat. Lola Young)"
+    },
+    {
+      "artists": "Tyler, The Creator",
+      "explicit": true,
+      "name": "ARE WE STILL FRIENDS?"
+    },
+    {
+      "artists": "Tyler, The Creator, Frank Ocean",
+      "explicit": true,
+      "name": "She"
+    },
+    {
+      "artists": "Tyler, The Creator",
+      "explicit": true,
+      "name": "Sugar On My Tongue"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4V8LLVI7PbaPR0K2TGSxFF"
+}

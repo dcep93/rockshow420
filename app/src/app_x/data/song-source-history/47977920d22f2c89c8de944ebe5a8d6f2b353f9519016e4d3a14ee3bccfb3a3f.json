@@ -1,0 +1,29 @@
+{
+  "artist": "Cautious Clay",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cautious Clay",
+      "explicit": true,
+      "name": "Cold War"
+    },
+    {
+      "artists": "Cautious Clay, Remi Wolf, sophie meiers, Still Woozy, Claud, Melanie Faye, HXNS",
+      "name": "Cheesin’ (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)"
+    },
+    {
+      "artists": "Cautious Clay",
+      "name": "Wildfire"
+    },
+    {
+      "artists": "Cautious Clay",
+      "name": "Trail Mix (3pm)"
+    },
+    {
+      "artists": "Cautious Clay",
+      "explicit": true,
+      "name": "Erase"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6iWuBN32BqCJAeXW6o3nil"
+}

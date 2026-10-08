@@ -1,0 +1,28 @@
+{
+  "artist": "Nine Inch Nails",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Nine Inch Nails",
+      "explicit": true,
+      "name": "Closer"
+    },
+    {
+      "artists": "Nine Inch Nails",
+      "name": "The Hand That Feeds"
+    },
+    {
+      "artists": "Nine Inch Nails",
+      "name": "Head Like A Hole"
+    },
+    {
+      "artists": "Nine Inch Nails",
+      "name": "Every Day Is Exactly The Same"
+    },
+    {
+      "artists": "Nine Inch Nails",
+      "name": "Hurt"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0X380XXQSNBYuleKzav5UO"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "MJ Nebreda",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MJ Nebreda, Nick León",
+      "name": "Calor"
+    },
+    {
+      "artists": "MJ Nebreda",
+      "name": "Quédate"
+    },
+    {
+      "artists": "MJ Nebreda, Ms Nina, INVT",
+      "explicit": true,
+      "name": "Arepa"
+    },
+    {
+      "artists": "MJ Nebreda, Mussa Medusa",
+      "name": "Teta"
+    },
+    {
+      "artists": "RaiNao, La Goony, MJ Nebreda",
+      "name": "EVA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1h6b4y2ObngnFpgEwry7Fy"
+}

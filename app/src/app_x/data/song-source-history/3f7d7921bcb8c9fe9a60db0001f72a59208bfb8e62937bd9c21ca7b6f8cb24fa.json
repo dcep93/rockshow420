@@ -1,0 +1,27 @@
+{
+  "artist": "Shy Carter",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Shy Carter, Cole Swindell, David Lee Murphy",
+      "name": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)"
+    },
+    {
+      "artists": "Shy Carter, Aleon Craft",
+      "name": "Bring It Back (feat. Aleon Craft)"
+    },
+    {
+      "artists": "Shy Carter",
+      "name": "Good Love"
+    },
+    {
+      "artists": "Shy Carter, Frank Ray",
+      "name": "Jesus At The Taco Truck"
+    },
+    {
+      "artists": "Shy Carter, Caitlyn Smith",
+      "name": "How Did You Sleep (feat. Caitlyn Smith)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7JZafQsN8syJ9agEtcyP4V"
+}

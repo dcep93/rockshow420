@@ -1,0 +1,29 @@
+{
+  "artist": "Snow Strippers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Snow Strippers",
+      "name": "Under Your Spell"
+    },
+    {
+      "artists": "Snow Strippers, Lil Uzi Vert",
+      "explicit": true,
+      "name": "It's A Dream (feat. Lil Uzi Vert)"
+    },
+    {
+      "artists": "Snow Strippers",
+      "name": "Just Your Doll"
+    },
+    {
+      "artists": "Snow Strippers",
+      "explicit": true,
+      "name": "You Could Be The One"
+    },
+    {
+      "artists": "Snow Strippers",
+      "name": "So What If I'm A Freak"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6TsAG8Ve1icEC8ydeHm3C8"
+}

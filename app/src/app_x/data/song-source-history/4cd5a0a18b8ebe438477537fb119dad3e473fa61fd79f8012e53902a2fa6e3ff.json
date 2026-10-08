@@ -1,0 +1,27 @@
+{
+  "artist": "Altin Gün",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Altin Gün",
+      "name": "Goca Dünya"
+    },
+    {
+      "artists": "Altin Gün",
+      "name": "Yüce Dag Basinda"
+    },
+    {
+      "artists": "Altin Gün",
+      "name": "Süpürgesi Yoncadan"
+    },
+    {
+      "artists": "Altin Gün",
+      "name": "Tatlı Dile Güler Yüze"
+    },
+    {
+      "artists": "Altin Gün",
+      "name": "Su Siziyor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/37PL04N8kBWWW69jdrMMWT"
+}

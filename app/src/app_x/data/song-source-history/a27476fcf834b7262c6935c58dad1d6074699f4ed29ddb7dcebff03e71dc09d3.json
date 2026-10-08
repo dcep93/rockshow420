@@ -1,0 +1,27 @@
+{
+  "artist": "Orville Peck",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Orville Peck",
+      "name": "Dead of Night"
+    },
+    {
+      "artists": "Orville Peck",
+      "name": "Already Gone"
+    },
+    {
+      "artists": "Orville Peck",
+      "name": "Too Little, Too Late"
+    },
+    {
+      "artists": "Orville Peck, Kylie Minogue, Diplo",
+      "name": "Midnight Ride"
+    },
+    {
+      "artists": "Orville Peck",
+      "name": "Run Out Of Road"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/46auOkH1pk28rWrSoUNhLo"
+}

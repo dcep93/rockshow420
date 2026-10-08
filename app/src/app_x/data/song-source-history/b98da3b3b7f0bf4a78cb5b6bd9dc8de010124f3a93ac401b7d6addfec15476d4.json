@@ -1,0 +1,29 @@
+{
+  "artist": "Tropidelic",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Little Stranger, Tropidelic",
+      "explicit": true,
+      "name": "Sunburn (with Tropidelic)"
+    },
+    {
+      "artists": "Tropidelic",
+      "name": "Out There"
+    },
+    {
+      "artists": "Tropidelic",
+      "name": "Falling Down"
+    },
+    {
+      "artists": "Tropidelic, Iration, The Elovaters",
+      "name": "Floating (with Iration & The Elovaters)"
+    },
+    {
+      "artists": "Tropidelic, Devin The Dude",
+      "explicit": true,
+      "name": "Sunny Days (with Devin The Dude)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2SGFnb6c73UJd1vT6aGBMl"
+}

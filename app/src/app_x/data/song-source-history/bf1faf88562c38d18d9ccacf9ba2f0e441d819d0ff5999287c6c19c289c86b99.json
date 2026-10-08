@@ -1,0 +1,31 @@
+{
+  "artist": "DESTIN CONRAD",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DESTIN CONRAD, kwn",
+      "explicit": true,
+      "name": "DADAMAN"
+    },
+    {
+      "artists": "kwn, DESTIN CONRAD",
+      "explicit": true,
+      "name": "all fours (feat. DESTIN CONRAD)"
+    },
+    {
+      "artists": "DESTIN CONRAD",
+      "explicit": true,
+      "name": "KISSING IN PUBLIC"
+    },
+    {
+      "artists": "DESTIN CONRAD",
+      "name": "IN THE AIR"
+    },
+    {
+      "artists": "Young Miko, DESTIN CONRAD",
+      "explicit": true,
+      "name": "⁠⁠no debo :("
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4jwROPSUkTkohLCRiyjiZZ"
+}

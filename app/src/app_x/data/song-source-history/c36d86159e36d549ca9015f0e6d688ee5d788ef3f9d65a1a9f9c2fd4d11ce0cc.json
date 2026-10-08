@@ -1,0 +1,28 @@
+{
+  "artist": "Mujeres",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mujeres, LA ÉLITE",
+      "name": "Cardio y caladas"
+    },
+    {
+      "artists": "Aiko el grupo, Mujeres",
+      "explicit": true,
+      "name": "Soy una fracasada estúpida"
+    },
+    {
+      "artists": "Mujeres, Cariño",
+      "name": "Al Final Abrazos"
+    },
+    {
+      "artists": "Mujeres, Carolina Durante",
+      "name": "Rock y Amistad"
+    },
+    {
+      "artists": "Mujeres",
+      "name": "Si Piensas en Mí"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5vnfKgHNYLnKeuFA6c2jJO"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Sabrina Claudio",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sabrina Claudio, 6LACK",
+      "explicit": true,
+      "name": "Belong to You (feat. 6LACK)"
+    },
+    {
+      "artists": "Sabrina Claudio",
+      "name": "Frozen"
+    },
+    {
+      "artists": "Sabrina Claudio",
+      "name": "Stand Still"
+    },
+    {
+      "artists": "Sabrina Claudio",
+      "name": "Unravel Me"
+    },
+    {
+      "artists": "Sabrina Claudio",
+      "name": "Confidently Lost"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/30DhU7BDmF4PH0JVhu8ZRg"
+}

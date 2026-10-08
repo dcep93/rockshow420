@@ -1,0 +1,27 @@
+{
+  "artist": "White Reaper",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "White Reaper",
+      "name": "Might Be Right"
+    },
+    {
+      "artists": "White Reaper",
+      "name": "Daisies"
+    },
+    {
+      "artists": "White Reaper",
+      "name": "Pages"
+    },
+    {
+      "artists": "White Reaper",
+      "name": "Judy French"
+    },
+    {
+      "artists": "White Reaper",
+      "name": "Real Long Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/75klPfIVnyYcyEGaicRUSF"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Magdalena Bay",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Magdalena Bay",
+      "name": "Killshot"
+    },
+    {
+      "artists": "Magdalena Bay",
+      "name": "Killshot - Slowed + Reverb"
+    },
+    {
+      "artists": "Magdalena Bay",
+      "name": "Image"
+    },
+    {
+      "artists": "Magdalena Bay",
+      "name": "Death & Romance"
+    },
+    {
+      "artists": "Magdalena Bay",
+      "name": "Cry for Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1oPRcJUkloHaRLYx0olBLJ"
+}

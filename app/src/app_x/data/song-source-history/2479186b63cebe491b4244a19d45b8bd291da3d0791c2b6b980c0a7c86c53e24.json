@@ -1,0 +1,28 @@
+{
+  "artist": "Soltera",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "1tbsp, Soltera",
+      "name": "Soulseek"
+    },
+    {
+      "artists": "Soltera, Sonido Sex",
+      "name": "Mujeres Unidas"
+    },
+    {
+      "artists": "Soltera, Sonido Sex, Cherry Chola",
+      "name": "Mensaje Subliminal"
+    },
+    {
+      "artists": "Soltera, Sonido Sex, Meth Math",
+      "name": "Sueños y Vicios"
+    },
+    {
+      "artists": "Soltera, Sonido Sex",
+      "explicit": true,
+      "name": "Bass In My Thong"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5hQc6i1QccCvRafrAxR8do"
+}

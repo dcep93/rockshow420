@@ -13,6 +13,6 @@ export default defineConfig({
     screenshot: "only-on-failure",
     trace: "retain-on-failure",
   },
-  outputDir: "/tmp/rockshow420-browser-results",
+  outputDir: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-results",
   reporter: "list",
 });

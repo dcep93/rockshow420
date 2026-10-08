@@ -1,0 +1,30 @@
+{
+  "artist": "Hank Heaven",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hank Heaven",
+      "name": "Daddy's Gonna Buy You a Car"
+    },
+    {
+      "artists": "Hank Heaven",
+      "explicit": true,
+      "name": "Thread"
+    },
+    {
+      "artists": "Hank Heaven, Beach Bunny",
+      "name": "Beloved (feat. Beach Bunny)"
+    },
+    {
+      "artists": "Hank Heaven",
+      "explicit": true,
+      "name": "Thread [Stripped]"
+    },
+    {
+      "artists": "Hank Heaven",
+      "explicit": true,
+      "name": "I Wanna Be Your Man"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6RDN7Y9LPG2tahFP5YFv19"
+}

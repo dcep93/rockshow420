@@ -1,0 +1,27 @@
+{
+  "artist": "Chromeo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chromeo",
+      "name": "Fancy Footwork"
+    },
+    {
+      "artists": "Chris Lorenzo, Chromeo",
+      "name": "Fancy Footwork"
+    },
+    {
+      "artists": "MAX, Chromeo",
+      "name": "Checklist (feat. Chromeo)"
+    },
+    {
+      "artists": "Chromeo",
+      "name": "Jealous (I Ain't With It)"
+    },
+    {
+      "artists": "Lorde, Chromeo",
+      "name": "Green Light - Chromeo Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2mV8aJphiSHYJf43DxL7Gt"
+}

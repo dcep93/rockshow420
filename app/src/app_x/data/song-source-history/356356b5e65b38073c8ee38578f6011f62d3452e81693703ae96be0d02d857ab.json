@@ -1,0 +1,27 @@
+{
+  "artist": "Dom Dolla",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dom Dolla, Daya",
+      "name": "Dreamin (feat. Daya)"
+    },
+    {
+      "artists": "Dom Dolla",
+      "name": "Saving Up"
+    },
+    {
+      "artists": "MK, Dom Dolla",
+      "name": "Rhyme Dust"
+    },
+    {
+      "artists": "Dom Dolla, Go Freek",
+      "name": "Define"
+    },
+    {
+      "artists": "Dom Dolla",
+      "name": "girl$"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/205i7E8fNVfojowcQSfK9m"
+}

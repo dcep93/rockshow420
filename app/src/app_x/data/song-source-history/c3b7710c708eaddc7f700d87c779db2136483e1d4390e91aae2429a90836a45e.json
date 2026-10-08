@@ -1,0 +1,27 @@
+{
+  "artist": "Shallou",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alex Baker, Shallou",
+      "name": "Midnight"
+    },
+    {
+      "artists": "Shallou",
+      "name": "Make Believe"
+    },
+    {
+      "artists": "Shallou, Wales",
+      "name": "Begin"
+    },
+    {
+      "artists": "Shallou",
+      "name": "You and Me"
+    },
+    {
+      "artists": "edapollo, Shallou",
+      "name": "True"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+}

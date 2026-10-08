@@ -1,0 +1,30 @@
+{
+  "artist": "Farruko",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Bunny, Ozuna, Farruko, Arcángel, Ñengo Flow, DJ Luian, Mambo Kingz",
+      "explicit": true,
+      "name": "Diles"
+    },
+    {
+      "artists": "Farruko",
+      "explicit": true,
+      "name": "Pepas"
+    },
+    {
+      "artists": "Farruko, Greeicy, Steve Aoki",
+      "name": "YAPAQUE"
+    },
+    {
+      "artists": "Pedro Capó, Farruko",
+      "name": "Calma - Remix"
+    },
+    {
+      "artists": "Alan Walker, Sabrina Carpenter, Farruko",
+      "explicit": true,
+      "name": "On My Way"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/329e4yvIujISKGKz1BZZbO"
+}

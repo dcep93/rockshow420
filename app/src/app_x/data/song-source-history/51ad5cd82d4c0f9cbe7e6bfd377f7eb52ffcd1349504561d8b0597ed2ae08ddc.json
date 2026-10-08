@@ -1,0 +1,47 @@
+{
+  "artist": "Zedd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zedd, Foxes",
+      "name": "Clarity"
+    },
+    {
+      "artists": "Zedd, Maren Morris, Grey",
+      "name": "The Middle"
+    },
+    {
+      "artists": "Zedd, Alessia Cara",
+      "name": "Stay"
+    },
+    {
+      "artists": "Zedd, Hayley Williams",
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore"
+    },
+    {
+      "artists": "Zedd, Jon Bellion",
+      "name": "Beautiful Now"
+    },
+    {
+      "artists": "Zedd, Selena Gomez",
+      "name": "I Want You To Know"
+    },
+    {
+      "artists": "Zedd, Elley Duhé",
+      "name": "Happy Now"
+    },
+    {
+      "artists": "Shania Twain, Zedd",
+      "name": "You're Still The One - Candy Crush Version"
+    },
+    {
+      "artists": "Zedd, Matthew Koma",
+      "name": "Spectrum"
+    },
+    {
+      "artists": "Zedd, Katy Perry",
+      "name": "365"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qxJFvFYMEDqd7ui6kSAcq"
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "Little Stranger",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Elovaters, Little Stranger",
+      "explicit": true,
+      "name": "All Her Favorite Songs (with Little Stranger)"
+    },
+    {
+      "artists": "Little Stranger",
+      "explicit": true,
+      "name": "Coffee & a Joint"
+    },
+    {
+      "artists": "Little Stranger, Tropidelic",
+      "explicit": true,
+      "name": "Sunburn (with Tropidelic)"
+    },
+    {
+      "artists": "Little Stranger, Jarv",
+      "explicit": true,
+      "name": "Red Rover (with Jarv)"
+    },
+    {
+      "artists": "Little Stranger",
+      "name": "Bag Full of Money"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6nheJ1XoAkaKOLIgHzMbTq"
+}

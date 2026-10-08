@@ -1,0 +1,28 @@
+{
+  "artist": "Alina Baraz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alina Baraz, Khalid",
+      "name": "Electric"
+    },
+    {
+      "artists": "Alina Baraz, Khalid",
+      "name": "Floating"
+    },
+    {
+      "artists": "Alina Baraz, Galimatias",
+      "name": "Fantasy"
+    },
+    {
+      "artists": "Alina Baraz",
+      "explicit": true,
+      "name": "To Me"
+    },
+    {
+      "artists": "Alina Baraz, Galimatias",
+      "name": "Make You Feel"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6hfwwpXqZPRC9CsKI7qtv1"
+}

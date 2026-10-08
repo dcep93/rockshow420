@@ -1,0 +1,30 @@
+{
+  "artist": "Bakar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bakar",
+      "explicit": true,
+      "name": "Hell N Back"
+    },
+    {
+      "artists": "Bakar, Summer Walker",
+      "explicit": true,
+      "name": "Hell N Back (feat. Summer Walker)"
+    },
+    {
+      "artists": "Bakar",
+      "name": "Alive!"
+    },
+    {
+      "artists": "Bakar",
+      "name": "The Mission"
+    },
+    {
+      "artists": "Justin Bieber, Bakar",
+      "explicit": true,
+      "name": "DON'T WANNA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3K2Srho6NCF3o9MswGR76H"
+}

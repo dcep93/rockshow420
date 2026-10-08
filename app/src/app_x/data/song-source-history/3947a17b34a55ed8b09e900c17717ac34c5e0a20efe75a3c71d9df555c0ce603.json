@@ -1,0 +1,28 @@
+{
+  "artist": "BRUCKNER",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "frytz, BRUCKNER",
+      "name": "allein mit dir"
+    },
+    {
+      "artists": "BRUCKNER, Eli Preiss",
+      "explicit": true,
+      "name": "Party mit mir selbst"
+    },
+    {
+      "artists": "BRUCKNER, Falschgeld",
+      "name": "Zusammenbleiben"
+    },
+    {
+      "artists": "BRUCKNER",
+      "name": "Dienstag"
+    },
+    {
+      "artists": "Tiavo, BRUCKNER",
+      "name": "immer sommer"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0OKQx5tW0vxtKwYVblZTkq"
+}

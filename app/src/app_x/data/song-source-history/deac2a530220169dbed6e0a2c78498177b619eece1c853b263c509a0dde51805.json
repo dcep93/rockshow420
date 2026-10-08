@@ -1,0 +1,32 @@
+{
+  "artist": "99 Neighbors",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "99 Neighbors, Brasstracks, PhiloSofie",
+      "explicit": true,
+      "name": "Fuck No (feat. Brasstracks & PhiloSofie)"
+    },
+    {
+      "artists": "99 Neighbors",
+      "explicit": true,
+      "name": "Ripstick"
+    },
+    {
+      "artists": "99 Neighbors",
+      "explicit": true,
+      "name": "GUTS"
+    },
+    {
+      "artists": "99 Neighbors",
+      "explicit": true,
+      "name": "welcome to chili's"
+    },
+    {
+      "artists": "99 Neighbors",
+      "explicit": true,
+      "name": "Live a Little"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5uhqkMm8dyQvX83kl4Znq0"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Saint Levant",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TUL8TE, Saint Levant",
+      "name": "Nano"
+    },
+    {
+      "artists": "Saint Levant, Fares Sokar",
+      "name": "DO YOU LOVE ME? / سنيورة"
+    },
+    {
+      "artists": "Saint Levant, Haifa Wehbe",
+      "name": "MITSUBISHI / متسوبيشي"
+    },
+    {
+      "artists": "Saint Levant, Marwan Moussa",
+      "name": "KALAMANTINA / كلمنتينا"
+    },
+    {
+      "artists": "Saint Levant, Mohammed Assaf",
+      "name": "MASKARA / مسكرة"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ZZsFnpO7frU8h5xH1wtjT"
+}

@@ -1,0 +1,83 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "100,000 Voices"
+        },
+        {
+          "name": "WELLLL"
+        },
+        {
+          "name": "She Put Sunshine"
+        },
+        {
+          "name": "Little Blue"
+        },
+        {
+          "name": "Wherever I Go",
+          "notes": "(with Lawrence)"
+        },
+        {
+          "name": "Cinnamon Crush"
+        },
+        {
+          "name": "Time Alone With You"
+        },
+        {
+          "name": "The Sun Is in Your Eyes"
+        },
+        {
+          "name": "Bridge Over Troubled Water",
+          "notes": "(Simon & Garfunkel cover)"
+        },
+        {
+          "name": "In Too Deep"
+        },
+        {
+          "name": "Mi corazón"
+        },
+        {
+          "name": "Never Gonna Be Alone"
+        },
+        {
+          "name": "Witness Me"
+        },
+        {
+          "name": "God Only Knows",
+          "notes": "(The Beach Boys cover)"
+        },
+        {
+          "name": "All I Need"
+        },
+        {
+          "name": "Over You"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Box of Stars Pt. 1 / In My Bones / Sleeping on My Dreams"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "Somebody to Love",
+          "notes": "(Queen cover)"
+        },
+        {
+          "name": "Moon River",
+          "notes": "(Henry Mancini cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/jacob-collier/2024/radio-city-music-hall-new-york-ny-5ba8735c.html"
+}

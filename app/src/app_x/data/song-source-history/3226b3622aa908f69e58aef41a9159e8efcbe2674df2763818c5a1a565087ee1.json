@@ -1,0 +1,29 @@
+{
+  "artist": "Amyl and The Sniffers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Amyl and The Sniffers",
+      "name": "Hertz"
+    },
+    {
+      "artists": "Amyl and The Sniffers",
+      "explicit": true,
+      "name": "U Should Not Be Doing That"
+    },
+    {
+      "artists": "Fred again.., Amyl and The Sniffers",
+      "name": "you're a star"
+    },
+    {
+      "artists": "Amyl and The Sniffers",
+      "name": "Security"
+    },
+    {
+      "artists": "Amyl and The Sniffers",
+      "explicit": true,
+      "name": "Jerkin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3NqV2DJoAWsjl787bWaHW7"
+}

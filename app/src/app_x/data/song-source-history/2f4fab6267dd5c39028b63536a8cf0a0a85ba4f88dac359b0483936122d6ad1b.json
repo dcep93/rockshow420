@@ -1,0 +1,27 @@
+{
+  "artist": "Masego",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Masego, FKJ",
+      "name": "Tadow"
+    },
+    {
+      "artists": "Masego, Don Toliver",
+      "name": "Mystery Lady"
+    },
+    {
+      "artists": "Masego",
+      "name": "Navajo"
+    },
+    {
+      "artists": "Masego",
+      "name": "Heaven"
+    },
+    {
+      "artists": "Masego",
+      "name": "What You Wanna Try"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3ycxRkcZ67ALN3GQJ57Vig"
+}

@@ -1,0 +1,77 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Overdrive"
+        },
+        {
+          "name": "Want Want"
+        },
+        {
+          "name": "Say It"
+        },
+        {
+          "name": "Honey"
+        },
+        {
+          "name": "Love You for a Long Time"
+        },
+        {
+          "name": "Shatter"
+        },
+        {
+          "name": "Begging for Rain"
+        },
+        {
+          "name": "Be Cool",
+          "notes": "(Maggie restarted because crowd was boring)"
+        },
+        {
+          "name": "Symphony"
+        },
+        {
+          "name": "I’ve Got a Friend",
+          "notes": "(Paused and restarted)"
+        },
+        {
+          "name": "New Song",
+          "notes": "(with Del Water Gap)"
+        },
+        {
+          "name": "Alaska"
+        },
+        {
+          "name": "Strange Overtones",
+          "notes": "(Brian Eno & David Byrne cover) (with David Byrne)"
+        },
+        {
+          "name": "Horses"
+        },
+        {
+          "name": "Anywhere With You"
+        },
+        {
+          "name": "Light On"
+        },
+        {
+          "name": "That's Where I Am"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Fallingwater"
+        },
+        {
+          "name": "Different Kind of World"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/maggie-rogers/2023/radio-city-music-hall-new-york-ny-4bbab742.html"
+}

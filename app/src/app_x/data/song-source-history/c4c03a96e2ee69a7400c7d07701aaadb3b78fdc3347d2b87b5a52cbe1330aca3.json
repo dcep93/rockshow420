@@ -1,0 +1,27 @@
+{
+  "artist": "Grateful Shred",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Grateful Shred",
+      "name": "Man Smart, Woman Smarter"
+    },
+    {
+      "artists": "Grateful Shred",
+      "name": "Jack-a-Roe (Live, 3/4/23)"
+    },
+    {
+      "artists": "Grateful Shred",
+      "name": "Shakedown Street (Live, 3/4/23)"
+    },
+    {
+      "artists": "Grateful Shred",
+      "name": "Jack a Roe"
+    },
+    {
+      "artists": "Grateful Shred",
+      "name": "Samson and Delilah"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/44G9mngUyQol4lNhoPIamb"
+}

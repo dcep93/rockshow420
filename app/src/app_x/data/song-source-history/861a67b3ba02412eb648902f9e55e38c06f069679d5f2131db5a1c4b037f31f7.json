@@ -1,0 +1,30 @@
+{
+  "artist": "Kyle Dion",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kyle Dion",
+      "name": "Brown"
+    },
+    {
+      "artists": "Kyle Dion",
+      "name": "Tears On A Pretty Face"
+    },
+    {
+      "artists": "Kyle Dion, Duckwrth",
+      "explicit": true,
+      "name": "Vanilla Skies"
+    },
+    {
+      "artists": "Kyle Dion",
+      "explicit": true,
+      "name": "No Gravity"
+    },
+    {
+      "artists": "Kyle Dion, Duckwrth, UMI",
+      "explicit": true,
+      "name": "Play Too Much"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5qfkUSH3ip5dD2eEPhjkT3"
+}

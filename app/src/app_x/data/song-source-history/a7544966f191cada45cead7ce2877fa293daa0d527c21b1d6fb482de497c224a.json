@@ -1,0 +1,29 @@
+{
+  "artist": "Tristan Simone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tristan Simone, Riccardo Gresino",
+      "name": "Higher Than This"
+    },
+    {
+      "artists": "Tristan Simone, Riccardo Gresino",
+      "name": "The New Heir"
+    },
+    {
+      "artists": "Tristan Simone, Riccardo Gresino",
+      "explicit": true,
+      "name": "Music Is Dead"
+    },
+    {
+      "artists": "Tristan Simone, Riccardo Gresino",
+      "name": "The Green Gates"
+    },
+    {
+      "artists": "Tristan Simone",
+      "explicit": true,
+      "name": "Hypocrite"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2QCVnFr5nFsG5ZhJTTyubR"
+}

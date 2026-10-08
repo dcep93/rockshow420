@@ -1,0 +1,29 @@
+{
+  "artist": "Empire Of The Sun",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Empire Of The Sun",
+      "name": "We Are The People"
+    },
+    {
+      "artists": "Mac Miller, Empire Of The Sun",
+      "explicit": true,
+      "name": "The Spins"
+    },
+    {
+      "artists": "Empire Of The Sun",
+      "name": "Walking On A Dream"
+    },
+    {
+      "artists": "Wiz Khalifa, Empire Of The Sun",
+      "explicit": true,
+      "name": "The Thrill"
+    },
+    {
+      "artists": "Empire Of The Sun",
+      "name": "Alive"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/67hb7towEyKvt5Z8Bx306c"
+}

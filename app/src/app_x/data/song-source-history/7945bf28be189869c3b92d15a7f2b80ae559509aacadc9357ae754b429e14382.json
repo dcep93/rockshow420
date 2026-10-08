@@ -1,0 +1,27 @@
+{
+  "artist": "Phosphorescent",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phosphorescent",
+      "name": "Song for Zula"
+    },
+    {
+      "artists": "Phosphorescent",
+      "name": "C'est La Vie No.2"
+    },
+    {
+      "artists": "Phosphorescent",
+      "name": "Wolves"
+    },
+    {
+      "artists": "Phosphorescent",
+      "name": "Ride On / Right On"
+    },
+    {
+      "artists": "Phosphorescent",
+      "name": "Revelator"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/57kIMCLPgkzQlXjblX7XXP"
+}

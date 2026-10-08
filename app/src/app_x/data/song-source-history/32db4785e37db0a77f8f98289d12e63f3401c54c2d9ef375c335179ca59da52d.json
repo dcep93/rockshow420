@@ -1,0 +1,49 @@
+{
+  "artist": "Annika Bennett",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Annika Bennett",
+      "name": "A Tree Falls"
+    },
+    {
+      "artists": "Annika Bennett",
+      "name": "Big House On A Mountain"
+    },
+    {
+      "artists": "Annika Bennett, Olivia Barton, Whale Songz, Leith Ross",
+      "name": "In The Spring ft. Leith Ross"
+    },
+    {
+      "artists": "Annika Bennett",
+      "explicit": true,
+      "name": "Power, Sex, Dreams"
+    },
+    {
+      "artists": "Annika Bennett",
+      "name": "Strong Enough"
+    },
+    {
+      "artists": "Annika Bennett",
+      "name": "Boy Who Has Everything"
+    },
+    {
+      "artists": "Annika Bennett",
+      "explicit": true,
+      "name": "Fuck Up"
+    },
+    {
+      "artists": "Annika Bennett",
+      "name": "Universe"
+    },
+    {
+      "artists": "Whale Songz, Annika Bennett, Olivia Barton",
+      "name": "I love you, baby"
+    },
+    {
+      "artists": "Annika Bennett, Olivia Barton, Whale Songz, Lennon Stella",
+      "name": "Runs In The Family (feat. Lennon Stella)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6p6WfcngzvbVPbmV9HMb5l"
+}

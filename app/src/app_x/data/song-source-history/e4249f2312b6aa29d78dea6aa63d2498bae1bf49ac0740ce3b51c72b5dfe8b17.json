@@ -1,0 +1,27 @@
+{
+  "artist": "The Marías",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Marías",
+      "name": "No One Noticed"
+    },
+    {
+      "artists": "The Marías",
+      "name": "Sienna"
+    },
+    {
+      "artists": "The Marías",
+      "name": "Heavy"
+    },
+    {
+      "artists": "Bad Bunny, The Marías",
+      "name": "Otro Atardecer"
+    },
+    {
+      "artists": "The Marías",
+      "name": "No One Noticed (Extended Spanish)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2sSGPbdZJkaSE2AbcGOACx"
+}

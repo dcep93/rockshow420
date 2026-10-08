@@ -1,0 +1,27 @@
+{
+  "artist": "DJ Koze",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DJ Koze",
+      "name": "Pick Up"
+    },
+    {
+      "artists": "Gerry Read, DJ Koze",
+      "name": "It'll All Be Over - DJ Koze Remix - Radio Edit"
+    },
+    {
+      "artists": "Låpsley, DJ Koze",
+      "name": "Operator - DJ Koze's Disco Edit"
+    },
+    {
+      "artists": "DJ Koze, Sophia Kennedy, &ME",
+      "name": "Drone Me Up, Flashy - &ME Remix"
+    },
+    {
+      "artists": "DJ Koze",
+      "name": "Pick Up - 12\" Extended Disco Version"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1kR99O4MgSTasyeJh8UFCg"
+}

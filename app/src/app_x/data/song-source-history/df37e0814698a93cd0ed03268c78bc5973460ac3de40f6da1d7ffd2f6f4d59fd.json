@@ -1,0 +1,28 @@
+{
+  "artist": "Tegan and Sara",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tegan and Sara, The Lonely Island",
+      "name": "Everything Is AWESOME!!! (feat. The Lonely Island)"
+    },
+    {
+      "artists": "Tegan and Sara",
+      "name": "Closer"
+    },
+    {
+      "artists": "Tegan and Sara",
+      "name": "Where Does the Good Go"
+    },
+    {
+      "artists": "Tegan and Sara, Lights, Felix Cartal",
+      "explicit": true,
+      "name": "Our Year"
+    },
+    {
+      "artists": "Tegan and Sara",
+      "name": "Walking with a Ghost"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5e1BZulIiYWPRm8yogwUYH"
+}

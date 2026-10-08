@@ -1,0 +1,30 @@
+{
+  "artist": "Remi Wolf",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Remi Wolf",
+      "explicit": true,
+      "name": "Bottle"
+    },
+    {
+      "artists": "Remi Wolf",
+      "name": "Soup"
+    },
+    {
+      "artists": "Remi Wolf",
+      "explicit": true,
+      "name": "Twiggy"
+    },
+    {
+      "artists": "Remi Wolf",
+      "name": "I Won’t Cry"
+    },
+    {
+      "artists": "Remi Wolf, Dominic Fike",
+      "explicit": true,
+      "name": "Photo ID (with Dominic Fike)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0NB5HROxc8dDBXpkIi1v3d"
+}

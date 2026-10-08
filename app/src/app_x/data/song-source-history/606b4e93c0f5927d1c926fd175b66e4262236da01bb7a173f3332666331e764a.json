@@ -1,0 +1,47 @@
+{
+  "artist": "G Jones",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Skrillex, G Jones",
+      "name": "DRUIDS"
+    },
+    {
+      "artists": "G Jones, RL Grime",
+      "name": "In Your Head - RL Grime Edit"
+    },
+    {
+      "artists": "G Jones",
+      "name": "Everything All at Once"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "1000 Cuts"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "R.A.V.E."
+    },
+    {
+      "artists": "G Jones",
+      "name": "Which Way"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "Break of Dawn"
+    },
+    {
+      "artists": "G Jones",
+      "name": "In Your Head"
+    },
+    {
+      "artists": "G Jones, Eprom",
+      "name": "By Your Side"
+    },
+    {
+      "artists": "G Jones",
+      "name": "Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0gXx2aQ2mfovDfqCw10MQC"
+}

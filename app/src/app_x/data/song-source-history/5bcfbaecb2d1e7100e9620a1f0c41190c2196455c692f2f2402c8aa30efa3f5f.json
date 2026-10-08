@@ -1,0 +1,27 @@
+{
+  "artist": "Momma",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Momma",
+      "name": "I Want You (Fever)"
+    },
+    {
+      "artists": "Momma",
+      "name": "Medicine"
+    },
+    {
+      "artists": "Momma",
+      "name": "Speeding 72"
+    },
+    {
+      "artists": "Momma",
+      "name": "Rodeo"
+    },
+    {
+      "artists": "Momma",
+      "name": "Cross Your Heart"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5Wj0an60VgRckYV9zlDe1e"
+}

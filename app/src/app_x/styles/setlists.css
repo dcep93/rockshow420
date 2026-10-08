@@ -1,0 +1,16 @@
+.rs-setlists { margin-top: 2rem; min-width: 0; }
+.rs-setlists h2 { margin-bottom: 0.75rem; }
+.rs-setlists details { border-top: 0.0625rem solid var(--rs-border); }
+.rs-setlists summary { padding: 0.85rem 0; cursor: pointer; font-size: 0.875rem; }
+.rs-setlists details > a { color: var(--rs-tan); font-size: 0.75rem; text-decoration: underline; }
+.rs-setlists pre {
+  max-height: 32rem;
+  overflow: auto;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: var(--rs-panel);
+  color: var(--rs-text);
+  font: 0.75rem/1.6 ui-monospace, SFMono-Regular, monospace;
+}

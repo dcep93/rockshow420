@@ -1,0 +1,84 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "No Obligation"
+        },
+        {
+          "name": "Resolution/Revolution"
+        },
+        {
+          "name": "Too Many Things",
+          "notes": "(with false start)"
+        },
+        {
+          "name": "Yo me estreso"
+        },
+        {
+          "name": "Once Upon a Time"
+        },
+        {
+          "name": "Found a Job",
+          "notes": "(Talking Heads cover)"
+        },
+        {
+          "name": "Growing Up"
+        },
+        {
+          "name": "Tren al sur",
+          "notes": "(Los Prisioneros cover)"
+        },
+        {
+          "name": "Cartographers"
+        },
+        {
+          "name": "Don’t Think"
+        },
+        {
+          "name": "Cuántas veces"
+        },
+        {
+          "name": "Nothing Would Change"
+        },
+        {
+          "name": "Lose Yourself",
+          "notes": "(with band intros; >)"
+        },
+        {
+          "name": "Excuse Me"
+        },
+        {
+          "name": "Nino"
+        },
+        {
+          "name": "Stop"
+        },
+        {
+          "name": "Oh!"
+        },
+        {
+          "name": "Racist, Sexist Boy"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "When I Come Around",
+          "notes": "(Green Day cover)"
+        },
+        {
+          "name": "All in My Head"
+        },
+        {
+          "name": "Rebel Girl",
+          "notes": "(Bikini Kill cover) (with Pinkshift)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-linda-lindas/2025/brooklyn-steel-brooklyn-ny-1351a5ed.html"
+}

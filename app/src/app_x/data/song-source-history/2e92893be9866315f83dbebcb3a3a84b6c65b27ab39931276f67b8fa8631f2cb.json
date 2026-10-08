@@ -1,0 +1,29 @@
+{
+  "artist": "PERSONA 749",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "PERSONA 749",
+      "name": "Let Em' Out"
+    },
+    {
+      "artists": "PERSONA 749",
+      "explicit": true,
+      "name": "Before We're Back"
+    },
+    {
+      "artists": "PERSONA 749",
+      "name": "Billy"
+    },
+    {
+      "artists": "PERSONA 749",
+      "explicit": true,
+      "name": "ole' dom song"
+    },
+    {
+      "artists": "PERSONA 749",
+      "name": "stereo girl"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6W3mhj4lzJz425HqZzHltz"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "MARIA HEIN",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ginestà, MARIA HEIN",
+      "name": "Els ocells"
+    },
+    {
+      "artists": "MARIA HEIN",
+      "name": "LA DAMA DE MALLORCA"
+    },
+    {
+      "artists": "Julieta, MARIA HEIN",
+      "name": "CLUB"
+    },
+    {
+      "artists": "MARIA HEIN, roots, Bexnil, Joanlupi, Camil Arcarazo",
+      "name": "ALENAR"
+    },
+    {
+      "artists": "MARIA HEIN",
+      "name": "Idò un cafè"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3XROpF1yIcXOcMjDkswghI"
+}

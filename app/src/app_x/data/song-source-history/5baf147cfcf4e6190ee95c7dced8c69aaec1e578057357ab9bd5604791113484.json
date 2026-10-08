@@ -1,0 +1,47 @@
+{
+  "artist": "The Midnight",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Midnight",
+      "name": "Los Angeles"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Sunset"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Days of Thunder"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Vampires"
+    },
+    {
+      "artists": "The Midnight, Nikki Flores",
+      "name": "Jason"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Summer's Ending Soon"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Memories"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Lost Boy"
+    },
+    {
+      "artists": "The Midnight, Bonnie McKee",
+      "name": "Runaways (feat. Bonnie McKee)"
+    },
+    {
+      "artists": "The Midnight",
+      "name": "Gloria"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2NFrAuh8RQdQoS7iYFbckw"
+}

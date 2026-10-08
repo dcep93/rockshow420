@@ -1,0 +1,29 @@
+{
+  "artist": "underscores",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "underscores",
+      "name": "The Peace"
+    },
+    {
+      "artists": "underscores",
+      "explicit": true,
+      "name": "Do It"
+    },
+    {
+      "artists": "underscores",
+      "name": "Music"
+    },
+    {
+      "artists": "underscores",
+      "name": "Wish U Well"
+    },
+    {
+      "artists": "underscores",
+      "explicit": true,
+      "name": "Innuendo (I Get U)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7HfUJxeVTgrvhk0eWHFzV7"
+}

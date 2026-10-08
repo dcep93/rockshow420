@@ -1,0 +1,28 @@
+{
+  "artist": "Nick Monaco",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Life on Planets, Nick Monaco",
+      "name": "Love so Fleeting - Nick Monaco Remix"
+    },
+    {
+      "artists": "Nick Monaco",
+      "name": "YELLOW"
+    },
+    {
+      "artists": "Nick Monaco, David Marston",
+      "explicit": true,
+      "name": "Pussy"
+    },
+    {
+      "artists": "Nick Monaco",
+      "name": "Freak Flag"
+    },
+    {
+      "artists": "Nick Monaco, TÂCHES",
+      "name": "Full Moon - TÂCHES Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0fsDVdEDqPmn5CISll6OIQ"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Sarah Barrios",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sarah Barrios, Eric Nam",
+      "name": "Have We Met Before (with Eric Nam)"
+    },
+    {
+      "artists": "Sarah Barrios",
+      "explicit": true,
+      "name": "Thank God You Introduced Me to Your Sister"
+    },
+    {
+      "artists": "Damien, Sarah Barrios",
+      "explicit": true,
+      "name": "How To Be An Outcast (feat. Sarah Barrios)"
+    },
+    {
+      "artists": "Solence, Sarah Barrios",
+      "name": "Cold"
+    },
+    {
+      "artists": "Sarah Barrios",
+      "name": "IH8EVERY1"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0HJsX1aTdgG1VDIRDiseSJ"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Channel One",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Channel One",
+      "name": "Cornmeal Dub"
+    },
+    {
+      "artists": "Channel One",
+      "name": "Rebel Dub"
+    },
+    {
+      "artists": "Channel One",
+      "name": "Revelation Rockers in Dub"
+    },
+    {
+      "artists": "Channel One",
+      "name": "Kings Dub"
+    },
+    {
+      "artists": "Ezra Collective, Channel One",
+      "name": "Ego Killah - Channel One Sound System Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ylfJLpbBoxilmTeUXcRCx"
+}

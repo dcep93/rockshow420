@@ -1,0 +1,28 @@
+{
+  "artist": "Lana Del Rey",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lana Del Rey",
+      "name": "Young And Beautiful"
+    },
+    {
+      "artists": "Lana Del Rey",
+      "name": "Summertime Sadness"
+    },
+    {
+      "artists": "Lana Del Rey",
+      "name": "Cinnamon Girl"
+    },
+    {
+      "artists": "Lana Del Rey",
+      "explicit": true,
+      "name": "Brooklyn Baby"
+    },
+    {
+      "artists": "Lana Del Rey",
+      "name": "Say Yes To Heaven"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/00FQb4jTyendYWaN8pK0wa"
+}

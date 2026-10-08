@@ -1,0 +1,68 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Full Band",
+      "songs": [
+        {
+          "name": "Unleash the Rage"
+        },
+        {
+          "name": "Kiss the Sky"
+        },
+        {
+          "name": "Hazard to Myself"
+        },
+        {
+          "name": "Greed"
+        },
+        {
+          "name": "Nights Over Egypt",
+          "notes": "(The Jones Girls cover)"
+        },
+        {
+          "name": "Saxophone Solo"
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "songs": [
+        {
+          "name": "Milk & Honey"
+        },
+        {
+          "name": "Mystik"
+        },
+        {
+          "name": "Notion"
+        },
+        {
+          "name": "Jungle"
+        }
+      ]
+    },
+    {
+      "name": "Full Band",
+      "songs": [
+        {
+          "name": "Pink Moon",
+          "notes": "(Started solo then ended with the band)"
+        },
+        {
+          "name": "Coma"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Blackbird"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/tash-sultana/2026/the-rooftop-at-pier-17-new-york-ny-37535af.html"
+}

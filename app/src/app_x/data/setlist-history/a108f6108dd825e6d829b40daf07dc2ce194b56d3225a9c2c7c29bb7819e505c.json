@@ -1,0 +1,114 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "The Outside"
+        },
+        {
+          "name": "Motion Sickness"
+        },
+        {
+          "name": "Kill Me"
+        },
+        {
+          "name": "The Governor's Waltz"
+        },
+        {
+          "name": "Lost Boys"
+        },
+        {
+          "name": "DVD Menu"
+        },
+        {
+          "name": "Garden Song"
+        },
+        {
+          "name": "Moon Song"
+        },
+        {
+          "name": "Liberty Tree"
+        },
+        {
+          "name": "Panorama",
+          "notes": "(Instrumental)"
+        }
+      ]
+    },
+    {
+      "name": "B Stage",
+      "songs": [
+        {
+          "name": "Lost Weekend"
+        },
+        {
+          "name": "Funeral"
+        },
+        {
+          "name": "Graceland Too"
+        },
+        {
+          "name": "Haunted"
+        },
+        {
+          "name": "Still Standing"
+        },
+        {
+          "name": "As Above"
+        }
+      ]
+    },
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "Bobby",
+          "notes": "(Sang wrong lyrics during second verse, then restarted the song)"
+        },
+        {
+          "name": "Georgia"
+        },
+        {
+          "name": "I Can't Wait"
+        },
+        {
+          "name": "On Video"
+        },
+        {
+          "name": "Not Strong Enough",
+          "notes": "(boygenius song) (with boygenius)"
+        },
+        {
+          "name": "Powers",
+          "notes": "(boygenius song) (with boygenius) (Tour Debut)"
+        },
+        {
+          "name": "Kyoto"
+        },
+        {
+          "name": "I Know the End",
+          "notes": "(Lance Oppenheim and another guest join at the end to scream)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Lost Weekend (Reprise)"
+        },
+        {
+          "name": "Scott Street"
+        },
+        {
+          "name": "Never Going Back!",
+          "notes": "(Band only)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-237518c3.html"
+}

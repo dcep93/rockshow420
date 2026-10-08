@@ -1,0 +1,27 @@
+{
+  "artist": "Tim Reaper",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Takuya Nakamura, Tim Reaper",
+      "name": "Broken Jazz"
+    },
+    {
+      "artists": "Special Request, Tim Reaper",
+      "name": "Pull Up - Tim Reaper VIP"
+    },
+    {
+      "artists": "Special Request, ODF, Tim Reaper",
+      "name": "Pull Up"
+    },
+    {
+      "artists": "Tim Reaper, Comfort Zone",
+      "name": "All the Time"
+    },
+    {
+      "artists": "Tim Reaper, Dev/Null",
+      "name": "Anytime"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/03KZUWKQujlCcgEdcrkvWd"
+}

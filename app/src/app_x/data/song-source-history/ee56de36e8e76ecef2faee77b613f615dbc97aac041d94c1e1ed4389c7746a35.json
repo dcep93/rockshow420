@@ -1,0 +1,27 @@
+{
+  "artist": "Joywave",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Big Data, Joywave",
+      "name": "Dangerous"
+    },
+    {
+      "artists": "Joywave",
+      "name": "It's A Trip!"
+    },
+    {
+      "artists": "Joywave",
+      "name": "Destruction"
+    },
+    {
+      "artists": "Joywave, KOPPS",
+      "name": "Tongues"
+    },
+    {
+      "artists": "Big Data, Joywave, Oliver",
+      "name": "Dangerous - Oliver Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1UfzhwcOR4yfX7yHTPfC9m"
+}

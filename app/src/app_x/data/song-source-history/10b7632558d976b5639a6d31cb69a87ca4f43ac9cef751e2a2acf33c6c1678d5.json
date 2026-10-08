@@ -1,0 +1,27 @@
+{
+  "artist": "LOVEJOY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LOVEJOY",
+      "name": "Lavender"
+    },
+    {
+      "artists": "LOVEJOY",
+      "name": "Bone Orchard (Somewhere / Sometime)"
+    },
+    {
+      "artists": "LOVEJOY",
+      "name": "Bottom Feeders"
+    },
+    {
+      "artists": "LOVEJOY",
+      "name": "Sleep On"
+    },
+    {
+      "artists": "LOVEJOY",
+      "name": "Sandcastle Isle"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1Qhhxi47rkHZopQqE6Xwdw"
+}

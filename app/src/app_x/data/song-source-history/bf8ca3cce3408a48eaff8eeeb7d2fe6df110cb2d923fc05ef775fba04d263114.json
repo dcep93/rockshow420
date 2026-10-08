@@ -1,0 +1,29 @@
+{
+  "artist": "NIKI",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NIKI",
+      "explicit": true,
+      "name": "Backburner"
+    },
+    {
+      "artists": "NIKI",
+      "name": "You'll Be in My Heart"
+    },
+    {
+      "artists": "NIKI",
+      "name": "Take A Chance With Me"
+    },
+    {
+      "artists": "NIKI",
+      "explicit": true,
+      "name": "lowkey"
+    },
+    {
+      "artists": "NIKI",
+      "name": "Oceans & Engines"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2kxP07DLgs4xlWz8YHlvfh"
+}

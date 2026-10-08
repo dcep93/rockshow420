@@ -1,0 +1,32 @@
+{
+  "artist": "DJ Spanish Fly",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DJ Spanish Fly",
+      "explicit": true,
+      "name": "Cement Shoes"
+    },
+    {
+      "artists": "DJ Spanish Fly",
+      "explicit": true,
+      "name": "Uzi Tool"
+    },
+    {
+      "artists": "DJ Spanish Fly",
+      "explicit": true,
+      "name": "Dope Game"
+    },
+    {
+      "artists": "DJ Spanish Fly",
+      "explicit": true,
+      "name": "Abcdefg"
+    },
+    {
+      "artists": "DJ Spanish Fly",
+      "explicit": true,
+      "name": "I'm da Nicca"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7CYLMcm73iQAL1ExdljKlM"
+}

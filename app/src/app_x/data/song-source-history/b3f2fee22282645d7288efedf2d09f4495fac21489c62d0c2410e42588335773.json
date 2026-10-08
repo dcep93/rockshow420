@@ -1,0 +1,27 @@
+{
+  "artist": "NoMBe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NoMBe",
+      "name": "Wait"
+    },
+    {
+      "artists": "NoMBe, Thutmose",
+      "name": "Summer's Gone"
+    },
+    {
+      "artists": "NoMBe, Sonny Alven",
+      "name": "California Girls - Remix"
+    },
+    {
+      "artists": "NoMBe, Skott",
+      "name": "Wait 2.0"
+    },
+    {
+      "artists": "Magic City Hippies, NoMBe",
+      "name": "Givin' Up On Lovin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5Lhxlge1CR1DrgDAje8Qaw"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Modest Mouse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Modest Mouse",
+      "name": "Float On"
+    },
+    {
+      "artists": "Modest Mouse",
+      "name": "Dashboard"
+    },
+    {
+      "artists": "Modest Mouse",
+      "name": "Dramamine"
+    },
+    {
+      "artists": "Modest Mouse",
+      "name": "The World At Large"
+    },
+    {
+      "artists": "Modest Mouse",
+      "name": "Ocean Breathes Salty"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1yAwtBaoHLEDWAnWR87hBT"
+}

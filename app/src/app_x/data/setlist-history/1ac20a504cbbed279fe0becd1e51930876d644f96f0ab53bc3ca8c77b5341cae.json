@@ -1,0 +1,68 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: \"SOS\" cut from the end of set 1 and \"Madhuvan\" replaced with \"SALT\". The set break was 50 mins long due to a fan named Paul falling from the upper balcony and dying upon impact. The band was not made aware of the event until after the encore.",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "MEDIA",
+          "notes": "(with Stuart Bogie) (>)"
+        },
+        {
+          "name": "Hot Tea",
+          "notes": "(with Stuart Bogie)"
+        },
+        {
+          "name": "Rockdale"
+        },
+        {
+          "name": "Wysteria Lane",
+          "notes": "(with Stuart Bogie) (>)"
+        },
+        {
+          "name": "Burn the Witch",
+          "notes": "(Radiohead cover) (with Stuart Bogie)"
+        },
+        {
+          "name": "Slow Ready"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Arrow",
+          "notes": "(>)"
+        },
+        {
+          "name": "Fish in the Sea",
+          "notes": "(Fat Freddy’s Drop cover) (with Stuart Bogie)"
+        },
+        {
+          "name": "Big Modern!",
+          "notes": "(>)"
+        },
+        {
+          "name": "Good Times // End Times",
+          "notes": "(Live debut) (>)"
+        },
+        {
+          "name": "(((postplace)))",
+          "notes": "(Live debut) (-> \"Big Modern!\" reprise)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "SALT"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/goose/2026/madison-square-garden-new-york-ny-7b4a8af0.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Victor Wooten",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Victor Wooten",
+      "name": "What You Won't Do for Love"
+    },
+    {
+      "artists": "Victor Wooten, Dennis Chambers, Bob Franceschini",
+      "name": "Funky D"
+    },
+    {
+      "artists": "Victor Wooten",
+      "name": "U Can't Hold No Groove (If You Ain't Got No Pocket)"
+    },
+    {
+      "artists": "Victor Wooten",
+      "name": "The Lesson"
+    },
+    {
+      "artists": "Victor Wooten",
+      "name": "The Vision"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2STVYmc2T02GlvvWZl7umj"
+}

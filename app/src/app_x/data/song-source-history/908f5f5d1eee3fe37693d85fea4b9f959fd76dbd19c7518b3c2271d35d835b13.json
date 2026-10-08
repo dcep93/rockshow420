@@ -1,0 +1,27 @@
+{
+  "artist": "Wolf Eyes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wolf Eyes",
+      "name": "Stabbed In The Face"
+    },
+    {
+      "artists": "Wolf Eyes",
+      "name": "Village Oblivia"
+    },
+    {
+      "artists": "Wolf Eyes",
+      "name": "Black Vomit"
+    },
+    {
+      "artists": "Wolf Eyes",
+      "name": "Dead In A Boat"
+    },
+    {
+      "artists": "Wolf Eyes",
+      "name": "Phone Intro"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6UahQwC9EZGsFSuGjHJNe1"
+}

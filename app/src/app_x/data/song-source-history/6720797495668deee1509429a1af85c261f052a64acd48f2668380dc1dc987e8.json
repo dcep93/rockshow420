@@ -1,0 +1,27 @@
+{
+  "artist": "Sturgill Simpson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sturgill Simpson",
+      "name": "Long White Line"
+    },
+    {
+      "artists": "Sturgill Simpson",
+      "name": "Turtles All the Way Down"
+    },
+    {
+      "artists": "Sturgill Simpson",
+      "name": "Life Ain't Fair and the World Is Mean"
+    },
+    {
+      "artists": "Sturgill Simpson",
+      "name": "I Don't Mind"
+    },
+    {
+      "artists": "Sturgill Simpson",
+      "name": "You Can Have the Crown"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3vDpQbGnzRbRVirXlfQagB"
+}

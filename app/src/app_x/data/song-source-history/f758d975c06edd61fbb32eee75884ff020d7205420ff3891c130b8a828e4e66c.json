@@ -1,0 +1,31 @@
+{
+  "artist": "Caleborate",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Caleborate",
+      "explicit": true,
+      "name": "Caught Up"
+    },
+    {
+      "artists": "Caleborate",
+      "explicit": true,
+      "name": "4 Willem"
+    },
+    {
+      "artists": "Caleborate, Kota the Friend",
+      "explicit": true,
+      "name": "Contact"
+    },
+    {
+      "artists": "Caleborate",
+      "name": "How's Life?"
+    },
+    {
+      "artists": "Caleborate",
+      "explicit": true,
+      "name": "El Portal - Single"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7bpDJUH5hnffIYHID6h3Et"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Mannequin Pussy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mannequin Pussy",
+      "explicit": true,
+      "name": "I Got Heaven"
+    },
+    {
+      "artists": "Mannequin Pussy",
+      "explicit": true,
+      "name": "Loud Bark"
+    },
+    {
+      "artists": "Mannequin Pussy",
+      "name": "I Don't Know You"
+    },
+    {
+      "artists": "Destroy Boys, Mannequin Pussy, Scowl",
+      "name": "You Hear Yes (feat. Mannequin Pussy and Scowl)"
+    },
+    {
+      "artists": "Mannequin Pussy",
+      "explicit": true,
+      "name": "Romantic"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/33yje3hgpNfdXpqdJQcrt9"
+}

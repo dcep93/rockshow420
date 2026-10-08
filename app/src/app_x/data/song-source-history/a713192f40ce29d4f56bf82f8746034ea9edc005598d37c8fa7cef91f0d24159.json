@@ -1,0 +1,27 @@
+{
+  "artist": "The Killers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Killers",
+      "name": "Mr. Brightside"
+    },
+    {
+      "artists": "The Killers",
+      "name": "Somebody Told Me"
+    },
+    {
+      "artists": "The Killers",
+      "name": "When You Were Young"
+    },
+    {
+      "artists": "The Killers",
+      "name": "Human"
+    },
+    {
+      "artists": "The Killers",
+      "name": "All These Things That I've Done"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0C0XlULifJtAgn6ZNCW2eu"
+}

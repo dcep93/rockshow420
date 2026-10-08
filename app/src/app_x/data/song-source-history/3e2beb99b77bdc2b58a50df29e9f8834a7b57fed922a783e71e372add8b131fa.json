@@ -1,0 +1,53 @@
+{
+  "artist": "Tenacious D",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tenacious D",
+      "name": "Wicked Game"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Tribute"
+    },
+    {
+      "artists": "Tenacious D",
+      "name": "...Baby One More Time (from Kung Fu Panda 4)"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Kickapoo"
+    },
+    {
+      "artists": "Tenacious D",
+      "name": "The Metal"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Beelzeboss (The Final Showdown)"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Fuck Her Gently"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Classico"
+    },
+    {
+      "artists": "Tenacious D",
+      "name": "Wonderboy"
+    },
+    {
+      "artists": "Tenacious D",
+      "explicit": true,
+      "name": "Master Exploder"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+}

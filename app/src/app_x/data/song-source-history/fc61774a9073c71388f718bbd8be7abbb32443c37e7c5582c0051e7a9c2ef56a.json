@@ -1,0 +1,27 @@
+{
+  "artist": "Bombay Bicycle Club",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bombay Bicycle Club",
+      "name": "Always Like This"
+    },
+    {
+      "artists": "Bombay Bicycle Club",
+      "name": "Shuffle"
+    },
+    {
+      "artists": "Bombay Bicycle Club",
+      "name": "Eat, Sleep, Wake (Nothing But You)"
+    },
+    {
+      "artists": "Bombay Bicycle Club",
+      "name": "Lights Out, Words Gone"
+    },
+    {
+      "artists": "Bombay Bicycle Club",
+      "name": "Luna"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3pTE9iaJTkWns3mxpNQlJV"
+}

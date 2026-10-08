@@ -1,0 +1,58 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Streamed live on Twitch and Amazon Prime",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "I like to touch people"
+        },
+        {
+          "name": "Drive"
+        },
+        {
+          "name": "Wet Hair"
+        },
+        {
+          "name": "Don't go back to his ass"
+        },
+        {
+          "name": "Bowling alley",
+          "notes": "(preceded by band introductions)"
+        },
+        {
+          "name": "Thirst Trap"
+        },
+        {
+          "name": "Sex and the city"
+        },
+        {
+          "name": "Shooting star"
+        },
+        {
+          "name": "Phoebe"
+        },
+        {
+          "name": "Chateau"
+        },
+        {
+          "name": "Sue me"
+        },
+        {
+          "name": "Silver Jubilee"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Sue me",
+          "notes": "(No Phones)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/audrey-hobert/2026/golden-gate-park-san-francisco-ca-usa-3b49a41c.html"
+}

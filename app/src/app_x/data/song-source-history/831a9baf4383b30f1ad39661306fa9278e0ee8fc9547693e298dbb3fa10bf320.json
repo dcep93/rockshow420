@@ -1,0 +1,28 @@
+{
+  "artist": "Smallpools",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Smallpools",
+      "name": "Dreaming"
+    },
+    {
+      "artists": "Smallpools, The Chainsmokers",
+      "name": "Dreaming - The Chainsmokers Remix"
+    },
+    {
+      "artists": "Smallpools",
+      "explicit": true,
+      "name": "Million Bucks"
+    },
+    {
+      "artists": "Smallpools",
+      "name": "Killer Whales"
+    },
+    {
+      "artists": "Smallpools",
+      "name": "Over & Over"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4iiQabGKtS2RtTKpVkrVTw"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Bikini Kill",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bikini Kill",
+      "name": "Rebel Girl"
+    },
+    {
+      "artists": "Bikini Kill",
+      "name": "DemiRep"
+    },
+    {
+      "artists": "Bikini Kill",
+      "name": "Carnival"
+    },
+    {
+      "artists": "Bikini Kill",
+      "name": "Double Dare Ya"
+    },
+    {
+      "artists": "Bikini Kill",
+      "name": "New Radio"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0gvHPdYxlU94W7V5MSIlFe"
+}

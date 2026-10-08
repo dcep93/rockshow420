@@ -1,0 +1,65 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Husbands"
+        },
+        {
+          "name": "Cobra"
+        },
+        {
+          "name": "Getting Killed"
+        },
+        {
+          "name": "Islands of Men"
+        },
+        {
+          "name": "Half Real"
+        },
+        {
+          "name": "2122",
+          "notes": "(with \"Shoot You Down\" by the Stone Roses as a tribute to Mani)"
+        },
+        {
+          "name": "I See Myself"
+        },
+        {
+          "name": "Undoer"
+        },
+        {
+          "name": "Cowboy Nudes"
+        },
+        {
+          "name": "100 Horses"
+        },
+        {
+          "name": "Space Race"
+        },
+        {
+          "name": "Bow Down"
+        },
+        {
+          "name": "Au Pays du Cocaine"
+        },
+        {
+          "name": "Taxes"
+        },
+        {
+          "name": "Long Island City Here I Come"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Trinidad"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/geese/2025/brooklyn-paramount-brooklyn-ny-7b4e2a18.html"
+}

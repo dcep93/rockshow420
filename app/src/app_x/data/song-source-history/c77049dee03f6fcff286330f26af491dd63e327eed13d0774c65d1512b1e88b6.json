@@ -1,0 +1,47 @@
+{
+  "artist": "Dave Matthews Band",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Crash into Me"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Ants Marching"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "The Space Between"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Satellite"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "#41"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Where Are You Going"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Grey Street"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "Crush"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "You & Me"
+    },
+    {
+      "artists": "Dave Matthews Band",
+      "name": "What Would You Say"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2TI7qyDE0QfyOlnbtfDo7L"
+}

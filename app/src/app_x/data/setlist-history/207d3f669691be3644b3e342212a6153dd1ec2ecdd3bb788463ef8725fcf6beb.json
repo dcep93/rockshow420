@@ -1,0 +1,63 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "We're Where We Were"
+        },
+        {
+          "name": "Lazy Boy"
+        },
+        {
+          "name": "All Wordz Are Made Up"
+        },
+        {
+          "name": "Pointlessness"
+        },
+        {
+          "name": "Black Hole"
+        },
+        {
+          "name": "M.utually A.ssured D.estruction"
+        },
+        {
+          "name": "Improv Jam"
+        },
+        {
+          "name": "Leave It In My Dreams"
+        },
+        {
+          "name": "Father Electricity"
+        },
+        {
+          "name": "Pyramid of Bones"
+        },
+        {
+          "name": "Wink"
+        },
+        {
+          "name": "Where No Eagles Fly"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "QYURRYUS"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "Human Sadness"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/the-voidz/2018/the-chapel-san-francisco-ca-2beb64c6.html"
+}

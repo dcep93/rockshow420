@@ -1,0 +1,29 @@
+{
+  "artist": "The Chemical Brothers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Chemical Brothers, Q-Tip",
+      "explicit": true,
+      "name": "Go"
+    },
+    {
+      "artists": "The Chemical Brothers, Q-Tip",
+      "name": "Galvanize"
+    },
+    {
+      "artists": "The Chemical Brothers",
+      "name": "Hey Boy Hey Girl"
+    },
+    {
+      "artists": "The Chemical Brothers, Q-Tip",
+      "name": "Go - Radio Edit"
+    },
+    {
+      "artists": "The Chemical Brothers, Q-Tip",
+      "explicit": true,
+      "name": "Go - Extended Mix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1GhPHrq36VKCY3ucVaZCfo"
+}

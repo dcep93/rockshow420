@@ -1,0 +1,28 @@
+{
+  "artist": "Balming Tiger",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Balming Tiger, RM",
+      "name": "SEXY NUKIM"
+    },
+    {
+      "artists": "Balming Tiger",
+      "name": "Buriburi"
+    },
+    {
+      "artists": "Balming Tiger",
+      "name": "Oui"
+    },
+    {
+      "artists": "Balming Tiger",
+      "explicit": true,
+      "name": "Wash Away"
+    },
+    {
+      "artists": "Balming Tiger, ATARASHII GAKKO!",
+      "name": "Narani Narani (feat. ATARASHII GAKKO!)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6vbKIm1WsvhMMDpthYONc1"
+}

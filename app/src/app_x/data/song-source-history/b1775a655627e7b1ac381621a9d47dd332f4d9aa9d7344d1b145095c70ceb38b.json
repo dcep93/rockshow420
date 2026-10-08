@@ -1,0 +1,28 @@
+{
+  "artist": "Teki Latex",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Teki Latex, Lio",
+      "name": "Les matins de Paris (feat. Lio)"
+    },
+    {
+      "artists": "Teki Latex, Jeremy Chatelain",
+      "explicit": true,
+      "name": "J'en sais rien"
+    },
+    {
+      "artists": "Teki Latex",
+      "name": "Dinosaurs With Guns"
+    },
+    {
+      "artists": "Teki Latex",
+      "name": "Go Go Go"
+    },
+    {
+      "artists": "Teki Latex, Orgasmic, Sound Pellegrino Thermal Team",
+      "name": "Strange Touch (My House)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1hJv8PCKb3M0PSHQ9UxgCa"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Gus Dapperton",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gus Dapperton",
+      "explicit": true,
+      "name": "Queen"
+    },
+    {
+      "artists": "Gus Dapperton",
+      "name": "Prune, You Talk Funny"
+    },
+    {
+      "artists": "Gus Dapperton",
+      "name": "Take Me Out To The Disco"
+    },
+    {
+      "artists": "Sports, Gus Dapperton",
+      "name": "Thank You for Leaving"
+    },
+    {
+      "artists": "Gus Dapperton",
+      "name": "Post Humorous"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6sHCvZe1PHrOAuYlwTLNH4"
+}

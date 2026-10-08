@@ -1,0 +1,27 @@
+{
+  "artist": "The Lemon Twigs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Lemon Twigs",
+      "name": "I Just Can't Get Over Losing You"
+    },
+    {
+      "artists": "The Lemon Twigs",
+      "name": "My Golden Years"
+    },
+    {
+      "artists": "The Lemon Twigs",
+      "name": "2 or 3"
+    },
+    {
+      "artists": "The Lemon Twigs",
+      "name": "Corner Of My Eye"
+    },
+    {
+      "artists": "The Lemon Twigs",
+      "name": "Look For Your Mind"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7eYZSXnQVCODCVmTV8Hk2T"
+}

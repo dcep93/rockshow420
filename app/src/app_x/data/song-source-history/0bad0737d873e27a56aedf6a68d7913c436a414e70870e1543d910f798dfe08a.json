@@ -1,0 +1,27 @@
+{
+  "artist": "BADBADNOTGOOD",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BADBADNOTGOOD, Samuel T. Herring",
+      "name": "Time Moves Slow"
+    },
+    {
+      "artists": "BADBADNOTGOOD, Charlotte Day Wilson",
+      "name": "In Your Eyes"
+    },
+    {
+      "artists": "VANO 3000, BADBADNOTGOOD, Samuel T. Herring",
+      "name": "Running Away"
+    },
+    {
+      "artists": "Turnstile, BADBADNOTGOOD, Blood Orange",
+      "name": "Alien Love Call"
+    },
+    {
+      "artists": "VANO 3000, BADBADNOTGOOD, Samuel T. Herring",
+      "name": "Running Away (Time)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/65dGLGjkw3UbddUg2GKQoZ"
+}

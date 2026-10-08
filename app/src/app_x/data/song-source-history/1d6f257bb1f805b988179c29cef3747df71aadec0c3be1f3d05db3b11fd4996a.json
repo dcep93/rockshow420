@@ -1,0 +1,27 @@
+{
+  "artist": "Lambchop",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lambchop",
+      "name": "The New World Wave"
+    },
+    {
+      "artists": "Lambchop",
+      "name": "Weakened"
+    },
+    {
+      "artists": "Lambchop",
+      "name": "Just West of Nicollet"
+    },
+    {
+      "artists": "Lambchop",
+      "name": "Stella"
+    },
+    {
+      "artists": "Lambchop",
+      "name": "A Doctor in the House"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Lhs0asnFQiLuntn3s8p78"
+}

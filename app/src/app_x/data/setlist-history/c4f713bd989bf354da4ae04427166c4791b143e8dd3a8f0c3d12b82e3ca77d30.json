@@ -1,0 +1,55 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Prologue"
+        },
+        {
+          "name": "The Dark Sentencer"
+        },
+        {
+          "name": "Here We Are Juggernaut"
+        },
+        {
+          "name": "Devil in Jersey City"
+        },
+        {
+          "name": "In Keeping Secrets of Silent Earth: 3"
+        },
+        {
+          "name": "The Crowing"
+        },
+        {
+          "name": "Blood Red Summer"
+        },
+        {
+          "name": "A Favor House Atlantic"
+        },
+        {
+          "name": "Ten Speed (Of God's Blood and Burial)"
+        },
+        {
+          "name": "Here to Mars"
+        },
+        {
+          "name": "Wake Up"
+        },
+        {
+          "name": "Unheavenly Creatures"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Welcome Home"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/coheed-and-cambria/2018/william-randolph-hearst-greek-theatre-berkeley-ca-13e8a981.html"
+}

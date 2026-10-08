@@ -1,0 +1,31 @@
+{
+  "artist": "Denzel Curry",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fred again.., Skepta, PlaqueBoyMax, Denzel Curry, Hanumankind, That Mexican OT, D Double E, LYNY",
+      "explicit": true,
+      "name": "Victory Lap Five"
+    },
+    {
+      "artists": "Denzel Curry, Gizzle, Bren Joy, Arcane, League of Legends",
+      "name": "Dynasties & Dystopia - from the series Arcane League of Legends"
+    },
+    {
+      "artists": "Denzel Curry",
+      "explicit": true,
+      "name": "Walkin"
+    },
+    {
+      "artists": "Denzel Curry, LAZER DIM 700, BKTHERULA",
+      "explicit": true,
+      "name": "STILL IN THE PAINT (with LAZER DIM 700 & Bktherula)"
+    },
+    {
+      "artists": "Denzel Curry, TiaCorine, A$AP Ferg",
+      "explicit": true,
+      "name": "HOT ONE (with TiaCorine & A$AP Ferg)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6fxyWrfmjcbj5d12gXeiNV"
+}

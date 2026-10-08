@@ -1,0 +1,27 @@
+{
+  "artist": "Calum Scott",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lost Frequencies, Calum Scott",
+      "name": "Where Are You Now"
+    },
+    {
+      "artists": "Calum Scott",
+      "name": "Dancing On My Own"
+    },
+    {
+      "artists": "Calum Scott",
+      "name": "You Are The Reason"
+    },
+    {
+      "artists": "Calum Scott, Leona Lewis",
+      "name": "You Are The Reason - Duet Version"
+    },
+    {
+      "artists": "Calum Scott, Tiësto",
+      "name": "Dancing On My Own - Tiësto Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ydoSd3N2mwgwBHtF6K7eX"
+}

@@ -1,0 +1,48 @@
+{
+  "artist": "Bad Suns",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Suns",
+      "name": "Cardiac Arrest"
+    },
+    {
+      "artists": "Bad Suns",
+      "explicit": true,
+      "name": "Daft Pretty Boys"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Life Was Easier When I Only Cared About Me"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Swimming in the Moonlight"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Salt"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Baby Blue Shades"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Off She Goes"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Violet"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "We Move Like the Ocean"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Heartbreaker"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0YhUSm86okLWldQVwJkLlP"
+}

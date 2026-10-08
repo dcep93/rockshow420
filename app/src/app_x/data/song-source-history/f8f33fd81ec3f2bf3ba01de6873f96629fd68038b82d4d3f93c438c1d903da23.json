@@ -1,0 +1,27 @@
+{
+  "artist": "SIX60",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SIX60",
+      "name": "Don’t Forget Your Roots"
+    },
+    {
+      "artists": "SIX60",
+      "name": "Someone To Be Around"
+    },
+    {
+      "artists": "SIX60",
+      "name": "Only To Be"
+    },
+    {
+      "artists": "SIX60",
+      "name": "We Made It"
+    },
+    {
+      "artists": "SIX60",
+      "name": "Endlessly"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1caoBfXJrbKCwIaTzGkyHn"
+}

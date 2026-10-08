@@ -1,0 +1,28 @@
+{
+  "artist": "Matroda",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Matroda",
+      "name": "Forget It"
+    },
+    {
+      "artists": "Matroda, KLP",
+      "explicit": true,
+      "name": "Bullshit"
+    },
+    {
+      "artists": "AFTER MIDNIGHT, Matroda, San Pacho",
+      "name": "Slinging Dope"
+    },
+    {
+      "artists": "Matroda",
+      "name": "I Need Your Lovin'"
+    },
+    {
+      "artists": "Matroda, Sudakov",
+      "name": "Nights With You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/45lcbTsX07JWzmTIjcdyBz"
+}

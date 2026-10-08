@@ -1,0 +1,27 @@
+{
+  "artist": "SYML",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SYML",
+      "name": "Where's My Love"
+    },
+    {
+      "artists": "SYML",
+      "name": "Where's My Love - Acoustic"
+    },
+    {
+      "artists": "Lana Del Rey, SYML",
+      "name": "Paris, Texas (feat. SYML)"
+    },
+    {
+      "artists": "SYML",
+      "name": "I Wanted to Leave"
+    },
+    {
+      "artists": "SYML",
+      "name": "Breathtaker"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6AyATGg7mDgBlZ4N5uNog0"
+}

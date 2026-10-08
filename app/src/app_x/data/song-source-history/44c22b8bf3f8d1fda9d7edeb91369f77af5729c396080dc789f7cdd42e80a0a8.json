@@ -1,0 +1,29 @@
+{
+  "artist": "Sincere Engineer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sincere Engineer",
+      "name": "Trust Me"
+    },
+    {
+      "artists": "Sincere Engineer",
+      "name": "Cooler"
+    },
+    {
+      "artists": "Sincere Engineer",
+      "name": "Twist My Tongue"
+    },
+    {
+      "artists": "Sincere Engineer",
+      "explicit": true,
+      "name": "Fireplace"
+    },
+    {
+      "artists": "Sincere Engineer",
+      "explicit": true,
+      "name": "Anemia"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+}

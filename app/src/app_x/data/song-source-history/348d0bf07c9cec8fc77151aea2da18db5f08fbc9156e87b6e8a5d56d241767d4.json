@@ -1,0 +1,31 @@
+{
+  "artist": "The Dare",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Dare",
+      "explicit": true,
+      "name": "Girls"
+    },
+    {
+      "artists": "Wet Leg, The Dare",
+      "explicit": true,
+      "name": "mangetout - The Dare remix"
+    },
+    {
+      "artists": "The Dare",
+      "explicit": true,
+      "name": "I Destroyed Disco"
+    },
+    {
+      "artists": "The Dare",
+      "explicit": true,
+      "name": "Good Time"
+    },
+    {
+      "artists": "The Dare",
+      "name": "Sex"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2mqiqsaX4LzFnUP7PmHGAb"
+}

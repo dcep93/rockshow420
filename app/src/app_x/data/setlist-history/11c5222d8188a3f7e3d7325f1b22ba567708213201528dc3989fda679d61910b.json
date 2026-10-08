@@ -1,0 +1,81 @@
+{
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "My Brother Esau",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Rubin and Cherise",
+          "notes": "(Jerry Garcia Band cover) ('Message In a Bottle' tease) (->)"
+        },
+        {
+          "name": "Let It Grow",
+          "notes": "(Grateful Dead cover) ('Tennessee Jed' tease) (>)"
+        },
+        {
+          "name": "Help on the Way",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Slipknot!",
+          "notes": "(Grateful Dead cover) (Elizabeth Reed tease) (>)"
+        },
+        {
+          "name": "Fire and Brimstone",
+          "notes": "(Link Wray cover) (>)"
+        },
+        {
+          "name": "Cumberland Blues",
+          "notes": "(Grateful Dead cover) ('I Know You Rider' and 'China Cat Sunflower' tease)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Seastones",
+          "notes": "(Ned Lagin cover) (with Lee Ranaldo) (Lee Ranaldo solo) (-> Space ->)"
+        },
+        {
+          "name": "Dark Star",
+          "notes": "(Grateful Dead cover) (with Lee Ranaldo) (Daytripper tease) (-> Pigs (Three Different Ones) jam ->)"
+        },
+        {
+          "name": "Where's Sly?",
+          "notes": "(Medeski, Martin & Wood cover) ('Terrapin Station' tease) (->)"
+        },
+        {
+          "name": "Terrapin Station",
+          "notes": "(Grateful Dead cover) (Tennessee Jed tease during Lady With a Fan)"
+        },
+        {
+          "name": "Greatest Story Ever Told",
+          "notes": "(Bob Weir cover)"
+        },
+        {
+          "name": "Pigs (Three Different Ones)",
+          "notes": "(Pink Floyd cover) (->)"
+        },
+        {
+          "name": "Jack Straw",
+          "notes": "(Grateful Dead cover) ('Mountain Jam' tease)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Morning Dew",
+          "notes": "(Bonnie Dobson cover) (with Lee Ranaldo) ('Terrapin Station' tease)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/joe-russos-almost-dead/2024/the-rooftop-at-pier-17-new-york-ny-3b57e06c.html"
+}

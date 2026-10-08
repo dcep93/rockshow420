@@ -1,0 +1,28 @@
+{
+  "artist": "Elephant Heart",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elephant Heart",
+      "name": "The Digital"
+    },
+    {
+      "artists": "LSDREAM, MeSo, Elephant Heart",
+      "explicit": true,
+      "name": "LOVE ROCKET"
+    },
+    {
+      "artists": "Elephant Heart",
+      "name": "Love Is The Weapon"
+    },
+    {
+      "artists": "LSDREAM, Elephant Heart",
+      "name": "OPERATE"
+    },
+    {
+      "artists": "Elephant Heart, The Funk Hunters, Defunk",
+      "name": "The Digital (The Funk Hunters & Defunk Remix)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2nwPBvsuf070C7KYSWoXbD"
+}

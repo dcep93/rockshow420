@@ -1,0 +1,27 @@
+{
+  "artist": "NoSo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NoSo",
+      "name": "Sugar"
+    },
+    {
+      "artists": "NoSo",
+      "name": "Nara"
+    },
+    {
+      "artists": "NoSo",
+      "name": "Suburbia"
+    },
+    {
+      "artists": "NoSo",
+      "name": "I Feel You"
+    },
+    {
+      "artists": "NoSo",
+      "name": "Honey Understand"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/09Wl9YiRr5l1rChWktQD4o"
+}

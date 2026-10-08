@@ -1,0 +1,49 @@
+{
+  "artist": "Geese",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Geese",
+      "name": "Au Pays du Cocaine"
+    },
+    {
+      "artists": "Geese",
+      "name": "Cobra"
+    },
+    {
+      "artists": "Geese",
+      "name": "Taxes"
+    },
+    {
+      "artists": "Geese",
+      "name": "I See Myself"
+    },
+    {
+      "artists": "Geese",
+      "name": "Husbands"
+    },
+    {
+      "artists": "Geese",
+      "name": "Cowboy Nudes"
+    },
+    {
+      "artists": "Geese",
+      "name": "Crusades"
+    },
+    {
+      "artists": "Geese",
+      "explicit": true,
+      "name": "3D Country"
+    },
+    {
+      "artists": "Geese",
+      "explicit": true,
+      "name": "Getting Killed"
+    },
+    {
+      "artists": "Geese",
+      "name": "Trinidad"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0WCo84qtCKfbyIf1lqQWB4"
+}

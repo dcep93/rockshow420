@@ -1,0 +1,32 @@
+{
+  "artist": "AG Club",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "AG Club",
+      "explicit": true,
+      "name": "Memphis"
+    },
+    {
+      "artists": "AG Club, NLE Choppa, A$AP Ferg",
+      "explicit": true,
+      "name": "Memphis, Pt. 2"
+    },
+    {
+      "artists": "AG Club",
+      "explicit": true,
+      "name": "Barry"
+    },
+    {
+      "artists": "AG Club, Baby Boy",
+      "explicit": true,
+      "name": "SUM1ELSE.mp3"
+    },
+    {
+      "artists": "AG Club",
+      "explicit": true,
+      "name": "Mr. Put It On"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/22KyrgRdE2K6aB5wtZls3c"
+}

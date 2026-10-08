@@ -1,0 +1,27 @@
+{
+  "artist": "New Found Glory",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "New Found Glory",
+      "name": "My Friends Over You"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "All Downhill From Here"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Kiss Me"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Hit Or Miss"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Understatement"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4ghjRm4M2vChDfTUycx0Ce"
+}

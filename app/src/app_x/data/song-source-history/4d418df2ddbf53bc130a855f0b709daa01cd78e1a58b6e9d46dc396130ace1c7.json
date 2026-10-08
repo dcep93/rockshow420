@@ -1,0 +1,27 @@
+{
+  "artist": "Paul Simon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Paul Simon",
+      "name": "You Can Call Me Al"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "50 Ways to Leave Your Lover"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Me and Julio Down by the Schoolyard"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Graceland"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Diamonds on the Soles of Her Shoes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2CvCyf1gEVhI0mX6aFXmVI"
+}

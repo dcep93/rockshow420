@@ -1,0 +1,31 @@
+{
+  "artist": "Snow Wife",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Snow Wife",
+      "explicit": true,
+      "name": "AMERICAN HORROR SHOW"
+    },
+    {
+      "artists": "Snow Wife",
+      "explicit": true,
+      "name": "FUCK"
+    },
+    {
+      "artists": "Snow Wife",
+      "name": "WET DREAM"
+    },
+    {
+      "artists": "Snow Wife",
+      "explicit": true,
+      "name": "ALL NIGHT"
+    },
+    {
+      "artists": "Snow Wife",
+      "explicit": true,
+      "name": "Pumps"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7CV3dQkhJB2dEqb85ICD33"
+}

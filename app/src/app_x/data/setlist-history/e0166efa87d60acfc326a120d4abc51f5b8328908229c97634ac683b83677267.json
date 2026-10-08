@@ -1,0 +1,30 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "I Made This for You"
+        },
+        {
+          "name": "The Fox",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "Julep",
+          "notes": "(Punch Brothers song)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Weird Fishes/Arpeggi",
+          "notes": "(Radiohead cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/chris-thile/2025/kaufmann-concert-hall-new-york-ny-734e3add.html"
+}

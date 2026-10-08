@@ -1,0 +1,28 @@
+{
+  "artist": "Belle and Sebastian",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Belle and Sebastian",
+      "name": "The Boy with the Arab Strap"
+    },
+    {
+      "artists": "Belle and Sebastian",
+      "name": "Get Me Away from Here, I'm Dying"
+    },
+    {
+      "artists": "Belle and Sebastian",
+      "name": "Piazza, New York Catcher"
+    },
+    {
+      "artists": "Belle and Sebastian",
+      "name": "Sleep the Clock Around"
+    },
+    {
+      "artists": "Belle and Sebastian",
+      "explicit": true,
+      "name": "Another Sunny Day"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4I2BJf80C0skQpp1sQmA0h"
+}

@@ -1,0 +1,48 @@
+{
+  "artist": "Tokyo Police Club",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Bambi"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Breakneck Speed"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Your English Is Good"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Nature Of The Experiment"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Wait Up (Boots of Danger)"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Tessellate"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Favourite Food"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Be Good"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "name": "Hot Tonight"
+    },
+    {
+      "artists": "Tokyo Police Club",
+      "explicit": true,
+      "name": "Ready to Win"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3wyfo3svXNWnszGAEVey11"
+}

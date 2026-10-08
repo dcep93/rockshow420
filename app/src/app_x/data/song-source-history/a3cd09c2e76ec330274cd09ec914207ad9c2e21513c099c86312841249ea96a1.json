@@ -1,0 +1,28 @@
+{
+  "artist": "Slow Pulp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Slow Pulp",
+      "name": "Falling Apart"
+    },
+    {
+      "artists": "Slow Pulp",
+      "name": "Red Car"
+    },
+    {
+      "artists": "Slow Pulp",
+      "name": "At Home"
+    },
+    {
+      "artists": "Slow Pulp",
+      "explicit": true,
+      "name": "Better Man"
+    },
+    {
+      "artists": "Slow Pulp",
+      "name": "High"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2JFTRDi5v7JtqoouVe1z5D"
+}

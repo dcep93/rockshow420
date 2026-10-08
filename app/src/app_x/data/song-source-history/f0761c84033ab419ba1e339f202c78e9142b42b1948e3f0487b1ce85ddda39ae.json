@@ -1,0 +1,31 @@
+{
+  "artist": "Lauren Sanderson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lauren Sanderson, Fred Durst",
+      "explicit": true,
+      "name": "COME SAY SUM (ft. Fred Durst)"
+    },
+    {
+      "artists": "Lauren Sanderson",
+      "explicit": true,
+      "name": "COME SAY SUM"
+    },
+    {
+      "artists": "G Flip, Lauren Sanderson",
+      "name": "GAY 4 ME (feat. Lauren Sanderson)"
+    },
+    {
+      "artists": "Lauren Sanderson",
+      "explicit": true,
+      "name": "SPELL IT OUT"
+    },
+    {
+      "artists": "Lauren Sanderson",
+      "explicit": true,
+      "name": "SMOKING SECTION"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/06vRrrjT3DBRkhBlXoBdYj"
+}

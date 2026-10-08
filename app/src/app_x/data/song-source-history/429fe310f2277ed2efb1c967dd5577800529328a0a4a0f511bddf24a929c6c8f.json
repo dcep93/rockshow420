@@ -1,0 +1,29 @@
+{
+  "artist": "Rina Sawayama",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Charli xcx, Rina Sawayama",
+      "name": "Beg for You (feat. Rina Sawayama)"
+    },
+    {
+      "artists": "Rina Sawayama",
+      "name": "XS"
+    },
+    {
+      "artists": "Rina Sawayama",
+      "explicit": true,
+      "name": "Comme Des Garçons (Like The Boys)"
+    },
+    {
+      "artists": "Rina Sawayama",
+      "explicit": true,
+      "name": "This Hell"
+    },
+    {
+      "artists": "Rina Sawayama",
+      "name": "Frankenstein"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2KEqzdPS7M5YwGmiuPTdr5"
+}

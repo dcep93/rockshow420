@@ -1,0 +1,27 @@
+{
+  "artist": "Salt-N-Pepa",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Salt-N-Pepa",
+      "name": "Shoop (Re-Recorded)"
+    },
+    {
+      "artists": "Salt-N-Pepa, En Vogue",
+      "name": "Whatta Man (feat. En Vogue) - EP Version"
+    },
+    {
+      "artists": "Salt-N-Pepa",
+      "name": "Push It - Re-recorded"
+    },
+    {
+      "artists": "Salt-N-Pepa, En Vogue, Herby Azor, Al \"Taz\" Machera",
+      "name": "Whatta Man"
+    },
+    {
+      "artists": "Salt-N-Pepa",
+      "name": "Champagne"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+}

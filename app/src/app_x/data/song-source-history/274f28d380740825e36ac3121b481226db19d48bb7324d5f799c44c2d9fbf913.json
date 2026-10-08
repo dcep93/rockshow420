@@ -1,0 +1,32 @@
+{
+  "artist": "Roddy Ricch",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Roddy Ricch",
+      "explicit": true,
+      "name": "The Box"
+    },
+    {
+      "artists": "Mustard, Roddy Ricch",
+      "explicit": true,
+      "name": "Ballin' (with Roddy Ricch)"
+    },
+    {
+      "artists": "NLE Choppa, Roddy Ricch",
+      "explicit": true,
+      "name": "Walk Em Down (feat. Roddy Ricch)"
+    },
+    {
+      "artists": "Roddy Ricch, Mustard",
+      "explicit": true,
+      "name": "High Fashion (feat. Mustard)"
+    },
+    {
+      "artists": "Roddy Ricch",
+      "explicit": true,
+      "name": "Down Below"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/757aE44tKEUQEqRuT6GnEB"
+}

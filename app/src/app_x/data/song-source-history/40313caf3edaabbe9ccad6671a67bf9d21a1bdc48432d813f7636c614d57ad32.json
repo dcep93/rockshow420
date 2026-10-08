@@ -1,0 +1,27 @@
+{
+  "artist": "TOMORROW X TOGETHER",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TOMORROW X TOGETHER",
+      "name": "セツナハナビ (Setsuna Hanabi)"
+    },
+    {
+      "artists": "TOMORROW X TOGETHER",
+      "name": "Stick With You"
+    },
+    {
+      "artists": "TOMORROW X TOGETHER",
+      "name": "Deja Vu"
+    },
+    {
+      "artists": "TOMORROW X TOGETHER, Seori",
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori"
+    },
+    {
+      "artists": "TOMORROW X TOGETHER",
+      "name": "Love Language"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ghlgldX5Dd6720Q3qFyQB"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Kacey Musgraves",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zach Bryan, Kacey Musgraves",
+      "name": "I Remember Everything (feat. Kacey Musgraves)"
+    },
+    {
+      "artists": "Kacey Musgraves",
+      "explicit": true,
+      "name": "Mexico Honey"
+    },
+    {
+      "artists": "Kacey Musgraves",
+      "name": "Dry Spell"
+    },
+    {
+      "artists": "Noah Kahan, Kacey Musgraves",
+      "explicit": true,
+      "name": "She Calls Me Back (with Kacey Musgraves)"
+    },
+    {
+      "artists": "Kacey Musgraves",
+      "name": "Slow Burn"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/70kkdajctXSbqSMJbQO424"
+}

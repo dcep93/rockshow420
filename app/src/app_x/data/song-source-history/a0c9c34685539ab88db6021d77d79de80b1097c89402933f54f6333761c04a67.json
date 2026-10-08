@@ -1,0 +1,32 @@
+{
+  "artist": "Run The Jewels",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Run The Jewels, El-P, Killer Mike",
+      "explicit": true,
+      "name": "Legend Has It"
+    },
+    {
+      "artists": "Run The Jewels, El-P, Killer Mike, DJ Premier, Greg Nice",
+      "explicit": true,
+      "name": "ooh la la (feat. Greg Nice & DJ Premier)"
+    },
+    {
+      "artists": "Run The Jewels, El-P, Killer Mike, Zack De La Rocha",
+      "explicit": true,
+      "name": "Close Your Eyes (And Count to Fuck)"
+    },
+    {
+      "artists": "Run The Jewels, El-P, Killer Mike",
+      "explicit": true,
+      "name": "Blockbuster Night Pt. 1"
+    },
+    {
+      "artists": "Run The Jewels, El-P, Killer Mike",
+      "explicit": true,
+      "name": "No Save Point (From “Cyberpunk 2077”)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4RnBFZRiMLRyZy0AzzTg2C"
+}

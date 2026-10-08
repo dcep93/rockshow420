@@ -1,0 +1,30 @@
+{
+  "artist": "Jake Wesley Rogers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jake Wesley Rogers",
+      "name": "I'll Stand by You"
+    },
+    {
+      "artists": "Jake Wesley Rogers",
+      "explicit": true,
+      "name": "Pluto"
+    },
+    {
+      "artists": "Jake Wesley Rogers",
+      "explicit": true,
+      "name": "Middle of Love"
+    },
+    {
+      "artists": "Jake Wesley Rogers",
+      "name": "Lavender Forever"
+    },
+    {
+      "artists": "Jake Wesley Rogers",
+      "explicit": true,
+      "name": "Evergreen"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+}

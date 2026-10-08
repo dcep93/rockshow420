@@ -1,0 +1,27 @@
+{
+  "artist": "bLAck pARty",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "bLAck pARty",
+      "name": "Dancing"
+    },
+    {
+      "artists": "bLAck pARty",
+      "name": "Bloom"
+    },
+    {
+      "artists": "bLAck pARty",
+      "name": "Distant Lover"
+    },
+    {
+      "artists": "bLAck pARty",
+      "name": "Summer Love"
+    },
+    {
+      "artists": "bLAck pARty, Childish Gambino",
+      "name": "I Love You More Than You Know (feat. Childish Gambino)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4C9Tvlt8v7d8R6h98FgdUy"
+}

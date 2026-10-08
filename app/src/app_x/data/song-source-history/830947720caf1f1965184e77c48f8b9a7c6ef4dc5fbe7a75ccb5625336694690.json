@@ -1,0 +1,30 @@
+{
+  "artist": "Taylor Bennett",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Bennett, Ludlow, Chance the Rapper",
+      "name": "Broad Shoulders (feat. Chance the Rapper)"
+    },
+    {
+      "artists": "Taylor Bennett, Luke Tennyson, KYLE",
+      "explicit": true,
+      "name": "Favorite Colors"
+    },
+    {
+      "artists": "Taylor Bennett, Mike WiLL Made-It, Chance the Rapper, Jeremih",
+      "explicit": true,
+      "name": "Grown up Fairy Tales"
+    },
+    {
+      "artists": "Taylor Bennett, Ludlow, Donnie Trumpet, Brandon Fox, Shay Lewis",
+      "name": "Dancing in the Rain (feat. Donnie Trumpet, Brandon Fox & Shay Lewis)"
+    },
+    {
+      "artists": "Taylor Bennett, Treble.Fm, Stro, Jordan Bratton",
+      "explicit": true,
+      "name": "New York Nights"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6CqjoQyGZlnhnq5gAUz92c"
+}

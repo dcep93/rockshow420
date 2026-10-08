@@ -1,0 +1,28 @@
+{
+  "artist": "DJ Metro",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DJ Metro",
+      "name": "Burn Dat Boi"
+    },
+    {
+      "artists": "DJ Metro",
+      "name": "Smak My Bitch Up"
+    },
+    {
+      "artists": "DJ Metro",
+      "name": "Tekno Bangz"
+    },
+    {
+      "artists": "DJ Metro",
+      "name": "Quantize"
+    },
+    {
+      "artists": "DJ Elmoe, DJ Metro",
+      "explicit": true,
+      "name": "Get Out Da Way Joe"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3pcv1gJbOes6TSdoic8yqk"
+}

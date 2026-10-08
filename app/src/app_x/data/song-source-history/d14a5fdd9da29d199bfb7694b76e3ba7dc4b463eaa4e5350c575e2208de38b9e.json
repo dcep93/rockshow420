@@ -1,0 +1,32 @@
+{
+  "artist": "G Herbo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "G Herbo",
+      "explicit": true,
+      "name": "Went Legit (Bonus)"
+    },
+    {
+      "artists": "Nardo Wick, G Herbo, Lil Durk, 21 Savage",
+      "explicit": true,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)"
+    },
+    {
+      "artists": "G Herbo, Lil Uzi Vert, Juice WRLD, Chance the Rapper",
+      "explicit": true,
+      "name": "PTSD"
+    },
+    {
+      "artists": "Gunna, G Herbo",
+      "explicit": true,
+      "name": "idk that bitch (feat. G Herbo)"
+    },
+    {
+      "artists": "G Herbo",
+      "explicit": true,
+      "name": "Pull Up"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5QdEbQJ3ylBnc3gsIASAT5"
+}

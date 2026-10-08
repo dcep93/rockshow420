@@ -1,0 +1,27 @@
+{
+  "artist": "Jesse Welles",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jesse Welles",
+      "name": "War Isn't Murder"
+    },
+    {
+      "artists": "Jesse Welles",
+      "name": "Masks Off"
+    },
+    {
+      "artists": "Jesse Welles, Mt. Joy",
+      "name": "Have You Ever Seen The Rain (feat. Mt. Joy)"
+    },
+    {
+      "artists": "Jesse Welles",
+      "name": "Red"
+    },
+    {
+      "artists": "Jesse Welles",
+      "name": "Bugs"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/366xgdzfRGQoiDRGidGlDJ"
+}

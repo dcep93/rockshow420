@@ -1,0 +1,27 @@
+{
+  "artist": "Death Cab for Cutie",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Death Cab for Cutie",
+      "name": "I Will Follow You into the Dark"
+    },
+    {
+      "artists": "Death Cab for Cutie",
+      "name": "Soul Meets Body"
+    },
+    {
+      "artists": "Death Cab for Cutie",
+      "name": "Crooked Teeth"
+    },
+    {
+      "artists": "Death Cab for Cutie",
+      "name": "Transatlanticism"
+    },
+    {
+      "artists": "Death Cab for Cutie",
+      "name": "Title and Registration"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0YrtvWJMgSdVrk3SfNjTbx"
+}

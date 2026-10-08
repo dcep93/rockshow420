@@ -1,0 +1,31 @@
+{
+  "artist": "NJOMZA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dark Heart, NJOMZA",
+      "name": "Over & Over"
+    },
+    {
+      "artists": "Skrillex, NJOMZA, swedm®, Team EZY",
+      "explicit": true,
+      "name": "SAY GOODBYE"
+    },
+    {
+      "artists": "Party Favor, NJOMZA, FKi 1st",
+      "explicit": true,
+      "name": "Caskets"
+    },
+    {
+      "artists": "NJOMZA",
+      "explicit": true,
+      "name": "Ridin Solo (Arvfz Remix)"
+    },
+    {
+      "artists": "NJOMZA, Louis The Child",
+      "explicit": true,
+      "name": "Over You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3zOUpziwcfY2bCh4VyJ4Am"
+}

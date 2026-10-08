@@ -1,0 +1,47 @@
+{
+  "artist": "Arctic Monkeys",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arctic Monkeys",
+      "name": "I Wanna Be Yours"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "505"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Do I Wanna Know?"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Why'd You Only Call Me When You're High?"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "No. 1 Party Anthem"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "R U Mine?"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Fluorescent Adolescent"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Snap Out Of It"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Knee Socks"
+    },
+    {
+      "artists": "Arctic Monkeys",
+      "name": "Arabella"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7Ln80lUS6He07XvHI8qqHH"
+}

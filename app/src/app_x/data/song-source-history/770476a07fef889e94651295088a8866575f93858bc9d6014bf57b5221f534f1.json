@@ -1,0 +1,27 @@
+{
+  "artist": "The Happy Fits",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Happy Fits",
+      "name": "She Wants Me (To Be Loved)"
+    },
+    {
+      "artists": "The Happy Fits",
+      "name": "Dirty Imbecile - Re-mastered"
+    },
+    {
+      "artists": "The Happy Fits",
+      "name": "Too Late - Re-mastered"
+    },
+    {
+      "artists": "The Happy Fits",
+      "name": "So Alright, Cool, Whatever"
+    },
+    {
+      "artists": "The Happy Fits",
+      "name": "Everything You Do"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/73rPcaYEhBd0UuVZBqqyQJ"
+}

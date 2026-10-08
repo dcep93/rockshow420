@@ -1,0 +1,27 @@
+{
+  "artist": "AURORA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "AURORA",
+      "name": "Runaway"
+    },
+    {
+      "artists": "Wichayanee Pearklin, AURORA",
+      "name": "Into the Unknown"
+    },
+    {
+      "artists": "AURORA",
+      "name": "Cure For Me"
+    },
+    {
+      "artists": "AURORA",
+      "name": "The Seed"
+    },
+    {
+      "artists": "AURORA",
+      "name": "Running with the Wolves"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1WgXqy2Dd70QQOU7Ay074N"
+}

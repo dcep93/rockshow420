@@ -1,0 +1,47 @@
+{
+  "artist": "System Of A Down",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "System Of A Down",
+      "name": "Chop Suey!"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Toxicity"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Aerials"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Lonely Day"
+    },
+    {
+      "artists": "ESystem Of A Down",
+      "name": "B.Y.O.B."
+    },
+    {
+      "artists": "ESystem Of A Down",
+      "name": "I-E-A-I-A-I-O"
+    },
+    {
+      "artists": "ESystem Of A Down",
+      "name": "Sugar"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Hypnotize"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "ATWA"
+    },
+    {
+      "artists": "System Of A Down",
+      "name": "Radio/Video"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5eAWCfyUhZtHHtBdNk56l1"
+}

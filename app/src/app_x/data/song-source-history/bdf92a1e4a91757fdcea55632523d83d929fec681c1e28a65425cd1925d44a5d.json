@@ -1,0 +1,27 @@
+{
+  "artist": "Alvvays",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alvvays",
+      "name": "Archie, Marry Me"
+    },
+    {
+      "artists": "Alvvays",
+      "name": "Dreams Tonite"
+    },
+    {
+      "artists": "Alvvays",
+      "name": "Adult Diversion"
+    },
+    {
+      "artists": "Alvvays",
+      "name": "Not My Baby"
+    },
+    {
+      "artists": "Alvvays",
+      "name": "Tile By Tile"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3kzwYV3OCB010YfXMF0Avt"
+}

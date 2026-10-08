@@ -1,0 +1,70 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Bambi"
+        },
+        {
+          "name": "Golden"
+        },
+        {
+          "name": "Way It Goes"
+        },
+        {
+          "name": "Baseball"
+        },
+        {
+          "name": "Doubt"
+        },
+        {
+          "name": "Honestly"
+        },
+        {
+          "name": "Warm Glow"
+        },
+        {
+          "name": "Monsoon"
+        },
+        {
+          "name": "South"
+        },
+        {
+          "name": "Simple Season"
+        },
+        {
+          "name": "Chapstick"
+        },
+        {
+          "name": "No Poms"
+        },
+        {
+          "name": "Why Even Try"
+        },
+        {
+          "name": "Think It Over"
+        },
+        {
+          "name": "Bubbles"
+        },
+        {
+          "name": "Suicide Saturday"
+        },
+        {
+          "name": "Violet"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Buttercup"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hippo-campus/2019/fox-theater-oakland-ca-4392a3b3.html"
+}

@@ -1,0 +1,65 @@
+{
+  "sets": [
+    {
+      "name": "The Joy of Motion",
+      "songs": [
+        {
+          "name": "Ka$cade"
+        },
+        {
+          "name": "Lippincott"
+        },
+        {
+          "name": "Air Chrysalis"
+        },
+        {
+          "name": "Another Year"
+        },
+        {
+          "name": "Physical Education"
+        },
+        {
+          "name": "Tooth and Claw"
+        },
+        {
+          "name": "Crescent"
+        },
+        {
+          "name": "The Future That Awaited Me"
+        },
+        {
+          "name": "Para Mexer"
+        },
+        {
+          "name": "The Woven Web"
+        },
+        {
+          "name": "Mind-Spun"
+        },
+        {
+          "name": "Nephele"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Brain Dance",
+          "notes": "(with Plini)"
+        },
+        {
+          "name": "Ectogenesis"
+        },
+        {
+          "name": "Red Miso"
+        },
+        {
+          "name": "Monomyth"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/animals-as-leaders/2024/brooklyn-steel-brooklyn-ny-53a843ed.html"
+}

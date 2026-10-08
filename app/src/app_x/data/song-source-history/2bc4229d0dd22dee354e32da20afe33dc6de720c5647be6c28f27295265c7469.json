@@ -1,0 +1,48 @@
+{
+  "artist": "Phantogram",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phantogram",
+      "name": "When I'm Small"
+    },
+    {
+      "artists": "Ian Asher, Phantogram",
+      "name": "Black Out Days (Stay Away)"
+    },
+    {
+      "artists": "Phantogram",
+      "name": "Black Out Days"
+    },
+    {
+      "artists": "Phantogram, Future Islands",
+      "name": "Black Out Days - Future Islands Remix"
+    },
+    {
+      "artists": "Phantogram",
+      "name": "Fall In Love"
+    },
+    {
+      "artists": "Phantogram",
+      "name": "Mouthful of Diamonds"
+    },
+    {
+      "artists": "Phantogram",
+      "explicit": true,
+      "name": "Don't Move"
+    },
+    {
+      "artists": "Cold War Kids, Phantogram",
+      "name": "Hang Me Up To Dry - Phantogram Version"
+    },
+    {
+      "artists": "Phantogram, Subtronics",
+      "name": "Black Out Days - Subtronics Remix"
+    },
+    {
+      "artists": "Phantogram, xxtristanxo, Slowed Radio, Future Islands",
+      "name": "Black Out Days - Future Islands Remix (Slowed)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1l9d7B8W0IHy3LqWsxP2SH"
+}

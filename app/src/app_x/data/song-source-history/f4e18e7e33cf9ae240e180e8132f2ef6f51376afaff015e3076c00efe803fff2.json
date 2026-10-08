@@ -1,0 +1,29 @@
+{
+  "artist": "Yellow Claw",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Yellow Claw, Yade Lauren",
+      "name": "Love & War - Yellow Claw G-Funk Remix"
+    },
+    {
+      "artists": "Yellow Claw",
+      "name": "DJ Turn It Up"
+    },
+    {
+      "artists": "Yellow Claw, Natte Visstick, RHYME",
+      "name": "CRUSH"
+    },
+    {
+      "artists": "Yellow Claw, Ayden",
+      "explicit": true,
+      "name": "Till It Hurts"
+    },
+    {
+      "artists": "Yellow Claw, Rochelle",
+      "explicit": true,
+      "name": "Shotgun"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/47z7ZrgFoBvVpCnElCE3Zh"
+}

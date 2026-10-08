@@ -1,0 +1,28 @@
+{
+  "artist": "Bad Wolves",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Wolves",
+      "name": "Zombie"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Killing Me Slowly"
+    },
+    {
+      "artists": "Bad Wolves, DIAMANTE",
+      "name": "Hear Me Now"
+    },
+    {
+      "artists": "Bad Wolves",
+      "explicit": true,
+      "name": "Remember When"
+    },
+    {
+      "artists": "Bad Wolves",
+      "name": "Sober"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0eI3X5rAzHRZVe5FPk4MN1"
+}

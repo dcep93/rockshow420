@@ -1,0 +1,29 @@
+{
+  "artist": "iann dior",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "24kGoldn, iann dior",
+      "explicit": true,
+      "name": "Mood (feat. iann dior)"
+    },
+    {
+      "artists": "Glass Animals, iann dior",
+      "name": "Heat Waves"
+    },
+    {
+      "artists": "iann dior",
+      "name": "emotions"
+    },
+    {
+      "artists": "iann dior, mgk, Travis Barker",
+      "name": "Sick and Tired (feat. Machine Gun Kelly & Travis Barker)"
+    },
+    {
+      "artists": "24kGoldn, Justin Bieber, J Balvin, iann dior",
+      "explicit": true,
+      "name": "Mood - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ASri4ePR7RlsvIQgWPJpS"
+}

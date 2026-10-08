@@ -1,0 +1,244 @@
+{
+  "sets": [
+    {
+      "name": "REQIUEM",
+      "songs": [
+        {
+          "name": "Intro",
+          "notes": "(contains elements of \"AMERIICAN REQUIEM\")",
+          "tape": true
+        },
+        {
+          "name": "AMERIICAN REQUIEM"
+        },
+        {
+          "name": "Blackbird",
+          "notes": "(The Beatles cover)"
+        },
+        {
+          "name": "The Star-Spangled Banner",
+          "notes": "(John Stafford Smith & Francis Scott Key cover) (Includes elements of Jimi Hendrix’s instrumental arrangement originally performed at Woodstock)"
+        },
+        {
+          "name": "Freedom",
+          "notes": "(shortened)"
+        },
+        {
+          "name": "YA YA / Why Don't You Love Me"
+        },
+        {
+          "name": "OH LOUISIANA",
+          "tape": true
+        }
+      ]
+    },
+    {
+      "name": "REVOLUTION",
+      "songs": [
+        {
+          "name": "PROPAGANDA",
+          "notes": "(contains elements of Those Guys' \"An American Poem\" and Death Grips' \"You Might Think He Loves…\")",
+          "tape": true
+        },
+        {
+          "name": "AMERICA HAS A PROBLEM",
+          "notes": "(contains elements of \"AMERICA HAS A PROBLEM (feat. Kendrick Lamar)\" and \"SPAGHETTII\")"
+        },
+        {
+          "name": "SPAGHETTII",
+          "notes": "(contains elements of DJ Mimo's \"ESSA TÁ QUENTE\", \"***Flawless\", \"Run the World (Girls)\" & \"My Power\")"
+        },
+        {
+          "name": "Formation",
+          "notes": "(shortened)"
+        },
+        {
+          "name": "MY HOUSE",
+          "notes": "(contains elements of Wisp's \"Your Face\" and \"Bow Down\")"
+        },
+        {
+          "name": "Diva",
+          "notes": "(contains elements of Soulja Boy’s \"Crank That\", GloRilla's \"TGIF\" & David Banner's \"Like a Pimp\")"
+        }
+      ]
+    },
+    {
+      "name": "REFUGE",
+      "songs": [
+        {
+          "name": "TRAILER",
+          "notes": "(contains elements of Justice's \"Genesis\", JPEGMAFIA's \"don't rely on other men\" and \"I Been On\")",
+          "tape": true
+        },
+        {
+          "name": "ALLIIGATOR TEARS"
+        },
+        {
+          "name": "JUST FOR FUN"
+        },
+        {
+          "name": "PROTECTOR"
+        },
+        {
+          "name": "The First Time Ever I Saw Your Face",
+          "notes": "(Ewan MacColl & Peggy Seeger song) (George Michael Version)",
+          "tape": true
+        },
+        {
+          "name": "FLAMENCO"
+        }
+      ]
+    },
+    {
+      "name": "MARFA",
+      "songs": [
+        {
+          "name": "PEEP SHOW",
+          "notes": "(contains elements of Marian Anderson's \"Deep River\", Nancy Sinatra's \"Lightning's Girl\")",
+          "tape": true
+        },
+        {
+          "name": "DESERT EAGLE"
+        },
+        {
+          "name": "RIIVERDANCE"
+        },
+        {
+          "name": "II HANDS II HEAVEN"
+        },
+        {
+          "name": "TYRANT",
+          "notes": "(contains elements of \"Haunted\")"
+        },
+        {
+          "name": "THIQUE",
+          "notes": "(shortened; contains elements of \"Bills, Bills, Bills\" and \"Say My Name\")"
+        },
+        {
+          "name": "LEVII'S JEANS",
+          "notes": "(shortened)"
+        },
+        {
+          "name": "SWEET ★ HONEY ★ BUCKIIN' / PURE/HONEY / SUMMER RENAISSANCE",
+          "notes": "(Mashup)"
+        }
+      ]
+    },
+    {
+      "name": "TEASE",
+      "songs": [
+        {
+          "name": "OUTLAW (50FT COWBOY)",
+          "notes": "(contains elements of BigXthaPlug's \"The Largest\" and Esther Marrow's \"Walk Tall\")",
+          "tape": true
+        },
+        {
+          "name": "TEXAS HOLD 'EM",
+          "notes": "(contains an excerpt of \"CHURCH GIRL\")"
+        },
+        {
+          "name": "Crazy in Love",
+          "notes": "(Homecoming version; shortened; contains elements of Cassidy's \"I'm a Hustla\")"
+        },
+        {
+          "name": "Single Ladies (Put a Ring on It)",
+          "notes": "(shortened; contains elements of \"Get Me Bodied\")"
+        },
+        {
+          "name": "Love on Top",
+          "notes": "(shortened; contains elements \"Freakum Dress\")"
+        },
+        {
+          "name": "Irreplaceable",
+          "notes": "(shortened)"
+        },
+        {
+          "name": "If I Were a Boy",
+          "notes": "(shortened; contains elements of Jolene (COWBOY CARTER version))"
+        },
+        {
+          "name": "DOLLY P",
+          "tape": true
+        },
+        {
+          "name": "Jolene",
+          "notes": "(Dolly Parton cover) (COWBOY CARTER version; contains elements of \"Daddy Lessons\")"
+        },
+        {
+          "name": "Daddy Lessons"
+        },
+        {
+          "name": "BODYGUARD"
+        },
+        {
+          "name": "II MOST WANTED",
+          "notes": "(snippet; contains elements of \"Blow\")"
+        },
+        {
+          "name": "CUFF IT",
+          "notes": "(shortened; contains elements of \"Dance for You\", \"SMOKE HOUR II\" and \"CUFF IT (Wetter Remix)\")"
+        },
+        {
+          "name": "HEATED",
+          "notes": "(shortened; contains elements of 803Fresh's \"Boots on the Ground\")"
+        },
+        {
+          "name": "Before I Let Go",
+          "notes": "(Maze cover)"
+        }
+      ]
+    },
+    {
+      "name": "RENAISSANCE",
+      "songs": [
+        {
+          "name": "HOLY DAUGHTER",
+          "notes": "(contains elements \"Ghost\" and \"I Care\")",
+          "tape": true
+        },
+        {
+          "name": "DAUGHTER"
+        },
+        {
+          "name": "OPERA",
+          "notes": "(contains elements \"ENERGY\")",
+          "tape": true
+        },
+        {
+          "name": "I'M THAT GIRL",
+          "notes": "(shortened; contains elements of \"APESHIT\")"
+        },
+        {
+          "name": "COZY"
+        },
+        {
+          "name": "ALIEN SUPERSTAR",
+          "notes": "(shortened)"
+        },
+        {
+          "name": "COWBOY CARTER RODEO",
+          "notes": "(contains elements of \"PURE/HONEY\", \"Say My Name,\" \"Top Off\" & \"Déjà Vu\")",
+          "tape": true
+        }
+      ]
+    },
+    {
+      "name": "RECLAMATION",
+      "songs": [
+        {
+          "name": "LEGACY",
+          "notes": "(contains elements of Michael Jackson's \"I Wanna Be Where You Are\")",
+          "tape": true
+        },
+        {
+          "name": "16 CARRIAGES",
+          "notes": "(contains elements of \"Ego\" & \"Halo\" and an excerpt of \"That's Why You're Beautiful\")"
+        },
+        {
+          "name": "AMEN"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/beyonce/2025/metlife-stadium-east-rutherford-nj-5b5ae334.html"
+}

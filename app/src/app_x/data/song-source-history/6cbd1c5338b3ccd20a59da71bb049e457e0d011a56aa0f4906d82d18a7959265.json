@@ -1,0 +1,28 @@
+{
+  "artist": "Blue Rain Boots",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Blue Rain Boots",
+      "name": "Oh My God You Are Fine"
+    },
+    {
+      "artists": "Blue Rain Boots",
+      "name": "Hold Me"
+    },
+    {
+      "artists": "Blue Rain Boots",
+      "explicit": true,
+      "name": "2023"
+    },
+    {
+      "artists": "Blue Rain Boots",
+      "name": "Good Old Days"
+    },
+    {
+      "artists": "Blue Rain Boots",
+      "name": "Won't You Be With Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2zautAwUDuz4oyCf7N9Hfv"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Tom Walker",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tom Walker",
+      "name": "Leave a Light On"
+    },
+    {
+      "artists": "Tom Walker",
+      "name": "Just You and I"
+    },
+    {
+      "artists": "Glockenbach, Tom Walker",
+      "name": "Home (feat. Tom Walker)"
+    },
+    {
+      "artists": "Tom Walker",
+      "name": "Leave a Light On - Acoustic"
+    },
+    {
+      "artists": "Tom Walker",
+      "name": "Just You and I - Acoustic"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7z2avKuuiMAT4XZJFv8Rvh"
+}

@@ -1,0 +1,4642 @@
+[
+  {
+    "artist_id": "khruangbin",
+    "concert_id": "1oahei",
+    "expected": {
+      "artist": "Khruangbin",
+      "event_date": "2024-09-21",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/khruangbin/2024/forest-hills-stadium-queens-ny-3539df7.html"
+  },
+  {
+    "artist_id": "men-i-trust",
+    "concert_id": "1oahei",
+    "expected": {
+      "artist": "Men I Trust",
+      "event_date": "2024-09-21",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/men-i-trust/2024/forest-hills-stadium-queens-ny-6353ca97.html"
+  },
+  {
+    "artist_id": "trey-anastasio-band",
+    "concert_id": "12wk7m",
+    "expected": {
+      "artist": "Trey Anastasio Band",
+      "event_date": "2025-11-29",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-2b4360ae.html"
+  },
+  {
+    "artist_id": "walk-the-moon",
+    "concert_id": "1x07h0",
+    "expected": {
+      "artist": "WALK THE MOON",
+      "event_date": "2022-11-13",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2022/irving-plaza-new-york-ny-bbe51be.html"
+  },
+  {
+    "artist_id": "jack-white",
+    "concert_id": "0vo32s",
+    "expected": {
+      "artist": "Jack White",
+      "event_date": "2026-07-11",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jack-white/2026/brooklyn-paramount-brooklyn-ny-337628a5.html"
+  },
+  {
+    "artist_id": "father-john-misty",
+    "concert_id": "289djz",
+    "expected": {
+      "artist": "Father John Misty",
+      "event_date": "2017-10-07",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/father-john-misty/2017/william-randolph-hearst-greek-theatre-berkeley-ca-2be380e6.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "2htau1",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2025-02-04",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2025/brooklyn-paramount-brooklyn-ny-1b517144.html"
+  },
+  {
+    "artist_id": "mt-joy",
+    "concert_id": "2rwqwb",
+    "expected": {
+      "artist": "Mt. Joy",
+      "event_date": "2026-09-17",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mt-joy/2026/madison-square-garden-new-york-ny-7b4c3a08.html"
+  },
+  {
+    "artist_id": "phoebe-bridgers",
+    "concert_id": "2yb6jx",
+    "expected": {
+      "artist": "Phoebe Bridgers",
+      "event_date": "2026-09-26",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-237518c3.html"
+  },
+  {
+    "artist_id": "phantogram",
+    "concert_id": "351bqc",
+    "expected": {
+      "artist": "Phantogram",
+      "event_date": "2025-02-06",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phantogram/2025/brooklyn-paramount-brooklyn-ny-5b5effa4.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "39yjg7",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2025-12-30",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2025/madison-square-garden-new-york-ny-4b41bf16.html"
+  },
+  {
+    "artist_id": "cory-wong",
+    "concert_id": "3xr3r4",
+    "expected": {
+      "artist": "Cory Wong",
+      "event_date": "2023-02-23",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cory-wong/2023/beacon-theatre-new-york-ny-bbae146.html"
+  },
+  {
+    "artist_id": "nine-inch-nails",
+    "concert_id": "457c79",
+    "expected": {
+      "artist": "Nine Inch Nails",
+      "event_date": "2025-09-03",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/nine-inch-nails/2025/barclays-center-brooklyn-ny-2b5acc32.html"
+  },
+  {
+    "artist_id": "alt-j",
+    "concert_id": "4axp3c",
+    "expected": {
+      "artist": "alt‐J",
+      "event_date": "2023-03-13",
+      "venue": "Kings Theatre, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/altj/2023/kings-theatre-brooklyn-ny-73ba5601.html"
+  },
+  {
+    "artist_id": "tedeschi-trucks-band",
+    "concert_id": "4liaw1",
+    "expected": {
+      "artist": "Tedeschi Trucks Band",
+      "event_date": "2026-03-25",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2026/beacon-theatre-new-york-ny-2349b05f.html"
+  },
+  {
+    "artist_id": "local-natives",
+    "concert_id": "4wyjky",
+    "expected": {
+      "artist": "Local Natives",
+      "event_date": "2023-08-29",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/local-natives/2023/the-rooftop-at-pier-17-new-york-ny-73a5427d.html"
+  },
+  {
+    "artist_id": "royel-otis",
+    "concert_id": "4x9gaa",
+    "expected": {
+      "artist": "Royel Otis",
+      "event_date": "2026-04-16",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/royel-otis/2026/william-randolph-hearst-greek-theatre-berkeley-ca-4b484f06.html"
+  },
+  {
+    "artist_id": "my-morning-jacket",
+    "concert_id": "52a9mf",
+    "expected": {
+      "artist": "My Morning Jacket",
+      "event_date": "2025-10-17",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/my-morning-jacket/2025/brooklyn-paramount-brooklyn-ny-1b5b2908.html"
+  },
+  {
+    "artist_id": "the-band-camino",
+    "concert_id": "5nbq4c",
+    "expected": {
+      "artist": "The Band CAMINO",
+      "event_date": "2023-09-18",
+      "venue": "Hammerstein Ballroom, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-band-camino/2023/hammerstein-ballroom-new-york-ny-63a24e83.html"
+  },
+  {
+    "artist_id": "the-main-squeeze",
+    "concert_id": "66za3i",
+    "expected": {
+      "artist": "The Main Squeeze",
+      "event_date": "2025-03-14",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-main-squeeze/2025/irving-plaza-new-york-ny-358f5f3.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "6aggx9",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2023-07-14",
+      "venue": "Oracle Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2023/oracle-park-san-francisco-ca-ba70542.html"
+  },
+  {
+    "artist_id": "tedeschi-trucks-band",
+    "concert_id": "6gamaz",
+    "expected": {
+      "artist": "Tedeschi Trucks Band",
+      "event_date": "2024-03-02",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2024/beacon-theatre-new-york-ny-13ad5de5.html"
+  },
+  {
+    "artist_id": "glass-animals",
+    "concert_id": "6oj3bj",
+    "expected": {
+      "artist": "Glass Animals",
+      "event_date": "2024-08-13",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/glass-animals/2024/madison-square-garden-new-york-ny-3b541460.html"
+  },
+  {
+    "artist_id": "hozier",
+    "concert_id": "6qx20i",
+    "expected": {
+      "artist": "Hozier",
+      "event_date": "2023-09-30",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hozier/2023/madison-square-garden-new-york-ny-4ba3d742.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "787ic8",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2018-07-03",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2018/shoreline-amphitheatre-mountain-view-ca-5bea7b1c.html"
+  },
+  {
+    "artist_id": "olivia-dean",
+    "concert_id": "7ihdu8",
+    "expected": {
+      "artist": "Olivia Dean",
+      "event_date": "2026-08-18",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/olivia-dean/2026/madison-square-garden-new-york-ny-434c8f03.html"
+  },
+  {
+    "artist_id": "paramore",
+    "concert_id": "8tbod8",
+    "expected": {
+      "artist": "Paramore",
+      "event_date": "2018-07-21",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/paramore/2018/shoreline-amphitheatre-mountain-view-ca-bebe5ee.html"
+  },
+  {
+    "artist_id": "weezer",
+    "concert_id": "9tw8re",
+    "expected": {
+      "artist": "Weezer",
+      "event_date": "2018-08-07",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/weezer/2018/shoreline-amphitheatre-mountain-view-ca-73eb56e1.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "a19vtq",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2026-08-21",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-134c350d.html"
+  },
+  {
+    "artist_id": "carly-rae-jepsen",
+    "concert_id": "ad20ps",
+    "expected": {
+      "artist": "Carly Rae Jepsen",
+      "event_date": "2019-06-28",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/carly-rae-jepsen/2019/bill-graham-civic-auditorium-san-francisco-ca-1b917940.html"
+  },
+  {
+    "artist_id": "bertha",
+    "concert_id": "aqiqr5",
+    "expected": {
+      "artist": "BERTHA",
+      "event_date": "2025-10-02",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bertha/2025/brooklyn-bowl-brooklyn-ny-b4175c2.html"
+  },
+  {
+    "artist_id": "daniel-donatos-cosmic-country",
+    "concert_id": "asuo9b",
+    "expected": {
+      "artist": "Daniel Donato's Cosmic Country",
+      "event_date": "2026-04-04",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/daniel-donatos-cosmic-country/2026/beacon-theatre-new-york-ny-5b76835c.html"
+  },
+  {
+    "artist_id": "geese",
+    "concert_id": "bz9j20",
+    "expected": {
+      "artist": "Geese",
+      "event_date": "2025-11-20",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/geese/2025/brooklyn-paramount-brooklyn-ny-7b4e2a18.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "c0bnlj",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2022-11-05",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-4bbe0f7e.html"
+  },
+  {
+    "artist_id": "mt-joy",
+    "concert_id": "cvlo93",
+    "expected": {
+      "artist": "Mt. Joy",
+      "event_date": "2024-09-28",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mt-joy/2024/madison-square-garden-new-york-ny-b547dd6.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "d2wf59",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2025-08-02",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2025/forest-hills-stadium-queens-ny-6b51caf6.html"
+  },
+  {
+    "artist_id": "bon-iver",
+    "concert_id": "dkdf2d",
+    "expected": {
+      "artist": "Bon Iver",
+      "event_date": "2019-09-12",
+      "venue": "Chase Center, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bon-iver/2019/chase-center-san-francisco-ca-5b9c939c.html"
+  },
+  {
+    "artist_id": "lake-street-dive",
+    "concert_id": "dtiftk",
+    "expected": {
+      "artist": "Lake Street Dive",
+      "event_date": "2024-09-14",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lake-street-dive/2024/madison-square-garden-new-york-ny-3b54fcf4.html"
+  },
+  {
+    "artist_id": "fall-out-boy",
+    "concert_id": "dv86cx",
+    "expected": {
+      "artist": "Fall Out Boy",
+      "event_date": "2024-03-22",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/fall-out-boy/2024/madison-square-garden-new-york-ny-4baa1302.html"
+  },
+  {
+    "artist_id": "sara-bareilles",
+    "concert_id": "emlabm",
+    "expected": {
+      "artist": "Sara Bareilles",
+      "event_date": "2026-09-19",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sara-bareilles/2026/radio-city-music-hall-new-york-ny-4b7fafb6.html"
+  },
+  {
+    "artist_id": "jason-mraz",
+    "concert_id": "f2djls",
+    "expected": {
+      "artist": "Jason Mraz",
+      "event_date": "2023-08-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jason-mraz/2023/forest-hills-stadium-queens-ny-3a591bb.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "f5u2fz",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2024-08-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2024/forest-hills-stadium-queens-ny-7babbef0.html"
+  },
+  {
+    "artist_id": "sum-41",
+    "concert_id": "fai5mk",
+    "expected": {
+      "artist": "Sum 41",
+      "event_date": "2018-04-27",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sum-41/2018/the-warfield-san-francisco-ca-7bec0280.html"
+  },
+  {
+    "artist_id": "two-door-cinema-club",
+    "concert_id": "ftj8jz",
+    "expected": {
+      "artist": "Two Door Cinema Club",
+      "event_date": "2024-02-29",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/two-door-cinema-club/2024/terminal-5-new-york-ny-53ad03d9.html"
+  },
+  {
+    "artist_id": "jesse-welles",
+    "concert_id": "fxst3c",
+    "expected": {
+      "artist": "Jesse Welles",
+      "event_date": "2025-11-21",
+      "venue": "Webster Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jesse-welles/2025/webster-hall-new-york-ny-6b47f21a.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "gavdum",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2024-08-16",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2024/forest-hills-stadium-queens-ny-7babbe04.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "gevpye",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2025-04-19",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-435fdfa3.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "h1rhz1",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2025-04-17",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-4b5fdfce.html"
+  },
+  {
+    "artist_id": "bleachers",
+    "concert_id": "hcqq4n",
+    "expected": {
+      "artist": "Bleachers",
+      "event_date": "2026-06-23",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bleachers/2026/madison-square-garden-new-york-ny-34989b3.html"
+  },
+  {
+    "artist_id": "the-avett-brothers",
+    "concert_id": "hianmb",
+    "expected": {
+      "artist": "The Avett Brothers",
+      "event_date": "2024-05-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-avett-brothers/2024/forest-hills-stadium-queens-ny-3abb9db.html"
+  },
+  {
+    "artist_id": "mt-joy",
+    "concert_id": "htzbvr",
+    "expected": {
+      "artist": "Mt. Joy",
+      "event_date": "2025-09-19",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mt-joy/2025/forest-hills-stadium-queens-ny-1b43a590.html"
+  },
+  {
+    "artist_id": "john-mayer",
+    "concert_id": "i44tj7",
+    "expected": {
+      "artist": "John Mayer",
+      "event_date": "2023-10-04",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-63a33e73.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "i4fobg",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2026-08-22",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-b4c350a.html"
+  },
+  {
+    "artist_id": "the-avett-brothers",
+    "concert_id": "iued40",
+    "expected": {
+      "artist": "The Avett Brothers",
+      "event_date": "2019-08-16",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-avett-brothers/2019/william-randolph-hearst-greek-theatre-berkeley-ca-739fc66d.html"
+  },
+  {
+    "artist_id": "neck-deep",
+    "concert_id": "j9l7l5",
+    "expected": {
+      "artist": "Neck Deep",
+      "event_date": "2024-02-18",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/neck-deep/2024/brooklyn-steel-brooklyn-ny-33ad8071.html"
+  },
+  {
+    "artist_id": "goose",
+    "concert_id": "jii8g9",
+    "expected": {
+      "artist": "Goose",
+      "event_date": "2024-06-29",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goose/2024/forest-hills-stadium-queens-ny-2b560c2e.html"
+  },
+  {
+    "artist_id": "dave-matthews-band",
+    "concert_id": "jipe59",
+    "expected": {
+      "artist": "Dave Matthews Band",
+      "event_date": "2026-06-10",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dave-matthews-band/2026/forest-hills-stadium-queens-ny-434a63df.html"
+  },
+  {
+    "artist_id": "john-mayer",
+    "concert_id": "jxozmz",
+    "expected": {
+      "artist": "John Mayer",
+      "event_date": "2023-03-15",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-53ba433d.html"
+  },
+  {
+    "artist_id": "vulfpeck",
+    "concert_id": "jyyd42",
+    "expected": {
+      "artist": "Vulfpeck",
+      "event_date": "2025-09-13",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/vulfpeck/2025/madison-square-garden-new-york-ny-7b5daebc.html"
+  },
+  {
+    "artist_id": "green-day",
+    "concert_id": "k3jufk",
+    "expected": {
+      "artist": "Green Day",
+      "event_date": "2017-08-05",
+      "venue": "Oakland Coliseum, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/green-day/2017/oakland-coliseum-oakland-ca-13e53da5.html"
+  },
+  {
+    "artist_id": "dark-star-orchestra",
+    "concert_id": "kbf2ds",
+    "expected": {
+      "artist": "Dark Star Orchestra",
+      "event_date": "2024-08-11",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dark-star-orchestra/2024/the-rooftop-at-pier-17-new-york-ny-7b57e678.html"
+  },
+  {
+    "artist_id": "maisie-peters",
+    "concert_id": "kd7g6l",
+    "expected": {
+      "artist": "Maisie Peters",
+      "event_date": "2023-08-11",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maisie-peters/2023/radio-city-music-hall-new-york-ny-6ba452a6.html"
+  },
+  {
+    "artist_id": "beabadoobee",
+    "concert_id": "kz9knb",
+    "expected": {
+      "artist": "beabadoobee",
+      "event_date": "2026-10-05",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beabadoobee/2026/madison-square-garden-new-york-ny-73724e11.html"
+  },
+  {
+    "artist_id": "tash-sultana",
+    "concert_id": "lgwr0y",
+    "expected": {
+      "artist": "Tash Sultana",
+      "event_date": "2026-06-07",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tash-sultana/2026/the-rooftop-at-pier-17-new-york-ny-37535af.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "lyeu2x",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2022-11-04",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-bbe19e2.html"
+  },
+  {
+    "artist_id": "portugal-the-man",
+    "concert_id": "m6co5p",
+    "expected": {
+      "artist": "Portugal. The Man",
+      "event_date": "2019-12-30",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/portugal-the-man/2019/fox-theater-oakland-ca-539bd30d.html"
+  },
+  {
+    "artist_id": "meet-me-the-altar",
+    "concert_id": "mdtd8s",
+    "expected": {
+      "artist": "Meet Me @ the Altar",
+      "event_date": "2026-01-31",
+      "venue": "Mercury Lounge, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/meet-me-the-altar/2026/mercury-lounge-new-york-ny-434c7347.html"
+  },
+  {
+    "artist_id": "green-day",
+    "concert_id": "mgdx65",
+    "expected": {
+      "artist": "Green Day",
+      "event_date": "2021-08-27",
+      "venue": "Oracle Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/green-day/2021/oracle-park-san-francisco-ca-b8cfd82.html"
+  },
+  {
+    "artist_id": "rush",
+    "concert_id": "nfjmn9",
+    "expected": {
+      "artist": "Rush",
+      "event_date": "2026-07-28",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rush/2026/madison-square-garden-new-york-ny-13414959.html"
+  },
+  {
+    "artist_id": "grateful-shred",
+    "concert_id": "ngwwi0",
+    "expected": {
+      "artist": "Grateful Shred",
+      "event_date": "2024-11-01",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/grateful-shred/2024/brooklyn-bowl-brooklyn-ny-53511fcd.html"
+  },
+  {
+    "artist_id": "chris-thile",
+    "concert_id": "om4jmk",
+    "expected": {
+      "artist": "Chris Thile",
+      "event_date": "2023-03-28",
+      "venue": "David Geffen Hall, Lincoln Center for the Performing Arts, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chris-thile/2023/david-geffen-hall-new-york-ny-63bb1e57.html"
+  },
+  {
+    "artist_id": "strfkr",
+    "concert_id": "oqnpkj",
+    "expected": {
+      "artist": "STRFKR",
+      "event_date": "2018-09-15",
+      "venue": "The Independent, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/strfkr/2018/the-independent-san-francisco-ca-3be9f4bc.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "p1fypf",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2026-07-25",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-4b4b573e.html"
+  },
+  {
+    "artist_id": "phoebe-bridgers",
+    "concert_id": "p6siak",
+    "expected": {
+      "artist": "Phoebe Bridgers",
+      "event_date": "2026-09-24",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-5375770d.html"
+  },
+  {
+    "artist_id": "goose",
+    "concert_id": "p9p4dj",
+    "expected": {
+      "artist": "Goose",
+      "event_date": "2025-03-11",
+      "venue": "The Shed, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goose/2025/the-shed-new-york-ny-3b589888.html"
+  },
+  {
+    "artist_id": "tedeschi-trucks-band",
+    "concert_id": "pi4vk5",
+    "expected": {
+      "artist": "Tedeschi Trucks Band",
+      "event_date": "2023-09-29",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2023/madison-square-garden-new-york-ny-23a3e8ef.html"
+  },
+  {
+    "artist_id": "arctic-monkeys",
+    "concert_id": "q5a70h",
+    "expected": {
+      "artist": "Arctic Monkeys",
+      "event_date": "2018-10-21",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/arctic-monkeys/2018/bill-graham-civic-auditorium-san-francisco-ca-7b96d260.html"
+  },
+  {
+    "artist_id": "goose",
+    "concert_id": "r0a09t",
+    "expected": {
+      "artist": "Goose",
+      "event_date": "2026-06-19",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goose/2026/madison-square-garden-new-york-ny-7b4a8af8.html"
+  },
+  {
+    "artist_id": "moe",
+    "concert_id": "r7muan",
+    "expected": {
+      "artist": "moe.",
+      "event_date": "2024-07-11",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/moe/2024/the-rooftop-at-pier-17-new-york-ny-1bab8184.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "rfaun9",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2019-05-31",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2019/shoreline-amphitheatre-mountain-view-ca-63904ed3.html"
+  },
+  {
+    "artist_id": "john-mayer",
+    "concert_id": "rqwp9n",
+    "expected": {
+      "artist": "John Mayer",
+      "event_date": "2019-09-16",
+      "venue": "Chase Center, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/john-mayer/2019/chase-center-san-francisco-ca-b9ced3e.html"
+  },
+  {
+    "artist_id": "the-string-cheese-incident",
+    "concert_id": "s1sk36",
+    "expected": {
+      "artist": "The String Cheese Incident",
+      "event_date": "2024-10-30",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-string-cheese-incident/2024/brooklyn-paramount-brooklyn-ny-2351ccb3.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "sejrmi",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2024-06-15",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-33abb8ed.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "sfyixt",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2023-08-01",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-13a43d55.html"
+  },
+  {
+    "artist_id": "franz-ferdinand",
+    "concert_id": "tajwxh",
+    "expected": {
+      "artist": "Franz Ferdinand",
+      "event_date": "2025-04-10",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/franz-ferdinand/2025/brooklyn-paramount-brooklyn-ny-635d8ebf.html"
+  },
+  {
+    "artist_id": "snarky-puppy",
+    "concert_id": "tprm70",
+    "expected": {
+      "artist": "Snarky Puppy",
+      "event_date": "2023-04-13",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/snarky-puppy/2023/beacon-theatre-new-york-ny-5bb8a714.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "ucf6vv",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2024-09-19",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2024/radio-city-music-hall-new-york-ny-6353f657.html"
+  },
+  {
+    "artist_id": "finneas",
+    "concert_id": "ukrseq",
+    "expected": {
+      "artist": "FINNEAS",
+      "event_date": "2025-02-23",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/finneas/2025/brooklyn-paramount-brooklyn-ny-b5bd906.html"
+  },
+  {
+    "artist_id": "paul-simon",
+    "concert_id": "v0e3by",
+    "expected": {
+      "artist": "Paul Simon",
+      "event_date": "2026-07-09",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/paul-simon/2026/forest-hills-stadium-queens-ny-734812e9.html"
+  },
+  {
+    "artist_id": "animals-as-leaders",
+    "concert_id": "v0xq59",
+    "expected": {
+      "artist": "Animals as Leaders",
+      "event_date": "2024-11-17",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/animals-as-leaders/2024/brooklyn-steel-brooklyn-ny-53a843ed.html"
+  },
+  {
+    "artist_id": "beyonce",
+    "concert_id": "vhicth",
+    "expected": {
+      "artist": "Beyoncé",
+      "event_date": "2025-05-25",
+      "venue": "MetLife Stadium, East Rutherford, NJ, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beyonce/2025/metlife-stadium-east-rutherford-nj-5b5ae334.html"
+  },
+  {
+    "artist_id": "muse",
+    "concert_id": "vl7lvn",
+    "expected": {
+      "artist": "Muse",
+      "event_date": "2023-03-17",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/muse/2023/madison-square-garden-new-york-ny-5bbbb3d4.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "vln0mq",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2026-07-22",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-5b4b5738.html"
+  },
+  {
+    "artist_id": "disturbed",
+    "concert_id": "vzarv6",
+    "expected": {
+      "artist": "Disturbed",
+      "event_date": "2025-03-21",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/disturbed/2025/madison-square-garden-new-york-ny-3b50e864.html"
+  },
+  {
+    "artist_id": "misterwives",
+    "concert_id": "wd0bke",
+    "expected": {
+      "artist": "MisterWives",
+      "event_date": "2023-09-15",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/misterwives/2023/the-rooftop-at-pier-17-new-york-ny-53a26fad.html"
+  },
+  {
+    "artist_id": "king-gizzard-the-lizard-wizard",
+    "concert_id": "whs113",
+    "expected": {
+      "artist": "King Gizzard & the Lizard Wizard",
+      "event_date": "2026-08-20",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-34c3503.html"
+  },
+  {
+    "artist_id": "red-hot-chili-peppers",
+    "concert_id": "wv1asq",
+    "expected": {
+      "artist": "Red Hot Chili Peppers",
+      "event_date": "2017-12-14",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2017/bill-graham-civic-auditorium-san-francisco-ca-13e1a5c1.html"
+  },
+  {
+    "artist_id": "hozier",
+    "concert_id": "x0bksh",
+    "expected": {
+      "artist": "Hozier",
+      "event_date": "2024-06-05",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hozier/2024/forest-hills-stadium-queens-ny-3560def.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "y3f8ak",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2022-11-03",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-73be26c1.html"
+  },
+  {
+    "artist_id": "olivia-rodrigo",
+    "concert_id": "yg1dno",
+    "expected": {
+      "artist": "Olivia Rodrigo",
+      "event_date": "2024-04-05",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/olivia-rodrigo/2024/madison-square-garden-new-york-ny-3babe43c.html"
+  },
+  {
+    "artist_id": "local-natives",
+    "concert_id": "z4bg6o",
+    "expected": {
+      "artist": "Local Natives",
+      "event_date": "2019-06-21",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/local-natives/2019/fox-theater-oakland-ca-4391236b.html"
+  },
+  {
+    "artist_id": "lynyrd-skynyrd",
+    "concert_id": "z5n9rl",
+    "expected": {
+      "artist": "Lynyrd Skynyrd",
+      "event_date": "2018-05-25",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lynyrd-skynyrd/2018/shoreline-amphitheatre-mountain-view-ca-1bed2980.html"
+  },
+  {
+    "artist_id": "jason-mraz",
+    "concert_id": "z7h3ik",
+    "expected": {
+      "artist": "Jason Mraz",
+      "event_date": "2018-09-13",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jason-mraz/2018/william-randolph-hearst-greek-theatre-berkeley-ca-be98d76.html"
+  },
+  {
+    "artist_id": "billy-joel",
+    "concert_id": "zybcob",
+    "expected": {
+      "artist": "Billy Joel",
+      "event_date": "2017-08-21",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/billy-joel/2017/madison-square-garden-new-york-ny-7be54a88.html"
+  },
+  {
+    "artist_id": "dropkick-murphys",
+    "concert_id": "095ymx",
+    "expected": {
+      "artist": "Dropkick Murphys",
+      "event_date": "2018-09-27",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dropkick-murphys/2018/bill-graham-civic-auditorium-san-francisco-ca-4be91f7a.html"
+  },
+  {
+    "artist_id": "flogging-molly",
+    "concert_id": "095ymx",
+    "expected": {
+      "artist": "Flogging Molly",
+      "event_date": "2018-09-27",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/flogging-molly/2018/bill-graham-civic-auditorium-san-francisco-ca-33e91cb5.html"
+  },
+  {
+    "artist_id": "misterwives",
+    "concert_id": "0fku7p",
+    "expected": {
+      "artist": "MisterWives",
+      "event_date": "2021-11-23",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/misterwives/2021/the-regency-ballroom-san-francisco-ca-738a62d9.html"
+  },
+  {
+    "artist_id": "passion-pit",
+    "concert_id": "11mnns",
+    "expected": {
+      "artist": "Passion Pit",
+      "event_date": "2018-01-29",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/passion-pit/2018/fox-theater-oakland-ca-73ee920d.html"
+  },
+  {
+    "artist_id": "the-california-honeydrops",
+    "concert_id": "1o06cb",
+    "expected": {
+      "artist": "The California Honeydrops",
+      "event_date": "2023-10-25",
+      "venue": "Webster Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-california-honeydrops/2023/webster-hall-new-york-ny-13acfdb1.html"
+  },
+  {
+    "artist_id": "geese",
+    "concert_id": "1xsvzl",
+    "expected": {
+      "artist": "Geese",
+      "event_date": "2026-10-03",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/geese/2026/forest-hills-stadium-queens-ny-3b774c34.html"
+  },
+  {
+    "artist_id": "ryan-beatty",
+    "concert_id": "2a3gwy",
+    "expected": {
+      "artist": "Ryan Beatty",
+      "event_date": "2024-10-20",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ryan-beatty/2024/madison-square-garden-new-york-ny-3a97d63.html"
+  },
+  {
+    "artist_id": "theo-katzman",
+    "concert_id": "2t4onq",
+    "expected": {
+      "artist": "Theo Katzman",
+      "event_date": "2025-10-05",
+      "venue": "White Eagle Hall, Jersey City, NJ, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/theo-katzman/2025/white-eagle-hall-jersey-city-nj-63414e5f.html"
+  },
+  {
+    "artist_id": "alex-g",
+    "concert_id": "2yb6jx",
+    "expected": {
+      "artist": "Alex G",
+      "event_date": "2026-09-26",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alex-g/2026/barclays-center-brooklyn-ny-4b751b9a.html"
+  },
+  {
+    "artist_id": "zac-brown-band",
+    "concert_id": "337jrz",
+    "expected": {
+      "artist": "Zac Brown Band",
+      "event_date": "2017-10-27",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/zac-brown-band/2017/shoreline-amphitheatre-mountain-view-ca-3e3113b.html"
+  },
+  {
+    "artist_id": "cut-copy",
+    "concert_id": "3uyibu",
+    "expected": {
+      "artist": "Cut Copy",
+      "event_date": "2018-09-08",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cut-copy/2018/william-randolph-hearst-greek-theatre-berkeley-ca-63e9baeb.html"
+  },
+  {
+    "artist_id": "phoenix",
+    "concert_id": "3uyibu",
+    "expected": {
+      "artist": "Phoenix",
+      "event_date": "2018-09-08",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phoenix/2018/william-randolph-hearst-greek-theatre-berkeley-ca-3e9b997.html"
+  },
+  {
+    "artist_id": "sir-sly",
+    "concert_id": "3uyibu",
+    "expected": {
+      "artist": "Sir Sly",
+      "event_date": "2018-09-08",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sir-sly/2018/william-randolph-hearst-greek-theatre-berkeley-ca-63e9aef7.html"
+  },
+  {
+    "artist_id": "trousdale",
+    "concert_id": "3xr3r4",
+    "expected": {
+      "artist": "Trousdale",
+      "event_date": "2023-02-23",
+      "venue": "Beacon Theatre, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/trousdale/2023/beacon-theatre-new-york-ny-23a3b833.html"
+  },
+  {
+    "artist_id": "boys-noize",
+    "concert_id": "457c79",
+    "expected": {
+      "artist": "Boys Noize",
+      "event_date": "2025-09-03",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/boys-noize/2025/barclays-center-brooklyn-ny-6b5b62ea.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "4hjpg3",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2024-06-14",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-2babb8ee.html"
+  },
+  {
+    "artist_id": "tom-walker",
+    "concert_id": "4whn59",
+    "expected": {
+      "artist": "Tom Walker",
+      "event_date": "2018-08-29",
+      "venue": "Rickshaw Stop, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tom-walker/2018/rickshaw-stop-san-francisco-ca-6be87a2a.html"
+  },
+  {
+    "artist_id": "annika-bennett",
+    "concert_id": "4wyjky",
+    "expected": {
+      "artist": "Annika Bennett",
+      "event_date": "2023-08-29",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/annika-bennett/2023/the-rooftop-at-pier-17-new-york-ny-7ba2be28.html"
+  },
+  {
+    "artist_id": "strfkr",
+    "concert_id": "4x9gaa",
+    "expected": {
+      "artist": "STRFKR",
+      "event_date": "2026-04-16",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/strfkr/2026/william-randolph-hearst-greek-theatre-berkeley-ca-53484ffd.html"
+  },
+  {
+    "artist_id": "foreigner",
+    "concert_id": "5gdvcj",
+    "expected": {
+      "artist": "Foreigner",
+      "event_date": "2017-09-02",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foreigner/2017/shoreline-amphitheatre-mountain-view-ca-3be2f868.html"
+  },
+  {
+    "artist_id": "bad-suns",
+    "concert_id": "5nbq4c",
+    "expected": {
+      "artist": "Bad Suns",
+      "event_date": "2023-09-18",
+      "venue": "Hammerstein Ballroom, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bad-suns/2023/hammerstein-ballroom-new-york-ny-13a24979.html"
+  },
+  {
+    "artist_id": "the-dip",
+    "concert_id": "5nejlp",
+    "expected": {
+      "artist": "The Dip",
+      "event_date": "2024-11-03",
+      "venue": "Webster Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-dip/2024/webster-hall-new-york-ny-53517b05.html"
+  },
+  {
+    "artist_id": "the-fratellis",
+    "concert_id": "5xt27k",
+    "expected": {
+      "artist": "The Fratellis",
+      "event_date": "2018-04-30",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-fratellis/2018/the-fillmore-san-francisco-ca-53ec5fe1.html"
+  },
+  {
+    "artist_id": "del-water-gap",
+    "concert_id": "5yfuxj",
+    "expected": {
+      "artist": "Del Water Gap",
+      "event_date": "2023-02-15",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/del-water-gap/2023/radio-city-music-hall-new-york-ny-53baabf5.html"
+  },
+  {
+    "artist_id": "maggie-rogers",
+    "concert_id": "5yfuxj",
+    "expected": {
+      "artist": "Maggie Rogers",
+      "event_date": "2023-02-15",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maggie-rogers/2023/radio-city-music-hall-new-york-ny-4bbab742.html"
+  },
+  {
+    "artist_id": "lizzy-mcalpine",
+    "concert_id": "6a2kah",
+    "expected": {
+      "artist": "Lizzy McAlpine",
+      "event_date": "2023-05-02",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lizzy-mcalpine/2023/terminal-5-new-york-ny-6bb866e6.html"
+  },
+  {
+    "artist_id": "korn",
+    "concert_id": "6ay5ln",
+    "expected": {
+      "artist": "Korn",
+      "event_date": "2021-10-18",
+      "venue": "Oakland Arena, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/korn/2021/oakland-arena-oakland-ca-4b8d072a.html"
+  },
+  {
+    "artist_id": "system-of-a-down",
+    "concert_id": "6ay5ln",
+    "expected": {
+      "artist": "System of a Down",
+      "event_date": "2021-10-18",
+      "venue": "Oakland Arena, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/system-of-a-down/2021/oakland-arena-oakland-ca-538d0729.html"
+  },
+  {
+    "artist_id": "the-voidz",
+    "concert_id": "6cd93v",
+    "expected": {
+      "artist": "The Voidz",
+      "event_date": "2018-08-02",
+      "venue": "The Chapel, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-voidz/2018/the-chapel-san-francisco-ca-2beb64c6.html"
+  },
+  {
+    "artist_id": "bastille",
+    "concert_id": "6e0e6g",
+    "expected": {
+      "artist": "Bastille",
+      "event_date": "2019-10-11",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bastille/2019/william-randolph-hearst-greek-theatre-berkeley-ca-339dacd5.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "6m2yx8",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2021-10-16",
+      "venue": "Chase Center, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2021/chase-center-san-francisco-ca-38d11e7.html"
+  },
+  {
+    "artist_id": "madison-cunningham",
+    "concert_id": "6qx20i",
+    "expected": {
+      "artist": "Madison Cunningham",
+      "event_date": "2023-09-30",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/madison-cunningham/2023/madison-square-garden-new-york-ny-73a3caed.html"
+  },
+  {
+    "artist_id": "american-authors",
+    "concert_id": "72npl4",
+    "expected": {
+      "artist": "American Authors",
+      "event_date": "2025-05-18",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/american-authors/2025/brooklyn-paramount-brooklyn-ny-7b59eee4.html"
+  },
+  {
+    "artist_id": "brns",
+    "concert_id": "72npl4",
+    "expected": {
+      "artist": "BØRNS",
+      "event_date": "2025-05-18",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/borns/2025/brooklyn-paramount-brooklyn-ny-7359eedd.html"
+  },
+  {
+    "artist_id": "charlie-puth",
+    "concert_id": "79tn0n",
+    "expected": {
+      "artist": "Charlie Puth",
+      "event_date": "2023-06-15",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/charlie-puth/2023/radio-city-music-hall-new-york-ny-63a62e37.html"
+  },
+  {
+    "artist_id": "run-river-north",
+    "concert_id": "7b1bjm",
+    "expected": {
+      "artist": "Run River North",
+      "event_date": "2020-02-13",
+      "venue": "The Independent, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/run-river-north/2020/the-independent-san-francisco-ca-53982fa5.html"
+  },
+  {
+    "artist_id": "misterwives",
+    "concert_id": "7y5iit",
+    "expected": {
+      "artist": "MisterWives",
+      "event_date": "2022-10-10",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/misterwives/2022/brooklyn-bowl-brooklyn-ny-5bbe934c.html"
+  },
+  {
+    "artist_id": "trousdale",
+    "concert_id": "80ndy1",
+    "expected": {
+      "artist": "Trousdale",
+      "event_date": "2025-05-17",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/trousdale/2025/irving-plaza-new-york-ny-6b47e696.html"
+  },
+  {
+    "artist_id": "goose",
+    "concert_id": "80ot0t",
+    "expected": {
+      "artist": "Goose",
+      "event_date": "2026-06-20",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goose/2026/madison-square-garden-new-york-ny-7b4a8af0.html"
+  },
+  {
+    "artist_id": "alex-g",
+    "concert_id": "87ratd",
+    "expected": {
+      "artist": "Alex G",
+      "event_date": "2026-09-25",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alex-g/2026/barclays-center-brooklyn-ny-43751b9b.html"
+  },
+  {
+    "artist_id": "phoebe-bridgers",
+    "concert_id": "87ratd",
+    "expected": {
+      "artist": "Phoebe Bridgers",
+      "event_date": "2026-09-25",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-337518cd.html"
+  },
+  {
+    "artist_id": "assembly-of-dust",
+    "concert_id": "8ixuaq",
+    "expected": {
+      "artist": "Assembly of Dust",
+      "event_date": "2024-11-15",
+      "venue": "Mercury Lounge, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/assembly-of-dust/2024/mercury-lounge-new-york-ny-135db139.html"
+  },
+  {
+    "artist_id": "foster-the-people",
+    "concert_id": "8tbod8",
+    "expected": {
+      "artist": "Foster the People",
+      "event_date": "2018-07-21",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foster-the-people/2018/shoreline-amphitheatre-mountain-view-ca-1bebe5d4.html"
+  },
+  {
+    "artist_id": "pixies",
+    "concert_id": "9tw8re",
+    "expected": {
+      "artist": "Pixies",
+      "event_date": "2018-08-07",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pixies/2018/shoreline-amphitheatre-mountain-view-ca-7beb56e0.html"
+  },
+  {
+    "artist_id": "brittany-howard",
+    "concert_id": "a2zgpa",
+    "expected": {
+      "artist": "Brittany Howard",
+      "event_date": "2024-02-17",
+      "venue": "Webster Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/brittany-howard/2024/webster-hall-new-york-ny-3bade884.html"
+  },
+  {
+    "artist_id": "chromeo",
+    "concert_id": "aacb9x",
+    "expected": {
+      "artist": "Chromeo",
+      "event_date": "2024-10-04",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chromeo/2024/terminal-5-new-york-ny-2b56a016.html"
+  },
+  {
+    "artist_id": "girl-ultra",
+    "concert_id": "aacb9x",
+    "expected": {
+      "artist": "Girl Ultra",
+      "event_date": "2024-10-04",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/girl-ultra/2024/terminal-5-new-york-ny-1b50bd38.html"
+  },
+  {
+    "artist_id": "the-midnight",
+    "concert_id": "aacb9x",
+    "expected": {
+      "artist": "The Midnight",
+      "event_date": "2024-10-04",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-midnight/2024/terminal-5-new-york-ny-2b56a012.html"
+  },
+  {
+    "artist_id": "walk-the-moon",
+    "concert_id": "aaygsh",
+    "expected": {
+      "artist": "WALK THE MOON",
+      "event_date": "2018-02-10",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2018/fox-theater-oakland-ca-43eedb97.html"
+  },
+  {
+    "artist_id": "father-john-misty",
+    "concert_id": "afckl6",
+    "expected": {
+      "artist": "Father John Misty",
+      "event_date": "2019-06-08",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/father-john-misty/2019/william-randolph-hearst-greek-theatre-berkeley-ca-1b918d64.html"
+  },
+  {
+    "artist_id": "jason-isbell-and-the-400-unit",
+    "concert_id": "afckl6",
+    "expected": {
+      "artist": "Jason Isbell and the 400 Unit",
+      "event_date": "2019-06-08",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jason-isbell-and-the-400-unit/2019/william-randolph-hearst-greek-theatre-berkeley-ca-3918d5b.html"
+  },
+  {
+    "artist_id": "chvrches",
+    "concert_id": "anjh3o",
+    "expected": {
+      "artist": "CHVRCHES",
+      "event_date": "2022-05-26",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chvrches/2022/the-fillmore-san-francisco-ca-7bb74e4c.html"
+  },
+  {
+    "artist_id": "joe-russos-almost-dead",
+    "concert_id": "apwk39",
+    "expected": {
+      "artist": "Joe Russo's Almost Dead",
+      "event_date": "2024-09-07",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joe-russos-almost-dead/2024/the-rooftop-at-pier-17-new-york-ny-3b57e06c.html"
+  },
+  {
+    "artist_id": "bartees-strange",
+    "concert_id": "ar5j1v",
+    "expected": {
+      "artist": "Bartees Strange",
+      "event_date": "2023-06-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bartees-strange/2023/forest-hills-stadium-queens-ny-53a62f05.html"
+  },
+  {
+    "artist_id": "boygenius",
+    "concert_id": "ar5j1v",
+    "expected": {
+      "artist": "boygenius",
+      "event_date": "2023-06-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/boygenius/2023/forest-hills-stadium-queens-ny-43a62f03.html"
+  },
+  {
+    "artist_id": "clairo",
+    "concert_id": "ar5j1v",
+    "expected": {
+      "artist": "Clairo",
+      "event_date": "2023-06-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/clairo/2023/forest-hills-stadium-queens-ny-43a62f0f.html"
+  },
+  {
+    "artist_id": "dijon",
+    "concert_id": "ar5j1v",
+    "expected": {
+      "artist": "Dijon",
+      "event_date": "2023-06-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dijon/2023/forest-hills-stadium-queens-ny-5ba62f00.html"
+  },
+  {
+    "artist_id": "the-california-honeydrops",
+    "concert_id": "bi407w",
+    "expected": {
+      "artist": "The California Honeydrops",
+      "event_date": "2025-08-01",
+      "venue": "The Rockaway Hotel, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-california-honeydrops/2025/the-rockaway-hotel-queens-ny-b49f986.html"
+  },
+  {
+    "artist_id": "monophonics",
+    "concert_id": "bjr1x2",
+    "expected": {
+      "artist": "Monophonics",
+      "event_date": "2025-10-18",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/monophonics/2025/brooklyn-bowl-brooklyn-ny-634e3ae7.html"
+  },
+  {
+    "artist_id": "chvrches",
+    "concert_id": "cih1l2",
+    "expected": {
+      "artist": "CHVRCHES",
+      "event_date": "2021-12-16",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chvrches/2021/bill-graham-civic-auditorium-san-francisco-ca-1b8b352c.html"
+  },
+  {
+    "artist_id": "tokyo-police-club",
+    "concert_id": "ct4x72",
+    "expected": {
+      "artist": "Tokyo Police Club",
+      "event_date": "2018-11-05",
+      "venue": "Bottom of the Hill, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tokyo-police-club/2018/bottom-of-the-hill-san-francisco-ca-4b964b96.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "d68wjr",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2024-12-30",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2024/madison-square-garden-new-york-ny-1b50fd00.html"
+  },
+  {
+    "artist_id": "tokyo-police-club",
+    "concert_id": "dsbc1n",
+    "expected": {
+      "artist": "Tokyo Police Club",
+      "event_date": "2024-11-20",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tokyo-police-club/2024/irving-plaza-new-york-ny-135331f1.html"
+  },
+  {
+    "artist_id": "the-veronicas",
+    "concert_id": "dtfvw6",
+    "expected": {
+      "artist": "The Veronicas",
+      "event_date": "2024-04-22",
+      "venue": "Irving Plaza, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-veronicas/2024/irving-plaza-new-york-ny-63ab425b.html"
+  },
+  {
+    "artist_id": "infinity-song",
+    "concert_id": "dtiftk",
+    "expected": {
+      "artist": "Infinity Song",
+      "event_date": "2024-09-14",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/infinity-song/2024/madison-square-garden-new-york-ny-5b538738.html"
+  },
+  {
+    "artist_id": "jimmy-eat-world",
+    "concert_id": "dv86cx",
+    "expected": {
+      "artist": "Jimmy Eat World",
+      "event_date": "2024-03-22",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jimmy-eat-world/2024/madison-square-garden-new-york-ny-5baa13f8.html"
+  },
+  {
+    "artist_id": "joyce-manor",
+    "concert_id": "ef9ech",
+    "expected": {
+      "artist": "Joyce Manor",
+      "event_date": "2022-05-08",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joyce-manor/2022/the-warfield-san-francisco-ca-73b78251.html"
+  },
+  {
+    "artist_id": "microwave",
+    "concert_id": "ef9ech",
+    "expected": {
+      "artist": "Microwave",
+      "event_date": "2022-05-08",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/microwave/2022/the-warfield-san-francisco-ca-7bb78248.html"
+  },
+  {
+    "artist_id": "mom-jeans",
+    "concert_id": "ef9ech",
+    "expected": {
+      "artist": "Mom Jeans.",
+      "event_date": "2022-05-08",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mom-jeans/2022/the-warfield-san-francisco-ca-73b78255.html"
+  },
+  {
+    "artist_id": "the-story-so-far",
+    "concert_id": "ef9ech",
+    "expected": {
+      "artist": "The Story So Far",
+      "event_date": "2022-05-08",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2022/the-warfield-san-francisco-ca-63b78253.html"
+  },
+  {
+    "artist_id": "greta-van-fleet",
+    "concert_id": "eiex7w",
+    "expected": {
+      "artist": "Greta Van Fleet",
+      "event_date": "2019-09-24",
+      "venue": "Red Rocks Amphitheatre, Morrison, CO, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/greta-van-fleet/2019/red-rocks-amphitheatre-morrison-co-139c2975.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "fg3lx1",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2019-02-02",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2019/fox-theater-oakland-ca-4392a3b3.html"
+  },
+  {
+    "artist_id": "coheed-and-cambria",
+    "concert_id": "ft6gil",
+    "expected": {
+      "artist": "Coheed and Cambria",
+      "event_date": "2018-08-09",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/coheed-and-cambria/2018/william-randolph-hearst-greek-theatre-berkeley-ca-13e8a981.html"
+  },
+  {
+    "artist_id": "taking-back-sunday",
+    "concert_id": "ft6gil",
+    "expected": {
+      "artist": "Taking Back Sunday",
+      "event_date": "2018-08-09",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/taking-back-sunday/2018/william-randolph-hearst-greek-theatre-berkeley-ca-3e8a99b.html"
+  },
+  {
+    "artist_id": "joywave",
+    "concert_id": "ftj8jz",
+    "expected": {
+      "artist": "Joywave",
+      "event_date": "2024-02-29",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joywave/2024/terminal-5-new-york-ny-63ad7a5b.html"
+  },
+  {
+    "artist_id": "sammy-rae-the-friends",
+    "concert_id": "fwmh2z",
+    "expected": {
+      "artist": "Sammy Rae & The Friends",
+      "event_date": "2024-11-08",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sammy-rae-and-the-friends/2024/terminal-5-new-york-ny-73534a8d.html"
+  },
+  {
+    "artist_id": "great-good-fine-ok",
+    "concert_id": "gek7i6",
+    "expected": {
+      "artist": "Great Good Fine Ok",
+      "event_date": "2018-05-22",
+      "venue": "August Hall, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/great-good-fine-ok/2018/august-hall-san-francisco-ca-13edc1c9.html"
+  },
+  {
+    "artist_id": "smallpools",
+    "concert_id": "gek7i6",
+    "expected": {
+      "artist": "Smallpools",
+      "event_date": "2018-05-22",
+      "venue": "August Hall, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/smallpools/2018/august-hall-san-francisco-ca-bedc1ca.html"
+  },
+  {
+    "artist_id": "wednesday",
+    "concert_id": "hcqq4n",
+    "expected": {
+      "artist": "Wednesday",
+      "event_date": "2026-06-23",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wednesday/2026/madison-square-garden-new-york-ny-b72dd0e.html"
+  },
+  {
+    "artist_id": "sierra-ferrell",
+    "concert_id": "hianmb",
+    "expected": {
+      "artist": "Sierra Ferrell",
+      "event_date": "2024-05-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sierra-ferrell/2024/forest-hills-stadium-queens-ny-5ba90784.html"
+  },
+  {
+    "artist_id": "awolnation",
+    "concert_id": "hl86o3",
+    "expected": {
+      "artist": "AWOLNATION",
+      "event_date": "2018-03-13",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/awolnation/2018/fox-theater-oakland-ca-befd11e.html"
+  },
+  {
+    "artist_id": "koyo",
+    "concert_id": "hmf912",
+    "expected": {
+      "artist": "Koyo",
+      "event_date": "2024-11-29",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/koyo/2024/brooklyn-paramount-brooklyn-ny-7b52b6bc.html"
+  },
+  {
+    "artist_id": "superheaven",
+    "concert_id": "hmf912",
+    "expected": {
+      "artist": "Superheaven",
+      "event_date": "2024-11-29",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/superheaven/2024/brooklyn-paramount-brooklyn-ny-6b52b6be.html"
+  },
+  {
+    "artist_id": "the-story-so-far",
+    "concert_id": "hmf912",
+    "expected": {
+      "artist": "The Story So Far",
+      "event_date": "2024-11-29",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2024/brooklyn-paramount-brooklyn-ny-7b52b6e4.html"
+  },
+  {
+    "artist_id": "smallpools",
+    "concert_id": "hzer88",
+    "expected": {
+      "artist": "Smallpools",
+      "event_date": "2022-02-12",
+      "venue": "Rickshaw Stop, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/smallpools/2022/rickshaw-stop-san-francisco-ca-43b7b307.html"
+  },
+  {
+    "artist_id": "alt-j",
+    "concert_id": "i3tccp",
+    "expected": {
+      "artist": "alt‐J",
+      "event_date": "2018-04-18",
+      "venue": "Bill Graham Civic Auditorium, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/altj/2018/bill-graham-civic-auditorium-san-francisco-ca-3ecd96b.html"
+  },
+  {
+    "artist_id": "foster-the-people",
+    "concert_id": "i3usxq",
+    "expected": {
+      "artist": "Foster the People",
+      "event_date": "2025-02-25",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foster-the-people/2025/brooklyn-paramount-brooklyn-ny-6b507e66.html"
+  },
+  {
+    "artist_id": "jp-saxe",
+    "concert_id": "i44tj7",
+    "expected": {
+      "artist": "JP Saxe",
+      "event_date": "2023-10-04",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jp-saxe/2023/madison-square-garden-new-york-ny-63a32abf.html"
+  },
+  {
+    "artist_id": "aly-aj",
+    "concert_id": "iec7xo",
+    "expected": {
+      "artist": "Aly & AJ",
+      "event_date": "2023-04-22",
+      "venue": "Hammerstein Ballroom, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/aly-and-aj/2023/hammerstein-ballroom-new-york-ny-43b8cf4b.html"
+  },
+  {
+    "artist_id": "miya-folick",
+    "concert_id": "iec7xo",
+    "expected": {
+      "artist": "Miya Folick",
+      "event_date": "2023-04-22",
+      "venue": "Hammerstein Ballroom, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/miya-folick/2023/hammerstein-ballroom-new-york-ny-33b82ce1.html"
+  },
+  {
+    "artist_id": "jacob-collier",
+    "concert_id": "iedesm",
+    "expected": {
+      "artist": "Jacob Collier",
+      "event_date": "2022-04-08",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jacob-collier/2022/the-warfield-san-francisco-ca-5bb68354.html"
+  },
+  {
+    "artist_id": "noso",
+    "concert_id": "j0yu8e",
+    "expected": {
+      "artist": "NoSo",
+      "event_date": "2025-11-10",
+      "venue": "Café du Nord, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/noso/2025/cafe-du-nord-san-francisco-ca-34f351f.html"
+  },
+  {
+    "artist_id": "calum-scott",
+    "concert_id": "jn8pda",
+    "expected": {
+      "artist": "Calum Scott",
+      "event_date": "2022-03-31",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/calum-scott/2022/the-warfield-san-francisco-ca-43b6bf27.html"
+  },
+  {
+    "artist_id": "the-script",
+    "concert_id": "jn8pda",
+    "expected": {
+      "artist": "The Script",
+      "event_date": "2022-03-31",
+      "venue": "The Warfield, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-script/2022/the-warfield-san-francisco-ca-13894135.html"
+  },
+  {
+    "artist_id": "phish",
+    "concert_id": "jvd5mb",
+    "expected": {
+      "artist": "Phish",
+      "event_date": "2023-12-31",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-3aff9cf.html"
+  },
+  {
+    "artist_id": "brns",
+    "concert_id": "k67zgp",
+    "expected": {
+      "artist": "BØRNS",
+      "event_date": "2018-01-17",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/borns/2018/fox-theater-oakland-ca-6be15e92.html"
+  },
+  {
+    "artist_id": "grace-enger",
+    "concert_id": "kd7g6l",
+    "expected": {
+      "artist": "Grace Enger",
+      "event_date": "2023-08-11",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/grace-enger/2023/radio-city-music-hall-new-york-ny-33a44459.html"
+  },
+  {
+    "artist_id": "marcus-king",
+    "concert_id": "ltyfva",
+    "expected": {
+      "artist": "Marcus King",
+      "event_date": "2024-10-13",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/marcus-king/2024/brooklyn-paramount-brooklyn-ny-7b53ee08.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "mfksn7",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2024-09-24",
+      "venue": "Bowery Ballroom, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2024/bowery-ballroom-new-york-ny-13531d39.html"
+  },
+  {
+    "artist_id": "fall-out-boy",
+    "concert_id": "mgdx65",
+    "expected": {
+      "artist": "Fall Out Boy",
+      "event_date": "2021-08-27",
+      "venue": "Oracle Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/fall-out-boy/2021/oracle-park-san-francisco-ca-1b8cfd80.html"
+  },
+  {
+    "artist_id": "weezer",
+    "concert_id": "mgdx65",
+    "expected": {
+      "artist": "Weezer",
+      "event_date": "2021-08-27",
+      "venue": "Oracle Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/weezer/2021/oracle-park-san-francisco-ca-38cfd87.html"
+  },
+  {
+    "artist_id": "the-california-honeydrops",
+    "concert_id": "mqkkm5",
+    "expected": {
+      "artist": "The California Honeydrops",
+      "event_date": "2021-09-24",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-california-honeydrops/2021/fox-theater-oakland-ca-7b8db29c.html"
+  },
+  {
+    "artist_id": "olivia-rodrigo",
+    "concert_id": "n1a4vh",
+    "expected": {
+      "artist": "Olivia Rodrigo",
+      "event_date": "2024-04-06",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/olivia-rodrigo/2024/madison-square-garden-new-york-ny-23abe433.html"
+  },
+  {
+    "artist_id": "the-breeders",
+    "concert_id": "n1a4vh",
+    "expected": {
+      "artist": "The Breeders",
+      "event_date": "2024-04-06",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-breeders/2024/madison-square-garden-new-york-ny-33ab78e9.html"
+  },
+  {
+    "artist_id": "bushwicks-dead",
+    "concert_id": "o7fo07",
+    "expected": {
+      "artist": "Bushwick's Dead",
+      "event_date": "2026-01-13",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bushwicks-dead/2026/brooklyn-bowl-brooklyn-ny-3b4aecac.html"
+  },
+  {
+    "artist_id": "greensky-bluegrass",
+    "concert_id": "okhp0l",
+    "expected": {
+      "artist": "Greensky Bluegrass",
+      "event_date": "2026-07-23",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/greensky-bluegrass/2026/the-rooftop-at-pier-17-new-york-ny-4373e7eb.html"
+  },
+  {
+    "artist_id": "jacob-collier",
+    "concert_id": "om4jmk",
+    "expected": {
+      "artist": "Jacob Collier",
+      "event_date": "2023-03-28",
+      "venue": "David Geffen Hall, Lincoln Center for the Performing Arts, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jacob-collier/2023/lincoln-center-for-the-performing-arts-david-geffen-hall-new-york-ny-7bbb1e54.html"
+  },
+  {
+    "artist_id": "the-linda-lindas",
+    "concert_id": "omquyv",
+    "expected": {
+      "artist": "The Linda Lindas",
+      "event_date": "2025-04-22",
+      "venue": "Brooklyn Steel, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-linda-lindas/2025/brooklyn-steel-brooklyn-ny-1351a5ed.html"
+  },
+  {
+    "artist_id": "alex-g",
+    "concert_id": "p6siak",
+    "expected": {
+      "artist": "Alex G",
+      "event_date": "2026-09-24",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alex-g/2026/barclays-center-brooklyn-ny-637576ff.html"
+  },
+  {
+    "artist_id": "lukas-nelson-promise-of-the-real",
+    "concert_id": "pi4vk5",
+    "expected": {
+      "artist": "Lukas Nelson & Promise of the Real",
+      "event_date": "2023-09-29",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lukas-nelson-and-promise-of-the-real/2023/madison-square-garden-new-york-ny-1ba3d508.html"
+  },
+  {
+    "artist_id": "jacob-collier",
+    "concert_id": "pn9owi",
+    "expected": {
+      "artist": "Jacob Collier",
+      "event_date": "2024-04-26",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jacob-collier/2024/radio-city-music-hall-new-york-ny-5ba8735c.html"
+  },
+  {
+    "artist_id": "idles",
+    "concert_id": "q1ipfg",
+    "expected": {
+      "artist": "IDLES",
+      "event_date": "2023-06-16",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/idles/2023/forest-hills-stadium-queens-ny-2ba6341a.html"
+  },
+  {
+    "artist_id": "jamie-xx",
+    "concert_id": "q1ipfg",
+    "expected": {
+      "artist": "Jamie xx",
+      "event_date": "2023-06-16",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jamie-xx/2023/forest-hills-stadium-queens-ny-3ba63418.html"
+  },
+  {
+    "artist_id": "lcd-soundsystem",
+    "concert_id": "q1ipfg",
+    "expected": {
+      "artist": "LCD Soundsystem",
+      "event_date": "2023-06-16",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lcd-soundsystem/2023/forest-hills-stadium-queens-ny-33a63419.html"
+  },
+  {
+    "artist_id": "spafford",
+    "concert_id": "q8zjxh",
+    "expected": {
+      "artist": "Spafford",
+      "event_date": "2024-04-20",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/spafford/2024/brooklyn-bowl-brooklyn-ny-63abf247.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "qf9qef",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2018-07-09",
+      "venue": "The Independent, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2018/the-independent-san-francisco-ca-7bebba48.html"
+  },
+  {
+    "artist_id": "lykke-li",
+    "concert_id": "qijh00",
+    "expected": {
+      "artist": "Lykke Li",
+      "event_date": "2018-10-17",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lykke-li/2018/the-fillmore-san-francisco-ca-3396e089.html"
+  },
+  {
+    "artist_id": "ripe",
+    "concert_id": "qtr69u",
+    "expected": {
+      "artist": "Ripe",
+      "event_date": "2023-04-15",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ripe/2023/terminal-5-new-york-ny-5bb8ebb4.html"
+  },
+  {
+    "artist_id": "madison-cunningham",
+    "concert_id": "r58tsg",
+    "expected": {
+      "artist": "Madison Cunningham",
+      "event_date": "2026-01-06",
+      "venue": "Bimbo's 365 Club, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/madison-cunningham/2026/bimbos-365-club-san-francisco-ca-334d10b9.html"
+  },
+  {
+    "artist_id": "taylor-swift",
+    "concert_id": "rkh0ji",
+    "expected": {
+      "artist": "Taylor Swift",
+      "event_date": "2023-05-26",
+      "venue": "MetLife Stadium, East Rutherford, NJ, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/taylor-swift/2023/metlife-stadium-east-rutherford-nj-6bb9129e.html"
+  },
+  {
+    "artist_id": "maggie-rogers",
+    "concert_id": "tmw2hz",
+    "expected": {
+      "artist": "Maggie Rogers",
+      "event_date": "2023-07-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maggie-rogers/2023/forest-hills-stadium-queens-ny-43a4e3c7.html"
+  },
+  {
+    "artist_id": "soccer-mommy",
+    "concert_id": "tmw2hz",
+    "expected": {
+      "artist": "Soccer Mommy",
+      "event_date": "2023-07-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/soccer-mommy/2023/forest-hills-stadium-queens-ny-1ba4f144.html"
+  },
+  {
+    "artist_id": "nanowar-of-steel",
+    "concert_id": "u6guv1",
+    "expected": {
+      "artist": "Nanowar of Steel",
+      "event_date": "2024-10-12",
+      "venue": "Brooklyn Bowl, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/nanowar-of-steel/2024/brooklyn-bowl-brooklyn-ny-6b53d292.html"
+  },
+  {
+    "artist_id": "goose",
+    "concert_id": "uavx7z",
+    "expected": {
+      "artist": "Goose",
+      "event_date": "2025-06-28",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goose/2025/madison-square-garden-new-york-ny-4b5a9756.html"
+  },
+  {
+    "artist_id": "theo-katzman",
+    "concert_id": "ul7hfm",
+    "expected": {
+      "artist": "Theo Katzman",
+      "event_date": "2023-04-29",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/theo-katzman/2023/terminal-5-new-york-ny-7bb80a04.html"
+  },
+  {
+    "artist_id": "sublime-with-rome",
+    "concert_id": "uo28mc",
+    "expected": {
+      "artist": "Sublime with Rome",
+      "event_date": "2017-09-27",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sublime-with-rome/2017/shoreline-amphitheatre-mountain-view-ca-1be25920.html"
+  },
+  {
+    "artist_id": "the-offspring",
+    "concert_id": "uo28mc",
+    "expected": {
+      "artist": "The Offspring",
+      "event_date": "2017-09-27",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-offspring/2017/shoreline-amphitheatre-mountain-view-ca-3e25927.html"
+  },
+  {
+    "artist_id": "tenacious-d",
+    "concert_id": "v9xt7f",
+    "expected": {
+      "artist": "Tenacious D",
+      "event_date": "2018-12-17",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tenacious-d/2018/fox-theater-oakland-ca-63948aaf.html"
+  },
+  {
+    "artist_id": "remi-wolf",
+    "concert_id": "vor15h",
+    "expected": {
+      "artist": "Remi Wolf",
+      "event_date": "2024-09-30",
+      "venue": "Kings Theatre, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2024/kings-theatre-brooklyn-ny-73535eb1.html"
+  },
+  {
+    "artist_id": "three-days-grace",
+    "concert_id": "vzarv6",
+    "expected": {
+      "artist": "Three Days Grace",
+      "event_date": "2025-03-21",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/three-days-grace/2025/madison-square-garden-new-york-ny-2350e85b.html"
+  },
+  {
+    "artist_id": "remi-wolf",
+    "concert_id": "w154ce",
+    "expected": {
+      "artist": "Remi Wolf",
+      "event_date": "2022-10-12",
+      "venue": "Terminal 5, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2022/terminal-5-new-york-ny-3bb17cb8.html"
+  },
+  {
+    "artist_id": "two-door-cinema-club",
+    "concert_id": "w8gesy",
+    "expected": {
+      "artist": "Two Door Cinema Club",
+      "event_date": "2019-11-04",
+      "venue": "Fox Theater, Oakland, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/two-door-cinema-club/2019/fox-theater-oakland-ca-239d68f7.html"
+  },
+  {
+    "artist_id": "bishop-briggs",
+    "concert_id": "wd0bke",
+    "expected": {
+      "artist": "Bishop Briggs",
+      "event_date": "2023-09-15",
+      "venue": "The Rooftop at Pier 17, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bishop-briggs/2023/the-rooftop-at-pier-17-new-york-ny-5ba277ac.html"
+  },
+  {
+    "artist_id": "the-band-camino",
+    "concert_id": "wgrbmx",
+    "expected": {
+      "artist": "The Band CAMINO",
+      "event_date": "2022-04-05",
+      "venue": "The Regency Ballroom, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-band-camino/2022/the-regency-ballroom-san-francisco-ca-5bb68b24.html"
+  },
+  {
+    "artist_id": "maisie-peters",
+    "concert_id": "wuozwe",
+    "expected": {
+      "artist": "Maisie Peters",
+      "event_date": "2022-03-29",
+      "venue": "The Chapel, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maisie-peters/2022/the-chapel-san-francisco-ca-7b4f9608.html"
+  },
+  {
+    "artist_id": "vundabar",
+    "concert_id": "x5w440",
+    "expected": {
+      "artist": "Vundabar",
+      "event_date": "2025-04-11",
+      "venue": "White Eagle Hall, Jersey City, NJ, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/vundabar/2025/white-eagle-hall-jersey-city-nj-235b203b.html"
+  },
+  {
+    "artist_id": "yot-club",
+    "concert_id": "x5w440",
+    "expected": {
+      "artist": "Yot Club",
+      "event_date": "2025-04-11",
+      "venue": "White Eagle Hall, Jersey City, NJ, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yot-club/2025/white-eagle-hall-jersey-city-nj-2b5b2002.html"
+  },
+  {
+    "artist_id": "hozier",
+    "concert_id": "xbggyc",
+    "expected": {
+      "artist": "Hozier",
+      "event_date": "2019-10-22",
+      "venue": "William Randolph Hearst Greek Theatre, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hozier/2019/william-randolph-hearst-greek-theatre-berkeley-ca-2b9de85a.html"
+  },
+  {
+    "artist_id": "misterwives",
+    "concert_id": "xi31ui",
+    "expected": {
+      "artist": "MisterWives",
+      "event_date": "2024-10-31",
+      "venue": "Brooklyn Paramount, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/misterwives/2024/brooklyn-paramount-brooklyn-ny-3350ecc9.html"
+  },
+  {
+    "artist_id": "black-pumas",
+    "concert_id": "xo9tpn",
+    "expected": {
+      "artist": "Black Pumas",
+      "event_date": "2024-01-19",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/black-pumas/2024/radio-city-music-hall-new-york-ny-5bacb358.html"
+  },
+  {
+    "artist_id": "chvrches",
+    "concert_id": "xunsm0",
+    "expected": {
+      "artist": "CHVRCHES",
+      "event_date": "2019-02-28",
+      "venue": "Toyosu PIT, Tokyo, Japan"
+    },
+    "url": "https://www.setlist.fm/setlist/chvrches/2019/toyosu-pit-tokyo-japan-7b928aac.html"
+  },
+  {
+    "artist_id": "night-ranger",
+    "concert_id": "y9t1fh",
+    "expected": {
+      "artist": "Night Ranger",
+      "event_date": "2017-08-12",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/night-ranger/2017/shoreline-amphitheatre-mountain-view-ca-4be50bd6.html"
+  },
+  {
+    "artist_id": "peter-frampton",
+    "concert_id": "y9t1fh",
+    "expected": {
+      "artist": "Peter Frampton",
+      "event_date": "2017-08-12",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/peter-frampton/2017/shoreline-amphitheatre-mountain-view-ca-4be50bce.html"
+  },
+  {
+    "artist_id": "steve-miller-band",
+    "concert_id": "y9t1fh",
+    "expected": {
+      "artist": "Steve Miller Band",
+      "event_date": "2017-08-12",
+      "venue": "Shoreline Amphitheatre, Mountain View, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/steve-miller-band/2017/shoreline-amphitheatre-mountain-view-ca-5be50bc8.html"
+  },
+  {
+    "artist_id": "the-breeders",
+    "concert_id": "yg1dno",
+    "expected": {
+      "artist": "The Breeders",
+      "event_date": "2024-04-05",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-breeders/2024/madison-square-garden-new-york-ny-3bab1068.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "yhy9i7",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2018-01-23",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2018/the-fillmore-san-francisco-ca-beeb57a.html"
+  },
+  {
+    "artist_id": "bombay-bicycle-club",
+    "concert_id": "yv2ftw",
+    "expected": {
+      "artist": "Bombay Bicycle Club",
+      "event_date": "2019-09-28",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bombay-bicycle-club/2019/the-fillmore-san-francisco-ca-b9c05e2.html"
+  },
+  {
+    "artist_id": "bob-weir-wolf-bros",
+    "concert_id": "z12tfz",
+    "expected": {
+      "artist": "Bob Weir and Wolf Bros.",
+      "event_date": "2023-09-17",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bob-weir-and-wolf-bros/2023/forest-hills-stadium-queens-ny-63a202f7.html"
+  },
+  {
+    "artist_id": "gary-clark-jr",
+    "concert_id": "zjle2l",
+    "expected": {
+      "artist": "Gary Clark Jr.",
+      "event_date": "2024-06-11",
+      "venue": "Radio City Music Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gary-clark-jr/2024/radio-city-music-hall-new-york-ny-3ba97ca0.html"
+  },
+  {
+    "artist_id": "joywave",
+    "concert_id": "zwuhyu",
+    "expected": {
+      "artist": "Joywave",
+      "event_date": "2018-11-12",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joywave/2018/the-fillmore-san-francisco-ca-7b978e88.html"
+  },
+  {
+    "artist_id": "sir-sly",
+    "concert_id": "zwuhyu",
+    "expected": {
+      "artist": "Sir Sly",
+      "event_date": "2018-11-12",
+      "venue": "The Fillmore, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sir-sly/2018/the-fillmore-san-francisco-ca-6b978e8e.html"
+  },
+  {
+    "artist_id": "childish-gambino",
+    "concert_id": "68dqyv",
+    "expected": {
+      "artist": "Childish Gambino",
+      "event_date": "2024-08-26",
+      "venue": "Barclays Center, Brooklyn, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/childish-gambino/2024/barclays-center-brooklyn-ny-6ba91292.html"
+  },
+  {
+    "artist_id": "chris-thile",
+    "concert_id": "ga7j6b",
+    "expected": {
+      "artist": "Chris Thile",
+      "event_date": "2025-10-19",
+      "venue": "Kaufmann Concert Hall, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chris-thile/2025/kaufmann-concert-hall-new-york-ny-734e3add.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "3589mv",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2024-06-13",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-23abb8ef.html"
+  },
+  {
+    "artist_id": "dead-company",
+    "concert_id": "60m913",
+    "expected": {
+      "artist": "Dead & Company",
+      "event_date": "2025-04-18",
+      "venue": "Sphere at The Venetian Resort, Las Vegas, NV, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-5b5fdfac.html"
+  },
+  {
+    "artist_id": "elton-john",
+    "concert_id": "5n3n1g",
+    "expected": {
+      "artist": "Elton John",
+      "event_date": "2019-09-13",
+      "venue": "Chase Center, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/elton-john/2019/chase-center-san-francisco-ca-6b9c8a72.html"
+  },
+  {
+    "artist_id": "lawrence",
+    "concert_id": "w0lnt9",
+    "expected": {
+      "artist": "Lawrence",
+      "event_date": "2021-09-05",
+      "venue": "The UC Theatre Taube Family Music Hall, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lawrence/2021/the-uc-theatre-taube-family-music-hall-berkeley-ca-38c211f.html"
+  },
+  {
+    "artist_id": "maggie-rogers",
+    "concert_id": "2a3gwy",
+    "expected": {
+      "artist": "Maggie Rogers",
+      "event_date": "2024-10-20",
+      "venue": "Madison Square Garden, New York, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maggie-rogers/2024/madison-square-garden-new-york-ny-ba97d62.html"
+  },
+  {
+    "artist_id": "the-airborne-toxic-event",
+    "concert_id": "tazajz",
+    "expected": {
+      "artist": "The Airborne Toxic Event",
+      "event_date": "2022-07-16",
+      "venue": "Louise M. Davies Symphony Hall, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-airborne-toxic-event/2022/louise-m-davies-symphony-hall-san-francisco-ca-23b28cff.html"
+  },
+  {
+    "artist_id": "the-story-so-far",
+    "concert_id": "6sriik",
+    "expected": {
+      "artist": "The Story So Far",
+      "event_date": "2017-12-22",
+      "venue": "The UC Theatre Taube Family Music Hall, Berkeley, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2017/the-uc-theatre-taube-family-music-hall-berkeley-ca-1be1e54c.html"
+  },
+  {
+    "artist_id": "zach-bryan",
+    "concert_id": "po3vus",
+    "expected": {
+      "artist": "Zach Bryan",
+      "event_date": "2025-08-15",
+      "venue": "Golden Gate Park Polo Field, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/zach-bryan/2025/golden-gate-park-polo-field-san-francisco-ca-435f37cf.html"
+  },
+  {
+    "artist_id": "mikky-ekko",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Mikky Ekko",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mikky-ekko/2018/golden-gate-park-san-francisco-ca-usa-5be8bf00.html"
+  },
+  {
+    "artist_id": "shannon-the-clams",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Shannon and the Clams",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/shannon-and-the-clams/2018/golden-gate-park-san-francisco-ca-usa-43e8bf03.html"
+  },
+  {
+    "artist_id": "quinn-xcii",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Quinn XCII",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/quinn-xcii/2018/golden-gate-park-san-francisco-ca-usa-4be8bf0e.html"
+  },
+  {
+    "artist_id": "dermot-kennedy",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Dermot Kennedy",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dermot-kennedy/2018/golden-gate-park-san-francisco-ca-usa-4be8bf02.html"
+  },
+  {
+    "artist_id": "the-mountain-goats",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "The Mountain Goats",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-mountain-goats/2018/golden-gate-park-san-francisco-ca-usa-43e8bf0f.html"
+  },
+  {
+    "artist_id": "margo-price",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Margo Price",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/margo-price/2018/golden-gate-park-san-francisco-ca-usa-5be8bf24.html"
+  },
+  {
+    "artist_id": "billie-eilish",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Billie Eilish",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/billie-eilish/2018/golden-gate-park-san-francisco-ca-usa-4be8bf1a.html"
+  },
+  {
+    "artist_id": "perfume-genius",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Perfume Genius",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/perfume-genius/2018/golden-gate-park-san-francisco-ca-usa-53e8bf15.html"
+  },
+  {
+    "artist_id": "rex-orange-county",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Rex Orange County",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rex-orange-county/2018/golden-gate-park-san-francisco-ca-usa-4be8bf0a.html"
+  },
+  {
+    "artist_id": "n-e-r-d",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "N*E*R*D",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/nerd/2018/golden-gate-park-san-francisco-ca-usa-4be8bf16.html"
+  },
+  {
+    "artist_id": "carly-rae-jepsen",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Carly Rae Jepsen",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/carly-rae-jepsen/2018/golden-gate-park-san-francisco-ca-usa-5be8bf18.html"
+  },
+  {
+    "artist_id": "odesza",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "ODESZA",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/odesza/2018/golden-gate-park-san-francisco-ca-usa-43e8bf13.html"
+  },
+  {
+    "artist_id": "the-growlers",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "The Growlers",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-growlers/2018/golden-gate-park-san-francisco-ca-usa-5be8bf1c.html"
+  },
+  {
+    "artist_id": "father-john-misty",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Father John Misty",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/father-john-misty/2018/golden-gate-park-san-francisco-ca-usa-4be8bf26.html"
+  },
+  {
+    "artist_id": "elohim",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Elohim",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/elohim/2018/golden-gate-park-san-francisco-ca-usa-5be8bf10.html"
+  },
+  {
+    "artist_id": "mac-demarco",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Mac DeMarco",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mac-demarco/2018/golden-gate-park-san-francisco-ca-usa-53e8bf1d.html"
+  },
+  {
+    "artist_id": "the-weeknd",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "The Weeknd",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-weeknd/2018/golden-gate-park-san-francisco-ca-usa-4be8bf1e.html"
+  },
+  {
+    "artist_id": "beck",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Beck",
+      "event_date": "2018-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beck/2018/golden-gate-park-san-francisco-ca-usa-53e8bf21.html"
+  },
+  {
+    "artist_id": "pale-waves",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Pale Waves",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pale-waves/2018/golden-gate-park-san-francisco-ca-usa-63e8b673.html"
+  },
+  {
+    "artist_id": "amen-dunes",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Amen Dunes",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/amen-dunes/2018/golden-gate-park-san-francisco-ca-usa-63e8b66b.html"
+  },
+  {
+    "artist_id": "lizzo",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Lizzo",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lizzo/2018/golden-gate-park-san-francisco-ca-usa-5be8b788.html"
+  },
+  {
+    "artist_id": "broken-social-scene",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Broken Social Scene",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/broken-social-scene/2018/golden-gate-park-san-francisco-ca-usa-53e8b785.html"
+  },
+  {
+    "artist_id": "gogo-penguin",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "GoGo Penguin",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gogo-penguin/2018/golden-gate-park-san-francisco-ca-usa-73e8b679.html"
+  },
+  {
+    "artist_id": "chvrches",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "CHVRCHES",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chvrches/2018/golden-gate-park-san-francisco-ca-usa-4be8b72a.html"
+  },
+  {
+    "artist_id": "tycho",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Tycho",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tycho/2018/golden-gate-park-san-francisco-ca-usa-5be8b78c.html"
+  },
+  {
+    "artist_id": "bon-iver",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Bon Iver",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bon-iver/2018/golden-gate-park-san-francisco-ca-usa-53e8b78d.html"
+  },
+  {
+    "artist_id": "illenium",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "ILLENIUM",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/illenium/2018/golden-gate-park-san-francisco-ca-usa-6be8b67a.html"
+  },
+  {
+    "artist_id": "jamie-xx",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Jamie xx",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jamie-xx/2018/golden-gate-park-san-francisco-ca-usa-53e8b781.html"
+  },
+  {
+    "artist_id": "florence-the-machine",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Florence + the Machine",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/florence-the-machine/2018/golden-gate-park-san-francisco-ca-usa-4be8b78e.html"
+  },
+  {
+    "artist_id": "future",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Future",
+      "event_date": "2018-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/future/2018/golden-gate-park-san-francisco-ca-usa-5be8b780.html"
+  },
+  {
+    "artist_id": "hobo-johnson",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Hobo Johnson",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hobo-johnson/2018/golden-gate-park-san-francisco-ca-usa-7be8928c.html"
+  },
+  {
+    "artist_id": "hot-flash-heat-wave",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Hot Flash Heat Wave",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hot-flash-heat-wave/2018/golden-gate-park-san-francisco-ca-usa-33e894c1.html"
+  },
+  {
+    "artist_id": "rainbow-kitten-surprise",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Rainbow Kitten Surprise",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rainbow-kitten-surprise/2018/golden-gate-park-san-francisco-ca-usa-13e8a54d.html"
+  },
+  {
+    "artist_id": "kelela",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Kelela",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kelela/2018/golden-gate-park-san-francisco-ca-usa-43e893f3.html"
+  },
+  {
+    "artist_id": "aquilo",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Aquilo",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/aquilo/2018/golden-gate-park-san-francisco-ca-usa-53e89735.html"
+  },
+  {
+    "artist_id": "brns",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "BØRNS",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/borns/2018/golden-gate-park-san-francisco-ca-usa-4be8970a.html"
+  },
+  {
+    "artist_id": "gryffin",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Gryffin",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gryffin/2018/golden-gate-park-san-francisco-ca-usa-4be88faa.html"
+  },
+  {
+    "artist_id": "monophonics",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Monophonics",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/monophonics/2018/golden-gate-park-san-francisco-ca-usa-63e89613.html"
+  },
+  {
+    "artist_id": "janelle-monae",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Janelle Monáe",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/janelle-monae/2018/golden-gate-park-san-francisco-ca-usa-7be89654.html"
+  },
+  {
+    "artist_id": "lp",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "LP",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lp/2018/golden-gate-park-san-francisco-ca-usa-7be8961c.html"
+  },
+  {
+    "artist_id": "the-internet",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "The Internet",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-internet/2018/golden-gate-park-san-francisco-ca-usa-23e890cf.html"
+  },
+  {
+    "artist_id": "portugal-the-man",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Portugal. The Man",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/portugal-the-man/2018/golden-gate-park-san-francisco-ca-usa-7be89648.html"
+  },
+  {
+    "artist_id": "tash-sultana",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Tash Sultana",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tash-sultana/2018/golden-gate-park-san-francisco-ca-usa-2b9f7092.html"
+  },
+  {
+    "artist_id": "chromeo",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Chromeo",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chromeo/2018/golden-gate-park-san-francisco-ca-usa-5be893fc.html"
+  },
+  {
+    "artist_id": "salt-n-pepa",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Salt‐N‐Pepa",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/saltnpepa/2018/golden-gate-park-san-francisco-ca-usa-4be893f2.html"
+  },
+  {
+    "artist_id": "james-blake",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "James Blake",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/james-blake/2018/golden-gate-park-san-francisco-ca-usa-23e890cb.html"
+  },
+  {
+    "artist_id": "janet-jackson",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Janet Jackson",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/janet-jackson/2018/golden-gate-park-san-francisco-ca-usa-13e8a921.html"
+  },
+  {
+    "artist_id": "dj-snake",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "DJ Snake",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dj-snake/2018/golden-gate-park-san-francisco-ca-usa-33e890d5.html"
+  },
+  {
+    "artist_id": "the-highwomen",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "The Highwomen",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-highwomen/2021/napa-valley-expo-napa-ca-usa-7b8c36bc.html"
+  },
+  {
+    "artist_id": "g-eazy",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "G‐Eazy",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/geazy/2021/napa-valley-expo-napa-ca-usa-738ccef5.html"
+  },
+  {
+    "artist_id": "brandi-carlile",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Brandi Carlile",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/brandi-carlile/2021/napa-valley-expo-napa-ca-usa-638ccef7.html"
+  },
+  {
+    "artist_id": "mavis-staples",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Mavis Staples",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mavis-staples/2021/napa-valley-expo-napa-ca-usa-638cceef.html"
+  },
+  {
+    "artist_id": "chromeo",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Chromeo",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chromeo/2021/napa-valley-expo-napa-ca-usa-7b8ccee8.html"
+  },
+  {
+    "artist_id": "big-freedia",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Big Freedia",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/big-freedia/2021/napa-valley-expo-napa-ca-usa-738ccee1.html"
+  },
+  {
+    "artist_id": "finneas",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "FINNEAS",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/finneas/2021/napa-valley-expo-napa-ca-usa-6b8cceea.html"
+  },
+  {
+    "artist_id": "gracie-abrams",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Gracie Abrams",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gracie-abrams/2021/napa-valley-expo-napa-ca-usa-6b8cceee.html"
+  },
+  {
+    "artist_id": "joywave",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Joywave",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joywave/2021/napa-valley-expo-napa-ca-usa-638ccee3.html"
+  },
+  {
+    "artist_id": "muna",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "MUNA",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/muna/2021/napa-valley-expo-napa-ca-usa-7b8ccee0.html"
+  },
+  {
+    "artist_id": "devotchka",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "DeVotchKa",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/devotchka/2021/napa-valley-expo-napa-ca-usa-7b8ccee4.html"
+  },
+  {
+    "artist_id": "babyjake",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "BabyJake",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/babyjake/2021/napa-valley-expo-napa-ca-usa-638ccedb.html"
+  },
+  {
+    "artist_id": "oliver-riot",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Oliver Riot",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/oliver-riot/2021/napa-valley-expo-napa-ca-usa-7b8cced8.html"
+  },
+  {
+    "artist_id": "crimson-apple",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Crimson Apple",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/crimson-apple/2021/napa-valley-expo-napa-ca-usa-638ccedf.html"
+  },
+  {
+    "artist_id": "in-the-valley-below",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "In the Valley Below",
+      "event_date": "2021-09-03",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/in-the-valley-below/2021/napa-valley-expo-napa-ca-usa-738cced9.html"
+  },
+  {
+    "artist_id": "guns-n-roses",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Guns N’ Roses",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/guns-n-roses/2021/napa-valley-expo-napa-ca-usa-438cc74f.html"
+  },
+  {
+    "artist_id": "run-the-jewels",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Run the Jewels",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/run-the-jewels/2021/napa-valley-expo-napa-ca-usa-4b8cc742.html"
+  },
+  {
+    "artist_id": "portugal-the-man",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Portugal. The Man",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/portugal-the-man/2021/napa-valley-expo-napa-ca-usa-438cc747.html"
+  },
+  {
+    "artist_id": "young-the-giant",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Young the Giant",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/young-the-giant/2021/napa-valley-expo-napa-ca-usa-538cc745.html"
+  },
+  {
+    "artist_id": "milky-chance",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Milky Chance",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/milky-chance/2021/napa-valley-expo-napa-ca-usa-5b8cc744.html"
+  },
+  {
+    "artist_id": "dominic-fike",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Dominic Fike",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dominic-fike/2021/napa-valley-expo-napa-ca-usa-4b8cc73a.html"
+  },
+  {
+    "artist_id": "reignwolf",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Reignwolf",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/reignwolf/2021/napa-valley-expo-napa-ca-usa-538cc735.html"
+  },
+  {
+    "artist_id": "ripe",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Ripe",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ripe/2021/napa-valley-expo-napa-ca-usa-538cc731.html"
+  },
+  {
+    "artist_id": "meg-myers",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Meg Myers",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/meg-myers/2021/napa-valley-expo-napa-ca-usa-5b8cc730.html"
+  },
+  {
+    "artist_id": "jj-wilde",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "JJ Wilde",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jj-wilde/2021/napa-valley-expo-napa-ca-usa-438cc72b.html"
+  },
+  {
+    "artist_id": "six60",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Six60",
+      "event_date": "2021-09-04",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/six60/2021/napa-valley-expo-napa-ca-usa-438cc72f.html"
+  },
+  {
+    "artist_id": "foo-fighters",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Foo Fighters",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foo-fighters/2021/napa-valley-expo-napa-ca-usa-638c3e93.html"
+  },
+  {
+    "artist_id": "cage-the-elephant",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Cage the Elephant",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cage-the-elephant/2021/napa-valley-expo-napa-ca-usa-1b8c3940.html"
+  },
+  {
+    "artist_id": "black-pumas",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Black Pumas",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/black-pumas/2021/napa-valley-expo-napa-ca-usa-138c3961.html"
+  },
+  {
+    "artist_id": "future-islands",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Future Islands",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/future-islands/2021/napa-valley-expo-napa-ca-usa-b8c3962.html"
+  },
+  {
+    "artist_id": "jimmy-eat-world",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Jimmy Eat World",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jimmy-eat-world/2021/napa-valley-expo-napa-ca-usa-38c3947.html"
+  },
+  {
+    "artist_id": "jack-harlow",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Jack Harlow",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jack-harlow/2021/napa-valley-expo-napa-ca-usa-1b8c39c8.html"
+  },
+  {
+    "artist_id": "walk-off-the-earth",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Walk off the Earth",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/walk-off-the-earth/2021/napa-valley-expo-napa-ca-usa-438c2bab.html"
+  },
+  {
+    "artist_id": "max",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "MAX",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/max/2021/napa-valley-expo-napa-ca-usa-b8c39c2.html"
+  },
+  {
+    "artist_id": "mod-sun",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Mod Sun",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mod-sun/2021/napa-valley-expo-napa-ca-usa-1b8c39cc.html"
+  },
+  {
+    "artist_id": "village-people",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Village People",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/village-people/2021/napa-valley-expo-napa-ca-usa-138c394d.html"
+  },
+  {
+    "artist_id": "absofacto",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Absofacto",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/absofacto/2021/napa-valley-expo-napa-ca-usa-138c39c5.html"
+  },
+  {
+    "artist_id": "donna-missal",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Donna Missal",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/donna-missal/2021/napa-valley-expo-napa-ca-usa-1b8c39c4.html"
+  },
+  {
+    "artist_id": "99-neighbors",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "99 Neighbors",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/99-neighbors/2021/napa-valley-expo-napa-ca-usa-38c39bb.html"
+  },
+  {
+    "artist_id": "the-blaze",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "The Blaze",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/the-blaze/2019/passeio-maritimo-de-alges-oeiras-portugal-b9efd56.html"
+  },
+  {
+    "artist_id": "thom-yorke",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Thom Yorke",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/thom-yorke/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd6f.html"
+  },
+  {
+    "artist_id": "marina",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "MARINA",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/marina/2019/passeio-maritimo-de-alges-oeiras-portugal-139efd55.html"
+  },
+  {
+    "artist_id": "idles",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "IDLES",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/idles/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd54.html"
+  },
+  {
+    "artist_id": "gavin-james",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Gavin James",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/gavin-james/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd4b.html"
+  },
+  {
+    "artist_id": "beluga",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Beluga",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/beluga/2019/passeio-maritimo-de-alges-oeiras-portugal-2b9ee876.html"
+  },
+  {
+    "artist_id": "bob-moses",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Bob Moses",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/bob-moses/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd43.html"
+  },
+  {
+    "artist_id": "golden-features",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Golden Features",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/golden-features/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd40.html"
+  },
+  {
+    "artist_id": "ena-pa-2000",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Ena Pá 2000",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/ena-pa-2000/2019/passeio-maritimo-de-alges-oeiras-portugal-239ee403.html"
+  },
+  {
+    "artist_id": "the-chemical-brothers",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "The Chemical Brothers",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/the-chemical-brothers/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd5f.html"
+  },
+  {
+    "artist_id": "the-smashing-pumpkins",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "The Smashing Pumpkins",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/the-smashing-pumpkins/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd6c.html"
+  },
+  {
+    "artist_id": "bon-iver",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Bon Iver",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/bon-iver/2019/passeio-maritimo-de-alges-oeiras-portugal-139efd5d.html"
+  },
+  {
+    "artist_id": "tom-walker",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Tom Walker",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/tom-walker/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd5c.html"
+  },
+  {
+    "artist_id": "vetusta-morla",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "Vetusta Morla",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/vetusta-morla/2019/passeio-maritimo-de-alges-oeiras-portugal-b9efd52.html"
+  },
+  {
+    "artist_id": "the-gift",
+    "concert_id": "37a4hj",
+    "expected": {
+      "artist": "The Gift",
+      "event_date": "2019-07-13",
+      "venue": "Passeio Marítimo de Algés, Oeiras, Portugal"
+    },
+    "url": "https://www.setlist.fm/setlist/the-gift/2019/passeio-maritimo-de-alges-oeiras-portugal-1b9efd50.html"
+  },
+  {
+    "artist_id": "faouzia",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Faouzia",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/faouzia/2026/golden-gate-park-san-francisco-ca-usa-2349a45b.html"
+  },
+  {
+    "artist_id": "durand-bernarr",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Durand Bernarr",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/durand-bernarr/2026/golden-gate-park-san-francisco-ca-usa-b49a586.html"
+  },
+  {
+    "artist_id": "wet-leg",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Wet Leg",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wet-leg/2026/golden-gate-park-san-francisco-ca-usa-1349a58d.html"
+  },
+  {
+    "artist_id": "glorilla",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "GloRilla",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/glorilla/2026/golden-gate-park-san-francisco-ca-usa-1349a5a5.html"
+  },
+  {
+    "artist_id": "labrinth",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Labrinth",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/labrinth/2026/golden-gate-park-san-francisco-ca-usa-2b49a436.html"
+  },
+  {
+    "artist_id": "charli-xcx",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Charli xcx",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/charli-xcx/2026/golden-gate-park-san-francisco-ca-usa-b49a5a2.html"
+  },
+  {
+    "artist_id": "bad-nerves",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Bad Nerves",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bad-nerves/2026/golden-gate-park-san-francisco-ca-usa-3349a459.html"
+  },
+  {
+    "artist_id": "die-spitz",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Die Spitz",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/die-spitz/2026/golden-gate-park-san-francisco-ca-usa-2b49a47a.html"
+  },
+  {
+    "artist_id": "the-story-so-far",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "The Story So Far",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-story-so-far/2026/golden-gate-park-san-francisco-ca-usa-5349a7e1.html"
+  },
+  {
+    "artist_id": "sierra-ferrell",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Sierra Ferrell",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sierra-ferrell/2026/golden-gate-park-san-francisco-ca-usa-1349a581.html"
+  },
+  {
+    "artist_id": "geese",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Geese",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/geese/2026/golden-gate-park-san-francisco-ca-usa-2349a4cb.html"
+  },
+  {
+    "artist_id": "turnstile",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Turnstile",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/turnstile/2026/golden-gate-park-san-francisco-ca-usa-349a5a7.html"
+  },
+  {
+    "artist_id": "modest-mouse",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Modest Mouse",
+      "event_date": "2026-08-07",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/modest-mouse/2026/golden-gate-park-san-francisco-ca-usa-349a59b.html"
+  },
+  {
+    "artist_id": "tinashe",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Tinashe",
+      "event_date": "2026-08-07",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tinashe/2026/golden-gate-park-san-francisco-ca-usa-1b49a58c.html"
+  },
+  {
+    "artist_id": "clipse",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Clipse",
+      "event_date": "2026-08-07",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/clipse/2026/golden-gate-park-san-francisco-ca-usa-3b49a4c8.html"
+  },
+  {
+    "artist_id": "sawyer-hill",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Sawyer Hill",
+      "event_date": "2026-08-07",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sawyer-hill/2026/golden-gate-park-san-francisco-ca-usa-2349a457.html"
+  },
+  {
+    "artist_id": "ryman",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "RYMAN",
+      "event_date": "2026-08-08",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ryman/2026/golden-gate-park-san-francisco-ca-usa-3b49a4f4.html"
+  },
+  {
+    "artist_id": "automatic",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Automatic",
+      "event_date": "2026-08-08",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/automatic/2026/golden-gate-park-san-francisco-ca-usa-4349a75f.html"
+  },
+  {
+    "artist_id": "silvana-estrada",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Silvana Estrada",
+      "event_date": "2026-08-08",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/silvana-estrada/2026/golden-gate-park-san-francisco-ca-usa-3b49a408.html"
+  },
+  {
+    "artist_id": "haute-freddy",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Haute & Freddy",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/haute-and-freddy/2026/golden-gate-park-san-francisco-ca-usa-2349a40f.html"
+  },
+  {
+    "artist_id": "audrey-hobert",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Audrey Hobert",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/audrey-hobert/2026/golden-gate-park-san-francisco-ca-usa-3b49a41c.html"
+  },
+  {
+    "artist_id": "lucy-dacus",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Lucy Dacus",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lucy-dacus/2026/golden-gate-park-san-francisco-ca-usa-3b49a424.html"
+  },
+  {
+    "artist_id": "ethel-cain",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Ethel Cain",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ethel-cain/2026/golden-gate-park-san-francisco-ca-usa-2b749806.html"
+  },
+  {
+    "artist_id": "djo",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Djo",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/djo/2026/golden-gate-park-san-francisco-ca-usa-3b49a4c0.html"
+  },
+  {
+    "artist_id": "the-strokes",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "The Strokes",
+      "event_date": "2026-08-08",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-strokes/2026/golden-gate-park-san-francisco-ca-usa-3349a42d.html"
+  },
+  {
+    "artist_id": "after",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "After",
+      "event_date": "2026-08-08",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/after/2026/golden-gate-park-san-francisco-ca-usa-5349a76d.html"
+  },
+  {
+    "artist_id": "malcolm-todd",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Malcolm Todd",
+      "event_date": "2026-08-08",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/malcolm-todd/2026/golden-gate-park-san-francisco-ca-usa-2b49a41a.html"
+  },
+  {
+    "artist_id": "dijon",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Dijon",
+      "event_date": "2026-08-08",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dijon/2026/golden-gate-park-san-francisco-ca-usa-2b49a4c6.html"
+  },
+  {
+    "artist_id": "the-xx",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "The xx",
+      "event_date": "2026-08-08",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-xx/2026/golden-gate-park-san-francisco-ca-usa-2349a423.html"
+  },
+  {
+    "artist_id": "wunderhorse",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Wunderhorse",
+      "event_date": "2026-08-08",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wunderhorse/2026/golden-gate-park-san-francisco-ca-usa-2b49a402.html"
+  },
+  {
+    "artist_id": "yard-act",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Yard Act",
+      "event_date": "2026-08-08",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yard-act/2026/golden-gate-park-san-francisco-ca-usa-2b49a40e.html"
+  },
+  {
+    "artist_id": "snow-strippers",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Snow Strippers",
+      "event_date": "2026-08-08",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/snow-strippers/2026/golden-gate-park-san-francisco-ca-usa-3b49a418.html"
+  },
+  {
+    "artist_id": "pinkpantheress",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "PinkPantheress",
+      "event_date": "2026-08-08",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pinkpantheress/2026/golden-gate-park-san-francisco-ca-usa-3b49a420.html"
+  },
+  {
+    "artist_id": "cruz-beckham",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Cruz Beckham",
+      "event_date": "2026-08-09",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cruz-beckham/2026/golden-gate-park-san-francisco-ca-usa-1b49a5a8.html"
+  },
+  {
+    "artist_id": "night-tapes",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Night Tapes",
+      "event_date": "2026-08-09",
+      "venue": "Panhandle, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/night-tapes/2026/golden-gate-park-san-francisco-ca-usa-2b49a4ba.html"
+  },
+  {
+    "artist_id": "momma",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Momma",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/momma/2026/golden-gate-park-san-francisco-ca-usa-2b49a4ce.html"
+  },
+  {
+    "artist_id": "the-temper-trap",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "The Temper Trap",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-temper-trap/2026/golden-gate-park-san-francisco-ca-usa-3b49a4d8.html"
+  },
+  {
+    "artist_id": "not-for-radio",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Not for Radio",
+      "event_date": "2026-08-09",
+      "venue": "Sutro, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/not-for-radio/2026/golden-gate-park-san-francisco-ca-usa-3b49a4e4.html"
+  },
+  {
+    "artist_id": "sports",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Sports",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sports/2026/golden-gate-park-san-francisco-ca-usa-4349a7eb.html"
+  },
+  {
+    "artist_id": "balu-brigada",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Balu Brigada",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/balu-brigada/2026/golden-gate-park-san-francisco-ca-usa-3349a4d1.html"
+  },
+  {
+    "artist_id": "jade",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "JADE",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jade/2026/golden-gate-park-san-francisco-ca-usa-4b49a7ce.html"
+  },
+  {
+    "artist_id": "disco-lines",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Disco Lines",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/disco-lines/2026/golden-gate-park-san-francisco-ca-usa-2349a4e7.html"
+  },
+  {
+    "artist_id": "empire-of-the-sun",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Empire of the Sun",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/empire-of-the-sun/2026/golden-gate-park-san-francisco-ca-usa-3349a4ed.html"
+  },
+  {
+    "artist_id": "rufus-du-sol",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "RÜFÜS DU SOL",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rufus-du-sol/2026/golden-gate-park-san-francisco-ca-usa-2349a4ef.html"
+  },
+  {
+    "artist_id": "boys-noize",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Boys Noize",
+      "event_date": "2026-08-09",
+      "venue": "SOMA, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/boys-noize/2026/golden-gate-park-san-francisco-ca-usa-3349a4dd.html"
+  },
+  {
+    "artist_id": "destin-conrad",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "DESTIN CONRAD",
+      "event_date": "2026-08-09",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/destin-conrad/2026/golden-gate-park-san-francisco-ca-usa-3b49a4dc.html"
+  },
+  {
+    "artist_id": "kwn",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "kwn",
+      "event_date": "2026-08-09",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kwn/2026/golden-gate-park-san-francisco-ca-usa-2b49a4de.html"
+  },
+  {
+    "artist_id": "mariah-the-scientist",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Mariah the Scientist",
+      "event_date": "2026-08-09",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mariah-the-scientist/2026/golden-gate-park-san-francisco-ca-usa-3349a4e5.html"
+  },
+  {
+    "artist_id": "baby-keem",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Baby Keem",
+      "event_date": "2026-08-09",
+      "venue": "Twin Peaks, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/baby-keem/2026/golden-gate-park-san-francisco-ca-usa-2b49a4ee.html"
+  },
+  {
+    "artist_id": "grace-ives",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "Grace Ives",
+      "event_date": "2026-08-07",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/grace-ives/2026/golden-gate-park-san-francisco-ca-usa-2b703c0a.html"
+  },
+  {
+    "artist_id": "johnny-jewel",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Johnny Jewel",
+      "event_date": "2024-05-27",
+      "venue": "Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/johnny-jewel/2024/sala-apolo-barcelona-spain-53a8eb2d.html"
+  },
+  {
+    "artist_id": "the-chameleons",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Chameleons",
+      "event_date": "2024-05-27",
+      "venue": "Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-chameleons/2024/sala-apolo-barcelona-spain-43a8eb2f.html"
+  },
+  {
+    "artist_id": "cranes",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Cranes",
+      "event_date": "2024-05-27",
+      "venue": "Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/cranes/2024/sala-apolo-barcelona-spain-5ba8eb28.html"
+  },
+  {
+    "artist_id": "maustetytot",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Maustetytöt",
+      "event_date": "2024-05-27",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/maustetytot/2024/sala-apolo-barcelona-spain-4ba8eb3a.html"
+  },
+  {
+    "artist_id": "irreversible-entanglements",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Irreversible Entanglements",
+      "event_date": "2024-05-28",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/irreversible-entanglements/2024/sala-apolo-barcelona-spain-53a8eb21.html"
+  },
+  {
+    "artist_id": "the-messthetics-james-brandon-lewis",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Messthetics and James Brandon Lewis",
+      "event_date": "2024-05-28",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-messthetics-and-james-brandon-lewis/2024/sala-apolo-barcelona-spain-43a8eb23.html"
+  },
+  {
+    "artist_id": "les-savy-fav",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Les Savy Fav",
+      "event_date": "2024-05-28",
+      "venue": "Paral·lel 62, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/les-savy-fav/2024/parallel-62-barcelona-spain-5ba8eb50.html"
+  },
+  {
+    "artist_id": "rozi-plain",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Rozi Plain",
+      "event_date": "2024-05-27",
+      "venue": "La Nau, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/rozi-plain/2024/la-nau-barcelona-spain-4ba8eb32.html"
+  },
+  {
+    "artist_id": "the-mountain-goats",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Mountain Goats",
+      "event_date": "2024-05-28",
+      "venue": "La Nau, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-mountain-goats/2024/la-nau-barcelona-spain-5ba8eb18.html"
+  },
+  {
+    "artist_id": "mabe-fratti",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mabe Fratti",
+      "event_date": "2024-05-28",
+      "venue": "LAUT, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mabe-fratti/2024/laut-barcelona-spain-5ba8eb1c.html"
+  },
+  {
+    "artist_id": "grateful-shred",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Grateful Shred",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/grateful-shred/2019/golden-gate-park-san-francisco-ca-usa-539f9ffd.html"
+  },
+  {
+    "artist_id": "halfalive",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "half•alive",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/halfalive/2019/golden-gate-park-san-francisco-ca-usa-4b9f9f0e.html"
+  },
+  {
+    "artist_id": "p-lo",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "P‐Lo",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/plo/2019/golden-gate-park-san-francisco-ca-usa-539f9f0d.html"
+  },
+  {
+    "artist_id": "the-neighbourhood",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "The Neighbourhood",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-neighbourhood/2019/golden-gate-park-san-francisco-ca-usa-439f9f03.html"
+  },
+  {
+    "artist_id": "aurora",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "AURORA",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/aurora/2019/golden-gate-park-san-francisco-ca-usa-439f9f0b.html"
+  },
+  {
+    "artist_id": "lil-wayne",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Lil Wayne",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lil-wayne/2019/golden-gate-park-san-francisco-ca-usa-4b9f9f02.html"
+  },
+  {
+    "artist_id": "lauren-daigle",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Lauren Daigle",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lauren-daigle/2019/golden-gate-park-san-francisco-ca-usa-439f9ff3.html"
+  },
+  {
+    "artist_id": "blink-182",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "blink‐182",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/blink182/2019/golden-gate-park-san-francisco-ca-usa-39ffd4b.html"
+  },
+  {
+    "artist_id": "counting-crows",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Counting Crows",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/counting-crows/2019/golden-gate-park-san-francisco-ca-usa-4b9f9ff2.html"
+  },
+  {
+    "artist_id": "san-holo",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "San Holo",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/san-holo/2019/golden-gate-park-san-francisco-ca-usa-539f9f05.html"
+  },
+  {
+    "artist_id": "twenty-one-pilots",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "twenty one pilots",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/twenty-one-pilots/2019/golden-gate-park-san-francisco-ca-usa-439f9f07.html"
+  },
+  {
+    "artist_id": "the-lumineers",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "The Lumineers",
+      "event_date": "2019-08-09",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-lumineers/2019/golden-gate-park-san-francisco-ca-usa-539f9ff1.html"
+  },
+  {
+    "artist_id": "nombe",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "NoMBe",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/nombe/2019/golden-gate-park-san-francisco-ca-usa-339ff825.html"
+  },
+  {
+    "artist_id": "shallou",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Shallou",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/shallou/2019/golden-gate-park-san-francisco-ca-usa-5b9fff84.html"
+  },
+  {
+    "artist_id": "wallows",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Wallows",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wallows/2019/golden-gate-park-san-francisco-ca-usa-339ff821.html"
+  },
+  {
+    "artist_id": "bea-miller",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Bea Miller",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bea-miller/2019/golden-gate-park-san-francisco-ca-usa-339ff819.html"
+  },
+  {
+    "artist_id": "phosphorescent",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Phosphorescent",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/phosphorescent/2019/golden-gate-park-san-francisco-ca-usa-3b9ff820.html"
+  },
+  {
+    "artist_id": "big-wild",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Big Wild",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/big-wild/2019/golden-gate-park-san-francisco-ca-usa-2b9ff82e.html"
+  },
+  {
+    "artist_id": "cupcakke",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "cupcakKe",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cupcakke/2019/golden-gate-park-san-francisco-ca-usa-3b9ff818.html"
+  },
+  {
+    "artist_id": "better-oblivion-community-center",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Better Oblivion Community Center",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/better-oblivion-community-center/2019/golden-gate-park-san-francisco-ca-usa-1b9f81dc.html"
+  },
+  {
+    "artist_id": "flume",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Flume",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/flume/2019/golden-gate-park-san-francisco-ca-usa-7b9f962c.html"
+  },
+  {
+    "artist_id": "ella-mai",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Ella Mai",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ella-mai/2019/golden-gate-park-san-francisco-ca-usa-739f96f1.html"
+  },
+  {
+    "artist_id": "childish-gambino",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Childish Gambino",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/childish-gambino/2019/golden-gate-park-san-francisco-ca-usa-739f962d.html"
+  },
+  {
+    "artist_id": "rl-grime",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "RL Grime",
+      "event_date": "2019-08-10",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rl-grime/2019/golden-gate-park-san-francisco-ca-usa-339ff829.html"
+  },
+  {
+    "artist_id": "weyes-blood",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Weyes Blood",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/weyes-blood/2019/golden-gate-park-san-francisco-ca-usa-3b9ff844.html"
+  },
+  {
+    "artist_id": "mavis-staples",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Mavis Staples",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mavis-staples/2019/golden-gate-park-san-francisco-ca-usa-239ff85f.html"
+  },
+  {
+    "artist_id": "dean-lewis",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Dean Lewis",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dean-lewis/2019/golden-gate-park-san-francisco-ca-usa-2b9ff84e.html"
+  },
+  {
+    "artist_id": "judah-the-lion",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Judah & the Lion",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/judah-and-the-lion/2019/golden-gate-park-san-francisco-ca-usa-239ff84b.html"
+  },
+  {
+    "artist_id": "denzel-curry",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Denzel Curry",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/denzel-curry/2019/golden-gate-park-san-francisco-ca-usa-3b9ff85c.html"
+  },
+  {
+    "artist_id": "kacey-musgraves",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Kacey Musgraves",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kacey-musgraves/2019/golden-gate-park-san-francisco-ca-usa-2b9ff85a.html"
+  },
+  {
+    "artist_id": "bob-moses",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Bob Moses",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bob-moses/2019/golden-gate-park-san-francisco-ca-usa-3b9ff854.html"
+  },
+  {
+    "artist_id": "sheck-wes",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Sheck Wes",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sheck-wes/2019/golden-gate-park-san-francisco-ca-usa-2b9ff852.html"
+  },
+  {
+    "artist_id": "toro-y-moi",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Toro y Moi",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/toro-y-moi/2019/golden-gate-park-san-francisco-ca-usa-239ff857.html"
+  },
+  {
+    "artist_id": "bebe-rexha",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Bebe Rexha",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bebe-rexha/2019/golden-gate-park-san-francisco-ca-usa-3b9ff850.html"
+  },
+  {
+    "artist_id": "anderson-paak",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Anderson .Paak",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/anderson-paak/2019/golden-gate-park-san-francisco-ca-usa-339ff869.html"
+  },
+  {
+    "artist_id": "paul-simon",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Paul Simon",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/paul-simon/2019/golden-gate-park-san-francisco-ca-usa-3b9ff874.html"
+  },
+  {
+    "artist_id": "kygo",
+    "concert_id": "brv1d9",
+    "expected": {
+      "artist": "Kygo",
+      "event_date": "2019-08-11",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kygo/2019/golden-gate-park-san-francisco-ca-usa-3b9ff86c.html"
+  }
+]

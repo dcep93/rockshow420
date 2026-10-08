@@ -1,0 +1,27 @@
+{
+  "artist": "lovelytheband",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "lovelytheband",
+      "name": "broken"
+    },
+    {
+      "artists": "Bryce Vine, lovelytheband",
+      "name": "Miss You a Little (feat. lovelytheband)"
+    },
+    {
+      "artists": "lovelytheband",
+      "name": "sail away"
+    },
+    {
+      "artists": "lovelytheband",
+      "name": "broken - acoustic"
+    },
+    {
+      "artists": "lovelytheband",
+      "name": "anywhere but on my mind"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4KJ6jujcNPzOyhdNoiNftp"
+}

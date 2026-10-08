@@ -1,0 +1,28 @@
+{
+  "artist": "Spiritual Cramp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Spiritual Cramp",
+      "name": "Go Back Home"
+    },
+    {
+      "artists": "Spiritual Cramp",
+      "name": "Talkin' On The Internet"
+    },
+    {
+      "artists": "Spiritual Cramp",
+      "explicit": true,
+      "name": "Dog In A Cage"
+    },
+    {
+      "artists": "Spiritual Cramp, Sharon Van Etten",
+      "name": "You've Got My Number"
+    },
+    {
+      "artists": "Spiritual Cramp",
+      "name": "At My Funeral"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6cpzd2aRLmkE06P4lFFMlj"
+}

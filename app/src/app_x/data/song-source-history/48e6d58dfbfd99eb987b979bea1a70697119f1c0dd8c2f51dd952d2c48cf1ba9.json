@@ -1,0 +1,27 @@
+{
+  "artist": "Infinity Song",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Infinity Song",
+      "name": "Hurricane"
+    },
+    {
+      "artists": "Momo Boyd, Infinity Song",
+      "name": "Oops"
+    },
+    {
+      "artists": "Infinity Song",
+      "name": "Hater's Anthem"
+    },
+    {
+      "artists": "Infinity Song",
+      "name": "Metamorphosis"
+    },
+    {
+      "artists": "Infinity Song",
+      "name": "Sinking Boat"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2PZThLYBW7XtcYVzQms8oM"
+}

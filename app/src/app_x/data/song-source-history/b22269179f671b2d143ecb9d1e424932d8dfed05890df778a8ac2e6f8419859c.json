@@ -1,0 +1,27 @@
+{
+  "artist": "Ivan Cornejo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Eslabon Armado, Ivan Cornejo",
+      "name": "HASTA LA MUERTE"
+    },
+    {
+      "artists": "Ivan Cornejo",
+      "name": "Atención"
+    },
+    {
+      "artists": "Ivan Cornejo",
+      "name": "Vuelve"
+    },
+    {
+      "artists": "Ivan Cornejo",
+      "name": "Baby Please"
+    },
+    {
+      "artists": "Ivan Cornejo",
+      "name": "Mirada"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6PH3FLQAxtqYy46Zv08bpV"
+}

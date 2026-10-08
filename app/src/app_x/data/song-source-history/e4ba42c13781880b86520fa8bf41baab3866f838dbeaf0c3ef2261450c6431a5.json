@@ -1,0 +1,29 @@
+{
+  "artist": "Rauw Alejandro",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rauw Alejandro, Bad Bunny",
+      "explicit": true,
+      "name": "Qué Pasaría..."
+    },
+    {
+      "artists": "Marc Seguí, Rauw Alejandro, Pol Granch",
+      "name": "Tiroteo - Remix"
+    },
+    {
+      "artists": "Rauw Alejandro, Romeo Santos",
+      "name": "Khé?"
+    },
+    {
+      "artists": "Rauw Alejandro, Chencho Corleone",
+      "name": "El Efecto"
+    },
+    {
+      "artists": "Rauw Alejandro",
+      "explicit": true,
+      "name": "Todo De Ti"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1mcTU81TzQhprhouKaTkpq"
+}

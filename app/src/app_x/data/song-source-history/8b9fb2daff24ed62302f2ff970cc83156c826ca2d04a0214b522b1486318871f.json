@@ -1,0 +1,47 @@
+{
+  "artist": "New Found Glory",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "New Found Glory",
+      "name": "My Friends Over You"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "All Downhill From Here"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Kiss Me"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Hit Or Miss"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Understatement"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Iris"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "King Of Wishful Thinking"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Vicious Love"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Head On Collision"
+    },
+    {
+      "artists": "New Found Glory",
+      "name": "Hold My Hand"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4ghjRm4M2vChDfTUycx0Ce"
+}

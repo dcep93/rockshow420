@@ -1,0 +1,50 @@
+{
+  "artist": "Jamie xx",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jamie xx, Romy",
+      "name": "Loud Places"
+    },
+    {
+      "artists": "The xx, Jamie xx",
+      "name": "On Hold - Jamie xx Remix"
+    },
+    {
+      "artists": "Jamie xx, Young Thug, Popcaan",
+      "explicit": true,
+      "name": "I Know There's Gonna Be (Good Times)"
+    },
+    {
+      "artists": "Jamie xx, Honey Dijon",
+      "explicit": true,
+      "name": "Baddy On The Floor"
+    },
+    {
+      "artists": "The Avalanches, Jamie xx",
+      "name": "Every Single Weekend (feat. Jamie xx)"
+    },
+    {
+      "artists": "Florence + The Machine, The xx, Jamie xx",
+      "name": "You've Got The Love - Jamie xx Rework"
+    },
+    {
+      "artists": "Jamie xx, MC Moose",
+      "name": "Gosh"
+    },
+    {
+      "artists": "Jamie xx, The Avalanches",
+      "name": "All You Children"
+    },
+    {
+      "artists": "Jamie xx, Robyn",
+      "explicit": true,
+      "name": "Life"
+    },
+    {
+      "artists": "Jamie xx",
+      "name": "KILL DEM"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7A0awCXkE1FtSU8B0qwOJQ"
+}

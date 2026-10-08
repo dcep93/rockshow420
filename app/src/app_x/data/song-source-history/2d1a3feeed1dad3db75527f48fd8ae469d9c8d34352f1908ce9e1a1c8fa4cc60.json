@@ -1,0 +1,30 @@
+{
+  "artist": "Oliver Tree",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Oliver Tree",
+      "name": "Life Goes On"
+    },
+    {
+      "artists": "Oliver Tree, Robin Schulz",
+      "explicit": true,
+      "name": "Miss You - Bonus Track"
+    },
+    {
+      "artists": "Oliver Tree",
+      "explicit": true,
+      "name": "Alien Boy"
+    },
+    {
+      "artists": "Oliver Tree",
+      "explicit": true,
+      "name": "Hurt"
+    },
+    {
+      "artists": "Oliver Tree",
+      "name": "Cowboys Don’t Cry"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6TLwD7HPWuiOzvXEa3oCNe"
+}

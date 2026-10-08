@@ -1,0 +1,27 @@
+{
+  "artist": "Toro y Moi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flume, Toro y Moi",
+      "name": "The Difference"
+    },
+    {
+      "artists": "Toro y Moi",
+      "name": "Ordinary Pleasure"
+    },
+    {
+      "artists": "Toro y Moi",
+      "name": "Rose Quartz"
+    },
+    {
+      "artists": "Sam Gellaitry, Toro y Moi",
+      "name": "CURIOUS (feat. Toro y Moi)"
+    },
+    {
+      "artists": "Toro y Moi",
+      "name": "So Many Details"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6O4EGCCb6DoIiR6B1QCQgp"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Porterfield",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Porterfield",
+      "name": "Fun House"
+    },
+    {
+      "artists": "Porterfield",
+      "name": "Christine"
+    },
+    {
+      "artists": "Porterfield",
+      "name": "Always"
+    },
+    {
+      "artists": "Porterfield",
+      "name": "Father of None"
+    },
+    {
+      "artists": "Porterfield",
+      "name": "Antigone & Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0pgrx1XlgU9Y4Uh7ds7nTI"
+}

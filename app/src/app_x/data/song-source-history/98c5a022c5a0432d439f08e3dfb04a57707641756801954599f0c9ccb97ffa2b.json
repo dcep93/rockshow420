@@ -1,0 +1,28 @@
+{
+  "artist": "Rels B",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rels B",
+      "name": "TU VAS SIN (fav)"
+    },
+    {
+      "artists": "Rels B",
+      "name": "A Mí"
+    },
+    {
+      "artists": "Rels B",
+      "name": "lo que hay x aquí"
+    },
+    {
+      "artists": "Rels B",
+      "explicit": true,
+      "name": "cómo dormiste?"
+    },
+    {
+      "artists": "Rels B",
+      "name": "La Última Canción"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2IMZYfNi21MGqxopj9fWx8"
+}

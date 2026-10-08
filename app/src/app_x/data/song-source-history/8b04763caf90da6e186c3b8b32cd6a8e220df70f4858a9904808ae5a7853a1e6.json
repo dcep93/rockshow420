@@ -1,0 +1,27 @@
+{
+  "artist": "Not For Radio",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Not For Radio",
+      "name": "Back To You"
+    },
+    {
+      "artists": "Not For Radio",
+      "name": "Ache"
+    },
+    {
+      "artists": "Not For Radio",
+      "name": "Not the Only One"
+    },
+    {
+      "artists": "Not For Radio",
+      "name": "Puddles"
+    },
+    {
+      "artists": "Not For Radio",
+      "name": "Vueltas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+}

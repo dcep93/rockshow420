@@ -1,0 +1,47 @@
+{
+  "artist": "moe.",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Phil Lesh & Communion, Allen Toussaint, Bill Kreutzmann, David Grisman, Peter Frampton, Buddy Miller, Jorma Kaukonen, Jimmy Cliff, Mickey Hart, Billy & The Kids",
+      "name": "Ripple - Live"
+    },
+    {
+      "artists": "moe.",
+      "name": "Nebraska"
+    },
+    {
+      "artists": "moe.",
+      "name": "In A Big Country"
+    },
+    {
+      "artists": "moe.",
+      "name": "Okayalright"
+    },
+    {
+      "artists": "moe.",
+      "name": "Happy Hour Hero"
+    },
+    {
+      "artists": "moe.",
+      "name": "Silver Sun"
+    },
+    {
+      "artists": "moe.",
+      "name": "Rebubula"
+    },
+    {
+      "artists": "moe.",
+      "name": "Loser - Live"
+    },
+    {
+      "artists": "moe.",
+      "name": "Moth"
+    },
+    {
+      "artists": "moe.",
+      "name": "Plane Crash"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ZfHMUPrxoZNDTBPHmmdhj"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Delacey",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Delacey",
+      "name": "The Subway Song"
+    },
+    {
+      "artists": "Delacey, G-Eazy",
+      "explicit": true,
+      "name": "Cruel Intentions"
+    },
+    {
+      "artists": "Delacey",
+      "explicit": true,
+      "name": "Unlovable"
+    },
+    {
+      "artists": "Delacey",
+      "name": "Boy With The Blues"
+    },
+    {
+      "artists": "Delacey, Emily Weisband",
+      "name": "Manly Man"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1thbOfXak53dM1Xabq3pmb"
+}

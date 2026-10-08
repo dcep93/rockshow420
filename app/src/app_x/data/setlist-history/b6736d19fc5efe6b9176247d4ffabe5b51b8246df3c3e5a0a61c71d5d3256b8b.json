@@ -1,0 +1,93 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Lose Your Mind",
+          "notes": "(>)"
+        },
+        {
+          "name": "Waymore's Blues",
+          "notes": "(Waylon Jennings cover) (>)"
+        },
+        {
+          "name": "Mystery Train",
+          "notes": "(Little Junior’s Blue Flames cover)"
+        },
+        {
+          "name": "Along the Trail",
+          "notes": "(Daniel Donato song)"
+        },
+        {
+          "name": "Weathervane",
+          "notes": "(>)"
+        },
+        {
+          "name": "Blue Skies",
+          "notes": "(Irving Berlin cover) (> \"Weathervane\" reprise)"
+        },
+        {
+          "name": "Ten Feet of Rope"
+        },
+        {
+          "name": "Sunshine in the Rain (Strange Presence)"
+        },
+        {
+          "name": "Justice",
+          "notes": "(>)"
+        },
+        {
+          "name": "Jessica",
+          "notes": "(The Allman Brothers Band cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Rose in a Garden"
+        },
+        {
+          "name": "Broadside Ballad",
+          "notes": "(>)"
+        },
+        {
+          "name": "Hangman's Reel",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "Blame the Train"
+        },
+        {
+          "name": "Dance in the Desert"
+        },
+        {
+          "name": "Sugar Shack"
+        },
+        {
+          "name": "Chore"
+        },
+        {
+          "name": "Luck of the Draw",
+          "notes": "(>)"
+        },
+        {
+          "name": "Sugar Leg Rag"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Half Moon Night"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/daniel-donatos-cosmic-country/2026/beacon-theatre-new-york-ny-5b76835c.html"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Jessie Murph",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Koe Wetzel, Jessie Murph",
+      "explicit": true,
+      "name": "High Road (feat. Jessie Murph)"
+    },
+    {
+      "artists": "Jessie Murph",
+      "name": "Blue Strips"
+    },
+    {
+      "artists": "Jessie Murph, Jelly Roll",
+      "explicit": true,
+      "name": "Wild Ones (feat. Jelly Roll)"
+    },
+    {
+      "artists": "BigXthaPlug, Jessie Murph",
+      "explicit": true,
+      "name": "Holy Ground (feat. Jessie Murph)"
+    },
+    {
+      "artists": "Diplo, Jessie Murph, Polo G",
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+}

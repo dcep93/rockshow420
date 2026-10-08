@@ -1,0 +1,27 @@
+{
+  "artist": "Nightly",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Nightly",
+      "name": "1989"
+    },
+    {
+      "artists": "Nightly",
+      "name": "Twenty Something"
+    },
+    {
+      "artists": "Nightly, Fly By Midnight",
+      "name": "1989 (feat. Fly By Midnight)"
+    },
+    {
+      "artists": "Nightly",
+      "name": "the movies"
+    },
+    {
+      "artists": "Nightly",
+      "name": "angel in the outfield"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3qDMrpZHtZEtVl5i1l7hP3"
+}

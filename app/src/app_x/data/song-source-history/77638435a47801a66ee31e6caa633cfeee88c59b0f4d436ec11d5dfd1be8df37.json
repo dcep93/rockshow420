@@ -1,0 +1,27 @@
+{
+  "artist": "John Mayer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "John Mayer",
+      "name": "New Light"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Slow Dancing in a Burning Room"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Waiting On the World to Change"
+    },
+    {
+      "artists": "John Mayer",
+      "name": "Gravity"
+    },
+    {
+      "artists": "Lainey Wilson, John Mayer",
+      "name": "Phone, Keys, Wallet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0hEurMDQu99nJRq8pTxO14"
+}

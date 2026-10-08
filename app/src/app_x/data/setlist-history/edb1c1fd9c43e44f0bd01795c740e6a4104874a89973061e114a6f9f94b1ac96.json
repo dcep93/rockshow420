@@ -1,0 +1,116 @@
+{
+  "sets": [
+    {
+      "name": "Acoustic:",
+      "songs": [
+        {
+          "name": "Slow Dancing in a Burning Room"
+        },
+        {
+          "name": "Whiskey, Whiskey, Whiskey"
+        },
+        {
+          "name": "Wild Blue"
+        },
+        {
+          "name": "Queen of California"
+        },
+        {
+          "name": "January 16, 2002: \"Room for Squares\" Interview",
+          "tape": true
+        },
+        {
+          "name": "Why Georgia"
+        },
+        {
+          "name": "Go Easy on Me",
+          "notes": "(snippet, sung during banter)"
+        },
+        {
+          "name": "Who Says"
+        },
+        {
+          "name": "Shouldn't Matter but It Does",
+          "notes": "(with Alphaville's \"Forever Young\" snippet)"
+        },
+        {
+          "name": "Neon"
+        },
+        {
+          "name": "Driftin'"
+        },
+        {
+          "name": "In Your Atmosphere"
+        }
+      ]
+    },
+    {
+      "name": "Piano:",
+      "songs": [
+        {
+          "name": "Vultures",
+          "notes": "(John Mayer Trio song)"
+        },
+        {
+          "name": "You're Gonna Live Forever in Me"
+        },
+        {
+          "name": "Changing"
+        }
+      ]
+    },
+    {
+      "name": "Acoustic:",
+      "songs": [
+        {
+          "name": "\"Continuum\" Interview",
+          "tape": true
+        },
+        {
+          "name": "Stop This Train"
+        },
+        {
+          "name": "New Light"
+        },
+        {
+          "name": "Gravity",
+          "notes": "(on electric guitar)"
+        },
+        {
+          "name": "Your Body Is a Wonderland"
+        },
+        {
+          "name": "Covered in Rain"
+        },
+        {
+          "name": "Walt Grace's Submarine Test, January 1967"
+        }
+      ]
+    },
+    {
+      "name": "Double-Neck Acoustic:",
+      "songs": [
+        {
+          "name": "If I Ever Get Around to Living"
+        },
+        {
+          "name": "Edge of Desire"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Wheel"
+        },
+        {
+          "name": "Free Fallin'",
+          "notes": "(Tom Petty cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-63a33e73.html"
+}

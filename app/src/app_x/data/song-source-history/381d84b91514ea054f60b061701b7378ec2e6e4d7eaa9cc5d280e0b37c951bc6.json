@@ -1,0 +1,27 @@
+{
+  "artist": "Eartheater",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Eartheater",
+      "name": "Wasp In the Fig"
+    },
+    {
+      "artists": "Eartheater",
+      "name": "Supersoaker"
+    },
+    {
+      "artists": "Eartheater",
+      "name": "Crushing"
+    },
+    {
+      "artists": "Eartheater",
+      "name": "Crown Jewel"
+    },
+    {
+      "artists": "Eartheater",
+      "name": "Solid Liquid Gas"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/18ca9d5EU5R1AhVKPR1cm0"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Peach Pit",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Peach Pit",
+      "name": "Alrighty Aphrodite"
+    },
+    {
+      "artists": "Peach Pit",
+      "explicit": true,
+      "name": "Shampoo Bottles"
+    },
+    {
+      "artists": "Peach Pit",
+      "explicit": true,
+      "name": "Tommy's Party"
+    },
+    {
+      "artists": "Peach Pit",
+      "name": "Give Up Baby Go"
+    },
+    {
+      "artists": "Peach Pit",
+      "name": "Drop the Guillotine"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6fC2AcsQtd9h4BWELbbire"
+}

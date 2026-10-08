@@ -1,0 +1,27 @@
+{
+  "artist": "The Mowgli's",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Mowgli's",
+      "name": "San Francisco"
+    },
+    {
+      "artists": "The Mowgli's",
+      "name": "I'm Good"
+    },
+    {
+      "artists": "The Mowgli's",
+      "name": "I Feel Good About This"
+    },
+    {
+      "artists": "The Mowgli's",
+      "name": "Say It, Just Say It"
+    },
+    {
+      "artists": "The Mowgli's",
+      "name": "Real Good Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+}

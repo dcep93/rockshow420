@@ -1,0 +1,27 @@
+{
+  "artist": "The Fresh & Onlys",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Fresh & Onlys",
+      "name": "Waterfall"
+    },
+    {
+      "artists": "The Fresh & Onlys",
+      "name": "Animal of One"
+    },
+    {
+      "artists": "The Fresh & Onlys",
+      "name": "Presence of Mind"
+    },
+    {
+      "artists": "The Fresh & Onlys",
+      "name": "Summer of Love"
+    },
+    {
+      "artists": "The Fresh & Onlys",
+      "name": "Who Let the Devil"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Ri83BLqlgaqIc9jwSgAn1"
+}

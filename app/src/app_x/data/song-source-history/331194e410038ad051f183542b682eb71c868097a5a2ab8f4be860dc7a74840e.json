@@ -1,0 +1,51 @@
+{
+  "artist": "buffchick",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "buffchick",
+      "explicit": true,
+      "name": "gone awhile"
+    },
+    {
+      "artists": "buffchick",
+      "name": "Here Forever"
+    },
+    {
+      "artists": "buffchick",
+      "explicit": true,
+      "name": "when i was pretty"
+    },
+    {
+      "artists": "buffchick",
+      "name": "big mouth"
+    },
+    {
+      "artists": "buffchick",
+      "name": "Show You Something"
+    },
+    {
+      "artists": "buffchick",
+      "explicit": true,
+      "name": "IDK!!"
+    },
+    {
+      "artists": "buffchick",
+      "name": "Focus"
+    },
+    {
+      "artists": "buffchick",
+      "name": "april was what i expected"
+    },
+    {
+      "artists": "buffchick",
+      "name": "I Lied Again"
+    },
+    {
+      "artists": "buffchick",
+      "explicit": true,
+      "name": "Over & Again"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0bySwTrRN75nqs2vLS00zn"
+}

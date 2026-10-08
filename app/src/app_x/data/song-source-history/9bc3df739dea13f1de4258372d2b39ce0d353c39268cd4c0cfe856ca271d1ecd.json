@@ -1,0 +1,27 @@
+{
+  "artist": "Mica Levi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mica Levi",
+      "name": "Love"
+    },
+    {
+      "artists": "Mica Levi",
+      "name": "Vanity"
+    },
+    {
+      "artists": "Mica Levi",
+      "name": "Lipstick To Void"
+    },
+    {
+      "artists": "Mica Levi",
+      "name": "Creation"
+    },
+    {
+      "artists": "Mica Levi",
+      "name": "Lonely Void"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29LOCR81IrdEJjCAeCEOU3"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Chiiild",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chiiild",
+      "name": "Pirouette"
+    },
+    {
+      "artists": "Emotional Oranges, Chiiild",
+      "name": "Bonafide (feat. Chiiild)"
+    },
+    {
+      "artists": "Chiiild",
+      "name": "Weightless"
+    },
+    {
+      "artists": "Chiiild, Mahalia",
+      "name": "Awake"
+    },
+    {
+      "artists": "Chiiild",
+      "name": "Sleepwalking"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2YqJwmohaNjg9lg51flSax"
+}

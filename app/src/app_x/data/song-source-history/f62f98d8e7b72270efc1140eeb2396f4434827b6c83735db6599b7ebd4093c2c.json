@@ -1,0 +1,27 @@
+{
+  "artist": "Sweeping Promises",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sweeping Promises",
+      "name": "Pain Without a Touch"
+    },
+    {
+      "artists": "Sweeping Promises",
+      "name": "Shooting Shadows"
+    },
+    {
+      "artists": "Sweeping Promises",
+      "name": "Hunger for a Way Out"
+    },
+    {
+      "artists": "Sweeping Promises",
+      "name": "Accent"
+    },
+    {
+      "artists": "Sweeping Promises",
+      "name": "Cocoon"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5k9qBHdkzsibPmFJp1XIAt"
+}

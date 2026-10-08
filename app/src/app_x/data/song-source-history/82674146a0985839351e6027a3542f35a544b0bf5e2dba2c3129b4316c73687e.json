@@ -1,0 +1,27 @@
+{
+  "artist": "Jason Mraz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jason Mraz",
+      "name": "I'm Yours"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "I Won't Give Up"
+    },
+    {
+      "artists": "Jason Mraz, Colbie Caillat",
+      "name": "Lucky"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "93 Million Miles"
+    },
+    {
+      "artists": "Jason Mraz",
+      "name": "Have It All"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4phGZZrJZRo4ElhRtViYdl"
+}

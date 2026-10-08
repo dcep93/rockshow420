@@ -1,0 +1,27 @@
+{
+  "artist": "AC Slater",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "AC Slater, Chris Lorenzo, Wax Motif",
+      "name": "Fly Kicks - Wax Motif Remix"
+    },
+    {
+      "artists": "AC Slater, Lock 'N Load",
+      "name": "Blow Ya Mind"
+    },
+    {
+      "artists": "AC Slater, Young Lyxx",
+      "name": "Bass Face"
+    },
+    {
+      "artists": "AC Slater",
+      "name": "About To Shine"
+    },
+    {
+      "artists": "Qlank, AC Slater, Queen Millz",
+      "name": "Suffocating"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+}

@@ -1,0 +1,83 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Naked Gun Theme",
+          "tape": true
+        },
+        {
+          "name": "The Doctor"
+        },
+        {
+          "name": "The Dark of the Matinée"
+        },
+        {
+          "name": "Night or Day"
+        },
+        {
+          "name": "Love Illumination"
+        },
+        {
+          "name": "Build It Up"
+        },
+        {
+          "name": "Do You Want To"
+        },
+        {
+          "name": "Bar Lonely"
+        },
+        {
+          "name": "Walk Away"
+        },
+        {
+          "name": "Everydaydreamer"
+        },
+        {
+          "name": "40'"
+        },
+        {
+          "name": "Audacious"
+        },
+        {
+          "name": "Michael"
+        },
+        {
+          "name": "Black Eyelashes"
+        },
+        {
+          "name": "Take Me Out"
+        },
+        {
+          "name": "Hooked"
+        },
+        {
+          "name": "Outsiders"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Ulysses"
+        },
+        {
+          "name": "Evil and a Heathen"
+        },
+        {
+          "name": "Jacqueline",
+          "notes": "(Not on printed setlist)"
+        },
+        {
+          "name": "Cats"
+        },
+        {
+          "name": "This Fire"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/franz-ferdinand/2025/brooklyn-paramount-brooklyn-ny-635d8ebf.html"
+}

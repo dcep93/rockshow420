@@ -1,0 +1,28 @@
+{
+  "artist": "Lunay",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lunay, Daddy Yankee, Bad Bunny",
+      "name": "Soltera (Remix)"
+    },
+    {
+      "artists": "Lunay, Omar Courtz",
+      "explicit": true,
+      "name": "MI BB"
+    },
+    {
+      "artists": "Lunay, Lyanno, Anuel AA, Brytiago, Alex Rose",
+      "name": "A Solas (Remix)"
+    },
+    {
+      "artists": "Gaby Music, Lunay, Luar La L",
+      "name": "No Te Quieren Conmigo"
+    },
+    {
+      "artists": "Lunay, Anuel AA, Ozuna",
+      "name": "Aventura"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/47MpMsUfWtgyIIBEFOr4FE"
+}

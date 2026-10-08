@@ -1,0 +1,29 @@
+{
+  "artist": "contradash",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "contradash",
+      "name": "sold for parts"
+    },
+    {
+      "artists": "contradash",
+      "name": "white lie"
+    },
+    {
+      "artists": "contradash",
+      "name": "favorite color"
+    },
+    {
+      "artists": "contradash",
+      "explicit": true,
+      "name": "Superficial"
+    },
+    {
+      "artists": "contradash",
+      "explicit": true,
+      "name": "get a load of this guy"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1pVa1yITCEfqfAvQaaHvAt"
+}

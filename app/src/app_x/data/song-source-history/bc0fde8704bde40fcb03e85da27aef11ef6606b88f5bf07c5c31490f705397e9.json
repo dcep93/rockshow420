@@ -1,0 +1,27 @@
+{
+  "artist": "Tommy Crane",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "David Binney, Tommy Crane",
+      "name": "Villeray"
+    },
+    {
+      "artists": "David Binney, Tommy Crane",
+      "name": "Spuytin Duyvil"
+    },
+    {
+      "artists": "David Binney, Tommy Crane",
+      "name": "The Plateau"
+    },
+    {
+      "artists": "David Binney, Tommy Crane",
+      "name": "It Ain't Magic"
+    },
+    {
+      "artists": "David Binney, Tommy Crane",
+      "name": "Immuable"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2LjdejTBfxl6fUEjWGjU4y"
+}

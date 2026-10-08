@@ -1,0 +1,27 @@
+{
+  "artist": "Black Pumas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Black Pumas",
+      "name": "Colors"
+    },
+    {
+      "artists": "Black Pumas",
+      "name": "Fire"
+    },
+    {
+      "artists": "Black Pumas",
+      "name": "Black Moon Rising"
+    },
+    {
+      "artists": "Black Pumas",
+      "name": "Touch The Sky"
+    },
+    {
+      "artists": "Black Pumas",
+      "name": "Know You Better"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6eU0jV2eEZ8XTM7EmlguK6"
+}

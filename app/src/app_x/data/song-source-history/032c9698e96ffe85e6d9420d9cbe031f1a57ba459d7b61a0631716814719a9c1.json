@@ -1,0 +1,32 @@
+{
+  "artist": "Zack Fox",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zack Fox",
+      "explicit": true,
+      "name": "fafo"
+    },
+    {
+      "artists": "Zack Fox, Kenny Beats",
+      "explicit": true,
+      "name": "Jesus Is The One (I Got Depression)"
+    },
+    {
+      "artists": "Zack Fox",
+      "explicit": true,
+      "name": "sipping my tea"
+    },
+    {
+      "artists": "Zack Fox",
+      "explicit": true,
+      "name": "Marinate"
+    },
+    {
+      "artists": "Zack Fox",
+      "explicit": true,
+      "name": "dummy"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1UH80jhsYsFztK0anu2FNS"
+}

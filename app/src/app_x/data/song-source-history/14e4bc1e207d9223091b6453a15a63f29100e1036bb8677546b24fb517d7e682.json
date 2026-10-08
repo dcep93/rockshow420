@@ -1,0 +1,27 @@
+{
+  "artist": "Trampled by Turtles",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Trampled by Turtles",
+      "name": "Whiskey"
+    },
+    {
+      "artists": "Trampled by Turtles",
+      "name": "Wait so Long"
+    },
+    {
+      "artists": "Trampled by Turtles",
+      "name": "Codeine"
+    },
+    {
+      "artists": "Trampled by Turtles",
+      "name": "Victory"
+    },
+    {
+      "artists": "Trampled by Turtles",
+      "name": "Ain't No Use in Tryin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3GjVVVcFmUgEJEAAsbGkf4"
+}

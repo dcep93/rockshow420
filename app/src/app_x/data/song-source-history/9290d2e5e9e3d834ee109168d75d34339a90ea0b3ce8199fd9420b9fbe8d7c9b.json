@@ -1,0 +1,28 @@
+{
+  "artist": "Dillom",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dillom",
+      "name": "Cirugía"
+    },
+    {
+      "artists": "Dillom",
+      "name": "Souvenir"
+    },
+    {
+      "artists": "Lali, Dillom",
+      "name": "33"
+    },
+    {
+      "artists": "Dillom",
+      "explicit": true,
+      "name": "Cocodrilo"
+    },
+    {
+      "artists": "Dillom",
+      "name": "Gente Común"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4cJD9t5QBFTUQcd3xfbOb2"
+}

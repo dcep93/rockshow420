@@ -1,0 +1,27 @@
+{
+  "artist": "Steve Miller Band",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Steve Miller Band",
+      "name": "The Joker"
+    },
+    {
+      "artists": "Steve Miller Band",
+      "name": "Abracadabra"
+    },
+    {
+      "artists": "Steve Miller Band",
+      "name": "Rock'n Me"
+    },
+    {
+      "artists": "Steve Miller Band",
+      "name": "Fly Like An Eagle"
+    },
+    {
+      "artists": "Steve Miller Band",
+      "name": "Take The Money And Run"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6QtGlUje9TIkLrgPZrESuk"
+}

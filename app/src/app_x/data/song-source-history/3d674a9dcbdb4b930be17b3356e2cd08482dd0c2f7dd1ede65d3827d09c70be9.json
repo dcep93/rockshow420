@@ -1,0 +1,50 @@
+{
+  "artist": "Runnner",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Runnner",
+      "name": "Ur Name on a Grain of Rice"
+    },
+    {
+      "artists": "Runnner",
+      "name": "Vines to Make It All Worth It"
+    },
+    {
+      "artists": "Runnner",
+      "explicit": true,
+      "name": "Eggshell"
+    },
+    {
+      "artists": "Runnner",
+      "name": "Awash"
+    },
+    {
+      "artists": "Runnner, Sun June",
+      "name": "Colors"
+    },
+    {
+      "artists": "Runnner",
+      "explicit": true,
+      "name": "Frame"
+    },
+    {
+      "artists": "Runnner",
+      "name": "Sublet"
+    },
+    {
+      "artists": "Runnner",
+      "name": "Heliotrope"
+    },
+    {
+      "artists": "Runnner",
+      "explicit": true,
+      "name": "cowboy cologne"
+    },
+    {
+      "artists": "Runnner, Skullcrusher",
+      "name": "Snowplow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7adlRX57hqe6Pc4YHrSGG0"
+}

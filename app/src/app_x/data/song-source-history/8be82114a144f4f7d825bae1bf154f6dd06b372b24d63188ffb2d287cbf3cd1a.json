@@ -1,0 +1,30 @@
+{
+  "artist": "Korn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Korn",
+      "explicit": true,
+      "name": "Freak On a Leash"
+    },
+    {
+      "artists": "Korn",
+      "name": "Blind"
+    },
+    {
+      "artists": "Korn",
+      "name": "Coming Undone"
+    },
+    {
+      "artists": "Korn",
+      "explicit": true,
+      "name": "Falling Away from Me"
+    },
+    {
+      "artists": "Korn",
+      "explicit": true,
+      "name": "Got the Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+}

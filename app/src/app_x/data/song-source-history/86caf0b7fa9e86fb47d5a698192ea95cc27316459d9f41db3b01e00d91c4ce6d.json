@@ -1,0 +1,27 @@
+{
+  "artist": "Last Dinosaurs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Last Dinosaurs",
+      "name": "Zoom"
+    },
+    {
+      "artists": "Last Dinosaurs",
+      "name": "Italo Disco"
+    },
+    {
+      "artists": "Last Dinosaurs",
+      "name": "Sense"
+    },
+    {
+      "artists": "Last Dinosaurs",
+      "name": "Apollo"
+    },
+    {
+      "artists": "Last Dinosaurs",
+      "name": "Eleven"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/677sHrkjhB7IP4YwjzZyc4"
+}

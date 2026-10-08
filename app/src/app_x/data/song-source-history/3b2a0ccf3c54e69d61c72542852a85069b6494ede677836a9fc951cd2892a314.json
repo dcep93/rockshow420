@@ -1,0 +1,27 @@
+{
+  "artist": "Cash Cash",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cash Cash, Bebe Rexha",
+      "name": "Take Me Home (feat. Bebe Rexha)"
+    },
+    {
+      "artists": "Cash Cash, Christina Perri",
+      "name": "Hero (feat. Christina Perri)"
+    },
+    {
+      "artists": "Cash Cash, Bebe Rexha",
+      "name": "Take Me Home (feat. Bebe Rexha) - Acoustic"
+    },
+    {
+      "artists": "Cash Cash, Sofía Reyes",
+      "name": "How to Love (feat. Sofia Reyes)"
+    },
+    {
+      "artists": "P!nk, Cash Cash",
+      "name": "Can We Pretend (feat. Cash Cash)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1LOB7jTeEV14pHai6EXSzF"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Balu Brigada",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Balu Brigada",
+      "name": "Backseat"
+    },
+    {
+      "artists": "Balu Brigada",
+      "name": "So Cold"
+    },
+    {
+      "artists": "Balu Brigada",
+      "name": "Sideways"
+    },
+    {
+      "artists": "Balu Brigada",
+      "name": "Designer"
+    },
+    {
+      "artists": "Balu Brigada",
+      "name": "BedHead"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6O9vGMmTwzihULICPCsNf2"
+}

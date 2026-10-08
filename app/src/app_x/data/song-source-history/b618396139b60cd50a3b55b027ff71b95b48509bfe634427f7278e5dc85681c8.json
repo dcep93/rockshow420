@@ -1,0 +1,28 @@
+{
+  "artist": "Santigold",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Santigold",
+      "name": "Disparate Youth"
+    },
+    {
+      "artists": "Tyler, The Creator, ScHoolboy Q, Santigold",
+      "explicit": true,
+      "name": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)"
+    },
+    {
+      "artists": "Santigold",
+      "name": "Run the Road"
+    },
+    {
+      "artists": "Santigold",
+      "name": "L.E.S. Artistes"
+    },
+    {
+      "artists": "Santigold",
+      "name": "God from the Machine"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Jrxnp0JgqmeUX1veU591p"
+}

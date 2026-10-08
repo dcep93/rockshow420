@@ -1,0 +1,29 @@
+{
+  "artist": "Ruby Waters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ruby Waters",
+      "name": "WET T-SHIRT"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Quantum Physics"
+    },
+    {
+      "artists": "Ruby Waters",
+      "name": "Liquor Run"
+    },
+    {
+      "artists": "Ruby Waters",
+      "name": "GET A GRIP"
+    },
+    {
+      "artists": "Ruby Waters",
+      "explicit": true,
+      "name": "Sweet Sublime"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ybU1P0ufoGH5CMclUKebd"
+}

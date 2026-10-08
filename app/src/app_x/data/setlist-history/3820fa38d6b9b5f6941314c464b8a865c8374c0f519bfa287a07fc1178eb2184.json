@@ -1,0 +1,140 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "B-Stage",
+      "songs": [
+        {
+          "name": "H3@RT$ W3RE M3@NT T0 F7¥"
+        }
+      ]
+    },
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "Survive"
+        },
+        {
+          "name": "I. The Worst Guys"
+        },
+        {
+          "name": "Talk My Shit"
+        },
+        {
+          "name": "Got to Be"
+        },
+        {
+          "name": "In the Night"
+        },
+        {
+          "name": "Yoshinoya"
+        },
+        {
+          "name": "To Be Hunted"
+        },
+        {
+          "name": "Witchy",
+          "notes": "(KAYTRANADA cover)"
+        },
+        {
+          "name": "Steps Beach"
+        },
+        {
+          "name": "I. Crawl"
+        },
+        {
+          "name": "Cruisin'"
+        },
+        {
+          "name": "Feels Like Summer"
+        },
+        {
+          "name": "Human Sacrifice"
+        },
+        {
+          "name": "A Place Where Love Goes"
+        }
+      ]
+    },
+    {
+      "name": "Backstage",
+      "songs": [
+        {
+          "name": "No Excuses",
+          "notes": "(Performed Under Stage)"
+        }
+      ]
+    },
+    {
+      "name": "B-Stage",
+      "songs": [
+        {
+          "name": "Me and Your Mama"
+        },
+        {
+          "name": "Do Ya Like"
+        }
+      ]
+    },
+    {
+      "name": "Main Stage",
+      "songs": [
+        {
+          "name": "This Is America"
+        },
+        {
+          "name": "IV. Sweatpants"
+        },
+        {
+          "name": "Sober"
+        },
+        {
+          "name": "L.E.S."
+        },
+        {
+          "name": "Heartbeat"
+        },
+        {
+          "name": "Bonfire"
+        },
+        {
+          "name": "Freaks and Geeks"
+        },
+        {
+          "name": "One Up",
+          "notes": "(with Steve G. Lover III) (First time since 2017)"
+        },
+        {
+          "name": "Dadvocate",
+          "notes": "(with Shaboozey) (Live debut)"
+        },
+        {
+          "name": "A Bar Song (Tipsy)",
+          "notes": "(Shaboozey cover) (with Shaboozey)"
+        },
+        {
+          "name": "V. 3005"
+        },
+        {
+          "name": "Redbone"
+        },
+        {
+          "name": "Real Love",
+          "notes": "(End Credits)",
+          "tape": true
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Lithonia"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/childish-gambino/2024/barclays-center-brooklyn-ny-6ba91292.html"
+}

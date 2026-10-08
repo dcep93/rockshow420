@@ -1,0 +1,27 @@
+{
+  "artist": "Joanna Sternberg",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Joanna Sternberg",
+      "name": "This is Not Who I Want to Be"
+    },
+    {
+      "artists": "Joanna Sternberg",
+      "name": "I've Got Me"
+    },
+    {
+      "artists": "Joanna Sternberg",
+      "name": "For You"
+    },
+    {
+      "artists": "Joanna Sternberg",
+      "name": "People Are Toys to You"
+    },
+    {
+      "artists": "Joanna Sternberg",
+      "name": "I Will Be with You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qDa6aEDJtMIQMb6IddWaI"
+}

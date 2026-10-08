@@ -1,0 +1,27 @@
+{
+  "artist": "Elton John",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elton John, Dua Lipa, PNAU",
+      "name": "Cold Heart - PNAU Remix"
+    },
+    {
+      "artists": "Elton John",
+      "name": "I'm Still Standing"
+    },
+    {
+      "artists": "Elton John",
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)"
+    },
+    {
+      "artists": "Elton John, Kiki Dee",
+      "name": "Don't Go Breaking My Heart"
+    },
+    {
+      "artists": "Elton John",
+      "name": "Your Song"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3PhoLpVuITZKcymswpck5b"
+}

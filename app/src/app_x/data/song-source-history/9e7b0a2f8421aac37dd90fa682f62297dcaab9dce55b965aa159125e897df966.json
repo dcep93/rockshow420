@@ -1,0 +1,47 @@
+{
+  "artist": "Jack White",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jack White",
+      "name": "Old Son"
+    },
+    {
+      "artists": "Jack White",
+      "name": "White Picket Fence"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Don't Rize Above Your Razin"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Mary's Heart, Martha's Hand"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Picture of Jesus"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Caney Ridge"
+    },
+    {
+      "artists": "Jack White",
+      "name": "If I Didn't Love You"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Soul Brother"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Come Back"
+    },
+    {
+      "artists": "Jack White",
+      "name": "For Today"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3nL2SIFMBNjPJ3kUWvMRiC"
+}

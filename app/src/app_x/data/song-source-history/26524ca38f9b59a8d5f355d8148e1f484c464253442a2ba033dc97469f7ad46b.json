@@ -1,0 +1,29 @@
+{
+  "artist": "Marc Rebillet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marc Rebillet",
+      "explicit": true,
+      "name": "Your New Morning Alarm"
+    },
+    {
+      "artists": "Marc Rebillet",
+      "name": "Reach Out"
+    },
+    {
+      "artists": "Marc Rebillet",
+      "explicit": true,
+      "name": "Late To Work"
+    },
+    {
+      "artists": "The Kount, Marc Rebillet, Moods",
+      "name": "The Way You Make Me Feel"
+    },
+    {
+      "artists": "Marc Rebillet",
+      "name": "I Want to Die"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/72udTJKu1pGovvS9aCYGMI"
+}

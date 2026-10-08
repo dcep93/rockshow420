@@ -1,0 +1,29 @@
+{
+  "artist": "Mom Jeans.",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mom Jeans.",
+      "name": "Scott Pilgrim vs. My GPA"
+    },
+    {
+      "artists": "Mom Jeans.",
+      "explicit": true,
+      "name": "Death Cup"
+    },
+    {
+      "artists": "Mom Jeans.",
+      "name": "*Sobs Quietly*"
+    },
+    {
+      "artists": "Mom Jeans., Brond",
+      "explicit": true,
+      "name": "you can't eat cats kevin"
+    },
+    {
+      "artists": "Mom Jeans.",
+      "name": "Poor Boxer Shorts"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6PsktPFR0UZptKdSqmlS5h"
+}

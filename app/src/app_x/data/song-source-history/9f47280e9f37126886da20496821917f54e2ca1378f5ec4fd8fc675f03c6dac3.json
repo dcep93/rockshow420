@@ -1,0 +1,27 @@
+{
+  "artist": "Moore Kismet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "midwxst, Moore Kismet",
+      "name": "YOUR SOUL"
+    },
+    {
+      "artists": "Moore Kismet, Chuck Sutton",
+      "name": "WHEN I TALK!"
+    },
+    {
+      "artists": "Moore Kismet, Pauline Herr",
+      "name": "You Should Run"
+    },
+    {
+      "artists": "Moore Kismet, Arya",
+      "name": "need2know"
+    },
+    {
+      "artists": "Moore Kismet, WYN",
+      "name": "Rumor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/50uPj85gZxHFuFOlNBnnr5"
+}

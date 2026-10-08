@@ -1,0 +1,32 @@
+{
+  "artist": "Future",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Metro Boomin, Future, Don Toliver",
+      "explicit": true,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)"
+    },
+    {
+      "artists": "Future, Drake, Tems",
+      "explicit": true,
+      "name": "WAIT FOR U (feat. Drake & Tems)"
+    },
+    {
+      "artists": "Future, The Weeknd",
+      "explicit": true,
+      "name": "Low Life (feat. The Weeknd)"
+    },
+    {
+      "artists": "Future",
+      "explicit": true,
+      "name": "Mask Off"
+    },
+    {
+      "artists": "Future",
+      "explicit": true,
+      "name": "Solo"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1RyvyyTE3xzB2ZywiAwp0i"
+}

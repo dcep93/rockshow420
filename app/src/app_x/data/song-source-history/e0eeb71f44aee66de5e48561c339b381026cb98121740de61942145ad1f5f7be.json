@@ -1,0 +1,32 @@
+{
+  "artist": "Jack Harlow",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jung Kook, Jack Harlow",
+      "explicit": true,
+      "name": "3D (feat. Jack Harlow)"
+    },
+    {
+      "artists": "Lil Nas X, Jack Harlow",
+      "explicit": true,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)"
+    },
+    {
+      "artists": "Jack Harlow",
+      "explicit": true,
+      "name": "Lovin On Me"
+    },
+    {
+      "artists": "Jack Harlow",
+      "explicit": true,
+      "name": "First Class"
+    },
+    {
+      "artists": "Jack Harlow",
+      "explicit": true,
+      "name": "WHATS POPPIN"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2LIk90788K0zvyj2JJVwkJ"
+}

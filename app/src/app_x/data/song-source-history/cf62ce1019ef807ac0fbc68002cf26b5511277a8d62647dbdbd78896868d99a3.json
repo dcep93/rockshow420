@@ -1,0 +1,27 @@
+{
+  "artist": "The Backseat Lovers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Backseat Lovers",
+      "name": "Kilby Girl"
+    },
+    {
+      "artists": "The Backseat Lovers",
+      "name": "Maple Syrup"
+    },
+    {
+      "artists": "The Backseat Lovers",
+      "name": "Pool House"
+    },
+    {
+      "artists": "The Backseat Lovers",
+      "name": "Snowbank Blues"
+    },
+    {
+      "artists": "The Backseat Lovers",
+      "name": "Watch Your Mouth"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6p2HnfM955TI1bX34dkLnI"
+}

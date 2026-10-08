@@ -1,0 +1,120 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro: Chant",
+          "tape": true
+        },
+        {
+          "name": "Will of the People"
+        },
+        {
+          "name": "Interlude"
+        },
+        {
+          "name": "Hysteria"
+        },
+        {
+          "name": "[Drill Sergeant]",
+          "tape": true
+        },
+        {
+          "name": "Psycho"
+        },
+        {
+          "name": "Bliss",
+          "notes": "(Extended outro)"
+        },
+        {
+          "name": "Won't Stand Down"
+        },
+        {
+          "name": "Kill or Be Killed",
+          "notes": "(Felsmann + Tiley Reintrepretation)",
+          "tape": true
+        },
+        {
+          "name": "Compliance"
+        },
+        {
+          "name": "Thought Contagion"
+        },
+        {
+          "name": "Verona"
+        },
+        {
+          "name": "Interstitial 'Parkour'",
+          "tape": true
+        },
+        {
+          "name": "Time Is Running Out"
+        },
+        {
+          "name": "The 2nd Law: Isolated System"
+        },
+        {
+          "name": "Resistance"
+        },
+        {
+          "name": "You Make Me Feel Like It's Halloween",
+          "notes": "(Bach's 'Toccata and Fugue in D minor' intro)"
+        },
+        {
+          "name": "Madness",
+          "notes": "(Dedicated to \"the Mother of Musers\" Catherine for her 200th Muse gig)"
+        },
+        {
+          "name": "We Are Fucking Fucked"
+        },
+        {
+          "name": "The Dark Side",
+          "notes": "(Alternate Reality Version; Instrumental)"
+        },
+        {
+          "name": "Supermassive Black Hole"
+        },
+        {
+          "name": "Interstitial 'Driving'",
+          "tape": true
+        },
+        {
+          "name": "Plug In Baby"
+        },
+        {
+          "name": "Behold, the Glove",
+          "notes": "(Matt Bellamy song)"
+        },
+        {
+          "name": "Uprising",
+          "notes": "(Extended outro)"
+        },
+        {
+          "name": "Prelude"
+        },
+        {
+          "name": "Starlight"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Simulation Theory Theme / [JFK]",
+          "notes": "(Matt Bellamy song)",
+          "tape": true
+        },
+        {
+          "name": "Kill or Be Killed"
+        },
+        {
+          "name": "Knights of Cydonia",
+          "notes": "(Ennio Morricone's \"Man With a Harmonica\" Intro)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/muse/2023/madison-square-garden-new-york-ny-5bbbb3d4.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Miley Cyrus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Miley Cyrus",
+      "name": "Flowers"
+    },
+    {
+      "artists": "Miley Cyrus",
+      "name": "Party In The U.S.A."
+    },
+    {
+      "artists": "Miley Cyrus",
+      "name": "Bass Persuades"
+    },
+    {
+      "artists": "Miley Cyrus",
+      "name": "Wrecking Ball"
+    },
+    {
+      "artists": "Miley Cyrus",
+      "name": "We Can't Stop"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5YGY8feqx7naU7z4HrwZM6"
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "100 gecs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Basement Jaxx, 100 gecs",
+      "name": "where's my head at _"
+    },
+    {
+      "artists": "100 gecs, Laura Les, Dylan Brady",
+      "explicit": true,
+      "name": "money machine"
+    },
+    {
+      "artists": "100 gecs",
+      "explicit": true,
+      "name": "Dumbest Girl Alive"
+    },
+    {
+      "artists": "100 gecs",
+      "explicit": true,
+      "name": "Hollywood Baby"
+    },
+    {
+      "artists": "100 gecs, Laura Les, Dylan Brady",
+      "explicit": true,
+      "name": "hand crushed by a mallet"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6PfSUFtkMVoDkx4MQkzOi3"
+}

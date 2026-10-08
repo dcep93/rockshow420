@@ -1,0 +1,29 @@
+{
+  "artist": "Robert Glasper",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Dinner Party, Tarriona 'Tank' Ball, Phoelix",
+      "explicit": true,
+      "name": "From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix)"
+    },
+    {
+      "artists": "Robert Glasper, Erykah Badu",
+      "name": "Afro Blue"
+    },
+    {
+      "artists": "Denzel Curry, Robert Glasper",
+      "explicit": true,
+      "name": "Melt Session #1 [Feat. Robert Glasper]"
+    },
+    {
+      "artists": "Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington, Dinner Party, Phoelix",
+      "name": "Freeze Tag (feat. Phoelix)"
+    },
+    {
+      "artists": "Robert Glasper, Yebba",
+      "name": "Over [Feat. Yebba]"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5cM1PvItlR21WUyBnsdMcn"
+}

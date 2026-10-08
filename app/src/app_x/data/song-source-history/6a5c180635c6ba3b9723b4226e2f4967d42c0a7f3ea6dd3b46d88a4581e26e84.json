@@ -1,0 +1,27 @@
+{
+  "artist": "Goose",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Goose",
+      "name": "Your Direction"
+    },
+    {
+      "artists": "Goose",
+      "name": "So Ready"
+    },
+    {
+      "artists": "Goose",
+      "name": "Hungersite"
+    },
+    {
+      "artists": "Goose",
+      "name": "Madalena"
+    },
+    {
+      "artists": "Goose",
+      "name": "Good Times // End Times"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5tkITWzssc9z9hu7ZEOCXz"
+}

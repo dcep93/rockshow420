@@ -1,0 +1,52 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Cold Wind"
+        },
+        {
+          "name": "Safari Song"
+        },
+        {
+          "name": "Black Smoke Rising"
+        },
+        {
+          "name": "Flower Power"
+        },
+        {
+          "name": "Age of Man"
+        },
+        {
+          "name": "The Music Is You",
+          "notes": "(John Denver cover)"
+        },
+        {
+          "name": "You're the One"
+        },
+        {
+          "name": "Black Flag Exposition"
+        },
+        {
+          "name": "Watching Over"
+        },
+        {
+          "name": "When the Curtain Falls"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Lover, Leaver (Taker, Believer)"
+        },
+        {
+          "name": "Highway Tune"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/greta-van-fleet/2019/red-rocks-amphitheatre-morrison-co-139c2975.html"
+}

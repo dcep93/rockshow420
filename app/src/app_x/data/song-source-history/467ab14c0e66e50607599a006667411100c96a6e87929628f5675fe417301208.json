@@ -1,0 +1,30 @@
+{
+  "artist": "Car Seat Headrest",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Car Seat Headrest",
+      "name": "Sober to Death"
+    },
+    {
+      "artists": "Car Seat Headrest",
+      "explicit": true,
+      "name": "It's Only Sex"
+    },
+    {
+      "artists": "Car Seat Headrest",
+      "name": "Bodys"
+    },
+    {
+      "artists": "Car Seat Headrest",
+      "explicit": true,
+      "name": "Fill In The Blank"
+    },
+    {
+      "artists": "Car Seat Headrest",
+      "explicit": true,
+      "name": "Drunk Drivers/Killer Whales"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5PbpKlxQE0Ktl5lcNABoFf"
+}

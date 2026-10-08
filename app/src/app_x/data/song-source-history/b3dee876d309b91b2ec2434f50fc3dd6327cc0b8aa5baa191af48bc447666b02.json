@@ -1,0 +1,29 @@
+{
+  "artist": "Janelle Monáe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Janelle Monáe",
+      "explicit": true,
+      "name": "Make Me Feel"
+    },
+    {
+      "artists": "ZEDDY WILL, Janelle Monáe, tco.dylann",
+      "name": "Party at the Beach"
+    },
+    {
+      "artists": "Janelle Monáe, Jidenna",
+      "name": "Yoga"
+    },
+    {
+      "artists": "Janelle Monáe",
+      "explicit": true,
+      "name": "I Like That"
+    },
+    {
+      "artists": "Janelle Monáe, Jidenna, tco.dylann",
+      "name": "Yoga (Copacabana) - Jersey Club Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ueGR6SWhUJfvEhqkvMsVs"
+}

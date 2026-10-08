@@ -1,0 +1,86 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Overtime"
+        },
+        {
+          "name": "Open the Gate"
+        },
+        {
+          "name": "God Speed"
+        },
+        {
+          "name": "Heavy Eyes"
+        },
+        {
+          "name": "Madeline",
+          "notes": "(with Gabriella Rose)"
+        },
+        {
+          "name": "Fifth of May"
+        },
+        {
+          "name": "East Side of Sorrow"
+        },
+        {
+          "name": "Purple Gas",
+          "notes": "(Noeline Hofmann cover) (with Noeline Hofmann)"
+        },
+        {
+          "name": "Oklahoma Smokeshow"
+        },
+        {
+          "name": "Dawns"
+        },
+        {
+          "name": "Something in the Orange"
+        },
+        {
+          "name": "Bowery",
+          "notes": "(Zach Bryan feat. Kings of Leon song) (with Caleb Followill)"
+        },
+        {
+          "name": "American Nights"
+        },
+        {
+          "name": "Nine Ball"
+        },
+        {
+          "name": "28"
+        },
+        {
+          "name": "I Remember Everything"
+        },
+        {
+          "name": "Pink Skies"
+        },
+        {
+          "name": "River Washed Hair"
+        },
+        {
+          "name": "Burn, Burn, Burn"
+        },
+        {
+          "name": "Heading South",
+          "notes": "(Performed with audience member)"
+        },
+        {
+          "name": "Quittin' Time"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Revival"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/zach-bryan/2025/golden-gate-park-polo-field-san-francisco-ca-435f37cf.html"
+}

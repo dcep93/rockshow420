@@ -1,0 +1,27 @@
+{
+  "artist": "Miss Monique",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Robbie Williams, Miss Monique",
+      "name": "Beauty In Us"
+    },
+    {
+      "artists": "Miss Monique",
+      "name": "Concorde"
+    },
+    {
+      "artists": "Miss Monique",
+      "name": "Look At You"
+    },
+    {
+      "artists": "Miss Monique, AVIRA, LUNA",
+      "name": "Subterranean"
+    },
+    {
+      "artists": "Miss Monique, Kapuchon, GLZ",
+      "name": "Hot Sauce"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29TpNOsTNYbLb6Xa10H0PR"
+}

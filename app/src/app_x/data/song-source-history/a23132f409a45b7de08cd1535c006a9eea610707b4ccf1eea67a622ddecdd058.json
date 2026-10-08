@@ -1,0 +1,29 @@
+{
+  "artist": "Tai Verdes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tai Verdes",
+      "explicit": true,
+      "name": "AOK"
+    },
+    {
+      "artists": "Tai Verdes",
+      "explicit": true,
+      "name": "Stuck In The Middle"
+    },
+    {
+      "artists": "Tai Verdes",
+      "name": "how deep?"
+    },
+    {
+      "artists": "Tai Verdes",
+      "name": "DRUGS"
+    },
+    {
+      "artists": "Surfaces, Tai Verdes",
+      "name": "Sheesh!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2kCO8LXN1usaOPL3iEE28I"
+}

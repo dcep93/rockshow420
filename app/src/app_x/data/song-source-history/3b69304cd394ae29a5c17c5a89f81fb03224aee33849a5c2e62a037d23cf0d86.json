@@ -1,0 +1,49 @@
+{
+  "artist": "Vundabar",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vundabar",
+      "explicit": true,
+      "name": "Alien Blues"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Oulala"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Darla"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Ash in the Sun"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Smile Boyo"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Chop"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Worn / Wander"
+    },
+    {
+      "artists": "Vundabar",
+      "explicit": true,
+      "name": "Holy Toledo"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "Cotton Kid"
+    },
+    {
+      "artists": "Vundabar",
+      "name": "I Got Cracked"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1W4itxt3vwhmrgLEBuVHJ6"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Barry Can't Swim",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Barry Can't Swim",
+      "name": "Dance Dance Dance!"
+    },
+    {
+      "artists": "Barry Can't Swim, Sammy Virji",
+      "name": "I Could Be Madonna"
+    },
+    {
+      "artists": "Barry Can't Swim",
+      "name": "How It Feels"
+    },
+    {
+      "artists": "Barry Can't Swim",
+      "name": "Return To Bhibo"
+    },
+    {
+      "artists": "Barry Can't Swim",
+      "name": "All My Friends"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0vTVU0KH0CVzijsoKGsTPl"
+}

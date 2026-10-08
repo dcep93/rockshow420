@@ -1,0 +1,27 @@
+{
+  "artist": "Hot Flash Heat Wave",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hot Flash Heat Wave",
+      "name": "Gutter Girl"
+    },
+    {
+      "artists": "Hot Flash Heat Wave",
+      "name": "Hesitation"
+    },
+    {
+      "artists": "Hot Flash Heat Wave",
+      "name": "Sky So Blue"
+    },
+    {
+      "artists": "Hot Flash Heat Wave",
+      "name": "Trust"
+    },
+    {
+      "artists": "Hot Flash Heat Wave",
+      "name": "Bathroom Song"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/33LSz2nhC8pCPTb3pd5add"
+}

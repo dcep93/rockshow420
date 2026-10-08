@@ -1,0 +1,52 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Double Vision"
+        },
+        {
+          "name": "Head Games"
+        },
+        {
+          "name": "Cold as Ice"
+        },
+        {
+          "name": "Waiting for a Girl Like You"
+        },
+        {
+          "name": "Blue Morning, Blue Day"
+        },
+        {
+          "name": "Dirty White Boy"
+        },
+        {
+          "name": "Feels Like the First Time"
+        },
+        {
+          "name": "Urgent"
+        },
+        {
+          "name": "Starrider"
+        },
+        {
+          "name": "Juke Box Hero"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "I Want to Know What Love Is"
+        },
+        {
+          "name": "Hot Blooded"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/foreigner/2017/shoreline-amphitheatre-mountain-view-ca-3be2f868.html"
+}

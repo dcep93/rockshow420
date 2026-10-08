@@ -1,0 +1,27 @@
+{
+  "artist": "Born Ruffians",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Born Ruffians",
+      "name": "Needle"
+    },
+    {
+      "artists": "Born Ruffians",
+      "name": "Hummingbird"
+    },
+    {
+      "artists": "Born Ruffians",
+      "name": "Ocean's Deep"
+    },
+    {
+      "artists": "Born Ruffians",
+      "name": "Little Garçon"
+    },
+    {
+      "artists": "Born Ruffians",
+      "name": "Foxes Mate For Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wGrLSB3v7jkV3fSsjYwtv"
+}

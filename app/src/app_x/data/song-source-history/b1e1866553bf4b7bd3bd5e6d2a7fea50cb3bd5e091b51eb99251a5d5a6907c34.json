@@ -1,0 +1,28 @@
+{
+  "artist": "Fred again..",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LATIN MAFIA, Fred again..",
+      "name": "Te Estoy Correteando"
+    },
+    {
+      "artists": "Fred again.., Skepta, PlaqueBoyMax",
+      "explicit": true,
+      "name": "Victory Lap"
+    },
+    {
+      "artists": "CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.., Etienne de Crécy , Grand Theft Auto VI",
+      "name": "Sexy Magic (from GTAVI: The Album)"
+    },
+    {
+      "artists": "LATIN MAFIA, Fred again..",
+      "name": "Alvafro"
+    },
+    {
+      "artists": "Fred again.., The Blessed Madonna",
+      "name": "Marea (we’ve lost dancing)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4oLeXFyACqeem2VImYeBFe"
+}

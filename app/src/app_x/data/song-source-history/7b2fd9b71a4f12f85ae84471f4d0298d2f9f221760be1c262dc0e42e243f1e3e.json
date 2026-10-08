@@ -1,0 +1,27 @@
+{
+  "artist": "Mavis Staples",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mavis Staples, Joan Osborne, Keb' Mo', Buddy Miller, Patty Griffin, Emmylou Harris, Michael McDonald, Glen Hansard, Aaron Neville, Ryan Bingham",
+      "name": "The Weight - Live"
+    },
+    {
+      "artists": "Mavis Staples",
+      "name": "You Are Not Alone"
+    },
+    {
+      "artists": "Emmylou Harris, Buddy Miller, Mavis Staples, Shawn Colvin, The Milk Carton Kids, Chris Hillman, Herb Pedersen, Holly Williams, Chris Coleman, Trampled by Turtles",
+      "name": "Boulder To Birmingham - Live"
+    },
+    {
+      "artists": "Van Morrison, Mavis Staples",
+      "name": "If I Ever Needed Someone"
+    },
+    {
+      "artists": "Mavis Staples, Ben Harper",
+      "name": "We Get By"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0cTSCsVx04SSht9V6cpKN0"
+}

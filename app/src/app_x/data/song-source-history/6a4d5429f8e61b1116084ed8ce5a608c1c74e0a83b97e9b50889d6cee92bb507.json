@@ -1,0 +1,27 @@
+{
+  "artist": "The Lumineers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Lumineers",
+      "name": "Ho Hey"
+    },
+    {
+      "artists": "The Lumineers",
+      "name": "Ophelia"
+    },
+    {
+      "artists": "The Lumineers",
+      "name": "Stubborn Love"
+    },
+    {
+      "artists": "The Lumineers",
+      "name": "Sleep On The Floor"
+    },
+    {
+      "artists": "The Lumineers",
+      "name": "Cleopatra"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/16oZKvXb6WkQlVAjwo2Wbg"
+}

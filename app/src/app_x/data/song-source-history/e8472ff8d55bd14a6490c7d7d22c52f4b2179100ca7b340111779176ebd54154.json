@@ -1,0 +1,28 @@
+{
+  "artist": "Las Petunias",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Las Petunias",
+      "explicit": true,
+      "name": "Marcelo Criminal"
+    },
+    {
+      "artists": "Las Petunias",
+      "name": "B0mb4"
+    },
+    {
+      "artists": "Las Petunias",
+      "name": "patito"
+    },
+    {
+      "artists": "Las Petunias",
+      "name": "No necesito estar sola (ya lo he estado toda mi vida)"
+    },
+    {
+      "artists": "Las Petunias",
+      "name": "Poeta en NY"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ahvDss0AH60cd2AWqoU1r"
+}

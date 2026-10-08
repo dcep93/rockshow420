@@ -1,0 +1,48 @@
+{
+  "artist": "Olivia Dean",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Olivia Dean",
+      "name": "Man I Need"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "So Easy (To Fall In Love)"
+    },
+    {
+      "artists": "Sam Fender, Olivia Dean",
+      "explicit": true,
+      "name": "Rein Me In (with Olivia Dean)"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Nice To Each Other"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "A Couple Minutes"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Dive"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "The Hardest Part"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Baby Steps"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Ok Love You Bye"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Let Alone The One You Love"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/00x1fYSGhdqScXBRpSj3DW"
+}

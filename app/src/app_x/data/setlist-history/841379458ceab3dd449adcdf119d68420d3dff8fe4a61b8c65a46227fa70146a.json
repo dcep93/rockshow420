@@ -1,0 +1,60 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Impossible Knots"
+        },
+        {
+          "name": "Black Swan"
+        },
+        {
+          "name": "Harrowdown Hill"
+        },
+        {
+          "name": "The Clock"
+        },
+        {
+          "name": "(Ladies & Gentlemen, Thank You for Coming)"
+        },
+        {
+          "name": "Has Ended"
+        },
+        {
+          "name": "Amok",
+          "notes": "(Atoms for Peace song)"
+        },
+        {
+          "name": "Not the News"
+        },
+        {
+          "name": "Truth Ray"
+        },
+        {
+          "name": "Traffic"
+        },
+        {
+          "name": "Twist"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Dawn Chorus"
+        },
+        {
+          "name": "Atoms for Peace"
+        },
+        {
+          "name": "Default",
+          "notes": "(Atoms for Peace song)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/thom-yorke/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd6f.html"
+}

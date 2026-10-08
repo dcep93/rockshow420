@@ -1,0 +1,27 @@
+{
+  "artist": "Chelsea Wolfe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chelsea Wolfe",
+      "name": "Death Is Not The End"
+    },
+    {
+      "artists": "Chelsea Wolfe",
+      "name": "Seethe"
+    },
+    {
+      "artists": "Chelsea Wolfe",
+      "name": "Cold"
+    },
+    {
+      "artists": "Chelsea Wolfe",
+      "name": "The Dark"
+    },
+    {
+      "artists": "Chelsea Wolfe",
+      "name": "Swallower"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ZK2nrW8aCTg8Bid7I7N10"
+}

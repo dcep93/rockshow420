@@ -1,0 +1,30 @@
+{
+  "artist": "Pardyalone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Henny Hermes, Pardyalone",
+      "explicit": true,
+      "name": "ANOTHER DRUG"
+    },
+    {
+      "artists": "Pardyalone",
+      "name": "Not a Home"
+    },
+    {
+      "artists": "Pardyalone",
+      "explicit": true,
+      "name": "She Likes My Tattoos"
+    },
+    {
+      "artists": "Pardyalone",
+      "explicit": true,
+      "name": "Sincerely, Fuck You"
+    },
+    {
+      "artists": "Vwillz, Pardyalone",
+      "name": "NOT AGAIN"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6M4q5QWjmpjuPAi7LVFEFG"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Spafford",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Spafford",
+      "name": "Sweet (Live)"
+    },
+    {
+      "artists": "Spafford",
+      "name": "Electric Taco Stand"
+    },
+    {
+      "artists": "Spafford",
+      "name": "Leave the Light On"
+    },
+    {
+      "artists": "Spafford",
+      "name": "The Reprise (Live)"
+    },
+    {
+      "artists": "Spafford",
+      "name": "Comfortable"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7fA0IDinGo27lmOeGy6oGV"
+}

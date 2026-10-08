@@ -1,0 +1,28 @@
+{
+  "artist": "Bea Miller",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bea Miller, Arcane, League of Legends",
+      "name": "Playground - from the series Arcane League of Legends"
+    },
+    {
+      "artists": "Bea Miller",
+      "name": "like that"
+    },
+    {
+      "artists": "NOTD, Bea Miller",
+      "name": "I Wanna Know (feat. Bea Miller)"
+    },
+    {
+      "artists": "Bea Miller",
+      "explicit": true,
+      "name": "feel something"
+    },
+    {
+      "artists": "Boyce Avenue, Bea Miller",
+      "name": "We Can't Stop"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1o2NpYGqHiCq7FoiYdyd1x"
+}

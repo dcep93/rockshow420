@@ -1,0 +1,31 @@
+{
+  "artist": "Polo G",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Polo G",
+      "explicit": true,
+      "name": "Martin & Gina"
+    },
+    {
+      "artists": "Polo G",
+      "explicit": true,
+      "name": "RAPSTAR"
+    },
+    {
+      "artists": "Polo G, Lil Tjay",
+      "explicit": true,
+      "name": "Pop Out (feat. Lil Tjay)"
+    },
+    {
+      "artists": "Polo G, Stunna 4 Vegas, NLE Choppa, Mike WiLL Made-It",
+      "explicit": true,
+      "name": "Go Stupid"
+    },
+    {
+      "artists": "NEIKED, Mae Muller, Polo G",
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6AgTAQt8XS6jRWi4sX7w49"
+}

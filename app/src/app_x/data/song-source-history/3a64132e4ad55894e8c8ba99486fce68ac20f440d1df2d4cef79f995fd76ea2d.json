@@ -1,0 +1,28 @@
+{
+  "artist": "Evie Irie",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Evie Irie",
+      "name": "Hello World (From \"Back to the Outback\" Soundtrack)"
+    },
+    {
+      "artists": "Tim Minchin, Evie Irie",
+      "name": "Beautiful Ugly (From \"Back to the Outback\" Soundtrack) (feat. Evie Irie)"
+    },
+    {
+      "artists": "Evie Irie",
+      "name": "Better Than This"
+    },
+    {
+      "artists": "Evie Irie",
+      "name": "Rebel"
+    },
+    {
+      "artists": "Evie Irie",
+      "explicit": true,
+      "name": "The Optimist"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ReivzVeWl6GawKNyVTLmK"
+}

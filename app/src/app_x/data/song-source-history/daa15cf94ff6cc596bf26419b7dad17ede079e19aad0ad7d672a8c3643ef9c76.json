@@ -1,0 +1,28 @@
+{
+  "artist": "SNBRN",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SNBRN",
+      "name": "Jungle Kitty"
+    },
+    {
+      "artists": "SNBRN, Autograf, KOLE",
+      "name": "Move All Night (feat. Kole)"
+    },
+    {
+      "artists": "SNBRN, Nate Dogg",
+      "explicit": true,
+      "name": "Gangsta Walk (feat. Nate Dogg)"
+    },
+    {
+      "artists": "SNBRN, Kerli",
+      "name": "Raindrops (feat. Kerli) - Radio Edit"
+    },
+    {
+      "artists": "SNBRN, Kaleena Zanders, Chris Lake, Matroda",
+      "name": "California - Chris Lake & Matroda Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2zJ8chFLjiBHRNchfevMRI"
+}

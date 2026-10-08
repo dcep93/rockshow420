@@ -1,0 +1,28 @@
+{
+  "artist": "Molly Moore",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Molly Moore",
+      "name": "i love you but i don't like you"
+    },
+    {
+      "artists": "Haywyre, Molly Moore",
+      "name": "Use My Love"
+    },
+    {
+      "artists": "Molly Moore, NoMBe",
+      "name": "Marco Polo"
+    },
+    {
+      "artists": "inverness, Brandyn Burnette, Molly Moore",
+      "name": "Good Feeling"
+    },
+    {
+      "artists": "Molly Moore, Maty Noyes",
+      "explicit": true,
+      "name": "Handsomer"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0mEUqATSCsYZUTyL09kB8g"
+}

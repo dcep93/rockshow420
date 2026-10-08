@@ -1,0 +1,27 @@
+{
+  "artist": "Sandy's",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sandy's",
+      "name": "I and I"
+    },
+    {
+      "artists": "Poolside, Panama, Sandy's",
+      "name": "Can't Stop Your Lovin' – Sandy's Remix"
+    },
+    {
+      "artists": "Sandy's",
+      "name": "Consolidated Identity"
+    },
+    {
+      "artists": "Sandy's",
+      "name": "Meadowed"
+    },
+    {
+      "artists": "Sandy's",
+      "name": "Blue Algae"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/25uk210UmVGsLFuHXu4Tk4"
+}

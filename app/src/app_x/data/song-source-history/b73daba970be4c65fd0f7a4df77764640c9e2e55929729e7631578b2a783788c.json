@@ -1,0 +1,27 @@
+{
+  "artist": "d4vd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "d4vd",
+      "name": "Here With Me"
+    },
+    {
+      "artists": "d4vd",
+      "name": "Romantic Homicide"
+    },
+    {
+      "artists": "d4vd",
+      "name": "Feel It"
+    },
+    {
+      "artists": "d4vd",
+      "name": "Sleep Well"
+    },
+    {
+      "artists": "d4vd",
+      "name": "You and I"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5y8tKLUfMvliMe8IKamR32"
+}

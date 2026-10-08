@@ -1,0 +1,27 @@
+{
+  "artist": "Benson Boone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Benson Boone",
+      "name": "Beautiful Things"
+    },
+    {
+      "artists": "Benson Boone",
+      "name": "In The Stars"
+    },
+    {
+      "artists": "Benson Boone",
+      "name": "Mystical Magical"
+    },
+    {
+      "artists": "Benson Boone",
+      "name": "Slow It Down"
+    },
+    {
+      "artists": "Benson Boone",
+      "name": "Sorry I'm Here For Someone Else"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/22wbnEMDvgVIAGdFeek6ET"
+}

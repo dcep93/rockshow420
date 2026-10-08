@@ -1,0 +1,27 @@
+{
+  "artist": "Marlon Funaki",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marlon Funaki",
+      "name": "when sunday comes around"
+    },
+    {
+      "artists": "Marlon Funaki",
+      "name": "Metaphor"
+    },
+    {
+      "artists": "Marlon Funaki",
+      "name": "Red Hearts"
+    },
+    {
+      "artists": "Marlon Funaki",
+      "name": "Under Fire"
+    },
+    {
+      "artists": "Marlon Funaki",
+      "name": "City"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3BcSXip92N0HwJRA9sVmP6"
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "BIA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BIA",
+      "explicit": true,
+      "name": "WE ON GO"
+    },
+    {
+      "artists": "BIA, A$AP Ferg, Denzel Curry",
+      "explicit": true,
+      "name": "WE ON GO II (feat. Denzel Curry)"
+    },
+    {
+      "artists": "BE:FIRST, BIA",
+      "name": "WATCH ME feat. BIA"
+    },
+    {
+      "artists": "Fred again.., BIA",
+      "explicit": true,
+      "name": "..FEISTY"
+    },
+    {
+      "artists": "Luciano, Aitch, BIA",
+      "explicit": true,
+      "name": "Bamba (feat. Aitch & BIA)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6veh5zbFpm31XsPdjBgPER"
+}

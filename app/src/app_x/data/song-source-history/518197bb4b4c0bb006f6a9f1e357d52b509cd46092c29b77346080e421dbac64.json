@@ -1,0 +1,27 @@
+{
+  "artist": "Mouth Water",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mouth Water",
+      "name": "Gloom Room"
+    },
+    {
+      "artists": "Mouth Water, Rhye",
+      "name": "For So Long - Rhye Remix"
+    },
+    {
+      "artists": "Mouth Water",
+      "name": "NO!"
+    },
+    {
+      "artists": "Mouth Water",
+      "name": "Blackout"
+    },
+    {
+      "artists": "Mouth Water",
+      "name": "House"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/547EWMRMsHvxWdvz3zSxxq"
+}

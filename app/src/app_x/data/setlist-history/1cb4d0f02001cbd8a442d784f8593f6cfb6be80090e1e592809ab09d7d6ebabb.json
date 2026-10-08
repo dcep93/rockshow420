@@ -1,0 +1,100 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro",
+          "tape": true
+        },
+        {
+          "name": "It's So Easy"
+        },
+        {
+          "name": "Mr. Brownstone"
+        },
+        {
+          "name": "Chinese Democracy"
+        },
+        {
+          "name": "Slither",
+          "notes": "(Velvet Revolver cover)"
+        },
+        {
+          "name": "Double Talkin' Jive"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "notes": "(Link Wray's \"Rumble\" intro)"
+        },
+        {
+          "name": "Better"
+        },
+        {
+          "name": "Estranged"
+        },
+        {
+          "name": "Live and Let Die",
+          "notes": "(Wings cover)"
+        },
+        {
+          "name": "You're Crazy",
+          "notes": "(Slow version)"
+        },
+        {
+          "name": "Rocket Queen"
+        },
+        {
+          "name": "You Could Be Mine"
+        },
+        {
+          "name": "I Wanna Be Your Dog",
+          "notes": "(The Stooges cover) (Duff on lead vocals)"
+        },
+        {
+          "name": "Absurd"
+        },
+        {
+          "name": "Civil War",
+          "notes": "(with band introductions)"
+        },
+        {
+          "name": "Slash Guitar Solo",
+          "notes": "(Muddy Waters' \"Mannish Boy\" Jam)"
+        },
+        {
+          "name": "Sweet Child o' Mine"
+        },
+        {
+          "name": "November Rain"
+        },
+        {
+          "name": "Wichita Lineman",
+          "notes": "(Jimmy Webb cover)"
+        },
+        {
+          "name": "Knockin' on Heaven's Door",
+          "notes": "(Bob Dylan cover)"
+        },
+        {
+          "name": "Nightrain"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Patience",
+          "notes": "(with P!nk)"
+        },
+        {
+          "name": "Paradise City",
+          "notes": "(with Dave Grohl) (sound cut midsong for 10pm festival curfew, band continues with no amplification as crowd sings)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/guns-n-roses/2021/napa-valley-expo-napa-ca-usa-438cc74f.html"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Blood of Aza",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SISSY MISFIT, Blood of Aza, HEAVENS",
+      "name": "BREAK THAT"
+    },
+    {
+      "artists": "SISSY MISFIT, Blood of Aza, HEAVENS",
+      "explicit": true,
+      "name": "FINAL GIRL"
+    },
+    {
+      "artists": "Ö, Nömak, Blood of Aza",
+      "name": "Secret Garden (Blood of Aza Remix)"
+    },
+    {
+      "artists": "SISSY MISFIT, Blood of Aza, HEAVENS",
+      "name": "CHOKE"
+    },
+    {
+      "artists": "Blood of Aza",
+      "name": "Cervix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5gSUOooHkVLQUw6m8HpzA8"
+}

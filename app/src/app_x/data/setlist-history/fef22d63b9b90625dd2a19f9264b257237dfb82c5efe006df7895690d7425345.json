@@ -1,0 +1,64 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "so sad so sexy"
+        },
+        {
+          "name": "No Rest for the Wicked"
+        },
+        {
+          "name": "Just Like a Dream"
+        },
+        {
+          "name": "jaguars in the air"
+        },
+        {
+          "name": "two nights"
+        },
+        {
+          "name": "hard rain"
+        },
+        {
+          "name": "Little Bit"
+        },
+        {
+          "name": "bad woman"
+        },
+        {
+          "name": "I Never Learn"
+        },
+        {
+          "name": "deep end"
+        },
+        {
+          "name": "sex money feelings die"
+        },
+        {
+          "name": "better alone"
+        },
+        {
+          "name": "Gunshot"
+        },
+        {
+          "name": "I Follow Rivers"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "last piece"
+        },
+        {
+          "name": "U Got It Bad",
+          "notes": "(Usher cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/lykke-li/2018/the-fillmore-san-francisco-ca-3396e089.html"
+}

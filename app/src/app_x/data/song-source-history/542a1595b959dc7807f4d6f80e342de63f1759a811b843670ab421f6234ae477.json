@@ -1,0 +1,31 @@
+{
+  "artist": "Kidd Kenn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Delli Boe, ppcocaine, Kidd Kenn, Stunna Girl",
+      "explicit": true,
+      "name": "IWSS - Remix"
+    },
+    {
+      "artists": "Kidd Kenn",
+      "explicit": true,
+      "name": "Vroom Vroom"
+    },
+    {
+      "artists": "Kidd Kenn",
+      "explicit": true,
+      "name": "Good Day"
+    },
+    {
+      "artists": "Kidd Kenn",
+      "name": "Get Lit"
+    },
+    {
+      "artists": "Kidd Kenn, Baby Tate",
+      "explicit": true,
+      "name": "Want Not A Need (feat. Baby Tate)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5dkb0qOeUicNVLZKRGG92m"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Lindsay Lou",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lindsay Lou",
+      "name": "Southland"
+    },
+    {
+      "artists": "Lindsay Lou, Billy Strings",
+      "name": "Nothing's Working"
+    },
+    {
+      "artists": "Clay Street Unit, Lindsay Lou",
+      "name": "Choctaw County"
+    },
+    {
+      "artists": "The Brothers Comatose, Lindsay Lou",
+      "name": "Home Again"
+    },
+    {
+      "artists": "Lindsay Lou, Sarah Jarosz, Brittany Haas, Sierra Hull, Allison de Groot, Emma Rose",
+      "name": "I've Endured"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6yULqqTzvfwsEonNzu7iJQ"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Wax Motif",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wax Motif",
+      "name": "WET"
+    },
+    {
+      "artists": "Wax Motif",
+      "name": "Gimme That Money"
+    },
+    {
+      "artists": "Wax Motif, Juos, Sasha Go Hard",
+      "explicit": true,
+      "name": "On Ya Neck (feat. SashaGoHard)"
+    },
+    {
+      "artists": "Wax Motif",
+      "name": "Bite Down"
+    },
+    {
+      "artists": "Wax Motif, BRKLYN",
+      "name": "Issa Vibe"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7zm3aSdmGiOkTt0aZFSO8R"
+}

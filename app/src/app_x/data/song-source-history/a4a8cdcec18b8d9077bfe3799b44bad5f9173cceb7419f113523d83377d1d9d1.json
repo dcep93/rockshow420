@@ -1,0 +1,27 @@
+{
+  "artist": "MAX",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MAX, Andy Grammer",
+      "name": "The Thing I Love"
+    },
+    {
+      "artists": "MAX, keshi",
+      "name": "IT'S YOU (feat. keshi)"
+    },
+    {
+      "artists": "MAX, HUH YUNJIN",
+      "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)"
+    },
+    {
+      "artists": "Agust D, MAX",
+      "name": "Burn It (feat. MAX)"
+    },
+    {
+      "artists": "MAX",
+      "name": "Lights Down Low"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1bqxdqvUtPWZri43cKHac8"
+}

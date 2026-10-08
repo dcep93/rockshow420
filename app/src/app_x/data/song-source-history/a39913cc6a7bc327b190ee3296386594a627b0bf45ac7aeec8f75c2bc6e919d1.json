@@ -1,0 +1,27 @@
+{
+  "artist": "The Hails",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Hails",
+      "name": "Stay"
+    },
+    {
+      "artists": "The Hails",
+      "name": "Younger"
+    },
+    {
+      "artists": "The Hails",
+      "name": "Fiona"
+    },
+    {
+      "artists": "The Hails",
+      "name": "Breathless"
+    },
+    {
+      "artists": "The Hails",
+      "name": "Story of You and Me"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3g65HWtAf8uyVmpR4sRbrT"
+}

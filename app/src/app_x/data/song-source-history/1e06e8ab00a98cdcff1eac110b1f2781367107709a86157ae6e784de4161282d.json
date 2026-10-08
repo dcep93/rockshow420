@@ -1,0 +1,27 @@
+{
+  "artist": "Mimi Webb",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mimi Webb",
+      "name": "Good Without"
+    },
+    {
+      "artists": "Mimi Webb",
+      "name": "House On Fire"
+    },
+    {
+      "artists": "Mimi Webb",
+      "name": "Dumb Love"
+    },
+    {
+      "artists": "Mimi Webb",
+      "name": "Red Flags"
+    },
+    {
+      "artists": "Mimi Webb",
+      "name": "Ghost of You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3GxKJzJK4LpsYGXQrw77wz"
+}

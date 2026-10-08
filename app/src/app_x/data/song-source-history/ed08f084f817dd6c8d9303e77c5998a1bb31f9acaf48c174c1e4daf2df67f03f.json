@@ -1,0 +1,27 @@
+{
+  "artist": "VNSSA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Walker & Royce, VNSSA",
+      "name": "I Don't Remember"
+    },
+    {
+      "artists": "VNSSA, Walker & Royce",
+      "name": "Activate"
+    },
+    {
+      "artists": "VNSSA",
+      "name": "One Pill"
+    },
+    {
+      "artists": "VNSSA, Trixie Mattel, Lushious Massacr",
+      "name": "Let's Have A Kiki"
+    },
+    {
+      "artists": "Walker & Royce, VNSSA",
+      "name": "Rave Grave"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+}

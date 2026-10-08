@@ -1,0 +1,110 @@
+{
+  "sets": [
+    {
+      "name": "Seven Psalms",
+      "songs": [
+        {
+          "name": "The Lord"
+        },
+        {
+          "name": "Love Is Like a Braid"
+        },
+        {
+          "name": "My Professional Opinion"
+        },
+        {
+          "name": "Your Forgiveness"
+        },
+        {
+          "name": "Trail of Volcanoes"
+        },
+        {
+          "name": "The Sacred Harp",
+          "notes": "(with Edie Brickell)"
+        },
+        {
+          "name": "Wait",
+          "notes": "(with Edie Brickell)"
+        }
+      ]
+    },
+    {
+      "name": "Main Set",
+      "songs": [
+        {
+          "name": "Graceland"
+        },
+        {
+          "name": "Slip Slidin' Away"
+        },
+        {
+          "name": "Homeward Bound",
+          "notes": "(Simon & Garfunkel song)"
+        },
+        {
+          "name": "Train in the Distance"
+        },
+        {
+          "name": "The Late Great Johnny Ace"
+        },
+        {
+          "name": "Father and Daughter"
+        },
+        {
+          "name": "Under African Skies",
+          "notes": "(with Edie Brickell)"
+        },
+        {
+          "name": "Rene and Georgette Magritte With Their Dog After the War"
+        },
+        {
+          "name": "Rewrite"
+        },
+        {
+          "name": "Spirit Voices"
+        },
+        {
+          "name": "The Cool, Cool River"
+        },
+        {
+          "name": "Diamonds on the Soles of Her Shoes"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Me and Julio Down by the Schoolyard",
+          "notes": "(with Edie Brickell)"
+        },
+        {
+          "name": "50 Ways to Leave Your Lover"
+        },
+        {
+          "name": "Something So Right"
+        },
+        {
+          "name": "The Boxer",
+          "notes": "(Simon & Garfunkel song)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "America",
+          "notes": "(Simon & Garfunkel song)"
+        },
+        {
+          "name": "The Sound of Silence",
+          "notes": "(Simon & Garfunkel song)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/paul-simon/2026/forest-hills-stadium-queens-ny-734812e9.html"
+}

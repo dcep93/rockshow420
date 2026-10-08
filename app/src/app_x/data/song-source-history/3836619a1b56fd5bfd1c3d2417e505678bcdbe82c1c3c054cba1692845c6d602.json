@@ -1,0 +1,32 @@
+{
+  "artist": "Lil Wayne",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lil Wayne, Drake, Future",
+      "explicit": true,
+      "name": "Love Me"
+    },
+    {
+      "artists": "Lil Wayne, Drake",
+      "explicit": true,
+      "name": "She Will"
+    },
+    {
+      "artists": "Lil Wayne, Static Major",
+      "explicit": true,
+      "name": "Lollipop"
+    },
+    {
+      "artists": "Lil Wayne",
+      "explicit": true,
+      "name": "A Milli"
+    },
+    {
+      "artists": "Drake, Kanye West, Lil Wayne, Eminem",
+      "explicit": true,
+      "name": "Forever"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/55Aa2cqylxrFIXC767Z865"
+}

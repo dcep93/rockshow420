@@ -1,0 +1,27 @@
+{
+  "artist": "Sam Moran",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sam Moran, Qai Qai",
+      "name": "Biddy Bom - Anxious"
+    },
+    {
+      "artists": "Sam Moran",
+      "name": "Sunny Day - Hope"
+    },
+    {
+      "artists": "Sam Moran, Guy Sebastian",
+      "name": "Pool Party (feat. Guy Sebastian)"
+    },
+    {
+      "artists": "Sam Moran",
+      "name": "Sunshine On Me - Joy"
+    },
+    {
+      "artists": "Sam Moran",
+      "name": "Brusha, Brusha"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5hOJDPDGtR4hTrIyhO1OJq"
+}

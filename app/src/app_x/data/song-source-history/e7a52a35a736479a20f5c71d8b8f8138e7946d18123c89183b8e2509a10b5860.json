@@ -1,0 +1,27 @@
+{
+  "artist": "Lomelda",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lomelda",
+      "name": "Hannah Sun"
+    },
+    {
+      "artists": "Lomelda",
+      "name": "Interstate Vision"
+    },
+    {
+      "artists": "Lomelda",
+      "name": "Nervous Driver"
+    },
+    {
+      "artists": "Lomelda",
+      "name": "Polyurethane"
+    },
+    {
+      "artists": "Lomelda",
+      "name": "It's Infinite"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6zcDLZ62JsbVM1nLrQMzi4"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Marshmello",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marshmello, Bastille",
+      "name": "Happier"
+    },
+    {
+      "artists": "Marshmello, Khalid",
+      "name": "Silence"
+    },
+    {
+      "artists": "Marshmello, Manuel Turizo",
+      "name": "El Merengue"
+    },
+    {
+      "artists": "Marshmello, Jonas Brothers",
+      "name": "Leave Before You Love Me (with Jonas Brothers)"
+    },
+    {
+      "artists": "Marshmello, Anne-Marie",
+      "explicit": true,
+      "name": "FRIENDS"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/64KEffDW9EtZ1y2vBYgq8T"
+}

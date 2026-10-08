@@ -1,0 +1,27 @@
+{
+  "artist": "Radkey",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Radkey",
+      "name": "Dark Black Makeup"
+    },
+    {
+      "artists": "Radkey",
+      "name": "Victory"
+    },
+    {
+      "artists": "Radkey",
+      "name": "Cat & Mouse"
+    },
+    {
+      "artists": "Radkey",
+      "name": "Romance Dawn"
+    },
+    {
+      "artists": "Radkey",
+      "name": "Seize"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1egsOeSvcQyacni1rL6c4C"
+}

@@ -1,0 +1,47 @@
+{
+  "artist": "Charlie Puth",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Charlie Puth, Selena Gomez",
+      "name": "We Don't Talk Anymore (feat. Selena Gomez)"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "Attention"
+    },
+    {
+      "artists": "Wiz Khalifa, Charlie Puth",
+      "name": "See You Again (feat. Charlie Puth)"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "One Call Away"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "How Long"
+    },
+    {
+      "artists": "Charlie Puth, Jung Kook, BTS",
+      "name": "Left and Right (Feat. Jung Kook of BTS)"
+    },
+    {
+      "artists": "Charlie Puth, Meghan Trainor",
+      "name": "Marvin Gaye (feat. Meghan Trainor)"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "Cheating on You"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "Light Switch"
+    },
+    {
+      "artists": "Charlie Puth",
+      "name": "Dangerously"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6VuMaDnrHyPL1p4EHjYLi7"
+}

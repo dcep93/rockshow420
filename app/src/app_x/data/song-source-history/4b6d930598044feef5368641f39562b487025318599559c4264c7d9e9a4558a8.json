@@ -1,0 +1,32 @@
+{
+  "artist": "Tinashe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Disco Lines, Tinashe",
+      "explicit": true,
+      "name": "No Broke Boys"
+    },
+    {
+      "artists": "Tinashe, ScHoolboy Q",
+      "explicit": true,
+      "name": "2 On (feat. ScHoolboy Q)"
+    },
+    {
+      "artists": "Tinashe",
+      "explicit": true,
+      "name": "Melatonin"
+    },
+    {
+      "artists": "Tinashe",
+      "explicit": true,
+      "name": "Crash Out"
+    },
+    {
+      "artists": "Tinashe",
+      "explicit": true,
+      "name": "Nobody Wanna Dance Anymore"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0NIIxcxNHmOoyBx03SfTCD"
+}

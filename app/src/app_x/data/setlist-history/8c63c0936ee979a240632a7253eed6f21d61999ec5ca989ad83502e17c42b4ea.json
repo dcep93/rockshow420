@@ -1,0 +1,73 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Good Witch",
+          "notes": "(Shortened)"
+        },
+        {
+          "name": "Coming of Age"
+        },
+        {
+          "name": "Body Better"
+        },
+        {
+          "name": "Love Him I Don't"
+        },
+        {
+          "name": "Wendy"
+        },
+        {
+          "name": "You're Just a Boy (and I'm Kinda the Man)"
+        },
+        {
+          "name": "Watch"
+        },
+        {
+          "name": "John Hughes Movie"
+        },
+        {
+          "name": "Two Weeks Ago / Worst of You / Night Changes / You Signed Up for This"
+        },
+        {
+          "name": "Run"
+        },
+        {
+          "name": "The Band and I"
+        },
+        {
+          "name": "Not Another Rockstar"
+        },
+        {
+          "name": "Blonde"
+        },
+        {
+          "name": "I'm Trying (Not Friends)"
+        },
+        {
+          "name": "BSC"
+        },
+        {
+          "name": "There It Goes"
+        },
+        {
+          "name": "Cate's Brother"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "History of Man"
+        },
+        {
+          "name": "Lost the Breakup"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/maisie-peters/2023/radio-city-music-hall-new-york-ny-6ba452a6.html"
+}

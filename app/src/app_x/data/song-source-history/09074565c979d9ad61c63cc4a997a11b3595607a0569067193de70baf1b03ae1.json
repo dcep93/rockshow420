@@ -1,0 +1,27 @@
+{
+  "artist": "DOPE LEMON",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DOPE LEMON",
+      "name": "Stonecutters"
+    },
+    {
+      "artists": "DOPE LEMON",
+      "name": "Marinade"
+    },
+    {
+      "artists": "DOPE LEMON",
+      "name": "Rose Pink Cadillac"
+    },
+    {
+      "artists": "DOPE LEMON",
+      "name": "Uptown Folks"
+    },
+    {
+      "artists": "DOPE LEMON",
+      "name": "Salt & Pepper"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7oZLKL1GjYiaAgssXsLmW8"
+}

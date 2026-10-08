@@ -1,0 +1,27 @@
+{
+  "artist": "North Mississippi Allstars",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "North Mississippi Allstars",
+      "name": "Up and Rolling"
+    },
+    {
+      "artists": "North Mississippi Allstars",
+      "name": "Meet Me In the City"
+    },
+    {
+      "artists": "North Mississippi Allstars, Lamar Williams Jr.",
+      "name": "Set Sail part I (featuring Lamar Williams Jr.)"
+    },
+    {
+      "artists": "North Mississippi Allstars",
+      "name": "Shake 'Em On Down"
+    },
+    {
+      "artists": "North Mississippi Allstars, Lamar Williams Jr., Sharisse Norman",
+      "name": "See the Moon (featuring Lamar Williams Jr. and Sharisse Norman)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/714osTgzZrkyf3SGjggpfY"
+}

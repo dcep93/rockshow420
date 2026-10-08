@@ -1,0 +1,29 @@
+{
+  "artist": "Riovaz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Riovaz",
+      "name": "Prom Night"
+    },
+    {
+      "artists": "KA$HDAMI, Riovaz, D'mari Harris",
+      "explicit": true,
+      "name": "Trust Issues (with Riovaz & D'mari Harris)"
+    },
+    {
+      "artists": "Kanii, Riovaz, Nimstarr",
+      "name": "Heart Racing"
+    },
+    {
+      "artists": "Riovaz",
+      "name": "I Feel Fantastic"
+    },
+    {
+      "artists": "jaydes, Riovaz",
+      "explicit": true,
+      "name": "patience"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1bhZt10yZVCJfp3HaNxJv8"
+}

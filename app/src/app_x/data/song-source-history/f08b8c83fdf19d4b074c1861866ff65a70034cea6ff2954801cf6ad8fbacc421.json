@@ -1,0 +1,27 @@
+{
+  "artist": "The xx",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The xx",
+      "name": "Intro"
+    },
+    {
+      "artists": "The xx",
+      "name": "Crystalised"
+    },
+    {
+      "artists": "The xx",
+      "name": "Islands"
+    },
+    {
+      "artists": "The xx",
+      "name": "Angels"
+    },
+    {
+      "artists": "The xx",
+      "name": "I Dare You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3iOvXCl6edW5Um0fXEBRXy"
+}

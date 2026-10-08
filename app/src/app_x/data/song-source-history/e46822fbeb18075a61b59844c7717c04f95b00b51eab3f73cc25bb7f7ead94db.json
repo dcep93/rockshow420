@@ -1,0 +1,27 @@
+{
+  "artist": "Lauren Daigle",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lauren Daigle",
+      "name": "You Say"
+    },
+    {
+      "artists": "Lauren Daigle",
+      "name": "Rescue"
+    },
+    {
+      "artists": "Lauren Daigle",
+      "name": "Trust in You"
+    },
+    {
+      "artists": "Lauren Daigle",
+      "name": "Let It Be A Hallelujah"
+    },
+    {
+      "artists": "Lauren Daigle",
+      "name": "How Can It Be"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/40LHVA5BTQp9RxHOQ9JPYj"
+}

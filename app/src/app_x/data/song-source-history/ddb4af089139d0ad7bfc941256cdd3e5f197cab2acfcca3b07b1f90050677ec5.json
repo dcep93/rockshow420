@@ -1,0 +1,27 @@
+{
+  "artist": "Rise Against",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rise Against",
+      "name": "Savior"
+    },
+    {
+      "artists": "Rise Against",
+      "name": "Prayer Of The Refugee"
+    },
+    {
+      "artists": "Rise Against",
+      "name": "Satellite"
+    },
+    {
+      "artists": "Rise Against",
+      "name": "Give It All"
+    },
+    {
+      "artists": "Rise Against",
+      "name": "Re-Education (Through Labor)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Wr3hh341P84m3EI8qdn9O"
+}

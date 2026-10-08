@@ -1,0 +1,28 @@
+{
+  "artist": "Arcy Drive",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arcy Drive",
+      "name": "Time Shrinks"
+    },
+    {
+      "artists": "Arcy Drive",
+      "name": "Roll My Stone"
+    },
+    {
+      "artists": "Arcy Drive",
+      "explicit": true,
+      "name": "Louie"
+    },
+    {
+      "artists": "Arcy Drive",
+      "name": "Superbloomer"
+    },
+    {
+      "artists": "Arcy Drive",
+      "name": "one'n a million"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7o1TBmx7Ube5h2Czlam84O"
+}

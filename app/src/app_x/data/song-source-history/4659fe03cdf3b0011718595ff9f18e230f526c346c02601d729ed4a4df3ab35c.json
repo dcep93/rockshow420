@@ -1,0 +1,27 @@
+{
+  "artist": "Whitney",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Whitney",
+      "name": "No Woman"
+    },
+    {
+      "artists": "Whitney",
+      "name": "FTA"
+    },
+    {
+      "artists": "Whitney",
+      "name": "Golden Days"
+    },
+    {
+      "artists": "Whitney",
+      "name": "Valleys (My Love)"
+    },
+    {
+      "artists": "Whitney",
+      "name": "Southern Nights"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/32aUoW94mJ7xTJI7fG0V1G"
+}

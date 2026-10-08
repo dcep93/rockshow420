@@ -1,0 +1,27 @@
+{
+  "artist": "Faye Webster",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Faye Webster",
+      "name": "Kingston"
+    },
+    {
+      "artists": "Faye Webster",
+      "name": "I Know You"
+    },
+    {
+      "artists": "Faye Webster",
+      "name": "In A Good Way"
+    },
+    {
+      "artists": "Faye Webster",
+      "name": "Jonny"
+    },
+    {
+      "artists": "Faye Webster",
+      "name": "Right Side of My Neck"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5szilpXHcwOqnyKLqGco5j"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Lane 8",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lane 8, Kasbo, BJOERN",
+      "name": "World Is Mine"
+    },
+    {
+      "artists": "Lane 8, Kasablanca",
+      "name": "You"
+    },
+    {
+      "artists": "Lane 8, Arctic Lake",
+      "name": "Road"
+    },
+    {
+      "artists": "Lane 8",
+      "explicit": true,
+      "name": "The Rope (feat. POLIÇA)"
+    },
+    {
+      "artists": "Lane 8, Art School Girlfriend",
+      "name": "The Deep"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/27gtK7m9vYwCyJ04zz0kIb"
+}

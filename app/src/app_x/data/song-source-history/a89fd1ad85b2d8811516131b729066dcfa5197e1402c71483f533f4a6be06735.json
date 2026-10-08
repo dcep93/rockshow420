@@ -1,0 +1,31 @@
+{
+  "artist": "FLO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "FLO",
+      "explicit": true,
+      "name": "Leak It"
+    },
+    {
+      "artists": "FLO",
+      "explicit": true,
+      "name": "Cry Ugly"
+    },
+    {
+      "artists": "FLO",
+      "name": "I can’t be high around you anymore"
+    },
+    {
+      "artists": "FLO",
+      "explicit": true,
+      "name": "Remedied"
+    },
+    {
+      "artists": "FLO",
+      "explicit": true,
+      "name": "Don’t Break Her Heart"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0s4kXsjYeH0S1xRyVGN4NO"
+}

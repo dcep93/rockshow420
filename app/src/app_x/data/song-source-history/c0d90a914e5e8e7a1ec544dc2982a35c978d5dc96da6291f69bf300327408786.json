@@ -1,0 +1,29 @@
+{
+  "artist": "Dj Ramon Sucesso",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dj Ramon Sucesso, Mc Kaio",
+      "name": "Ser Bandido É Bom Demais X Cai Cai"
+    },
+    {
+      "artists": "Puterrier, Mc Gw, Dj Ramon Sucesso, Tasha Kaiala",
+      "explicit": true,
+      "name": "No RJ Eu sou Casado"
+    },
+    {
+      "artists": "Dj Ramon Sucesso, Puterrier",
+      "name": "Cardume - inHouse"
+    },
+    {
+      "artists": "Dj Ramon Sucesso, TOKIODK",
+      "name": "Sequência de Tapa - inHouse"
+    },
+    {
+      "artists": "Dj Ramon Sucesso, Mc RF, DJ ALLAN FIALHO",
+      "explicit": true,
+      "name": "Cabelo Disfarçadão"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4TU1r1V7Xp6Ov2X2irfm3J"
+}

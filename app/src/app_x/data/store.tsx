@@ -6,13 +6,14 @@ import {
   signInWithPopup,
   signOut as firebaseSignOut,
 } from "firebase/auth";
-import { collection, doc, onSnapshot, runTransaction } from "firebase/firestore";
+import { doc, onSnapshot, runTransaction } from "firebase/firestore";
 import { auth, db } from "./firebase";
+import { record, tableNames, transactionTables, watchTables } from "./tables";
 import {
   emptyCatalog,
   normalizeArtist,
   normalizeConcert,
-  normalizeFestival,
+  normalizeSchedule,
   normalizeLog,
   normalizeProfile,
   normalizeVenue,
@@ -40,41 +41,28 @@ export function AppProvider({ children }: { children: ReactNode }) {
   const [{ viewer, isAdmin, ready }, setSession] = useState(pendingSession);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [tableError, setTableError] = useState("");
 
   useEffect(() => {
-    const pending = new Set(["venues", "artists", "concerts", "festivals", "profiles", "logs"]);
-    const settle = (key: string) => {
-      pending.delete(key);
+    const pending = new Set<string>(tableNames);
+    const failures = new Map<string, string>();
+    const mappings = {
+      venues: ["venues", normalizeVenue], artists: ["artists", normalizeArtist],
+      concerts: ["concerts", normalizeConcert], schedules: ["schedules", normalizeSchedule],
+      users: ["profiles", normalizeProfile], user_concerts: ["logs", normalizeLog],
+    } as const;
+    return watchTables(db, (name, records) => {
+      const [key, normalize] = mappings[name];
+      setCatalog(previous => ({ ...previous, [key]: Object.entries(records).map(([id, data]) => normalize(id, data)) }));
+      pending.delete(name);
+      failures.delete(name);
+      setTableError(failures.values().next().value || "");
       setLoading(pending.size > 0);
-    };
-    const subscribe = <K extends keyof Catalog>(
-      key: K,
-      name: string,
-      normalize: (id: string, value: Record<string, unknown>) => Catalog[K][number],
-    ) =>
-      onSnapshot(
-        collection(db, name),
-        (snapshot) => {
-          setCatalog((previous) => ({
-            ...previous,
-            [key]: snapshot.docs.map((item) => normalize(item.id, item.data())),
-          }));
-          settle(key);
-        },
-        (failure) => {
-          setError(message(failure));
-          settle(key);
-        },
-      );
-    const unsubscribe = [
-      subscribe("venues", "venues", normalizeVenue),
-      subscribe("artists", "artists", normalizeArtist),
-      subscribe("concerts", "concerts", normalizeConcert),
-      subscribe("festivals", "festivals", normalizeFestival),
-      subscribe("profiles", "users", normalizeProfile),
-      subscribe("logs", "user_concerts", normalizeLog),
-    ];
-    return () => unsubscribe.forEach((stop) => stop());
+    }, (name, failure) => {
+      // A failed table must not be presented as an empty, fully loaded catalog.
+      failures.set(name, message(failure));
+      setTableError(message(failure));
+    });
   }, []);
 
   useEffect(() => observeSession({
@@ -91,8 +79,8 @@ export function AppProvider({ children }: { children: ReactNode }) {
     ),
     ensureProfile: async ({ uid, username }) => {
       await runTransaction(db, async (transaction) => {
-        const ref = doc(db, "users", username);
-        if (!(await transaction.get(ref)).exists()) transaction.set(ref, { user_id: uid, username });
+        const tables = transactionTables(db, transaction);
+        if (!record(await tables.read("users"), username)) tables.put("users", username, { user_id: uid, username });
       });
     },
     signOut: () => firebaseSignOut(auth),
@@ -113,7 +101,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
     await firebaseSignOut(auth);
   }
   return (
-    <AppContext.Provider value={{ catalog, viewer, isAdmin, ready, loading, error, signIn, signOut }}>
+    <AppContext.Provider value={{ catalog, viewer, isAdmin, ready, loading, error: error || tableError, signIn, signOut }}>
       {children}
     </AppContext.Provider>
   );

@@ -1,0 +1,29 @@
+{
+  "artist": "Olivia O'Brien",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Olivia O'Brien",
+      "name": "Complicated"
+    },
+    {
+      "artists": "Olivia O'Brien",
+      "name": "hate u love u"
+    },
+    {
+      "artists": "Olivia O'Brien",
+      "explicit": true,
+      "name": "Josslyn"
+    },
+    {
+      "artists": "Olivia O'Brien",
+      "name": "Empty"
+    },
+    {
+      "artists": "Olivia O'Brien",
+      "explicit": true,
+      "name": "I Always Say I'm Leaving"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1QRj3hoop9Mv5VvHQkwPEp"
+}

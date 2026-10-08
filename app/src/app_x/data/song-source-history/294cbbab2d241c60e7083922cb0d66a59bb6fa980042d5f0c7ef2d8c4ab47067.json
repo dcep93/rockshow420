@@ -1,0 +1,29 @@
+{
+  "artist": "Sure Sure",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sure Sure",
+      "name": "This Must Be The Place"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Funky Galileo"
+    },
+    {
+      "artists": "Sure Sure",
+      "explicit": true,
+      "name": "Warm Animal"
+    },
+    {
+      "artists": "Sure Sure",
+      "explicit": true,
+      "name": "Friends"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Fat Lady"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1anAI9P9iSzc9qzLv6AtHZ"
+}

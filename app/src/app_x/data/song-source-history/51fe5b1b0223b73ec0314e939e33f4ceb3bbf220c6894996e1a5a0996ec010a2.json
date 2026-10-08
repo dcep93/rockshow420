@@ -1,0 +1,27 @@
+{
+  "artist": "Wenzday",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wenzday, Haylee Wood",
+      "name": "Function"
+    },
+    {
+      "artists": "Wenzday",
+      "name": "Trendsetter"
+    },
+    {
+      "artists": "Wenzday, Dances",
+      "name": "Rose Glasses"
+    },
+    {
+      "artists": "Wenzday",
+      "name": "I Wanna Talk"
+    },
+    {
+      "artists": "Wenzday",
+      "name": "Turn Me On"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1TOclxL64oLeB45DFWFFU2"
+}

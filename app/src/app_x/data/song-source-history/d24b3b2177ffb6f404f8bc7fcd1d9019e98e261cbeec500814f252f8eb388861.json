@@ -1,0 +1,28 @@
+{
+  "artist": "Hozier",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hozier",
+      "name": "Too Sweet"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Take Me to Church"
+    },
+    {
+      "artists": "Noah Kahan, Hozier",
+      "explicit": true,
+      "name": "Northern Attitude (with Hozier)"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Work Song"
+    },
+    {
+      "artists": "Hozier",
+      "name": "Someone New"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2FXC3k01G6Gw61bmprjgqS"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Depresión Sonora",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Depresión Sonora",
+      "name": "Como todo el Mundo"
+    },
+    {
+      "artists": "Depresión Sonora",
+      "name": "Ya No Hay Verano"
+    },
+    {
+      "artists": "Depresión Sonora",
+      "name": "Gasolina y Mechero"
+    },
+    {
+      "artists": "Depresión Sonora",
+      "name": "Hasta Que Llegue la Muerte"
+    },
+    {
+      "artists": "Depresión Sonora",
+      "name": "Veo tan Dentro"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2oCrGFAUJwBVFaaIM8c0AO"
+}

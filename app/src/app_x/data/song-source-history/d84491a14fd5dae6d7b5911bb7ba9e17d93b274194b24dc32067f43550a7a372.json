@@ -1,0 +1,28 @@
+{
+  "artist": "DRAMA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gorgon City, DRAMA",
+      "name": "You've Done Enough"
+    },
+    {
+      "artists": "DRAMA",
+      "name": "Sweet Summer"
+    },
+    {
+      "artists": "DRAMA, Vandelux",
+      "explicit": true,
+      "name": "I Do - Vandelux Remix"
+    },
+    {
+      "artists": "DRAMA",
+      "name": "Hopes Up"
+    },
+    {
+      "artists": "DRAMA",
+      "name": "Dark Rain"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7LvvNoUPwTZpgXDWBRrfHg"
+}

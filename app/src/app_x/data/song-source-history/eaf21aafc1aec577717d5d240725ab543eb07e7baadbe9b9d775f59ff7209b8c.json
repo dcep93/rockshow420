@@ -1,0 +1,27 @@
+{
+  "artist": "The Glove",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Glove",
+      "name": "Mr. Alphabet Says - Remastered"
+    },
+    {
+      "artists": "The Glove",
+      "name": "Like An Animal - Remastered"
+    },
+    {
+      "artists": "The Glove",
+      "name": "Mouth To Mouth - Landray Vocal Mix"
+    },
+    {
+      "artists": "The Glove",
+      "name": "Perfect Murder - Remastered"
+    },
+    {
+      "artists": "The Glove",
+      "name": "Punish Me With Kisses - Remastered"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/75XeVX3ggxZzH9lS2UTNJa"
+}

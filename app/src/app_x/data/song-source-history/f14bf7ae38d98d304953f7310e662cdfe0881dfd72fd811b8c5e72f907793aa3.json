@@ -1,0 +1,27 @@
+{
+  "artist": "Andy Shauf",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foxwarren, Andy Shauf, Darryl Kissick",
+      "name": "Sunset Canyon"
+    },
+    {
+      "artists": "Andy Shauf",
+      "name": "The Magician"
+    },
+    {
+      "artists": "Andy Shauf",
+      "name": "Satan"
+    },
+    {
+      "artists": "Andy Shauf",
+      "name": "Quite Like You"
+    },
+    {
+      "artists": "Andy Shauf",
+      "name": "losing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5mFKYdmiYwNJTDtSzgFyQx"
+}

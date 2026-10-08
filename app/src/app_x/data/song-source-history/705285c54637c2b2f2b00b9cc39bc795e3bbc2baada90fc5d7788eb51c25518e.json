@@ -1,0 +1,27 @@
+{
+  "artist": "Kingfishr",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kingfishr",
+      "name": "The Sun Will Never Settle"
+    },
+    {
+      "artists": "Kingfishr",
+      "name": "Killeagh"
+    },
+    {
+      "artists": "Kingfishr",
+      "name": "Diamonds & Roses"
+    },
+    {
+      "artists": "Kingfishr",
+      "name": "Caroline"
+    },
+    {
+      "artists": "Kingfishr",
+      "name": "How Lonely"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6c2qQFq3xfxFJndX6wSe4f"
+}

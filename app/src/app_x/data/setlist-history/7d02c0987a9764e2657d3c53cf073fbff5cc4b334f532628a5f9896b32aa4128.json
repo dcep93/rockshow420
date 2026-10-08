@@ -1,0 +1,69 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Jealousy"
+        },
+        {
+          "name": "Don't Move"
+        },
+        {
+          "name": "Fall in Love"
+        },
+        {
+          "name": "Feedback Invisible"
+        },
+        {
+          "name": "Pedestal"
+        },
+        {
+          "name": "It Wasn't Meant to Be"
+        },
+        {
+          "name": "Mouthful of Diamonds"
+        },
+        {
+          "name": "Run Run Blood"
+        },
+        {
+          "name": "Attaway"
+        },
+        {
+          "name": "You Are the Ocean"
+        },
+        {
+          "name": "Answer"
+        },
+        {
+          "name": "All a Mystery"
+        },
+        {
+          "name": "Happy Again"
+        },
+        {
+          "name": "Black Out Days"
+        },
+        {
+          "name": "Come Alive"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Glowing"
+        },
+        {
+          "name": "You Don't Get Me High Anymore"
+        },
+        {
+          "name": "When I'm Small"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phantogram/2025/brooklyn-paramount-brooklyn-ny-5b5effa4.html"
+}

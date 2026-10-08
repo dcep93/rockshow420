@@ -1,0 +1,30 @@
+{
+  "artist": "MOD SUN",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MOD SUN, Avril Lavigne",
+      "name": "Flames (feat. Avril Lavigne)"
+    },
+    {
+      "artists": "honestav, MOD SUN",
+      "explicit": true,
+      "name": "I’d Rather Overdose - MOD SUN Remix"
+    },
+    {
+      "artists": "MOD SUN",
+      "explicit": true,
+      "name": "Karma"
+    },
+    {
+      "artists": "MOD SUN",
+      "name": "Silverline"
+    },
+    {
+      "artists": "MOD SUN, mgk, Goody Grace",
+      "explicit": true,
+      "name": "Stay Away (feat. Machine Gun Kelly & Goody Grace)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3u2R8st1bb6zfBqNWceRXG"
+}

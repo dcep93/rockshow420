@@ -1,0 +1,28 @@
+{
+  "artist": "Isabel LaRosa",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Isabel LaRosa",
+      "name": "i'm yours"
+    },
+    {
+      "artists": "Isabel LaRosa",
+      "name": "older"
+    },
+    {
+      "artists": "Isabel LaRosa",
+      "name": "Favorite"
+    },
+    {
+      "artists": "Isabel LaRosa",
+      "explicit": true,
+      "name": "eyes don't lie"
+    },
+    {
+      "artists": "Isabel LaRosa",
+      "name": "i'm yours sped up"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5arKwJZEvT5uKq4o0JfqR4"
+}

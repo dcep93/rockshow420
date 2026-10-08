@@ -1,0 +1,32 @@
+{
+  "artist": "Mick Jenkins",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mick Jenkins",
+      "explicit": true,
+      "name": "Carefree"
+    },
+    {
+      "artists": "Venna, Masego, Mick Jenkins",
+      "explicit": true,
+      "name": "Casa Lopez"
+    },
+    {
+      "artists": "Mick Jenkins, JID",
+      "explicit": true,
+      "name": "Smoke Break-Dance - feat. JID"
+    },
+    {
+      "artists": "Mick Jenkins",
+      "explicit": true,
+      "name": "Jazz"
+    },
+    {
+      "artists": "Bluestaeb, Mick Jenkins, Aréna",
+      "explicit": true,
+      "name": "MOVIN'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1FvjvACFvko2Z91IvDljrx"
+}

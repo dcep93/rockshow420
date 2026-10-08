@@ -1,0 +1,32 @@
+{
+  "artist": "21 Savage",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Metro Boomin, The Weeknd, 21 Savage",
+      "explicit": true,
+      "name": "Creepin' (with The Weeknd & 21 Savage)"
+    },
+    {
+      "artists": "Drake, 21 Savage",
+      "explicit": true,
+      "name": "Jimmy Cooks (feat. 21 Savage)"
+    },
+    {
+      "artists": "21 Savage",
+      "explicit": true,
+      "name": "a lot"
+    },
+    {
+      "artists": "Drake, 21 Savage",
+      "explicit": true,
+      "name": "B's On The Table (feat. 21 Savage)"
+    },
+    {
+      "artists": "21 Savage",
+      "explicit": true,
+      "name": "redrum"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1URnnhqYAYcrqrcwql10ft"
+}

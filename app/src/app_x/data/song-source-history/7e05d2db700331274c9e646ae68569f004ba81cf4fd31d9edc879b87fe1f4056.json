@@ -1,0 +1,28 @@
+{
+  "artist": "Bad Suns",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Suns",
+      "name": "Cardiac Arrest"
+    },
+    {
+      "artists": "Bad Suns",
+      "explicit": true,
+      "name": "Daft Pretty Boys"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Life Was Easier When I Only Cared About Me"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Swimming in the Moonlight"
+    },
+    {
+      "artists": "Bad Suns",
+      "name": "Salt"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0YhUSm86okLWldQVwJkLlP"
+}

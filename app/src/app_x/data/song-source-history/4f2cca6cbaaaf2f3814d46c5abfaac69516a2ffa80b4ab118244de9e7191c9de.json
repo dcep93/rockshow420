@@ -1,0 +1,27 @@
+{
+  "artist": "Mondo Cozmo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mondo Cozmo",
+      "name": "Sweet Forever"
+    },
+    {
+      "artists": "Mondo Cozmo",
+      "name": "Shine"
+    },
+    {
+      "artists": "Mondo Cozmo",
+      "name": "Plastic Soul"
+    },
+    {
+      "artists": "Mondo Cozmo",
+      "name": "Come On"
+    },
+    {
+      "artists": "Mondo Cozmo",
+      "name": "Automatic"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7ybnRZKtRbWQzJfKyYSyh6"
+}

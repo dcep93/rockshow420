@@ -1,0 +1,27 @@
+{
+  "artist": "X CLUB.",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NOTION, X CLUB.",
+      "name": "U KNOW"
+    },
+    {
+      "artists": "X CLUB.",
+      "name": "Stay With Me"
+    },
+    {
+      "artists": "X CLUB.",
+      "name": "Desire to Stay"
+    },
+    {
+      "artists": "X CLUB.",
+      "name": "Feel You"
+    },
+    {
+      "artists": "Jeshi, X CLUB.",
+      "name": "headrush"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4CYPaFp9yDrNduNptv0DPQ"
+}

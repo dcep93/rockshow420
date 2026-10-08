@@ -1,0 +1,28 @@
+{
+  "artist": "The Band CAMINO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Band CAMINO",
+      "name": "See Through"
+    },
+    {
+      "artists": "The Band CAMINO",
+      "explicit": true,
+      "name": "I Think I Like You"
+    },
+    {
+      "artists": "The Band CAMINO",
+      "name": "Do What You Gotta Do"
+    },
+    {
+      "artists": "The Band CAMINO",
+      "name": "Daphne Blue"
+    },
+    {
+      "artists": "The Band CAMINO",
+      "name": "Holly!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6d4jrmreCmsenscuieJERc"
+}

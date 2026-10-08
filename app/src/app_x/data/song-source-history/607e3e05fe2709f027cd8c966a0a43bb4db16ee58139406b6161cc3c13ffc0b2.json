@@ -1,0 +1,28 @@
+{
+  "artist": "Aly & AJ",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Aly & AJ",
+      "name": "Potential Breakup Song"
+    },
+    {
+      "artists": "Aly & AJ",
+      "explicit": true,
+      "name": "Potential Breakup Song"
+    },
+    {
+      "artists": "Aly & AJ",
+      "name": "Like Whoa"
+    },
+    {
+      "artists": "Aly & AJ",
+      "name": "No One"
+    },
+    {
+      "artists": "Aly & AJ",
+      "name": "Rush"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5wugb0kaq0J6nyQ5Xgd17i"
+}

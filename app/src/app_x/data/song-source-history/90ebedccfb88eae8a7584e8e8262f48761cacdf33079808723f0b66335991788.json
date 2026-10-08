@@ -1,0 +1,29 @@
+{
+  "artist": "SoFTT",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SoFTT",
+      "name": "Aserrín"
+    },
+    {
+      "artists": "horsegiirL, SoFTT",
+      "explicit": true,
+      "name": "take it offff (SoFTT Remix)"
+    },
+    {
+      "artists": "SoFTT",
+      "explicit": true,
+      "name": "Quiero Ser Sexy"
+    },
+    {
+      "artists": "SoFTT",
+      "name": "Kiero K Me Kieras"
+    },
+    {
+      "artists": "SoFTT",
+      "name": "Linda, Triste, Una Popstar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2gpYstJ2WNS3mNwzuyPOB2"
+}

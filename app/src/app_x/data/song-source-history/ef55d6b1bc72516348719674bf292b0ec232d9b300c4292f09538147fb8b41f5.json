@@ -1,0 +1,27 @@
+{
+  "artist": "Sqwerv",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sqwerv",
+      "name": "Is it Right Is It Wrong"
+    },
+    {
+      "artists": "Sqwerv",
+      "name": "A Cabin Riff"
+    },
+    {
+      "artists": "Sqwerv",
+      "name": "Psychic Warfare"
+    },
+    {
+      "artists": "Sqwerv",
+      "name": "Miami"
+    },
+    {
+      "artists": "Sqwerv",
+      "name": "Keep On Moving"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3xrbKno8shx3H22Xz8omC8"
+}

@@ -1,0 +1,83 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Ghost"
+        },
+        {
+          "name": "Reba"
+        },
+        {
+          "name": "Funky Bitch",
+          "notes": "(Son Seals cover)"
+        },
+        {
+          "name": "Timber",
+          "notes": "(Josh White cover)"
+        },
+        {
+          "name": "Broken Into Pieces",
+          "notes": "(Trey Anastasio song) (live debut by Phish)"
+        },
+        {
+          "name": "Wolfman's Brother",
+          "notes": "(with 'The Well' quotes)"
+        },
+        {
+          "name": "I Am the Walrus",
+          "notes": "(The Beatles cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Sample in a Jar"
+        },
+        {
+          "name": "Kill Devil Falls"
+        },
+        {
+          "name": "Golden Age",
+          "notes": "(TV on the Radio cover)"
+        },
+        {
+          "name": "Shade"
+        },
+        {
+          "name": "Sneakin' Sally Thru the Alley",
+          "notes": "(Lee Dorsey cover)"
+        },
+        {
+          "name": "Twist"
+        },
+        {
+          "name": "You Enjoy Myself"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Wilson"
+        },
+        {
+          "name": "Sanity"
+        },
+        {
+          "name": "David Bowie"
+        },
+        {
+          "name": "Character Zero"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-13a43d55.html"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "SEBASTIAN PAUL",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SEBASTIAN PAUL",
+      "explicit": true,
+      "name": "TROJAN HORSE"
+    },
+    {
+      "artists": "SEBASTIAN PAUL",
+      "name": "ON SOME HIGH"
+    },
+    {
+      "artists": "SEBASTIAN PAUL",
+      "name": "IMPATIENT"
+    },
+    {
+      "artists": "SEBASTIAN PAUL",
+      "explicit": true,
+      "name": "LUST DRUNK"
+    },
+    {
+      "artists": "SEBASTIAN PAUL",
+      "name": "INDULGE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1tQu5TjcAK68fx8qrc8ZgF"
+}

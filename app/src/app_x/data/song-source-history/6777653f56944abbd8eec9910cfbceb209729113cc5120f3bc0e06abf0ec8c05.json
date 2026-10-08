@@ -1,0 +1,27 @@
+{
+  "artist": "Todd Edwards",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daft Punk, Todd Edwards",
+      "name": "Fragments of Time (feat. Todd Edwards)"
+    },
+    {
+      "artists": "Poolside, Todd Edwards, Turbotito",
+      "name": "Getting There From Here (with Todd Edwards)"
+    },
+    {
+      "artists": "MANT, Todd Edwards",
+      "name": "Provenance"
+    },
+    {
+      "artists": "MANT, Todd Edwards",
+      "name": "Provenance - Squeezed Mix"
+    },
+    {
+      "artists": "Todd Edwards",
+      "name": "Wishing I Were Home"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6MFopqejpmTUUZlcRmGzgg"
+}

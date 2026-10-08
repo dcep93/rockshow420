@@ -1,0 +1,31 @@
+{
+  "artist": "Pusha T",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kanye West, Chief Keef, Pusha T, Big Sean, Jadakiss",
+      "explicit": true,
+      "name": "Don't Like.1"
+    },
+    {
+      "artists": "Clipse, Kendrick Lamar, Pharrell Williams, Pusha T, Malice",
+      "explicit": true,
+      "name": "Chains & Whips"
+    },
+    {
+      "artists": "Clipse, Pusha T, Malice",
+      "explicit": true,
+      "name": "So Be It"
+    },
+    {
+      "artists": "Clipse, Tyler, The Creator, Pusha T, Malice",
+      "explicit": true,
+      "name": "P.O.V."
+    },
+    {
+      "artists": "Linkin Park, Pusha T, Stormzy",
+      "name": "Good Goodbye (feat. Pusha T and Stormzy)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ONHkAv9pCAFxb0zJwDNTy"
+}

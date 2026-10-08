@@ -1,0 +1,27 @@
+{
+  "artist": "Goth Babe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Goth Babe",
+      "name": "Weekend Friend"
+    },
+    {
+      "artists": "Goth Babe",
+      "name": "Crocodile"
+    },
+    {
+      "artists": "Goth Babe",
+      "name": "Casita"
+    },
+    {
+      "artists": "Goth Babe",
+      "name": "Canary Islands"
+    },
+    {
+      "artists": "Goth Babe",
+      "name": "I Wanna Help Your Mind"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7o96HO2zrujyATtVsqGhh3"
+}

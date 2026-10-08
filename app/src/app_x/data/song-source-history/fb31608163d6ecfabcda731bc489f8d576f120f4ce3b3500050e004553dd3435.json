@@ -1,0 +1,27 @@
+{
+  "artist": "Yellow Days",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Yellow Days",
+      "name": "A Little While"
+    },
+    {
+      "artists": "Yellow Days",
+      "name": "Gap in the Clouds"
+    },
+    {
+      "artists": "Yellow Days",
+      "name": "Your Hand Holding Mine"
+    },
+    {
+      "artists": "Yellow Days",
+      "name": "The Way Things Change"
+    },
+    {
+      "artists": "Yellow Days, Mac DeMarco",
+      "name": "The Curse (feat. Mac Demarco)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+}

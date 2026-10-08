@@ -1,0 +1,27 @@
+{
+  "artist": "BAND-MAID",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BAND-MAID",
+      "name": "Choose me"
+    },
+    {
+      "artists": "BAND-MAID",
+      "name": "Ready to Rock"
+    },
+    {
+      "artists": "BAND-MAID",
+      "name": "What is justice?"
+    },
+    {
+      "artists": "BAND-MAID",
+      "name": "Sense"
+    },
+    {
+      "artists": "BAND-MAID",
+      "name": "DOMINATION"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+}

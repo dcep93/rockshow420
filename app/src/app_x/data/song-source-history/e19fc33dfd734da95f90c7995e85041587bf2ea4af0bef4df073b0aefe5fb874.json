@@ -1,0 +1,27 @@
+{
+  "artist": "Kimbra",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gotye, Kimbra",
+      "name": "Somebody That I Used To Know"
+    },
+    {
+      "artists": "Gotye, FISHER, Chris Lake, Kimbra, Sante Sansone",
+      "name": "Somebody (2024)"
+    },
+    {
+      "artists": "Miami Horror, Kimbra",
+      "name": "I Look to You"
+    },
+    {
+      "artists": "Kimbra",
+      "name": "Settle Down"
+    },
+    {
+      "artists": "Kimbra",
+      "name": "Cameo Lover"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+}

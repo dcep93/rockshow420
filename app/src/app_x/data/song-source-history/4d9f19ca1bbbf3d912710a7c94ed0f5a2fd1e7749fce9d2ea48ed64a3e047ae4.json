@@ -1,0 +1,29 @@
+{
+  "artist": "Wooli",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kaskade, Wooli, MAXINE",
+      "name": "Hear Me Now"
+    },
+    {
+      "artists": "Subtronics, Wooli",
+      "explicit": true,
+      "name": "Lock In"
+    },
+    {
+      "artists": "Crankdat, Wooli",
+      "explicit": true,
+      "name": "Fux With Us (feat. TiaCorine)"
+    },
+    {
+      "artists": "Wooli, Tape B",
+      "name": "Dopamine"
+    },
+    {
+      "artists": "GRiZ, Wooli",
+      "name": "Chaos Theory"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+}

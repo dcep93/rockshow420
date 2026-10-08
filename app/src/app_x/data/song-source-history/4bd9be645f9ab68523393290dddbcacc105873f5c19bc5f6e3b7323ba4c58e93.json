@@ -1,0 +1,31 @@
+{
+  "artist": "Lola Young",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lola Young",
+      "explicit": true,
+      "name": "Messy"
+    },
+    {
+      "artists": "Tyler, The Creator, Lola Young",
+      "explicit": true,
+      "name": "Like Him (feat. Lola Young)"
+    },
+    {
+      "artists": "Lola Young",
+      "explicit": true,
+      "name": "One Thing"
+    },
+    {
+      "artists": "Lola Young",
+      "explicit": true,
+      "name": "d£aler"
+    },
+    {
+      "artists": "Lola Young",
+      "name": "Conceited"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/67FB4n52MgexGQIG8s0yUH"
+}

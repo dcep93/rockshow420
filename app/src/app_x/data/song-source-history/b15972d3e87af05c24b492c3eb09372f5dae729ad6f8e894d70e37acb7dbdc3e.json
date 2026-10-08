@@ -1,0 +1,27 @@
+{
+  "artist": "MEDUZA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MEDUZA, Becky Hill, Goodboys",
+      "name": "Lose Control"
+    },
+    {
+      "artists": "MEDUZA, James Carter, Elley Duhé, FAST BOY",
+      "name": "Bad Memories"
+    },
+    {
+      "artists": "MEDUZA, Goodboys",
+      "name": "Piece Of Your Heart"
+    },
+    {
+      "artists": "MEDUZA, Dermot Kennedy",
+      "name": "Paradise"
+    },
+    {
+      "artists": "MEDUZA, Alok, Goodboys",
+      "name": "Piece Of Your Heart - Alok Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0xRXCcSX89eobfrshSVdyu"
+}

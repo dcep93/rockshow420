@@ -1,0 +1,27 @@
+{
+  "artist": "Tycho",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tycho",
+      "name": "Awake"
+    },
+    {
+      "artists": "Tycho",
+      "name": "A Walk"
+    },
+    {
+      "artists": "Tycho, Satin Jackets, Saint Sinner",
+      "name": "Japan - Satin Jackets Remix"
+    },
+    {
+      "artists": "Tycho",
+      "name": "Melanine"
+    },
+    {
+      "artists": "Tycho",
+      "name": "Spectre"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5oOhM2DFWab8XhSdQiITry"
+}

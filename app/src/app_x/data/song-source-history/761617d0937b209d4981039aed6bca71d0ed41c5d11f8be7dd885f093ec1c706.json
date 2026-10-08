@@ -1,0 +1,27 @@
+{
+  "artist": "Light Asylum",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Light Asylum",
+      "name": "Dark Allies"
+    },
+    {
+      "artists": "Light Asylum",
+      "name": "Shallow Tears"
+    },
+    {
+      "artists": "Light Asylum",
+      "name": "A Certain Person"
+    },
+    {
+      "artists": "Light Asylum",
+      "name": "Hour Fortress"
+    },
+    {
+      "artists": "Light Asylum",
+      "name": "Skull Fuct"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2y98d6N81pArQNXYvkupr8"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Playboi Carti",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Weeknd, Playboi Carti",
+      "explicit": true,
+      "name": "Timeless (feat Playboi Carti)"
+    },
+    {
+      "artists": "Travis Scott, Playboi Carti",
+      "explicit": true,
+      "name": "FE!N (feat. Playboi Carti)"
+    },
+    {
+      "artists": "The Weeknd, Playboi Carti, Madonna",
+      "explicit": true,
+      "name": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)"
+    },
+    {
+      "artists": "Future, Metro Boomin, Travis Scott, Playboi Carti",
+      "explicit": true,
+      "name": "Type Shit"
+    },
+    {
+      "artists": "Playboi Carti",
+      "explicit": true,
+      "name": "Sky"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/699OTQXzgjhIYAHMy9RyPD"
+}

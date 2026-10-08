@@ -1,0 +1,27 @@
+{
+  "artist": "Elderbrook",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elderbrook, Bob Moses",
+      "name": "Inner Light"
+    },
+    {
+      "artists": "CAMELPHAT, Elderbrook",
+      "name": "Cola"
+    },
+    {
+      "artists": "Elderbrook",
+      "name": "Numb"
+    },
+    {
+      "artists": "goodlife, Elderbrook",
+      "name": "Good Life"
+    },
+    {
+      "artists": "Elderbrook, Emmit Fenn",
+      "name": "I’ll Find My Way To You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2vf4pRsEY6LpL5tKmqWb64"
+}

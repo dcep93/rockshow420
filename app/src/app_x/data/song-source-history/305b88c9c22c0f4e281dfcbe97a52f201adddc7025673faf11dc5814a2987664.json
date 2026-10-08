@@ -1,0 +1,28 @@
+{
+  "artist": "grandson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "grandson",
+      "name": "Blood // Water"
+    },
+    {
+      "artists": "grandson",
+      "name": "Dirty"
+    },
+    {
+      "artists": "grandson",
+      "explicit": true,
+      "name": "Darkside"
+    },
+    {
+      "artists": "grandson, Jessie Reyez",
+      "name": "Rain (from The Suicide Squad)"
+    },
+    {
+      "artists": "grandson, King Kavalier",
+      "name": "Blood // Water - King Kavalier Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4ZgQDCtRqZlhLswVS6MHN4"
+}

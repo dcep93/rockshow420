@@ -1,0 +1,30 @@
+{
+  "artist": "Megan Thee Stallion",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cardi B, Megan Thee Stallion",
+      "explicit": true,
+      "name": "WAP (feat. Megan Thee Stallion)"
+    },
+    {
+      "artists": "Maroon 5, Megan Thee Stallion",
+      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)"
+    },
+    {
+      "artists": "Megan Thee Stallion",
+      "explicit": true,
+      "name": "Thot Shit"
+    },
+    {
+      "artists": "TWICE, Megan Thee Stallion",
+      "name": "Strategy (feat. Megan Thee Stallion)"
+    },
+    {
+      "artists": "Lil Baby, Megan Thee Stallion",
+      "explicit": true,
+      "name": "On Me - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/181bsRPaVXVlUKXrxwZfHK"
+}

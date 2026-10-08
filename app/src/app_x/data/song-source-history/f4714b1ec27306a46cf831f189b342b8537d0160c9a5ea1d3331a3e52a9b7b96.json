@@ -1,0 +1,28 @@
+{
+  "artist": "TV Girl",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TV Girl",
+      "name": "Lovers Rock"
+    },
+    {
+      "artists": "TV Girl",
+      "name": "Cigarettes out the Window"
+    },
+    {
+      "artists": "TV Girl",
+      "name": "Blue Hair"
+    },
+    {
+      "artists": "TV Girl",
+      "explicit": true,
+      "name": "Not Allowed"
+    },
+    {
+      "artists": "TV Girl",
+      "name": "Loving Machine"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0Y6dVaC9DZtPNH4591M42W"
+}

@@ -1,0 +1,159 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function gmail() {
+      return request.auth != null
+        && request.auth.token.email_verified == true
+        && request.auth.token.firebase.sign_in_provider == 'google.com'
+        && request.auth.token.email is string
+        && request.auth.token.email.lower().matches('^[^@]+@gmail[.]com$');
+    }
+    function admin() {
+      return gmail() && request.auth.token.email.lower() == 'dcep93@gmail.com'
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid))
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.enabled == true
+        && get(/databases/$(database)/documents/admins/$(request.auth.uid)).data.email == 'dcep93@gmail.com';
+    }
+    function text(data, key) { return data.get(key, '') is string; }
+    function requiredText(data, key) { return text(data, key) && data.get(key, '').size() > 0; }
+    function array(data, key) { return data.get(key, []) is list; }
+    function profile(data, username) {
+      return requiredText(data, 'user_id')
+        && data.get('username', username) == username
+        && !data.keys().hasAny(['email', 'auth_email', 'token', 'access_token', 'refresh_token']);
+    }
+    function ownProfile(data, username) {
+      return gmail() && data.user_id == request.auth.uid
+        && username + '@gmail.com' == request.auth.token.email.lower();
+    }
+    function log(data, id) {
+      return requiredText(data, 'user_id') && requiredText(data, 'concert_id')
+        && id == data.user_id + '_' + data.concert_id
+        && text(data, 'notes') && array(data, 'supporting_artist_ids')
+        && data.get('removed', false) is bool
+        && data.get('ticket_status', '') in ['', 'purchased', 'sold_out', 'cancelled']
+        && (data.get('removed', false) == true || (exists(/databases/$(database)/documents/concerts/$(data.concert_id))
+        && data.get('supporting_artist_ids', []).toSet().hasOnly(
+          get(/databases/$(database)/documents/concerts/$(data.concert_id)).data.get('supporting_artist_ids', []).toSet())));
+    }
+    function ownLog(data) { return gmail() && data.user_id == request.auth.uid; }
+
+    function legacyWritable() { return !exists(/databases/$(database)/documents/tables/concerts); }
+    function table(name) { return getAfter(/databases/$(database)/documents/tables/$(name)).data.records; }
+    function tableEnvelope() {
+      return request.resource.data.keys().hasOnly(['schema_version', 'records', 'changed_id'])
+        && request.resource.data.schema_version == 1 && request.resource.data.records is map;
+    }
+    function singleRecordChange() {
+      let id = request.resource.data.changed_id;
+      return resource.data.schema_version == 1 && tableEnvelope()
+        && id is string && id.size() > 0
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['records', 'changed_id'])
+        && request.resource.data.records.diff(resource.data.records).affectedKeys().hasOnly([id])
+        && (id in resource.data.records || id in request.resource.data.records)
+        && (!(id in request.resource.data.records) || request.resource.data.records[id] is map);
+    }
+    function tableLog(data, id) {
+      return data is map && requiredText(data, 'user_id') && requiredText(data, 'concert_id')
+        && id == data.user_id + '_' + data.concert_id
+        && text(data, 'notes') && array(data, 'supporting_artist_ids') && array(data, 'seen_set_ids')
+        && data.get('seen_set_ids', []).toSet().hasOnly(table('schedules').get(data.concert_id, {}).get('sets', {}).keys().toSet())
+        && data.get('removed', false) is bool
+        && data.get('ticket_status', '') in ['', 'purchased', 'sold_out', 'cancelled']
+        && (data.get('removed', false) == true || (data.concert_id in table('concerts')
+          && data.get('supporting_artist_ids', []).toSet().hasOnly(table('concerts')[data.concert_id].get('supporting_artist_ids', []).toSet())));
+    }
+    function catalogRecord(name, data) {
+      return data is map && (
+        (name == 'venues' && requiredText(data, 'name') && requiredText(data, 'timezone') && text(data, 'location') && text(data, 'image'))
+        || (name == 'artists' && requiredText(data, 'name') && text(data, 'image'))
+        || (name == 'schedules' && data.sets is map)
+        || (name == 'concerts' && data.date is timestamp
+          && text(data, 'name') && text(data, 'venue_id') && text(data, 'artist_id')
+          && (requiredText(data, 'artist_id') || requiredText(data, 'name'))
+          && data.get('date_precision', 'time') in ['day', 'time']
+          && (data.get('date_precision', 'time') == 'day' || requiredText(data, 'venue_id'))
+          && text(data, 'end_date') && array(data, 'supporting_artist_ids') && text(data, 'setlist_fm_url')
+          && (data.get('venue_id', '') == '' || data.venue_id in table('venues'))
+          && (data.get('artist_id', '') == '' || data.artist_id in table('artists'))));
+    }
+    function tableChange(name) {
+      let id = request.resource.data.changed_id;
+      let before = resource.data.records.get(id, null);
+      let after = request.resource.data.records.get(id, null);
+      return name in ['venues', 'artists', 'concerts', 'schedules']
+        ? admin() && (after == null || (catalogRecord(name, after) && (name != 'schedules' || id in table('concerts'))))
+        : name == 'users'
+          ? (after == null || (after is map && profile(after, id) && (before == null || before.user_id == after.user_id)))
+            && (admin() || ((before == null || ownProfile(before, id)) && (after == null || ownProfile(after, id))))
+          : name == 'user_concerts'
+            && (after == null || (tableLog(after, id) && (before == null || (before.user_id == after.user_id && before.concert_id == after.concert_id))))
+            && (admin() || ((before == null || ownLog(before)) && (after == null || ownLog(after))));
+    }
+    match /tables/{name} {
+      allow read: if name in ['venues', 'artists', 'concerts', 'schedules', 'users', 'user_concerts'];
+      allow create: if admin() && (
+        (name == 'concerts' && request.resource.data.keys().hasOnly(['schema_version', 'records', 'migration_token'])
+          && request.resource.data.schema_version == 0 && request.resource.data.records == {}
+          && request.resource.data.migration_token is string)
+        || (name in ['venues', 'artists', 'concerts', 'schedules', 'users', 'user_concerts'] && tableEnvelope()
+          && getAfter(/databases/$(database)/documents/tables/concerts).data.schema_version == 1));
+      allow update: if (singleRecordChange() && tableChange(name))
+        || (name == 'concerts' && resource.data.schema_version == 0 && admin() && tableEnvelope());
+      allow delete: if name == 'concerts' && resource.data.schema_version == 0 && admin();
+    }
+
+    match /admins/{uid} {
+      allow get: if request.auth != null && request.auth.uid == uid;
+      allow list, write: if false;
+    }
+    match /users/{username} {
+      allow read: if true;
+      allow create: if legacyWritable() && profile(request.resource.data, username)
+        && (admin() || ownProfile(request.resource.data, username));
+      allow update: if legacyWritable() && profile(request.resource.data, username)
+        && request.resource.data.user_id == resource.data.user_id
+        && (admin() || (ownProfile(resource.data, username) && ownProfile(request.resource.data, username)));
+      allow delete: if legacyWritable() && (admin() || ownProfile(resource.data, username));
+    }
+    match /user_concerts/{id} {
+      allow read: if true;
+      allow create: if legacyWritable() && log(request.resource.data, id) && (admin() || ownLog(request.resource.data));
+      allow update: if legacyWritable() && log(request.resource.data, id)
+        && request.resource.data.user_id == resource.data.user_id
+        && request.resource.data.concert_id == resource.data.concert_id
+        && (admin() || ownLog(resource.data));
+      allow delete: if legacyWritable() && (admin() || ownLog(resource.data));
+    }
+    match /venues/{id} {
+      allow read: if true;
+      allow create, update: if legacyWritable() && admin() && requiredText(request.resource.data, 'name')
+        && requiredText(request.resource.data, 'timezone')
+        && text(request.resource.data, 'location') && text(request.resource.data, 'image');
+      allow delete: if legacyWritable() && admin();
+    }
+    match /artists/{id} {
+      allow read: if true;
+      allow create, update: if legacyWritable() && admin() && requiredText(request.resource.data, 'name') && text(request.resource.data, 'image');
+      allow delete: if legacyWritable() && admin();
+    }
+    match /concerts/{id} {
+      allow read: if true;
+      allow create, update: if legacyWritable() && admin() && request.resource.data.date is timestamp
+        && text(request.resource.data, 'name') && text(request.resource.data, 'venue_id') && text(request.resource.data, 'artist_id')
+        && (requiredText(request.resource.data, 'artist_id') || requiredText(request.resource.data, 'name'))
+        && request.resource.data.get('date_precision', 'time') in ['time', 'day']
+        && (request.resource.data.get('date_precision', 'time') == 'day' || requiredText(request.resource.data, 'venue_id'))
+        && text(request.resource.data, 'end_date')
+        && array(request.resource.data, 'supporting_artist_ids') && text(request.resource.data, 'setlist_fm_url')
+        && (request.resource.data.get('venue_id', '') == '' || exists(/databases/$(database)/documents/venues/$(request.resource.data.venue_id)))
+        && (request.resource.data.get('artist_id', '') == '' || exists(/databases/$(database)/documents/artists/$(request.resource.data.artist_id)));
+      allow delete: if legacyWritable() && admin();
+    }
+    match /festivals/{id} {
+      allow read: if true;
+      allow create, update: if legacyWritable() && admin() && requiredText(request.resource.data, 'name') && array(request.resource.data, 'concert_ids');
+      allow delete: if legacyWritable() && admin();
+    }
+  }
+}

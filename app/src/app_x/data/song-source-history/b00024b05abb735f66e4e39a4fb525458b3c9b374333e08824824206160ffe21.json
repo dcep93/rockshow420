@@ -1,0 +1,27 @@
+{
+  "artist": "The Funk Hunters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Moontricks, The Funk Hunters, Scott Nice",
+      "name": "Come Together"
+    },
+    {
+      "artists": "Chali 2na, Cut Chemist, The Funk Hunters",
+      "name": "The Rock"
+    },
+    {
+      "artists": "TVBOO, The Funk Hunters",
+      "name": "The One You Love"
+    },
+    {
+      "artists": "The Funk Hunters, Stickybuds, Flowdan, Dr. Fresch",
+      "name": "Empire - Dr. Fresch Remix"
+    },
+    {
+      "artists": "The Funk Hunters, Moontricks",
+      "name": "Get Up N Go"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5xwd7lKJeb2opUvYZnXFut"
+}

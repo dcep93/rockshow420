@@ -1,0 +1,30 @@
+{
+  "artist": "Yves Tumor",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ROSALÍA, Björk, Yves Tumor",
+      "explicit": true,
+      "name": "Berghain"
+    },
+    {
+      "artists": "Conrad Taylor, ROSALÍA, Björk, Yves Tumor",
+      "explicit": true,
+      "name": "Berghain - Remix"
+    },
+    {
+      "artists": "Yves Tumor",
+      "explicit": true,
+      "name": "Limerence"
+    },
+    {
+      "artists": "Yves Tumor, Diana Gordon",
+      "name": "Kerosene!"
+    },
+    {
+      "artists": "Yves Tumor",
+      "name": "Gospel For A New Century"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0qu422H5MOoQxGjd4IzHbS"
+}

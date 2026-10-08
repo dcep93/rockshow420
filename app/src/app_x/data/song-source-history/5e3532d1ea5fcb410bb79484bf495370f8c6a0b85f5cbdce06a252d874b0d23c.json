@@ -1,0 +1,47 @@
+{
+  "artist": "Staind",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "EStaind",
+      "name": "It's Been Awhile"
+    },
+    {
+      "artists": "Staind",
+      "name": "Outside"
+    },
+    {
+      "artists": "Staind",
+      "name": "Warm Safe Place"
+    },
+    {
+      "artists": "Staind",
+      "name": "So Far Away"
+    },
+    {
+      "artists": "Staind",
+      "name": "Right Here"
+    },
+    {
+      "artists": "EStaind",
+      "name": "For You"
+    },
+    {
+      "artists": "EStaind",
+      "name": "Take It"
+    },
+    {
+      "artists": "EStaind",
+      "name": "Mudshovel"
+    },
+    {
+      "artists": "Staind",
+      "name": "Raining Again"
+    },
+    {
+      "artists": "Staind",
+      "name": "Fade"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5KDIH2gF0VpelTqyQS7udb"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Baio",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Baio",
+      "name": "Sister of Pearl"
+    },
+    {
+      "artists": "Baio, Crazy P",
+      "name": "Philosophy! (Crazy P Remix)"
+    },
+    {
+      "artists": "Baio",
+      "name": "Sunburn Modern"
+    },
+    {
+      "artists": "Gizmo Varillas, Baio",
+      "name": "Losing You - Baio Remix"
+    },
+    {
+      "artists": "Baio",
+      "name": "Endless Rhythm"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/50lhyY7UVI9NyVHl79rVgk"
+}

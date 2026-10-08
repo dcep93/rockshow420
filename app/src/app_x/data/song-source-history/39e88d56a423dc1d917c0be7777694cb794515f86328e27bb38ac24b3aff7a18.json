@@ -1,0 +1,27 @@
+{
+  "artist": "slenderbodies",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "slenderbodies",
+      "name": "anemone"
+    },
+    {
+      "artists": "slenderbodies",
+      "name": "belong"
+    },
+    {
+      "artists": "slenderbodies",
+      "name": "gray"
+    },
+    {
+      "artists": "Night Cap, slenderbodies",
+      "name": "Can't Get Enough"
+    },
+    {
+      "artists": "slenderbodies",
+      "name": "take you home"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3S4d3YRNGg2OhnNm3QvfhA"
+}

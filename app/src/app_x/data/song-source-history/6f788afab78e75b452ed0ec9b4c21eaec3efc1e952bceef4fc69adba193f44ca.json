@@ -1,0 +1,27 @@
+{
+  "artist": "Sir Chloe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sir Chloe",
+      "name": "Michelle"
+    },
+    {
+      "artists": "Sir Chloe",
+      "name": "Animal"
+    },
+    {
+      "artists": "Sir Chloe",
+      "name": "Too Close"
+    },
+    {
+      "artists": "Sir Chloe",
+      "name": "Sedona"
+    },
+    {
+      "artists": "Sir Chloe",
+      "name": "Squaring Up"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6rniTPs9zN26kYnkPdFl1U"
+}

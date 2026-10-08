@@ -1,0 +1,28 @@
+{
+  "artist": "Telescreens",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Telescreens",
+      "name": "Nothing"
+    },
+    {
+      "artists": "Telescreens",
+      "name": "Phone Booth"
+    },
+    {
+      "artists": "Telescreens",
+      "explicit": true,
+      "name": "Games"
+    },
+    {
+      "artists": "Telescreens",
+      "name": "Baby I Know You Well"
+    },
+    {
+      "artists": "Telescreens",
+      "name": "Gimme All You Got"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2a5z6KAJm5HFFgMGUDeMVz"
+}

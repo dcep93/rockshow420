@@ -1,0 +1,29 @@
+{
+  "artist": "RIZ LA VIE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RIZ LA VIE, Łaszewo",
+      "explicit": true,
+      "name": "Little Planets - Remix"
+    },
+    {
+      "artists": "RIZ LA VIE",
+      "name": "Lace"
+    },
+    {
+      "artists": "RIZ LA VIE",
+      "name": "Napkins"
+    },
+    {
+      "artists": "RIZ LA VIE",
+      "name": "Stay"
+    },
+    {
+      "artists": "Sycco, RIZ LA VIE",
+      "explicit": true,
+      "name": "Dribble - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0QkgnHpxSCOYdTnhUR9S5k"
+}

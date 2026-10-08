@@ -1,0 +1,32 @@
+{
+  "artist": "Wu-Tang Clan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wu-Tang Clan",
+      "explicit": true,
+      "name": "C.R.E.A.M. (Cash Rules Everything Around Me)"
+    },
+    {
+      "artists": "Michael Bibi, KETTAMA, Wu-Tang Clan",
+      "explicit": true,
+      "name": "MYSTERY OF RAW"
+    },
+    {
+      "artists": "Wu-Tang Clan",
+      "explicit": true,
+      "name": "Protect Ya Neck"
+    },
+    {
+      "artists": "Wu-Tang Clan",
+      "explicit": true,
+      "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit"
+    },
+    {
+      "artists": "System Of A Down, Wu-Tang Clan",
+      "explicit": true,
+      "name": "Shame"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/34EP7KEpOjXcM2TCat1ISk"
+}

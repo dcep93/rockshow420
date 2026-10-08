@@ -1,0 +1,27 @@
+{
+  "artist": "Sara Bareilles",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sara Bareilles",
+      "name": "Love Song"
+    },
+    {
+      "artists": "Sara Bareilles",
+      "name": "Brave"
+    },
+    {
+      "artists": "Sara Bareilles",
+      "name": "She Used To Be Mine"
+    },
+    {
+      "artists": "Sara Bareilles",
+      "name": "Gravity"
+    },
+    {
+      "artists": "Sara Bareilles",
+      "name": "I Choose You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Sqr0DXoaYABbjBo9HaMkM"
+}

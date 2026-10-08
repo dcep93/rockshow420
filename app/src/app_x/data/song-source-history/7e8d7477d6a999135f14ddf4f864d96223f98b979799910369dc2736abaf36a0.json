@@ -1,0 +1,27 @@
+{
+  "artist": "Courtney Barnett",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Courtney Barnett",
+      "name": "Avant Gardener"
+    },
+    {
+      "artists": "Courtney Barnett",
+      "name": "Pedestrian at Best"
+    },
+    {
+      "artists": "Courtney Barnett",
+      "name": "Depreston"
+    },
+    {
+      "artists": "Courtney Barnett",
+      "name": "One Thing At A Time"
+    },
+    {
+      "artists": "Courtney Barnett, Kurt Vile",
+      "name": "Over Everything"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+}

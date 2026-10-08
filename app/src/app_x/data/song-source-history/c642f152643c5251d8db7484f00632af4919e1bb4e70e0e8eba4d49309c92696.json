@@ -1,0 +1,27 @@
+{
+  "artist": "The Blaze",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Blaze",
+      "name": "TERRITORY"
+    },
+    {
+      "artists": "The Blaze",
+      "name": "EYES"
+    },
+    {
+      "artists": "The Blaze",
+      "name": "SHE"
+    },
+    {
+      "artists": "The Blaze",
+      "name": "JUVENILE"
+    },
+    {
+      "artists": "The Blaze",
+      "name": "VIRILE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1Dt1UKLtrJIW1xxRBejjos"
+}

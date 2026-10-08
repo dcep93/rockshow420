@@ -1,0 +1,28 @@
+{
+  "artist": "The National",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Swift, The National",
+      "name": "coney island (feat. The National)"
+    },
+    {
+      "artists": "The National",
+      "explicit": true,
+      "name": "I Need My Girl"
+    },
+    {
+      "artists": "The National, Taylor Swift",
+      "name": "The Alcott (feat. Taylor Swift)"
+    },
+    {
+      "artists": "The National",
+      "name": "About Today - 2021 Remaster"
+    },
+    {
+      "artists": "The National",
+      "name": "Fake Empire"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2cCUtGK9sDU2EoElnk0GNB"
+}

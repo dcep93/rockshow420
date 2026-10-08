@@ -1,0 +1,29 @@
+{
+  "artist": "Kelela",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kelela, PinkPantheress",
+      "name": "the bridge"
+    },
+    {
+      "artists": "Kelela",
+      "name": "linknb"
+    },
+    {
+      "artists": "Kelela",
+      "name": "idea 1"
+    },
+    {
+      "artists": "Kelela, Fousheé",
+      "explicit": true,
+      "name": "new life forms"
+    },
+    {
+      "artists": "Kelela, A. K. Paul",
+      "explicit": true,
+      "name": "outta time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1U0sIzpRtDkvu1hXXzxh60"
+}

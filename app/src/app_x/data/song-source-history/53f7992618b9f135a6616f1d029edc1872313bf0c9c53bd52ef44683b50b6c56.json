@@ -1,0 +1,32 @@
+{
+  "artist": "Key Glock",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Key Glock",
+      "explicit": true,
+      "name": "BIG 5"
+    },
+    {
+      "artists": "Key Glock",
+      "explicit": true,
+      "name": "Ambition For Cash"
+    },
+    {
+      "artists": "Key Glock",
+      "explicit": true,
+      "name": "Russian Cream"
+    },
+    {
+      "artists": "Key Glock",
+      "explicit": true,
+      "name": "Let's Go"
+    },
+    {
+      "artists": "Key Glock",
+      "explicit": true,
+      "name": "Mr. Glock"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0RESbWvOMyua0yuyVrztJ5"
+}

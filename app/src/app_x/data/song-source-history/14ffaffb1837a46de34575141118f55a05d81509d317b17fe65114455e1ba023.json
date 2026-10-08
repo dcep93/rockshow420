@@ -1,0 +1,28 @@
+{
+  "artist": "LP",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LP",
+      "name": "Lost on You"
+    },
+    {
+      "artists": "LP",
+      "explicit": true,
+      "name": "Other People"
+    },
+    {
+      "artists": "LP",
+      "name": "When We're High"
+    },
+    {
+      "artists": "LP",
+      "name": "Lost on You - Live at Harvard and Stone"
+    },
+    {
+      "artists": "LP",
+      "name": "Tightrope"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0J7U24vlOOIeMpuaO6Q85A"
+}

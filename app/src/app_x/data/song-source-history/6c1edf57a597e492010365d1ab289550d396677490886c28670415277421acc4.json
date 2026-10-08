@@ -1,0 +1,27 @@
+{
+  "artist": "Sarah Kinsley",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sarah Kinsley",
+      "name": "Fleeting"
+    },
+    {
+      "artists": "Sarah Kinsley",
+      "name": "Truth Of Pursuit"
+    },
+    {
+      "artists": "Sarah Kinsley",
+      "name": "The King"
+    },
+    {
+      "artists": "Sarah Kinsley",
+      "name": "Reverie"
+    },
+    {
+      "artists": "Sarah Kinsley, Paris Paloma",
+      "name": "After All (with Paris Paloma)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/34A8vV1MCxGpA14KspqQuC"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Die Spitz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Die Spitz",
+      "name": "Throw Yourself to the Sword"
+    },
+    {
+      "artists": "Die Spitz",
+      "name": "Punishers"
+    },
+    {
+      "artists": "Die Spitz",
+      "name": "Hair of Dog"
+    },
+    {
+      "artists": "Die Spitz",
+      "explicit": true,
+      "name": "Pop Punk Anthem (Sorry for the Delay)"
+    },
+    {
+      "artists": "Die Spitz",
+      "name": "RIDING WITH MY GIRLS"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0zfZmpHTu0MlkkNr5KHeXE"
+}

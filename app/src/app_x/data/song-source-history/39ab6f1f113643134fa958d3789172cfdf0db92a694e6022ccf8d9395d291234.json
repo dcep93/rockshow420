@@ -1,0 +1,28 @@
+{
+  "artist": "Telula",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Telula",
+      "name": "3 1 2"
+    },
+    {
+      "artists": "Telula",
+      "explicit": true,
+      "name": "Feel This Way"
+    },
+    {
+      "artists": "Telula",
+      "name": "Never Enough"
+    },
+    {
+      "artists": "Telula",
+      "name": "3 3 3"
+    },
+    {
+      "artists": "Telula",
+      "name": "Let Me In"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1EoYANOJzjAhHD0ChMfn0G"
+}

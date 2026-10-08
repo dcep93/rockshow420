@@ -1,0 +1,32 @@
+{
+  "artist": "Fat Dog",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fat Dog",
+      "explicit": true,
+      "name": "Call It What You Want"
+    },
+    {
+      "artists": "Fat Dog",
+      "explicit": true,
+      "name": "Cancel Me (I’m Tired)"
+    },
+    {
+      "artists": "Fat Dog",
+      "explicit": true,
+      "name": "Go Fuck Urself"
+    },
+    {
+      "artists": "Fat Dog",
+      "explicit": true,
+      "name": "Heart of Darkness"
+    },
+    {
+      "artists": "Fat Dog",
+      "explicit": true,
+      "name": "Running"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4DLjEphXbW7qIhX4iwmNEe"
+}

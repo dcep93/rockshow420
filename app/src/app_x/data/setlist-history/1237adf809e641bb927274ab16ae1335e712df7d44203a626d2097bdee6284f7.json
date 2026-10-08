@@ -1,0 +1,76 @@
+{
+  "notes": "Note: \"Slow Ready\" cut from the start of set 2, \"Madhuvan\" cut from the encore",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Thatch"
+        },
+        {
+          "name": "Borne",
+          "notes": "(->)"
+        },
+        {
+          "name": "POP",
+          "notes": "(Live debut)"
+        },
+        {
+          "name": "Savenger",
+          "notes": "(Live debut)"
+        },
+        {
+          "name": "Peach",
+          "notes": "(Future Islands cover) (->)"
+        },
+        {
+          "name": "Seekers on the Ridge pt. I",
+          "notes": "(>)"
+        },
+        {
+          "name": "Seekers on the Ridge pt. II"
+        },
+        {
+          "name": "Echo of a Rose",
+          "notes": "(Fast version)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Pancakes",
+          "notes": "(Great Blue cover)"
+        },
+        {
+          "name": "Into the Myst",
+          "notes": "(with Stuart Bogie) (Unfinished) (->)"
+        },
+        {
+          "name": "Good2B",
+          "notes": "(with Stuart Bogie) (->)"
+        },
+        {
+          "name": "Elmeg the Wise",
+          "notes": "(with Stuart Bogie)"
+        },
+        {
+          "name": "The Empress of Organos",
+          "notes": "(with Stuart Bogie)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "State of the Art (A.E.I.O.U.)",
+          "notes": "(Jim James cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/goose/2026/madison-square-garden-new-york-ny-7b4a8af8.html"
+}

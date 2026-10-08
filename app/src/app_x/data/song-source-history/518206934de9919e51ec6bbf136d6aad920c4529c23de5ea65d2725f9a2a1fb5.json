@@ -1,0 +1,47 @@
+{
+  "artist": "Three Days Grace",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Three Days Grace",
+      "name": "Animal I Have Become"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "I Hate Everything About You"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Never Too Late"
+    },
+    {
+      "artists": "EThree Days Grace",
+      "name": "Riot"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Time of Dying"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Pain"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Home"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Just Like You"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Painkiller"
+    },
+    {
+      "artists": "Three Days Grace",
+      "name": "Break"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2xiIXseIJcq3nG7C8fHeBj"
+}

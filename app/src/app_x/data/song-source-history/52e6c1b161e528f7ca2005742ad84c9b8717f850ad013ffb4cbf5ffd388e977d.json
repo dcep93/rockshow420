@@ -1,0 +1,29 @@
+{
+  "artist": "Diplo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Major Lazer, DJ Snake, MØ, Diplo",
+      "name": "Lean On"
+    },
+    {
+      "artists": "Ellie Goulding, Diplo, Swae Lee",
+      "explicit": true,
+      "name": "Close To Me"
+    },
+    {
+      "artists": "Major Lazer, Diplo, Nyla, Fuse ODG",
+      "name": "Light It Up - Remix"
+    },
+    {
+      "artists": "Jack Ü, Skrillex, Diplo, Justin Bieber",
+      "name": "Where Are Ü Now (with Justin Bieber)"
+    },
+    {
+      "artists": "Diplo, Trippie Redd",
+      "explicit": true,
+      "name": "Wish (feat. Trippie Redd) - Trippie Mix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5fMUXHkw8R8eOP2RNVYEZX"
+}

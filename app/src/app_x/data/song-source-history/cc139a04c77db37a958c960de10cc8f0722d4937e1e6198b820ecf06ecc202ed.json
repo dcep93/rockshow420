@@ -1,0 +1,27 @@
+{
+  "artist": "Disclosure",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Disclosure, Sam Smith",
+      "name": "Latch"
+    },
+    {
+      "artists": "Disclosure, Rivo, Eliza Doolittle",
+      "name": "You & Me - Rivo Remix"
+    },
+    {
+      "artists": "Disclosure, Eliza Doolittle, Flume",
+      "name": "You & Me - Flume Remix"
+    },
+    {
+      "artists": "Khalid, Disclosure",
+      "name": "Talk"
+    },
+    {
+      "artists": "Disclosure",
+      "name": "She’s Gone, Dance On"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6nS5roXSAGhTGr34W6n7Et"
+}

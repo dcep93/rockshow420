@@ -1,0 +1,27 @@
+{
+  "artist": "Rita Vian",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rita Vian",
+      "name": "Podes Ficar"
+    },
+    {
+      "artists": "Rita Vian",
+      "name": "Purga"
+    },
+    {
+      "artists": "Rita Vian",
+      "name": "Ir Embora"
+    },
+    {
+      "artists": "Rita Vian, Branko",
+      "name": "Sereia Remix"
+    },
+    {
+      "artists": "Dino d'Santiago, Rita Vian, Branko",
+      "name": "A Noite Passada - SG Gigante"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2F6B2QaWX7cz72kKtY8LRD"
+}

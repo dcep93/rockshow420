@@ -1,0 +1,29 @@
+{
+  "artist": "Alcalá Norte",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alcalá Norte",
+      "name": "El Endemoniao"
+    },
+    {
+      "artists": "Alcalá Norte",
+      "name": "La Vida Cañón"
+    },
+    {
+      "artists": "Alcalá Norte",
+      "name": "El Hombre Planeta"
+    },
+    {
+      "artists": "Alcalá Norte",
+      "explicit": true,
+      "name": "La Calle Elfo"
+    },
+    {
+      "artists": "Alcalá Norte",
+      "explicit": true,
+      "name": "La Sangre del Pobre"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7raVfIwIqNjj5OGBbBQNDR"
+}

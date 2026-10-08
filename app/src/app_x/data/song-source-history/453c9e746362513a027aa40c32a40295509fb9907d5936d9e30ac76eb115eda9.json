@@ -1,0 +1,27 @@
+{
+  "artist": "Caamp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Caamp",
+      "name": "By and By"
+    },
+    {
+      "artists": "Caamp",
+      "name": "All the Debts I Owe"
+    },
+    {
+      "artists": "Richy Mitch & The Coal Miners, Caamp",
+      "name": "Evergreen (feat. Caamp)"
+    },
+    {
+      "artists": "Caamp",
+      "name": "Vagabond"
+    },
+    {
+      "artists": "Caamp",
+      "name": "26"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0wyMPXGfOuQzNR54ujR9Ix"
+}

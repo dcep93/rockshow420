@@ -1,0 +1,32 @@
+{
+  "artist": "$uicideboy$",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "$uicideboy$",
+      "explicit": true,
+      "name": "...And to Those I Love, Thanks for Sticking Around"
+    },
+    {
+      "artists": "$uicideboy$",
+      "explicit": true,
+      "name": "Antarctica"
+    },
+    {
+      "artists": "$uicideboy$",
+      "explicit": true,
+      "name": "1000 Blunts"
+    },
+    {
+      "artists": "$uicideboy$",
+      "explicit": true,
+      "name": "Kill Yourself (Part III)"
+    },
+    {
+      "artists": "$uicideboy$",
+      "explicit": true,
+      "name": "My Flaws Burn Through My Skin Like Demonic Flames from Hell"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1VPmR4DJC1PlOtd0IADAO0"
+}

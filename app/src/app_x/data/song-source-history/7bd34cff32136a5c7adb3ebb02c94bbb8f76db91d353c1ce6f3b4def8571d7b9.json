@@ -1,0 +1,27 @@
+{
+  "artist": "Fall Out Boy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fall Out Boy",
+      "name": "Centuries"
+    },
+    {
+      "artists": "Fall Out Boy",
+      "name": "Sugar, We're Goin Down"
+    },
+    {
+      "artists": "Fall Out Boy",
+      "name": "Thnks fr th Mmrs"
+    },
+    {
+      "artists": "Fall Out Boy",
+      "name": "Dance, Dance"
+    },
+    {
+      "artists": "Fall Out Boy",
+      "name": "My Songs Know What You Did In The Dark (Light Em Up)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4UXqAaa6dQYAk18Lv7PEgX"
+}

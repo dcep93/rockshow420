@@ -1,0 +1,27 @@
+{
+  "artist": "MIKA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MIKA",
+      "name": "Grace Kelly"
+    },
+    {
+      "artists": "MIKA",
+      "name": "Relax, Take It Easy"
+    },
+    {
+      "artists": "MIKA",
+      "name": "Love Today"
+    },
+    {
+      "artists": "MIKA",
+      "name": "Relax, Take It Easy"
+    },
+    {
+      "artists": "MIKA",
+      "name": "Happy Ending"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5MmVJVhhYKQ86izuGHzJYA"
+}

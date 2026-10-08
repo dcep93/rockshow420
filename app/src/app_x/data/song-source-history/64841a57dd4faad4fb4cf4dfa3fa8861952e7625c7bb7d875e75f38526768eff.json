@@ -1,0 +1,27 @@
+{
+  "artist": "Yo La Tengo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Yo La Tengo",
+      "name": "Autumn Sweater"
+    },
+    {
+      "artists": "Yo La Tengo",
+      "name": "My Little Corner of the World"
+    },
+    {
+      "artists": "Yo La Tengo",
+      "name": "You Can Have It All"
+    },
+    {
+      "artists": "Yo La Tengo",
+      "name": "Nowhere Near"
+    },
+    {
+      "artists": "Yo La Tengo",
+      "name": "Green Arrow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+}

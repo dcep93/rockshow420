@@ -1,0 +1,27 @@
+{
+  "artist": "Carlita",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Carlita, SOFI TUKKER",
+      "name": "Manhattan"
+    },
+    {
+      "artists": "Carlita, Malive, jasper.wav",
+      "name": "Solar Skin (feat. jasper.wav)"
+    },
+    {
+      "artists": "Carlita",
+      "name": "Time"
+    },
+    {
+      "artists": "Carlita, Janet Planet",
+      "name": "Forever Baby"
+    },
+    {
+      "artists": "Carlita, WhoMadeWho, Orsay",
+      "name": "Mind Off"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1GVbOnrND8b3eh2JZ4opw8"
+}

@@ -1,0 +1,49 @@
+{
+  "artist": "Lawrence",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lawrence",
+      "name": "Guy I Used To Be"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Whatcha Want"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Family Business"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Do You Wanna Do Nothing With Me?"
+    },
+    {
+      "artists": "Lawrence",
+      "explicit": true,
+      "name": "Don't Lose Sight"
+    },
+    {
+      "artists": "Jacob Collier, Lawrence, Michael McDonald",
+      "name": "Wherever I Go (feat. Lawrence & Michael McDonald)"
+    },
+    {
+      "artists": "Lawrence, Quinn XCII",
+      "explicit": true,
+      "name": "Rain Check (feat. Quinn XCII)"
+    },
+    {
+      "artists": "Lawrence, Stolen Jars",
+      "name": "Santa Claus Is Comin' to Town"
+    },
+    {
+      "artists": "Lawrence",
+      "name": "Do"
+    },
+    {
+      "artists": "Meghan Trainor, Lawrence",
+      "name": "Crushin' (feat. Lawrence)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5rwUYLyUq8gBsVaOUcUxpE"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Clipse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Clipse, Kendrick Lamar, Pharrell Williams, Pusha T, Malice",
+      "explicit": true,
+      "name": "Chains & Whips"
+    },
+    {
+      "artists": "Clipse, Pusha T, Malice",
+      "explicit": true,
+      "name": "So Be It"
+    },
+    {
+      "artists": "Clipse, Tyler, The Creator, Pusha T, Malice",
+      "explicit": true,
+      "name": "P.O.V."
+    },
+    {
+      "artists": "Clipse, Pusha T, Malice",
+      "explicit": true,
+      "name": "Ace Trumpets"
+    },
+    {
+      "artists": "Kehlani, Clipse",
+      "explicit": true,
+      "name": "No Such Thing (feat. Clipse)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2J257euzcjnDLipsyJH3F2"
+}

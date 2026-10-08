@@ -1,0 +1,27 @@
+{
+  "artist": "Tronco",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tronco",
+      "name": "Abducida Por Formar Una Pareja"
+    },
+    {
+      "artists": "Tronco",
+      "name": "Animales"
+    },
+    {
+      "artists": "Tronco",
+      "name": "Pez En Bicicleta"
+    },
+    {
+      "artists": "Tronco",
+      "name": "Piropos"
+    },
+    {
+      "artists": "Tronco",
+      "name": "Lo Que Pasó Cuando Te Fuiste"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/15UG6iTPrEmK1Lwm9VmMnB"
+}

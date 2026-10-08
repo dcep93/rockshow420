@@ -1,0 +1,27 @@
+{
+  "artist": "Les Savy Fav",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Les Savy Fav",
+      "name": "Let's Get Out Of Here"
+    },
+    {
+      "artists": "Les Savy Fav",
+      "name": "The Sweat Descends"
+    },
+    {
+      "artists": "Les Savy Fav",
+      "name": "Hold On To Your Genre"
+    },
+    {
+      "artists": "Les Savy Fav",
+      "name": "Patty Lee"
+    },
+    {
+      "artists": "Les Savy Fav",
+      "name": "Rage In The Plague Age"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5DZBnxCYzs32O2bbqK8KNg"
+}

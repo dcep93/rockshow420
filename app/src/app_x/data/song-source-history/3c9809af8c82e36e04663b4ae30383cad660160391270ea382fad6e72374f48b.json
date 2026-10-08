@@ -1,0 +1,32 @@
+{
+  "artist": "Sheck Wes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sheck Wes",
+      "explicit": true,
+      "name": "Mo Bamba"
+    },
+    {
+      "artists": "JACKBOYS, Sheck Wes",
+      "explicit": true,
+      "name": "GANG GANG"
+    },
+    {
+      "artists": "Sheck Wes, Travis Scott",
+      "explicit": true,
+      "name": "ILMB (feat. Travis Scott)"
+    },
+    {
+      "artists": "Travis Scott, Sheck Wes, Don Toliver",
+      "explicit": true,
+      "name": "2000 EXCURSION"
+    },
+    {
+      "artists": "Dreamville, JID, J. Cole, Kenny Mason, Sheck Wes",
+      "explicit": true,
+      "name": "Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2RDOrhPqAM4jzTRCEb19qX"
+}

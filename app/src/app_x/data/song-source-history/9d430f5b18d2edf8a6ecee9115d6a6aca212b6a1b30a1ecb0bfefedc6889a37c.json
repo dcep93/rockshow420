@@ -1,0 +1,27 @@
+{
+  "artist": "Jacob Banks",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jacob Banks",
+      "name": "Chainsmoking"
+    },
+    {
+      "artists": "Jacob Banks",
+      "name": "Unknown (To You)"
+    },
+    {
+      "artists": "LP Giobbi, Jacob Banks",
+      "name": "Feel"
+    },
+    {
+      "artists": "Jacob Banks",
+      "name": "A Tree Never Waters Itself"
+    },
+    {
+      "artists": "Jacob Banks",
+      "name": "Unholy War"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0AepkoQhYvkjEzzwIcGxdV"
+}

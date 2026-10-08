@@ -1,0 +1,27 @@
+{
+  "artist": "Mitski",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mitski",
+      "name": "My Love Mine All Mine"
+    },
+    {
+      "artists": "Mitski",
+      "name": "Washing Machine Heart"
+    },
+    {
+      "artists": "Mitski",
+      "name": "I Bet on Losing Dogs"
+    },
+    {
+      "artists": "Mitski",
+      "name": "First Love/Late Spring"
+    },
+    {
+      "artists": "Mitski",
+      "name": "Nobody"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2uYWxilOVlUdk4oV9DvwqK"
+}

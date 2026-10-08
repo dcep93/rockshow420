@@ -1,0 +1,32 @@
+{
+  "artist": "Big Freedia",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Big Freedia, Lizzo",
+      "explicit": true,
+      "name": "Karaoke (feat. Lizzo)"
+    },
+    {
+      "artists": "Troye Sivan, Big Freedia",
+      "explicit": true,
+      "name": "Rush - Big Freedia Remix"
+    },
+    {
+      "artists": "Big Freedia, SOPHIE",
+      "explicit": true,
+      "name": "Blaze That Ass"
+    },
+    {
+      "artists": "Big Freedia",
+      "explicit": true,
+      "name": "Make It Jingle"
+    },
+    {
+      "artists": "Big Freedia, SOPHIE, MUNA",
+      "explicit": true,
+      "name": "Let Me See Ya (feat. MUNA)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2gyv1akuIB9fQvXoGSPaJr"
+}

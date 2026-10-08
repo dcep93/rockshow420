@@ -1,0 +1,27 @@
+{
+  "artist": "Mark Ambor",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mark Ambor",
+      "name": "Belong Together"
+    },
+    {
+      "artists": "Mark Ambor",
+      "name": "Good To Be"
+    },
+    {
+      "artists": "Mark Ambor",
+      "name": "The Proof"
+    },
+    {
+      "artists": "Mark Ambor",
+      "name": "Our Way"
+    },
+    {
+      "artists": "Mark Ambor",
+      "name": "I Hope It All Works Out"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/11p2E654TTU8e0nZWBR4AL"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Blondshell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Blondshell",
+      "name": "Stone Fruit"
+    },
+    {
+      "artists": "Blondshell",
+      "name": "Fur Elise"
+    },
+    {
+      "artists": "Blondshell",
+      "name": "Heart Has To Work So Hard"
+    },
+    {
+      "artists": "Blondshell",
+      "name": "Violins"
+    },
+    {
+      "artists": "Blondshell",
+      "name": "Olympus"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7qrEXiLLnWkkYHhadZ1Oij"
+}

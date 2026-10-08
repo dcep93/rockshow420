@@ -1,0 +1,28 @@
+{
+  "artist": "MisterWives",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MisterWives",
+      "name": "Reflections"
+    },
+    {
+      "artists": "MisterWives",
+      "name": "SUPERBLOOM"
+    },
+    {
+      "artists": "MisterWives",
+      "name": "Our Own House"
+    },
+    {
+      "artists": "MisterWives",
+      "explicit": true,
+      "name": "Coloring Outside The Lines"
+    },
+    {
+      "artists": "MisterWives",
+      "name": "Riptide"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5ivCbtrcD5N4rD337xIb2z"
+}

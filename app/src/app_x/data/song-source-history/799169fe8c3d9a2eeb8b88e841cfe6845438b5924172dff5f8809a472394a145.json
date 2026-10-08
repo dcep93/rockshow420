@@ -1,0 +1,27 @@
+{
+  "artist": "Tragedy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tragedy",
+      "name": "Gimme! Gimme! Gimme! (a Man After Midnight)"
+    },
+    {
+      "artists": "Tragedy",
+      "name": "Raining Blood / It's Raining Men"
+    },
+    {
+      "artists": "Tragedy",
+      "name": "Dancing Queen"
+    },
+    {
+      "artists": "Tragedy",
+      "name": "Total Eclipse of the Heart"
+    },
+    {
+      "artists": "Tragedy",
+      "name": "Stayin' Alive"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7b0yxxyDBE2QtBBr3Fa1xD"
+}

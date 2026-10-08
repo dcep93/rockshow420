@@ -1,0 +1,28 @@
+{
+  "artist": "Broken Social Scene",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Broken Social Scene",
+      "name": "Anthems For A Seventeen Year-Old Girl"
+    },
+    {
+      "artists": "Broken Social Scene",
+      "name": "Sweetest Kill"
+    },
+    {
+      "artists": "Broken Social Scene",
+      "explicit": true,
+      "name": "Cause = Time"
+    },
+    {
+      "artists": "Broken Social Scene",
+      "name": "7/4 (Shoreline)"
+    },
+    {
+      "artists": "Broken Social Scene",
+      "name": "Lover's Spit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7lOJ7WXyopaxri0dbOiZkd"
+}

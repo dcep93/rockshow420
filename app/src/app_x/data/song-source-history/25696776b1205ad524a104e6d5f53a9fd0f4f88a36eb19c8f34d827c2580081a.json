@@ -1,0 +1,28 @@
+{
+  "artist": "Beth Gibbons",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kendrick Lamar, Beth Gibbons",
+      "explicit": true,
+      "name": "Mother I Sober (feat. Beth Gibbons of Portishead)"
+    },
+    {
+      "artists": "Beth Gibbons, Rustin Man",
+      "name": "Tom The Model"
+    },
+    {
+      "artists": "Beth Gibbons, Rustin Man",
+      "name": "Mysteries"
+    },
+    {
+      "artists": "Beth Gibbons, Rustin Man",
+      "name": "Sand River"
+    },
+    {
+      "artists": "Beth Gibbons",
+      "name": "Floating On A Moment"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Lt6KFXX3P0v6vfrynQAMo"
+}

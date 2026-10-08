@@ -1,0 +1,27 @@
+{
+  "artist": "Alison Wonderland",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alison Wonderland, Ninajirachi",
+      "name": "Heaven"
+    },
+    {
+      "artists": "Alison Wonderland",
+      "name": "I Want U"
+    },
+    {
+      "artists": "Alison Wonderland, WINK",
+      "name": "RESCUE U"
+    },
+    {
+      "artists": "Alison Wonderland",
+      "name": "Run"
+    },
+    {
+      "artists": "Subtronics, Alison Wonderland",
+      "name": "No One Does It Like"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/11gWrKZMBsGQWmobv3oNfW"
+}

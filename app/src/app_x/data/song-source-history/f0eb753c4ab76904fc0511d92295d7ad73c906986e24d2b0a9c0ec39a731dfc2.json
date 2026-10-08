@@ -1,0 +1,30 @@
+{
+  "artist": "TiRon & Ayomari",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TiRon & Ayomari",
+      "explicit": true,
+      "name": "It's a Trip"
+    },
+    {
+      "artists": "TiRon & Ayomari",
+      "name": "All We Are"
+    },
+    {
+      "artists": "TiRon & Ayomari",
+      "name": "2 Kinds"
+    },
+    {
+      "artists": "TiRon & Ayomari, D.R.U.G.S., Thundercat",
+      "explicit": true,
+      "name": "If I Had You"
+    },
+    {
+      "artists": "TiRon & Ayomari",
+      "explicit": true,
+      "name": "Them Wallflowers"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5w4jm6oj9XguE2zaCEfd3S"
+}

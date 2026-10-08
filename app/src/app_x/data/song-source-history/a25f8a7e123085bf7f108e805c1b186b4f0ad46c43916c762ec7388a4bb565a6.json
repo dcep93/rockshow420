@@ -1,0 +1,47 @@
+{
+  "artist": "CHVRCHES",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marshmello, CHVRCHES",
+      "name": "Here With Me"
+    },
+    {
+      "artists": "ECHVRCHES",
+      "name": "Roses"
+    },
+    {
+      "artists": "ECHVRCHES",
+      "name": "The Mother We Share"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Clearest Blue"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Forever"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Leave a Trace"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Miracle"
+    },
+    {
+      "artists": "ECHVRCHES",
+      "name": "Good Girls"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Death Stranding"
+    },
+    {
+      "artists": "CHVRCHES",
+      "name": "Recover"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3CjlHNtplJyTf9npxaPl5w"
+}

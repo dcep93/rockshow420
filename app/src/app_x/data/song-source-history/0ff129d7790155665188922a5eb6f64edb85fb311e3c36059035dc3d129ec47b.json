@@ -1,0 +1,27 @@
+{
+  "artist": "Abstract Concrete",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Abstract Concrete",
+      "name": "Small World"
+    },
+    {
+      "artists": "Abstract Concrete, Vessel",
+      "name": "Almost Touch - Vessel Remix"
+    },
+    {
+      "artists": "Abstract Concrete, Joe Goddard, Al Doyle",
+      "name": "Tomorrow's World - Joe Goddard and Al Doyle Remix"
+    },
+    {
+      "artists": "Abstract Concrete",
+      "name": "Almost Touch"
+    },
+    {
+      "artists": "Abstract Concrete",
+      "name": "This Echo"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/50UrGOcwsHXe10ot7AjVav"
+}

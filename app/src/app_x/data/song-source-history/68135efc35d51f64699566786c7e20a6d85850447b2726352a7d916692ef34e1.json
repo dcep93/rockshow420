@@ -1,0 +1,31 @@
+{
+  "artist": "Hairitage",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hairitage",
+      "name": "Blue"
+    },
+    {
+      "artists": "Black Tiger Sex Machine, Hairitage, Hyro The Hero",
+      "explicit": true,
+      "name": "Cheatcode"
+    },
+    {
+      "artists": "DJ DIESEL, Hairitage, Shaquille O'Neal",
+      "explicit": true,
+      "name": "BANG YOUR HEAD"
+    },
+    {
+      "artists": "Hairitage, Rico Act",
+      "explicit": true,
+      "name": "40 Cal"
+    },
+    {
+      "artists": "Hairitage",
+      "explicit": true,
+      "name": "Throw Ass"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Cqy862jSCV7qdNrCDqvNK"
+}

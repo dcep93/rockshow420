@@ -1,0 +1,27 @@
+{
+  "artist": "Fatai",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fatai, Sammy Johnson",
+      "name": "Deep End"
+    },
+    {
+      "artists": "Fatai",
+      "name": "Brick & Mortar"
+    },
+    {
+      "artists": "Fatai",
+      "name": "Road Less Traveled"
+    },
+    {
+      "artists": "Fatai",
+      "name": "Be Still"
+    },
+    {
+      "artists": "Stan Walker, Fatai",
+      "name": "If You Love Me (feat. Fatai)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/34OMadP955CwymrTGJUbsw"
+}

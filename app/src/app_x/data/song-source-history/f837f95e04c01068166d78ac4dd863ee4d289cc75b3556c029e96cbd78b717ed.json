@@ -1,0 +1,48 @@
+{
+  "artist": "NanowaR of Steel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NanowaR of Steel, Charly Glamour, Gigatron",
+      "name": "Norwegian Reggaeton"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Valhalleluja"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "explicit": true,
+      "name": "Disco Metal"
+    },
+    {
+      "artists": "NanowaR of Steel, Joakim Brodén",
+      "name": "Pasadena 1994 (feat. Joakim Broden)"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Giorgio Mastrota (the Keeper of Inox Steel)"
+    },
+    {
+      "artists": "NanowaR of Steel, Giorgio Mastrota",
+      "name": "La Polenta Taragnarock (feat. Giorgio Mastrota)"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Uranus"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "HelloWorld.java"
+    },
+    {
+      "artists": "NanowaR of Steel",
+      "name": "Il Signore degli Anelli dello Stadio"
+    },
+    {
+      "artists": "NanowaR of Steel, Madeleine Liljestam",
+      "name": "Winterstorm in the Night (feat. Madeleine Liljestam)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7jw9vF1hFRp1k8dDRNRiC5"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "George FitzGerald",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elderbrook, George FitzGerald",
+      "name": "Glad I Found You"
+    },
+    {
+      "artists": "George FitzGerald",
+      "name": "The Ladder"
+    },
+    {
+      "artists": "George FitzGerald, Boxed In",
+      "name": "Full Circle"
+    },
+    {
+      "artists": "George FitzGerald",
+      "name": "Burns"
+    },
+    {
+      "artists": "George FitzGerald, Lil Silva",
+      "name": "Roll Back"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3KOHpygRuo1ruQAbEneR3t"
+}

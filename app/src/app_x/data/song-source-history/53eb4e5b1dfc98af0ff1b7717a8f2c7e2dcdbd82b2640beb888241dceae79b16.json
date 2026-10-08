@@ -1,0 +1,47 @@
+{
+  "artist": "Sure Sure",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sure Sure",
+      "name": "This Must Be The Place"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Funky Galileo"
+    },
+    {
+      "artists": "ESure Sure",
+      "name": "Warm Animal"
+    },
+    {
+      "artists": "ESure Sure",
+      "name": "Friends"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Fat Lady"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "The Caller"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Peaceful In My Mind"
+    },
+    {
+      "artists": "ESure Sure",
+      "name": "Giants"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "This Time"
+    },
+    {
+      "artists": "Sure Sure",
+      "name": "Warm Animal (Acoustic)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1anAI9P9iSzc9qzLv6AtHZ"
+}

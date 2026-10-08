@@ -1,0 +1,28 @@
+{
+  "artist": "The Last Dinner Party",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Last Dinner Party",
+      "explicit": true,
+      "name": "Nothing Matters"
+    },
+    {
+      "artists": "The Last Dinner Party",
+      "name": "The Feminine Urge"
+    },
+    {
+      "artists": "The Last Dinner Party",
+      "name": "Sinner"
+    },
+    {
+      "artists": "The Last Dinner Party",
+      "name": "Count The Ways"
+    },
+    {
+      "artists": "The Last Dinner Party",
+      "name": "The Scythe"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5SHgclK1ZpTdfdAmXW7J6s"
+}

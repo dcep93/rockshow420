@@ -1,0 +1,27 @@
+{
+  "artist": "Taylor Janzen",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Janzen",
+      "name": "What I Do..."
+    },
+    {
+      "artists": "Taylor Janzen",
+      "name": "Push It Down"
+    },
+    {
+      "artists": "Taylor Janzen",
+      "name": "The Waiting Room"
+    },
+    {
+      "artists": "Taylor Janzen",
+      "name": "Something Better"
+    },
+    {
+      "artists": "Taylor Janzen",
+      "name": "Devotion"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3rTVTBOBT7NPgXtI5oWyxc"
+}

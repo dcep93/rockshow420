@@ -1,0 +1,27 @@
+{
+  "artist": "Ven'nus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Figa Flawas, Ven'nus",
+      "name": "Per què he plorat?"
+    },
+    {
+      "artists": "31 FAM, el kid, Ven'nus",
+      "name": "la teva companyia"
+    },
+    {
+      "artists": "Al·lèrgiques al pol·len, Ven'nus, Joan Manuel Serrat",
+      "name": "PARAUL·LES D'AMOR"
+    },
+    {
+      "artists": "Figa Flawas, Ven'nus",
+      "name": "Una Sola Paraula"
+    },
+    {
+      "artists": "Ven'nus, Vernat",
+      "name": "Vinya del Mar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/37sDYqqodoEv0XbJxCSLSK"
+}

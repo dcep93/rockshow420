@@ -1,0 +1,79 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Date Rape",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Smoke Two Joints",
+          "notes": "(The Toyes cover)"
+        },
+        {
+          "name": "Wrong Way",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Murdera"
+        },
+        {
+          "name": "You Better Listen"
+        },
+        {
+          "name": "April 29, 1992 (Miami)",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Take It or Leave It"
+        },
+        {
+          "name": "The Ballad of Johnny Butt",
+          "notes": "(Secret Hate cover)"
+        },
+        {
+          "name": "Panic"
+        },
+        {
+          "name": "Hope",
+          "notes": "(Descendents cover)"
+        },
+        {
+          "name": "Badfish",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Let's Go Get Stoned",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Perfect World",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Doin' Time",
+          "notes": "(Sublime cover)"
+        },
+        {
+          "name": "Scarlet Begonias",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "What I Got",
+          "notes": "(Sublime cover) (with noodles)"
+        },
+        {
+          "name": "Santeria",
+          "notes": "(Sublime cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/sublime-with-rome/2017/shoreline-amphitheatre-mountain-view-ca-1be25920.html"
+}

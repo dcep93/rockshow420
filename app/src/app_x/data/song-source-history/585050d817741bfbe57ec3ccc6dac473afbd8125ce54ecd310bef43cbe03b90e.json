@@ -1,0 +1,27 @@
+{
+  "artist": "Ra Ra Riot",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ra Ra Riot, Rostam",
+      "name": "Water (feat. Rostam)"
+    },
+    {
+      "artists": "Ra Ra Riot",
+      "name": "Boy"
+    },
+    {
+      "artists": "Ra Ra Riot",
+      "name": "Can You Tell"
+    },
+    {
+      "artists": "Ra Ra Riot",
+      "name": "Bad To Worse"
+    },
+    {
+      "artists": "Ra Ra Riot",
+      "name": "Absolutely"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6FIrstf3kHEg3zBOyLpvxD"
+}

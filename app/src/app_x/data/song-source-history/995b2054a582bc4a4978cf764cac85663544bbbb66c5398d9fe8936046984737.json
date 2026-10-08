@@ -1,0 +1,27 @@
+{
+  "artist": "ML Buch",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ML Buch",
+      "name": "Dust beam"
+    },
+    {
+      "artists": "ML Buch",
+      "name": "High speed calm air tonight"
+    },
+    {
+      "artists": "ML Buch",
+      "name": "Flames shards goo"
+    },
+    {
+      "artists": "ML Buch",
+      "name": "Pan over the hill"
+    },
+    {
+      "artists": "ML Buch",
+      "name": "Fleshless hand"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3NsSv8HchEwfa7bGkjb4ZC"
+}

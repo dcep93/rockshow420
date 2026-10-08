@@ -1,0 +1,28 @@
+{
+  "artist": "Whethan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elley Duhé, Whethan",
+      "name": "MONEY ON THE DASH - SPED UP"
+    },
+    {
+      "artists": "Elley Duhé, Whethan",
+      "name": "MONEY ON THE DASH"
+    },
+    {
+      "artists": "Whethan, Dua Lipa",
+      "explicit": true,
+      "name": "High (& Dua Lipa)"
+    },
+    {
+      "artists": "Oliver Tree, Whethan",
+      "name": "Do You Feel Me?"
+    },
+    {
+      "artists": "Whethan",
+      "name": "Swag Surfin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0vqJkZ0RpLZixt3lTmD8vP"
+}

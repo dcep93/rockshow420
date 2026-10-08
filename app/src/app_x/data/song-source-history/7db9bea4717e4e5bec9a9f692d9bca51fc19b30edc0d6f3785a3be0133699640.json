@@ -1,0 +1,27 @@
+{
+  "artist": "Kode9",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kode9, The Spaceape",
+      "name": "9 Samurai"
+    },
+    {
+      "artists": "Kode9",
+      "name": "UH"
+    },
+    {
+      "artists": "Kode9",
+      "name": "Magnetic City - Mixed"
+    },
+    {
+      "artists": "Kode9",
+      "name": "Eyes Go Blank"
+    },
+    {
+      "artists": "Kode9, The Spaceape",
+      "name": "Love Is The Drug"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5Z3GyWBvJZgJ35TS0cmXll"
+}

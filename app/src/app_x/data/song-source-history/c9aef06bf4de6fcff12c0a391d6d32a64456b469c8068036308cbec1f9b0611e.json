@@ -1,0 +1,29 @@
+{
+  "artist": "Alizzz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alizzz, Amaia",
+      "name": "El Encuentro"
+    },
+    {
+      "artists": "Alizzz",
+      "explicit": true,
+      "name": "Ya no siento nada"
+    },
+    {
+      "artists": "Alizzz, C. Tangana",
+      "name": "Ya no vales"
+    },
+    {
+      "artists": "Alizzz",
+      "name": "Callaito"
+    },
+    {
+      "artists": "Alizzz",
+      "explicit": true,
+      "name": "Todo me sabe a poco"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/23herDudxPBB3S81GB5uG3"
+}

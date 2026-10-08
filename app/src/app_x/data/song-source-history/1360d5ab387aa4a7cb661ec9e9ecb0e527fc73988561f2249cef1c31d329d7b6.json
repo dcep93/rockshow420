@@ -1,0 +1,31 @@
+{
+  "artist": "Reneé Rapp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Reneé Rapp",
+      "explicit": true,
+      "name": "I Think I Like You Better When You’re Gone"
+    },
+    {
+      "artists": "Reneé Rapp",
+      "name": "In The Kitchen"
+    },
+    {
+      "artists": "Reneé Rapp",
+      "explicit": true,
+      "name": "Leave Me Alone"
+    },
+    {
+      "artists": "Reneé Rapp, Megan Thee Stallion",
+      "explicit": true,
+      "name": "Not My Fault (with Megan Thee Stallion)"
+    },
+    {
+      "artists": "Reneé Rapp",
+      "explicit": true,
+      "name": "Tummy Hurts"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2hUYKu1x0UZQXvzCmggvSn"
+}

@@ -1,0 +1,29 @@
+{
+  "artist": "Cavetown",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cavetown",
+      "explicit": true,
+      "name": "Juliet"
+    },
+    {
+      "artists": "Cavetown",
+      "name": "Devil Town"
+    },
+    {
+      "artists": "Cavetown",
+      "name": "This Is Home"
+    },
+    {
+      "artists": "Cavetown",
+      "explicit": true,
+      "name": "Boys Will Be Bugs"
+    },
+    {
+      "artists": "Cavetown",
+      "name": "Home"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+}

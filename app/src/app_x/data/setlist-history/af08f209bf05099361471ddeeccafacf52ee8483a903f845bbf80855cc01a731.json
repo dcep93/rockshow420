@@ -1,0 +1,125 @@
+{
+  "notes": "Note: Soundcheck: \"2000 Light Years Away\", \"Too Dumb to Die\", and \"Homecoming\".",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Unity",
+          "notes": "(Operation Ivy song)",
+          "tape": true
+        },
+        {
+          "name": "Bohemian Rhapsody",
+          "notes": "(Queen song)",
+          "tape": true
+        },
+        {
+          "name": "Blitzkrieg Bop",
+          "notes": "(Ramones song)",
+          "tape": true
+        },
+        {
+          "name": "The Good, the Bad and the Ugly",
+          "notes": "(Ennio Morricone song)",
+          "tape": true
+        },
+        {
+          "name": "Know Your Enemy",
+          "notes": "(Fan brought on stage to sing)"
+        },
+        {
+          "name": "Bang Bang"
+        },
+        {
+          "name": "Revolution Radio"
+        },
+        {
+          "name": "Holiday"
+        },
+        {
+          "name": "Letterbomb"
+        },
+        {
+          "name": "Boulevard of Broken Dreams"
+        },
+        {
+          "name": "Longview",
+          "notes": "(Fan rocked the third verse)"
+        },
+        {
+          "name": "Youngblood",
+          "notes": "(Fireworks were set off after Billie sang \"Fuck you, I'm from Oakland.\")"
+        },
+        {
+          "name": "2000 Light Years Away"
+        },
+        {
+          "name": "Hitchin' a Ride"
+        },
+        {
+          "name": "When I Come Around"
+        },
+        {
+          "name": "Welcome to Paradise"
+        },
+        {
+          "name": "Minority"
+        },
+        {
+          "name": "Are We the Waiting"
+        },
+        {
+          "name": "St. Jimmy"
+        },
+        {
+          "name": "Knowledge",
+          "notes": "(Operation Ivy cover) (Fan brought on stage to play guitar and got to keep the guitar)"
+        },
+        {
+          "name": "Basket Case"
+        },
+        {
+          "name": "She"
+        },
+        {
+          "name": "King for a Day",
+          "notes": "(Sax solo with instrumental snippet of \" Careless Whisper\" by George Michael)"
+        },
+        {
+          "name": "Shout / Always Look on the Bright Side of Life / (I Can't Get No) Satisfaction / Hey Jude"
+        },
+        {
+          "name": "Still Breathing"
+        },
+        {
+          "name": "Forever Now"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "American Idiot"
+        },
+        {
+          "name": "Jesus of Suburbia"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "21 Guns"
+        },
+        {
+          "name": "Good Riddance (Time of Your Life)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/green-day/2017/oakland-coliseum-oakland-ca-13e53da5.html"
+}

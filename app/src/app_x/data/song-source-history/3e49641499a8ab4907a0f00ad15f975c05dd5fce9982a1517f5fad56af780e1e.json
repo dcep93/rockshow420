@@ -1,0 +1,28 @@
+{
+  "artist": "Ninajirachi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ninajirachi, Porter Robinson",
+      "name": "WannaCry"
+    },
+    {
+      "artists": "Ninajirachi",
+      "name": "iPod Touch"
+    },
+    {
+      "artists": "Ninajirachi",
+      "explicit": true,
+      "name": "Fuck My Computer"
+    },
+    {
+      "artists": "Ninajirachi",
+      "name": "Delete"
+    },
+    {
+      "artists": "Porter Robinson, Ninajirachi, underscores",
+      "name": "Perfect Pinterest Garden - Ninajirachi & underscores Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3MekbRujJg5VZThubOlrkR"
+}

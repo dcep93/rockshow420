@@ -1,0 +1,27 @@
+{
+  "artist": "Florence + The Machine",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Florence + The Machine",
+      "name": "Dog Days Are Over"
+    },
+    {
+      "artists": "Morgan Seatree, Florence + The Machine",
+      "name": "Say My Name - Remix"
+    },
+    {
+      "artists": "Florence + The Machine",
+      "name": "You've Got The Love"
+    },
+    {
+      "artists": "Florence + The Machine",
+      "name": "Shake It Out"
+    },
+    {
+      "artists": "Florence + The Machine",
+      "name": "Never Let Me Go"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1moxjboGR7GNWYIMWsRjgG"
+}

@@ -1,0 +1,43 @@
+{
+  "artist": "SMiiLE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SMiiLE",
+      "name": "Longer"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Capable"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Something"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Must Be Something Pt. 2"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "I Dunno"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Proper Design"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "All the Things"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Must Be Something, Pt. 1"
+    },
+    {
+      "artists": "SMiiLE",
+      "name": "Invincible"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4STJAAKdWRKeFMKjwoWxjj"
+}

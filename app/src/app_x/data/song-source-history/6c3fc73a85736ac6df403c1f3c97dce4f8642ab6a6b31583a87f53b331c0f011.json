@@ -1,0 +1,29 @@
+{
+  "artist": "Dean Lewis",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dean Lewis",
+      "explicit": true,
+      "name": "Be Alright"
+    },
+    {
+      "artists": "Dean Lewis",
+      "name": "How Do I Say Goodbye"
+    },
+    {
+      "artists": "Dean Lewis",
+      "name": "Half A Man"
+    },
+    {
+      "artists": "Dean Lewis",
+      "name": "Waves"
+    },
+    {
+      "artists": "Dean Lewis",
+      "explicit": true,
+      "name": "I Hate That It's True"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3QSQFmccmX81fWCUSPTS7y"
+}

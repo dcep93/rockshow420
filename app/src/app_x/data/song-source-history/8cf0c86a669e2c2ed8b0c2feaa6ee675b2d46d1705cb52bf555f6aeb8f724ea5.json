@@ -1,0 +1,27 @@
+{
+  "artist": "Stella Maris",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Stella Maris",
+      "name": "Stella Maris"
+    },
+    {
+      "artists": "Stella Maris",
+      "name": "Por ti existo"
+    },
+    {
+      "artists": "Stella Maris",
+      "name": "¿Dónde estás?"
+    },
+    {
+      "artists": "Stella Maris",
+      "name": "La puerta del cielo (Toc toc)"
+    },
+    {
+      "artists": "Stella Maris",
+      "name": "La alcantarilla"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3gGDdvYrSS90Zzp4Vu8dzE"
+}

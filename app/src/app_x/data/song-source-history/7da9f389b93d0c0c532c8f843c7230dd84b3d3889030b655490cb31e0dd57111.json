@@ -1,0 +1,27 @@
+{
+  "artist": "Bleachers",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bleachers",
+      "name": "Merry Christmas, Please Don't Call"
+    },
+    {
+      "artists": "Lana Del Rey, Bleachers",
+      "name": "Margaret (feat. Bleachers)"
+    },
+    {
+      "artists": "Bleachers",
+      "name": "Isimo"
+    },
+    {
+      "artists": "Bleachers",
+      "name": "Rollercoaster"
+    },
+    {
+      "artists": "Bleachers",
+      "name": "I Wanna Get Better"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2eam0iDomRHGBypaDQLwWI"
+}

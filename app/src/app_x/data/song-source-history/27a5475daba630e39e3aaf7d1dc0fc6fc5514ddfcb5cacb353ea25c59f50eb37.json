@@ -1,0 +1,122 @@
+{
+  "basis": "Published production program; exact performance unverified",
+  "kind": "musical_program",
+  "notes": "Musical numbers printed in the February–April 2019 program, page 12. The saved event is September 11. This program groups or omits some passages and is not the complete cast-album track list.",
+  "production": "San Francisco, Orpheum Theatre, 2019",
+  "sets": [
+    {
+      "name": "Act 1",
+      "songs": [
+        {
+          "name": "Alexander Hamilton"
+        },
+        {
+          "name": "My Shot"
+        },
+        {
+          "name": "The Story of Tonight"
+        },
+        {
+          "name": "The Schuyler Sisters"
+        },
+        {
+          "name": "Farmer Refuted"
+        },
+        {
+          "name": "You’ll Be Back"
+        },
+        {
+          "name": "Right Hand Man"
+        },
+        {
+          "name": "Helpless"
+        },
+        {
+          "name": "Satisfied"
+        },
+        {
+          "name": "Wait for It"
+        },
+        {
+          "name": "Stay Alive"
+        },
+        {
+          "name": "Ten Duel Commandments"
+        },
+        {
+          "name": "That Would Be Enough"
+        },
+        {
+          "name": "History Has Its Eyes on You"
+        },
+        {
+          "name": "Yorktown"
+        },
+        {
+          "name": "Dear Theodosia"
+        },
+        {
+          "name": "Non-Stop"
+        }
+      ]
+    },
+    {
+      "name": "Act 2",
+      "songs": [
+        {
+          "name": "What’d I Miss"
+        },
+        {
+          "name": "Take a Break"
+        },
+        {
+          "name": "Say No to This"
+        },
+        {
+          "name": "The Room Where It Happens"
+        },
+        {
+          "name": "Schuyler Defeated"
+        },
+        {
+          "name": "Washington on Your Side"
+        },
+        {
+          "name": "One Last Time"
+        },
+        {
+          "name": "The Adams Administration"
+        },
+        {
+          "name": "Hurricane"
+        },
+        {
+          "name": "The Reynolds Pamphlet"
+        },
+        {
+          "name": "Burn"
+        },
+        {
+          "name": "Blow Us All Away"
+        },
+        {
+          "name": "It’s Quiet Uptown"
+        },
+        {
+          "name": "The Election of 1800"
+        },
+        {
+          "name": "Your Obedient Servant"
+        },
+        {
+          "name": "The World Was Wide Enough"
+        },
+        {
+          "name": "Finale"
+        }
+      ]
+    }
+  ],
+  "title": "Hamilton",
+  "url": "https://ibdb.blob.core.windows.net/ibdb/media/documents/05d0fc44-ec5d-4e0e-b5ee-be7e39816dd4SHNS1902HA_singles_v3%5B2%5D.pdf"
+}

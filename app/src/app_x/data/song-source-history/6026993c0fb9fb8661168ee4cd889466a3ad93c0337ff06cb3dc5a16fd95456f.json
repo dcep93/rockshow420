@@ -1,0 +1,28 @@
+{
+  "artist": "ELOHIM",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ELOHIM",
+      "name": "Marte"
+    },
+    {
+      "artists": "ELOHIM",
+      "explicit": true,
+      "name": "PLAYA"
+    },
+    {
+      "artists": "ELOHIM",
+      "name": "Mozzafiato"
+    },
+    {
+      "artists": "ELOHIM",
+      "name": "Cambio Stile"
+    },
+    {
+      "artists": "ELOHIM",
+      "name": "Per Te Mi Faccio in Cento"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7zQ5YZmi36gAiKxLmuHMhZ"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Sandra Monfort",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Xavi Sarrià, ZETAK, Sandra Monfort",
+      "name": "Música, ràbia i amor"
+    },
+    {
+      "artists": "Malifeta, Sandra Monfort, pxllt",
+      "name": "ROVELLET DE L'OU"
+    },
+    {
+      "artists": "el nido, Sandra Monfort",
+      "name": "Romanç del mocaor"
+    },
+    {
+      "artists": "Sandra Monfort, FERRXN",
+      "name": "Manifassera"
+    },
+    {
+      "artists": "Quinto, Sandra Monfort, Ginestà",
+      "name": "Tota la nit"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/61e36FRgKb0nR158oVJvij"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "joan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "joan",
+      "name": "so good"
+    },
+    {
+      "artists": "Yorke, joan",
+      "name": "window shopping"
+    },
+    {
+      "artists": "joan",
+      "name": "drive all night"
+    },
+    {
+      "artists": "joan, Maki",
+      "name": "turning green"
+    },
+    {
+      "artists": "joan",
+      "name": "love somebody like you"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3HXLY1sNXIxHfulrjPiRf5"
+}

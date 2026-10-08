@@ -1,0 +1,30 @@
+{
+  "artist": "Sueco",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sueco",
+      "explicit": true,
+      "name": "Loser"
+    },
+    {
+      "artists": "Sueco",
+      "name": "Paralyzed"
+    },
+    {
+      "artists": "Wiz Khalifa, Ty Dolla $ign, Lil Yachty, Sueco",
+      "name": "Speed Me Up (with Ty Dolla $ign, Lil Yachty & Sueco the Child)"
+    },
+    {
+      "artists": "Sueco, WesGhost",
+      "explicit": true,
+      "name": "TRUST MYSELF (with WesGhost)"
+    },
+    {
+      "artists": "Sueco, Paledusk",
+      "explicit": true,
+      "name": "GOING UNDER (with Paledusk)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4iDroUFo89Y7YBsdDTBmTD"
+}

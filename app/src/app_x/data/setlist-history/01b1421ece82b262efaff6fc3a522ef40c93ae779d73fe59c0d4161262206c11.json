@@ -1,0 +1,67 @@
+{
+  "notes": "Note: From printed setlist",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Shatter Into Form I"
+        },
+        {
+          "name": "Shore"
+        },
+        {
+          "name": "Take Two"
+        },
+        {
+          "name": "Beyond That Moon"
+        },
+        {
+          "name": "Skeletree"
+        },
+        {
+          "name": "Mummy"
+        },
+        {
+          "name": "Golden Gate (On And On)"
+        },
+        {
+          "name": "Broken Harvest"
+        },
+        {
+          "name": "Break the Jaw"
+        },
+        {
+          "name": "Invisible Chalk"
+        },
+        {
+          "name": "Shatter Into Form II"
+        },
+        {
+          "name": "My Full Name"
+        },
+        {
+          "name": "All I've Ever Known"
+        },
+        {
+          "name": "Wake"
+        },
+        {
+          "name": "Goodwill"
+        },
+        {
+          "name": "Best of Us"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Life According to Raechel"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/madison-cunningham/2026/bimbos-365-club-san-francisco-ca-334d10b9.html"
+}

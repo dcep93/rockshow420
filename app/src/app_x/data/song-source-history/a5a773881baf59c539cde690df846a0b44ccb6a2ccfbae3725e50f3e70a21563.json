@@ -1,0 +1,27 @@
+{
+  "artist": "Solardo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Marshall Jefferson, Solardo",
+      "name": "Move Your Body"
+    },
+    {
+      "artists": "Chris Lake, Solardo",
+      "name": "Free Your Body"
+    },
+    {
+      "artists": "Solardo, Eli Brown",
+      "name": "XTC"
+    },
+    {
+      "artists": "Tiësto, Solardo, Poppy Baskcomb",
+      "name": "I Can’t Wait (feat. Poppy Baskcomb)"
+    },
+    {
+      "artists": "Patrick Prins, Solardo",
+      "name": "Le Voie Le Soleil - Solardo Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0oO1IaDOBSeI96HbnCa5pZ"
+}

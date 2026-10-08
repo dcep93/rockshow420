@@ -1,0 +1,28 @@
+{
+  "artist": "Somadina",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NATIVE Sound System, Sholz, TAR1Q, Somadina",
+      "name": "Cruel Love"
+    },
+    {
+      "artists": "Somadina, Le Mav",
+      "name": "Para Para"
+    },
+    {
+      "artists": "Somadina, Winny, Le Mav",
+      "name": "Don't Suffer (feat. Winny)"
+    },
+    {
+      "artists": "Somadina, Le Mav, DEELA, Paxslim",
+      "name": "Follow Follow (feat. Deela & Paxslim)"
+    },
+    {
+      "artists": "Lady Donli, Somadina, Amaarae",
+      "explicit": true,
+      "name": "FLAVA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4C9EX8d2FnWMV2yQZqeG8U"
+}

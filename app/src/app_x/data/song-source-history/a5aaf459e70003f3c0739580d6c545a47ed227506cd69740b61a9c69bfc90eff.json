@@ -1,0 +1,28 @@
+{
+  "artist": "Donna Missal",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Donna Missal",
+      "name": "Nothing's Gonna Hurt You Baby - From \"Promising Young Woman\" Soundtrack"
+    },
+    {
+      "artists": "Donna Missal",
+      "name": "Lights (from the Netflix Film \"Voicemails for Isabelle\")"
+    },
+    {
+      "artists": "Donna Missal",
+      "explicit": true,
+      "name": "Keep Lying"
+    },
+    {
+      "artists": "Donna Missal",
+      "name": "Hurt By You"
+    },
+    {
+      "artists": "The Knocks, Donna Missal",
+      "name": "Bang Bang (feat. Donna Missal)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4QFHHdZkeqmneDQqKIjAN8"
+}

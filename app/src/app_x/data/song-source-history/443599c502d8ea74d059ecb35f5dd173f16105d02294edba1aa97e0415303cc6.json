@@ -1,0 +1,27 @@
+{
+  "artist": "Smith & Thell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Smith & Thell, Swedish Jam Factory",
+      "name": "Forgive Me Friend (feat. Swedish Jam Factory)"
+    },
+    {
+      "artists": "Smith & Thell",
+      "name": "Goliath"
+    },
+    {
+      "artists": "Smith & Thell",
+      "name": "Hotel Walls"
+    },
+    {
+      "artists": "Smith & Thell",
+      "name": "Toast"
+    },
+    {
+      "artists": "Smith & Thell",
+      "name": "Year of the Young"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1ZrBGJWLL8NiAjgNifCy90"
+}

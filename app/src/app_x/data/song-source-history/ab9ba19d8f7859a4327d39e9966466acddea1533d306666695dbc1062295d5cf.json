@@ -1,0 +1,28 @@
+{
+  "artist": "Ella Mai",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ella Mai",
+      "name": "Trip"
+    },
+    {
+      "artists": "Ella Mai",
+      "name": "Boo'd Up"
+    },
+    {
+      "artists": "Ella Mai",
+      "name": "Little Things"
+    },
+    {
+      "artists": "Ella Mai, Ty Dolla $ign",
+      "explicit": true,
+      "name": "She Don't (feat. Ty Dolla $Ign)"
+    },
+    {
+      "artists": "Ella Mai",
+      "name": "Boo'd Up"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7HkdQ0gt53LP4zmHsL0nap"
+}

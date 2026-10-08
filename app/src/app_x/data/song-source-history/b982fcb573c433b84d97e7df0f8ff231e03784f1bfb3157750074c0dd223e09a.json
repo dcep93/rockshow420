@@ -1,0 +1,27 @@
+{
+  "artist": "Foo Fighters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Foo Fighters",
+      "name": "Everlong"
+    },
+    {
+      "artists": "Foo Fighters",
+      "name": "The Pretender"
+    },
+    {
+      "artists": "Foo Fighters",
+      "name": "My Hero"
+    },
+    {
+      "artists": "Foo Fighters",
+      "name": "Learn to Fly"
+    },
+    {
+      "artists": "Foo Fighters",
+      "name": "Best of You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7jy3rLJdDQY21OgRLCZ9sD"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "LaMP",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LaMP",
+      "name": "Out of Curiosity"
+    },
+    {
+      "artists": "LaMP",
+      "name": "Some Days"
+    },
+    {
+      "artists": "LaMP",
+      "name": "Q Division"
+    },
+    {
+      "artists": "LaMP",
+      "name": "Clipse Dog"
+    },
+    {
+      "artists": "LaMP",
+      "name": "Ramblin"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7yZaTWLkHSifvKDtDCpJ1j"
+}

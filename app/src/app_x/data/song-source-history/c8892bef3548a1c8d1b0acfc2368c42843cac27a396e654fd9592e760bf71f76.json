@@ -1,0 +1,28 @@
+{
+  "artist": "Armand Hammer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Armand Hammer, The Alchemist, Earl Sweatshirt",
+      "name": "Falling out the Sky"
+    },
+    {
+      "artists": "Armand Hammer, The Alchemist, Earl Sweatshirt",
+      "name": "California Games (feat. Earl Sweatshirt)"
+    },
+    {
+      "artists": "Earl Sweatshirt, Armand Hammer",
+      "explicit": true,
+      "name": "Tabula Rasa (feat. Armand Hammer)"
+    },
+    {
+      "artists": "Armand Hammer, The Alchemist, KAYANA",
+      "name": "Black Sunlight"
+    },
+    {
+      "artists": "Armand Hammer, The Alchemist",
+      "name": "Sir Benni Miles"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3SCI7sXHUZIeDKMWC5NT9C"
+}

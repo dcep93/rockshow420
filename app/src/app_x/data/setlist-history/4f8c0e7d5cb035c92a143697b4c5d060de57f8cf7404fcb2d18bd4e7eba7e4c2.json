@@ -1,0 +1,118 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: The setlist mimicked that of a 1992 setlist in reference to this being Phish's 92nd performance at Madison Square Garden and also featured stage antics and clothing worn by the band during that time",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Glide",
+          "notes": "(first time played since 8/31/21, aka 225 shows)"
+        },
+        {
+          "name": "Runaway Jim"
+        },
+        {
+          "name": "Foam"
+        },
+        {
+          "name": "Axilla"
+        },
+        {
+          "name": "Stash"
+        },
+        {
+          "name": "Cold as Ice",
+          "notes": "(Foreigner cover) (first time played since 5/18/92, aka 1468 shows)"
+        },
+        {
+          "name": "Love You",
+          "notes": "(Syd Barrett cover) (first time played since 7/16/16, aka 382 shows) (>)"
+        },
+        {
+          "name": "Hold Your Head Up",
+          "notes": "(Argent cover) (Fish on vacuum)"
+        },
+        {
+          "name": "Sparkle"
+        },
+        {
+          "name": "AC/DC Bag",
+          "notes": "(>)"
+        },
+        {
+          "name": "Reba",
+          "notes": "(no whistling) (>)"
+        },
+        {
+          "name": "Possum",
+          "notes": "(>)"
+        },
+        {
+          "name": "David Bowie",
+          "notes": "(>)"
+        },
+        {
+          "name": "Vibration of Life",
+          "notes": "(first time played since 11/19/96, aka 1027 shows) (-> \"David Bowie\" reprise)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Mike's Song",
+          "notes": "(with Mike and Trey jumping on trampolines) (>)"
+        },
+        {
+          "name": "I Am Hydrogen",
+          "notes": "(with Mike and Trey on their backs pedaling their feet in the air) (>)"
+        },
+        {
+          "name": "Weekapaug Groove"
+        },
+        {
+          "name": "Bouncing Around the Room",
+          "notes": "(>)"
+        },
+        {
+          "name": "My Friend, My Friend",
+          "notes": "(no \"Myfe\" ending) (with \"The Well\" teases from the whole band) (->)"
+        },
+        {
+          "name": "Split Open and Melt"
+        },
+        {
+          "name": "The Lizards",
+          "notes": "(with \"Speed Racer Theme\" tease from Page)"
+        },
+        {
+          "name": "Harry Hood",
+          "notes": "(with false start)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Horse",
+          "notes": "(>)"
+        },
+        {
+          "name": "Silent in the Morning"
+        },
+        {
+          "name": "Big Black Furry Creature From Mars",
+          "notes": "(at the end, Mike laid on the stage and Trey extended his microphone stand to maximum height)"
+        },
+        {
+          "name": "Run Like an Antelope"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-5b4b5738.html"
+}

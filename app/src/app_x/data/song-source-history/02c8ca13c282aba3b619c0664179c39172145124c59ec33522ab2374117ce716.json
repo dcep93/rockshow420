@@ -1,0 +1,27 @@
+{
+  "artist": "TIEMEI",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TIEMEI",
+      "name": "Triglicèrids"
+    },
+    {
+      "artists": "TIEMEI",
+      "name": "Tot és crit"
+    },
+    {
+      "artists": "TIEMEI",
+      "name": "Danger Us"
+    },
+    {
+      "artists": "TIEMEI",
+      "name": "Rolling Eyes"
+    },
+    {
+      "artists": "TIEMEI",
+      "name": "Gaire aire"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wiH1ZA1T2MMVo9kX1CBQQ"
+}

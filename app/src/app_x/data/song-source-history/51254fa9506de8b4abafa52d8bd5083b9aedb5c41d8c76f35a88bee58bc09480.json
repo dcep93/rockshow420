@@ -1,0 +1,27 @@
+{
+  "artist": "Cannons",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cannons",
+      "name": "Fire for You"
+    },
+    {
+      "artists": "Cannons",
+      "name": "Bad Dream"
+    },
+    {
+      "artists": "Cannons",
+      "name": "Purple Sun"
+    },
+    {
+      "artists": "Cannons",
+      "name": "Hurricane"
+    },
+    {
+      "artists": "Cannons",
+      "name": "Loving You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7FtCyCJCJaxabYO7Uyda5B"
+}

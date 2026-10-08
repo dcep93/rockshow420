@@ -1,0 +1,27 @@
+{
+  "artist": "Ferran Palau",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ferran Palau",
+      "name": "Kevin"
+    },
+    {
+      "artists": "Ferran Palau",
+      "name": "Univers"
+    },
+    {
+      "artists": "Ferran Palau",
+      "name": "Bang bang"
+    },
+    {
+      "artists": "Ferran Palau, Irene Romo",
+      "name": "Una Linda Flor"
+    },
+    {
+      "artists": "Ferran Palau",
+      "name": "Tan feliç"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7h0Xj4rDQMndEq2JsZZVzM"
+}

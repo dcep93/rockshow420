@@ -1,0 +1,28 @@
+{
+  "artist": "Motherfolk",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Motherfolk",
+      "name": "Kill the Sun"
+    },
+    {
+      "artists": "Motherfolk",
+      "name": "Salt Lake City"
+    },
+    {
+      "artists": "Motherfolk",
+      "name": "i don't mind"
+    },
+    {
+      "artists": "Motherfolk",
+      "name": "all I need"
+    },
+    {
+      "artists": "MEOWBOYS, Motherfolk",
+      "explicit": true,
+      "name": "King of Acting Normal"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/70fUpxdAr6t0LJw3xJmMhm"
+}

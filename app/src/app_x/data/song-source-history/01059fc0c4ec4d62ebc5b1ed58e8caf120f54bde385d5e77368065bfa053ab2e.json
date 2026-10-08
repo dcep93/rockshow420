@@ -1,0 +1,29 @@
+{
+  "artist": "Ant Clemons",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Robert Glasper, Ant Clemons",
+      "name": "Heaven's Here [Feat. Ant Clemons]"
+    },
+    {
+      "artists": "Dahi, Jesse Boykins III, Baby Rose, Ant Clemons",
+      "name": "Stand For Something"
+    },
+    {
+      "artists": "Ant Clemons, Justin Timberlake",
+      "name": "Better Days"
+    },
+    {
+      "artists": "Johan Lenox, Ant Clemons",
+      "explicit": true,
+      "name": "You Up?"
+    },
+    {
+      "artists": "Noah Cyrus, Ant Clemons",
+      "explicit": true,
+      "name": "Wonder Years (feat. Ant Clemons)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/028lPW2NdWHdSPCkRkcyhd"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "MAKJ",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MAKJ, Timmy Trumpet, Andrew W.K.",
+      "name": "Party Till We Die (feat. Andrew W.K.)"
+    },
+    {
+      "artists": "Bassjackers, MAKJ",
+      "name": "Derp"
+    },
+    {
+      "artists": "Tinashe, MAKJ",
+      "name": "Save Room For Us"
+    },
+    {
+      "artists": "Juan Magán, Deorro, MAKJ, YFN Lucci",
+      "name": "Muñequita Linda"
+    },
+    {
+      "artists": "Deorro, MAKJ, Max Styler",
+      "name": "Bring It Back (feat. Max Styler)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3PtCud9dIdOv4exrzdZZ1C"
+}

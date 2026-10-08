@@ -1,0 +1,27 @@
+{
+  "artist": "Little Boots",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Little Boots",
+      "name": "Remedy"
+    },
+    {
+      "artists": "Little Boots",
+      "name": "New in Town"
+    },
+    {
+      "artists": "J. Worra, Little Boots",
+      "name": "Burn This House (feat. Little Boots)"
+    },
+    {
+      "artists": "Moon Boots, Little Boots",
+      "name": "You Won't See Me Cry"
+    },
+    {
+      "artists": "Little Boots",
+      "name": "Silver Balloons"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0MoXIHcFwhIWnFgBfdvQ30"
+}

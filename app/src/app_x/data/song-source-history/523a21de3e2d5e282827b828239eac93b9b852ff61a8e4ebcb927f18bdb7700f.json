@@ -1,0 +1,47 @@
+{
+  "artist": "Vulfpeck",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vulfpeck, Theo Katzman, Christine Hucal, Mark Dover",
+      "name": "Back Pocket"
+    },
+    {
+      "artists": "Vulfpeck, Antwaun Stanley",
+      "name": "Wait for the Moment"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "1612"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "Give Me Something"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "Dean Town"
+    },
+    {
+      "artists": "Vulfpeck, Theo Katzman",
+      "name": "Animal Spirits"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "The Beachcomber"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "Disco Ulysses (Instrumental)"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "3 on E"
+    },
+    {
+      "artists": "Vulfpeck",
+      "name": "New Beastly"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7pXu47GoqSYRajmBCjxdD6"
+}

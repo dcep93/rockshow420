@@ -1,0 +1,48 @@
+{
+  "artist": "Clairo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Clairo",
+      "name": "Bags"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Sofia"
+    },
+    {
+      "artists": "Clairo, Rejjie Snow",
+      "explicit": true,
+      "name": "Hello?"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Juna"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Pretty Girl"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Flaming Hot Cheetos"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Slow Dance"
+    },
+    {
+      "artists": "Clairo",
+      "name": "4EVER"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Amoeba"
+    },
+    {
+      "artists": "Clairo",
+      "name": "Sexy to Someone"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3l0CmX0FuQjFxr8SK7Vqag"
+}

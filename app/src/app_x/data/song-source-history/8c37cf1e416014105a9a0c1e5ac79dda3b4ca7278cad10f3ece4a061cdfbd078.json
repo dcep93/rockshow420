@@ -1,0 +1,27 @@
+{
+  "artist": "Haute & Freddy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Haute & Freddy",
+      "name": "Shy Girl"
+    },
+    {
+      "artists": "Haute & Freddy",
+      "name": "Touch Touch"
+    },
+    {
+      "artists": "Haute & Freddy",
+      "name": "Dance The Pain Away"
+    },
+    {
+      "artists": "Haute & Freddy",
+      "name": "Freaks"
+    },
+    {
+      "artists": "Haute & Freddy",
+      "name": "Sophie"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/66T34XqGkEWbzKWALSBDuR"
+}

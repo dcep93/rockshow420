@@ -1,0 +1,58 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Cry Out"
+        },
+        {
+          "name": "Heartland"
+        },
+        {
+          "name": "Fly Away With Me"
+        },
+        {
+          "name": "Play Dead"
+        },
+        {
+          "name": "Fade Away"
+        },
+        {
+          "name": "Just You and I"
+        },
+        {
+          "name": "Sun Goes Down"
+        },
+        {
+          "name": "Dominoes"
+        },
+        {
+          "name": "Rapture"
+        },
+        {
+          "name": "In the End"
+        },
+        {
+          "name": "My Way"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Angels"
+        },
+        {
+          "name": "Blessings"
+        },
+        {
+          "name": "Leave a Light On"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/tom-walker/2018/rickshaw-stop-san-francisco-ca-6be87a2a.html"
+}

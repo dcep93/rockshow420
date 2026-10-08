@@ -1,0 +1,29 @@
+{
+  "artist": "Joey Valence & Brae",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Joey Valence & Brae",
+      "name": "PUNK TACTICS"
+    },
+    {
+      "artists": "Joey Valence & Brae",
+      "name": "HOOLIGANG"
+    },
+    {
+      "artists": "Joey Valence & Brae",
+      "explicit": true,
+      "name": "OK"
+    },
+    {
+      "artists": "IDK, Joey Valence & Brae",
+      "explicit": true,
+      "name": "CLOVER"
+    },
+    {
+      "artists": "Joey Valence & Brae",
+      "name": "STARTAFIGHT"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1q4618qKswelCGLoanFKQh"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "PJ Morton",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "PJ Morton, Yebba",
+      "name": "How Deep Is Your Love (feat. Yebba) - Live"
+    },
+    {
+      "artists": "PJ Morton",
+      "name": "How Deep Is Your Love"
+    },
+    {
+      "artists": "PJ Morton, JoJo",
+      "name": "SAY SO (feat. JoJo)"
+    },
+    {
+      "artists": "Allen Stone, PJ Morton",
+      "name": "Mystery"
+    },
+    {
+      "artists": "PJ Morton, Jazmine Sullivan",
+      "name": "BUILT FOR LOVE (feat. Jazmine Sullivan)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2FMOHE79X98yptp4RpPrt7"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Maude Latour",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Maude Latour",
+      "explicit": true,
+      "name": "Too Slow"
+    },
+    {
+      "artists": "Maude Latour",
+      "name": "One More Weekend"
+    },
+    {
+      "artists": "Maude Latour",
+      "name": "Cyclone"
+    },
+    {
+      "artists": "Maude Latour",
+      "name": "Cursed Romantics"
+    },
+    {
+      "artists": "Maude Latour",
+      "name": "Heaven"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3MNLhvqJkWsO6tcjY9ps62"
+}

@@ -1,0 +1,93 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Grudges"
+        },
+        {
+          "name": "Still Into You"
+        },
+        {
+          "name": "Rose-Colored Boy",
+          "notes": "(contains a snippet of \"I Want to Dance With Somebody\" by Whitney Houston)"
+        },
+        {
+          "name": "That's What You Get"
+        },
+        {
+          "name": "Crushcrushcrush",
+          "notes": "(\"After Laughter\" remix)"
+        },
+        {
+          "name": "Fake Happy"
+        },
+        {
+          "name": "Playing God"
+        },
+        {
+          "name": "Forgiveness"
+        },
+        {
+          "name": "Ignorance"
+        },
+        {
+          "name": "Pool"
+        }
+      ]
+    },
+    {
+      "name": "Acoustic",
+      "songs": [
+        {
+          "name": "Passionfruit",
+          "notes": "(Drake cover) (contains a snippet of \"Hold On, We're Going Home\" by Drake & Majid Jordan)"
+        },
+        {
+          "name": "Misguided Ghosts"
+        },
+        {
+          "name": "26"
+        }
+      ]
+    },
+    {
+      "songs": [
+        {
+          "name": "Caught in the Middle"
+        },
+        {
+          "name": "Idle Worship"
+        },
+        {
+          "name": "No Friend"
+        },
+        {
+          "name": "Misery Business"
+        },
+        {
+          "name": "Ain't It Fun"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Told You So"
+        },
+        {
+          "name": "All That Love Is",
+          "notes": "(HalfNoise cover)"
+        },
+        {
+          "name": "Hard Times",
+          "notes": "(contains a snippet of \"Heart of Glass\" by Blondie)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/paramore/2018/shoreline-amphitheatre-mountain-view-ca-bebe5ee.html"
+}

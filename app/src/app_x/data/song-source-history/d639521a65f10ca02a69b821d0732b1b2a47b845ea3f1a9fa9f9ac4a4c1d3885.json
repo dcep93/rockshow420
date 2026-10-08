@@ -1,0 +1,28 @@
+{
+  "artist": "Declan McKenna",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Declan McKenna",
+      "name": "Brazil"
+    },
+    {
+      "artists": "Declan McKenna",
+      "name": "Slipping Through My Fingers"
+    },
+    {
+      "artists": "Blossoms, Declan McKenna",
+      "name": "Additional Driver (feat. Declan McKenna)"
+    },
+    {
+      "artists": "Declan McKenna",
+      "name": "Why Do You Feel So Down"
+    },
+    {
+      "artists": "Declan McKenna",
+      "explicit": true,
+      "name": "British Bombs"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2D4FOOOtWycb3Aw9nY5n3c"
+}

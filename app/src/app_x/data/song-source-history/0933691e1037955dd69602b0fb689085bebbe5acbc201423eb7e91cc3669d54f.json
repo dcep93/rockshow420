@@ -1,0 +1,27 @@
+{
+  "artist": "Evian Christ",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Evian Christ, Bladee",
+      "name": "Yxguden"
+    },
+    {
+      "artists": "Bladee, Mechatok, Evian Christ",
+      "name": "God - Evian Christ Remix"
+    },
+    {
+      "artists": "Yung Sherman, Evian Christ",
+      "name": "I D C - Evian Christ Remix"
+    },
+    {
+      "artists": "Evian Christ",
+      "name": "Nobody Else"
+    },
+    {
+      "artists": "Evian Christ",
+      "name": "Ultra"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/75BN2bMrpeLl89blBiaFuv"
+}

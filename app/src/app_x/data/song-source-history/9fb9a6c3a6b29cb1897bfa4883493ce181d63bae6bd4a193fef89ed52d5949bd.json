@@ -1,0 +1,32 @@
+{
+  "artist": "G-Eazy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "G-Eazy, Halsey",
+      "explicit": true,
+      "name": "Him & I (with Halsey)"
+    },
+    {
+      "artists": "G-Eazy, Bebe Rexha",
+      "explicit": true,
+      "name": "Me, Myself & I"
+    },
+    {
+      "artists": "G-Eazy, Christoph Andersson",
+      "explicit": true,
+      "name": "Tumblr Girls (feat. Christoph Andersson)"
+    },
+    {
+      "artists": "G-Eazy",
+      "explicit": true,
+      "name": "Lady Killers II"
+    },
+    {
+      "artists": "SAYGRACE, G-Eazy",
+      "explicit": true,
+      "name": "You Don't Own Me (feat. G-Eazy)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/02kJSzxNuaWGqwubyUba0Z"
+}

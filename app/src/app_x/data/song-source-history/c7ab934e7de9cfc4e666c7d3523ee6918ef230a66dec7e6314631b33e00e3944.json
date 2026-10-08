@@ -1,0 +1,49 @@
+{
+  "artist": "Alex G",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Alex G",
+      "name": "Harvey"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Sarah"
+    },
+    {
+      "artists": "Alex G, Emily Yacina",
+      "name": "Treehouse"
+    },
+    {
+      "artists": "Alex G",
+      "explicit": true,
+      "name": "Mary"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Things to Do"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Mis"
+    },
+    {
+      "artists": "Alex G",
+      "name": "16 Mirrors"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Forever"
+    },
+    {
+      "artists": "Alex G",
+      "name": "Gnaw"
+    },
+    {
+      "artists": "Alex G",
+      "explicit": true,
+      "name": "Race"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6lcwlkAjBPSKnFBZjjZFJs"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Louis The Child",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Louis The Child, Wafia",
+      "name": "Better Not (with Wafia)"
+    },
+    {
+      "artists": "Ty Dolla $ign, Future, Rae Sremmurd, Louis The Child",
+      "explicit": true,
+      "name": "Blasé (feat. Future & Rae Sremmurd) - Louis the Child Remix"
+    },
+    {
+      "artists": "Louis The Child, K.Flay",
+      "explicit": true,
+      "name": "It's Strange (feat. K.Flay)"
+    },
+    {
+      "artists": "Louis The Child, Icona Pop",
+      "explicit": true,
+      "name": "Weekend"
+    },
+    {
+      "artists": "Louis The Child, Chelsea Cutler",
+      "name": "Slow Down Love (feat. Chelsea Cutler)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wg1qvie3KqDNQbAkTdbX0"
+}

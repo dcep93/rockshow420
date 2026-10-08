@@ -1,0 +1,27 @@
+{
+  "artist": "The Aces",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Aces",
+      "name": "Jealous"
+    },
+    {
+      "artists": "The Aces",
+      "name": "Wet Cement"
+    },
+    {
+      "artists": "The Aces",
+      "name": "Daydream"
+    },
+    {
+      "artists": "The Aces",
+      "name": "Mesmerized"
+    },
+    {
+      "artists": "The Aces",
+      "name": "Twin Flame"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2AmfMGi3WZMxqFDHissIAe"
+}

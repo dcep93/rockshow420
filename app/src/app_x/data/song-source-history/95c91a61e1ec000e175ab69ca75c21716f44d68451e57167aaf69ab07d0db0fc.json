@@ -1,0 +1,28 @@
+{
+  "artist": "TALK",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TALK",
+      "name": "Run Away to Mars"
+    },
+    {
+      "artists": "TALK",
+      "name": "A Little Bit Happy"
+    },
+    {
+      "artists": "TALK",
+      "explicit": true,
+      "name": "GTFU"
+    },
+    {
+      "artists": "TALK",
+      "name": "Time Machine"
+    },
+    {
+      "artists": "TALK",
+      "name": "Boomerang"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6mx5dgNlLjrDDMyFsgrW87"
+}

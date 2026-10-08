@@ -1,0 +1,99 @@
+{
+  "sets": [
+    {
+      "name": "Set 1",
+      "songs": [
+        {
+          "name": "Sheep"
+        },
+        {
+          "name": "Jenny Jenkins"
+        },
+        {
+          "name": "Orange Blood"
+        },
+        {
+          "name": "Let Loose",
+          "notes": "(w/ “Mrs. Robinson” by Simon & Garfunkel snippet)"
+        },
+        {
+          "name": "Phenomenon"
+        },
+        {
+          "name": "Bug Eyes"
+        },
+        {
+          "name": "Dirty Love",
+          "notes": "(with Lindsey Stirling)"
+        },
+        {
+          "name": "Witness"
+        },
+        {
+          "name": "Lemon Tree"
+        },
+        {
+          "name": "She Wants to Go Dancing",
+          "notes": "(Unreleased)"
+        },
+        {
+          "name": "Roly Poly"
+        }
+      ]
+    },
+    {
+      "name": "Set 2",
+      "songs": [
+        {
+          "name": "I'm Your Wreck"
+        },
+        {
+          "name": "Rearrange Us"
+        },
+        {
+          "name": "Evergreen"
+        },
+        {
+          "name": "Mt. Joy",
+          "notes": "(w/ “Dancing Queen” by ABBA snippet)"
+        },
+        {
+          "name": "Highway Queen",
+          "notes": "(with Maren Morris)"
+        },
+        {
+          "name": "Johnson Song",
+          "notes": "(Matt, Sam, and Jackie move to second stage)"
+        },
+        {
+          "name": "Bathroom Light",
+          "notes": "(played on second stage; Matt, Sam, and Jackie only)"
+        },
+        {
+          "name": "Younger Days",
+          "notes": "(played on second stage; Matt and Jackie only)"
+        },
+        {
+          "name": "Strangers"
+        },
+        {
+          "name": "Astrovan"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Julia",
+          "notes": "(w/ “You’re So Vain” by Carly Simon and “Levels” by Avicii snippets)"
+        },
+        {
+          "name": "Silver Lining"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/mt-joy/2024/madison-square-garden-new-york-ny-b547dd6.html"
+}

@@ -1,0 +1,87 @@
+{
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Dancing in the Street",
+          "notes": "(Martha Reeves and the Vandellas cover)"
+        },
+        {
+          "name": "Truckin'",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Lay Down Sally",
+          "notes": "(Eric Clapton cover)"
+        },
+        {
+          "name": "Tennessee Jed",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Jack Straw",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Casey Jones",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Scarlet Begonias",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Fire on the Mountain",
+          "notes": "(Grateful Dead cover) (Mickey Hart did his rap.)"
+        },
+        {
+          "name": "He's Gone",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "St. Stephen",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Drums",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Space",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Dear Prudence",
+          "notes": "(The Beatles cover)"
+        },
+        {
+          "name": "Brown-Eyed Women",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Hell in a Bucket",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Brokedown Palace",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Old News Broadcast of the Grateful Dead",
+          "tape": true
+        },
+        {
+          "name": "One More Saturday Night",
+          "notes": "(Bob Weir song)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-435fdfa3.html"
+}

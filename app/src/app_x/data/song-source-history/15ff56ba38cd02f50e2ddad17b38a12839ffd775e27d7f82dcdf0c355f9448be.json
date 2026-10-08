@@ -1,0 +1,29 @@
+{
+  "artist": "Zac Brown Band",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zac Brown Band",
+      "name": "Chicken Fried"
+    },
+    {
+      "artists": "Zac Brown Band, Jimmy Buffett",
+      "name": "Knee Deep (feat. Jimmy Buffett)"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "explicit": true,
+      "name": "Toes"
+    },
+    {
+      "artists": "Sublime, Zac Brown Band",
+      "explicit": true,
+      "name": "Wrong Way"
+    },
+    {
+      "artists": "Zac Brown Band",
+      "name": "Homegrown"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6yJCxee7QumYr820xdIsjo"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "LP Giobbi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Swift, LP Giobbi",
+      "name": "Cruel Summer - LP Giobbi Remix"
+    },
+    {
+      "artists": "LP Giobbi, DJ Tennis, Joseph Ashworth",
+      "name": "All In A Dream"
+    },
+    {
+      "artists": "Bob Marley & The Wailers, LP Giobbi",
+      "name": "Could You Be Loved (with LP Giobbi)"
+    },
+    {
+      "artists": "LP Giobbi, Bruno Be, Carola, Clover County",
+      "name": "Do For Love"
+    },
+    {
+      "artists": "LP Giobbi, Jacob Banks",
+      "name": "Feel"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3oKnyRhYWzNsTiss5n4Z1J"
+}

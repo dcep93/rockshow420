@@ -1,0 +1,27 @@
+{
+  "artist": "Kevin Kaarl",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kevin Kaarl",
+      "name": "San Lucas"
+    },
+    {
+      "artists": "Kevin Kaarl",
+      "name": "Colapso"
+    },
+    {
+      "artists": "Kevin Kaarl",
+      "name": "Vámonos a Marte"
+    },
+    {
+      "artists": "Kevin Kaarl",
+      "name": "Abrazado a Ti"
+    },
+    {
+      "artists": "Kevin Kaarl",
+      "name": "me va a costar"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6OBGbSaBUvQtk9wpQfDbOE"
+}

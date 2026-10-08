@@ -1,0 +1,27 @@
+{
+  "artist": "Zedd",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zedd, Foxes",
+      "name": "Clarity"
+    },
+    {
+      "artists": "Zedd, Maren Morris, Grey",
+      "name": "The Middle"
+    },
+    {
+      "artists": "Zedd, Alessia Cara",
+      "name": "Stay"
+    },
+    {
+      "artists": "Zedd, Hayley Williams",
+      "name": "Stay The Night - Featuring Hayley Williams Of Paramore"
+    },
+    {
+      "artists": "Zedd, Jon Bellion",
+      "name": "Beautiful Now"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qxJFvFYMEDqd7ui6kSAcq"
+}

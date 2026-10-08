@@ -1,0 +1,30 @@
+{
+  "artist": "Disco Lines",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Disco Lines, Tinashe",
+      "explicit": true,
+      "name": "No Broke Boys"
+    },
+    {
+      "artists": "Disco Lines, Maesic, Mason, Princess Superstar",
+      "name": "Push It"
+    },
+    {
+      "artists": "Disco Lines, Tinashe, AVELLO",
+      "explicit": true,
+      "name": "No Broke Boys - AVELLO Remix"
+    },
+    {
+      "artists": "Disco Lines",
+      "name": "Baby Girl"
+    },
+    {
+      "artists": "Disco Lines, Ship Wrek",
+      "explicit": true,
+      "name": "I Don't Trust A Soul"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+}

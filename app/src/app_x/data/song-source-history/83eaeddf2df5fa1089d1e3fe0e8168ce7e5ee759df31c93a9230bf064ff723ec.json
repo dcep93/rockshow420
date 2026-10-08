@@ -1,0 +1,32 @@
+{
+  "artist": "Bad Neighbors",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Chris Miles, Bad Neighbors",
+      "explicit": true,
+      "name": "girl on girl"
+    },
+    {
+      "artists": "Bad Neighbors",
+      "explicit": true,
+      "name": "VADER"
+    },
+    {
+      "artists": "Bad Neighbors",
+      "explicit": true,
+      "name": "Blacked Out"
+    },
+    {
+      "artists": "Bad Neighbors, Lil Tracy",
+      "explicit": true,
+      "name": "Vampire Diaries"
+    },
+    {
+      "artists": "Bad Neighbors, Lil Tracy",
+      "explicit": true,
+      "name": "wicca"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/06q2qsH9V7Ayk2DQmM03Ez"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Beck",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Beck",
+      "name": "Loser"
+    },
+    {
+      "artists": "Beck",
+      "name": "Run Away"
+    },
+    {
+      "artists": "Beck",
+      "name": "Ride Lonesome"
+    },
+    {
+      "artists": "Beck",
+      "name": "Where It's At"
+    },
+    {
+      "artists": "Beck",
+      "name": "In The Night"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3vbKDsSS70ZX9D2OcvbZmS"
+}

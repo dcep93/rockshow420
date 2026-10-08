@@ -1,0 +1,49 @@
+{
+  "artist": "Bon Iver",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Taylor Swift, Bon Iver",
+      "name": "exile (feat. Bon Iver)"
+    },
+    {
+      "artists": "Bon Iver, St. Vincent",
+      "name": "Rosyln"
+    },
+    {
+      "artists": "Bon Iver",
+      "name": "Skinny Love"
+    },
+    {
+      "artists": "Taylor Swift, Bon Iver",
+      "name": "evermore (feat. Bon Iver)"
+    },
+    {
+      "artists": "Bon Iver",
+      "name": "Wash."
+    },
+    {
+      "artists": "Bon Iver",
+      "explicit": true,
+      "name": "Holocene"
+    },
+    {
+      "artists": "Bon Iver",
+      "name": "For Emma"
+    },
+    {
+      "artists": "Bon Iver",
+      "name": "Beach Baby"
+    },
+    {
+      "artists": "Zach Bryan, Bon Iver",
+      "explicit": true,
+      "name": "Boys Of Faith (feat. Bon Iver)"
+    },
+    {
+      "artists": "Bon Iver",
+      "name": "Re: Stacks"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+}

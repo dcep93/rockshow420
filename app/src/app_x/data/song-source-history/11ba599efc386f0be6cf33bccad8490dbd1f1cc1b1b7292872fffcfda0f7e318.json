@@ -1,0 +1,47 @@
+{
+  "artist": "Weezer",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Weezer",
+      "name": "Island In The Sun"
+    },
+    {
+      "artists": "Weezer, Best Coast",
+      "name": "Go Away"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Say It Ain't So - Original Mix"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Buddy Holly"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Undone - The Sweater Song"
+    },
+    {
+      "artists": "Weezer",
+      "name": "I Just Threw Out The Love Of My Dreams"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Beverly Hills"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Across The Sea"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Hash Pipe"
+    },
+    {
+      "artists": "Weezer",
+      "name": "Pink Triangle"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3jOstUTkEu2JkjvRdBA5Gu"
+}

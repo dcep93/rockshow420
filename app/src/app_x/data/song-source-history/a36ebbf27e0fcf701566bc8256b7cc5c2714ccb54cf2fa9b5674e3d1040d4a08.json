@@ -1,0 +1,28 @@
+{
+  "artist": "KAROL G",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "KAROL G, Judeline, rusowsky",
+      "name": "BbY WOW"
+    },
+    {
+      "artists": "KAROL G",
+      "name": "Si Antes Te Hubiera Conocido"
+    },
+    {
+      "artists": "KAROL G",
+      "explicit": true,
+      "name": "MATADORA"
+    },
+    {
+      "artists": "KAROL G, Marco Antonio Solís",
+      "name": "Coleccionando Heridas"
+    },
+    {
+      "artists": "KAROL G, Drake",
+      "name": "Ahí"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/790FomKkXshlbRYZFtlgla"
+}

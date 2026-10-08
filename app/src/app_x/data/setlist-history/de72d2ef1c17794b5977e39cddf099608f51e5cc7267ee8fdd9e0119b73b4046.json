@@ -1,0 +1,111 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Intro Jam"
+        },
+        {
+          "name": "That's How I'm Feeling"
+        },
+        {
+          "name": "Fell in Love With a Girl",
+          "notes": "(The White Stripes song)"
+        },
+        {
+          "name": "Old Scratch Blues"
+        },
+        {
+          "name": "Who Will Be The Next In Line",
+          "notes": "(The Kinks cover)"
+        },
+        {
+          "name": "Raising the Grain"
+        },
+        {
+          "name": "It's Rough on Rats (If You're Asking)"
+        },
+        {
+          "name": "(Unknown)",
+          "notes": "(Acoustic)"
+        },
+        {
+          "name": "What's Done Is Done"
+        },
+        {
+          "name": "Hotel Yorba",
+          "notes": "(The White Stripes song)"
+        },
+        {
+          "name": "Cannon",
+          "notes": "(The White Stripes song) (with Scarlett White) (on bass)"
+        },
+        {
+          "name": "John the Revelator",
+          "notes": "(Blind Willie Johnson cover) (with Scarlett White) (on bass)"
+        },
+        {
+          "name": "Black Math",
+          "notes": "(The White Stripes song) (with Scarlett White) (on bass)"
+        },
+        {
+          "name": "G.O.D. and the Broken Ribs"
+        },
+        {
+          "name": "Derecho Demonico"
+        },
+        {
+          "name": "I Cut Like a Buffalo",
+          "notes": "(The Dead Weather song)"
+        },
+        {
+          "name": "There's Nobody There"
+        },
+        {
+          "name": "The Hardest Button to Button",
+          "notes": "(The White Stripes song)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Encore Jam",
+          "notes": "(“Frozen Charlatan” enters the stage)"
+        },
+        {
+          "name": "Icky Thump",
+          "notes": "(The White Stripes song)"
+        },
+        {
+          "name": "Nobody Knows"
+        },
+        {
+          "name": "Archbishop Harold Holmes"
+        },
+        {
+          "name": "High Ball Stepper"
+        },
+        {
+          "name": "That Black Bat Licorice"
+        },
+        {
+          "name": "Dollar Bill"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore 2:",
+      "songs": [
+        {
+          "name": "Seven Nation Army",
+          "notes": "(The White Stripes song)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/jack-white/2026/brooklyn-paramount-brooklyn-ny-337628a5.html"
+}

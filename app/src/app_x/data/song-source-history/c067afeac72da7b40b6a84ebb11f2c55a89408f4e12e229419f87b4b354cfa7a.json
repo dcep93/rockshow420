@@ -1,0 +1,27 @@
+{
+  "artist": "Cranes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cranes",
+      "name": "Everywhere"
+    },
+    {
+      "artists": "Cranes",
+      "name": "Jewel"
+    },
+    {
+      "artists": "Cranes",
+      "name": "Shining Road"
+    },
+    {
+      "artists": "Cranes",
+      "name": "Rêverie"
+    },
+    {
+      "artists": "Cranes",
+      "name": "Beautiful Friend"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5q2ehaRqAFmM6tLl4vaVwP"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "PEEKABOO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "PEEKABOO, Flowdan, Skrillex, G-REX",
+      "name": "BADDERS"
+    },
+    {
+      "artists": "PEEKABOO",
+      "name": "Here With Me"
+    },
+    {
+      "artists": "Skrillex, Flowdan, BEAM, PEEKABOO",
+      "name": "Hydrate"
+    },
+    {
+      "artists": "Tape B, PEEKABOO, LYNY",
+      "name": "Like That - Tape B Remix"
+    },
+    {
+      "artists": "Ahadadream, Priya Ragu, Skrillex, PEEKABOO",
+      "name": "TAKA - PEEKABOO Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+}

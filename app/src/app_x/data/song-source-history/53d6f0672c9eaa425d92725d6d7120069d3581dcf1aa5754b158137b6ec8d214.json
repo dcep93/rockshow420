@@ -1,0 +1,28 @@
+{
+  "artist": "Carly Rae Jepsen",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Carly Rae Jepsen",
+      "name": "Call Me Maybe"
+    },
+    {
+      "artists": "Owl City, Carly Rae Jepsen",
+      "name": "Good Time"
+    },
+    {
+      "artists": "Carly Rae Jepsen",
+      "name": "I Really Like You"
+    },
+    {
+      "artists": "Carly Rae Jepsen",
+      "name": "Versailles"
+    },
+    {
+      "artists": "Carly Rae Jepsen",
+      "explicit": true,
+      "name": "Motivation"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6sFIWsNpZYqfjUpaCgueju"
+}

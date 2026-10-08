@@ -1,0 +1,28 @@
+{
+  "artist": "RL Grime",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "RL Grime, 24hrs",
+      "explicit": true,
+      "name": "UCLA"
+    },
+    {
+      "artists": "ISOxo, Knock2, RL Grime, ISOKNOCK",
+      "name": "SMACK TALK"
+    },
+    {
+      "artists": "RL Grime, Daya",
+      "name": "I Wanna Know"
+    },
+    {
+      "artists": "RL Grime, Knock2, Abi Flynn",
+      "name": "come aliv3"
+    },
+    {
+      "artists": "RL Grime, 070 Shake",
+      "name": "Pour Your Heart Out (feat. 070 Shake)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5eIbEEQnDM8yuDVB0bimSP"
+}

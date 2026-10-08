@@ -1,0 +1,27 @@
+{
+  "artist": "The Gift",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Gift",
+      "name": "Primavera"
+    },
+    {
+      "artists": "The Gift",
+      "name": "Fácil De Entender - Studio Version"
+    },
+    {
+      "artists": "The Gift",
+      "name": "Clássico"
+    },
+    {
+      "artists": "The Gift",
+      "name": "Music"
+    },
+    {
+      "artists": "The Gift",
+      "name": "Verão"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3jswqFEYoWlyyLcIsWYWiC"
+}

@@ -1,0 +1,99 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Pink Lady"
+        },
+        {
+          "name": "Orange Blood"
+        },
+        {
+          "name": "Groove in Gotham"
+        },
+        {
+          "name": "Let Loose",
+          "notes": "(w/ “Blister In The Sun” by Violent Femmes snippet)"
+        },
+        {
+          "name": "I'm Your Wreck"
+        },
+        {
+          "name": "Sheep"
+        },
+        {
+          "name": "God Loves Weirdos"
+        },
+        {
+          "name": "Scared I'm Gonna Fuck You Up"
+        },
+        {
+          "name": "Ruins",
+          "notes": "(w/ \"You're Beautiful\" by James Blunt snippet)"
+        },
+        {
+          "name": "Dirty Love"
+        },
+        {
+          "name": "Cardinal"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Strangers"
+        },
+        {
+          "name": "Evergreen"
+        },
+        {
+          "name": "Rearrange Us"
+        },
+        {
+          "name": "Mt. Joy",
+          "notes": "(w/ \"Reptilia\" by The Strokes and “Not Fade Away” by Grateful Dead snippets)"
+        },
+        {
+          "name": "She Wants to Go Dancing"
+        },
+        {
+          "name": "Lucy"
+        },
+        {
+          "name": "Bathroom Light"
+        },
+        {
+          "name": "Julia",
+          "notes": "(w/ “Tiny Dancer” by Elton John snippet)"
+        },
+        {
+          "name": "Highway Queen"
+        },
+        {
+          "name": "Teenage Dirtbag",
+          "notes": "(Wheatus cover) (with Wheatus)"
+        },
+        {
+          "name": "Astrovan"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Jenny Jenkins"
+        },
+        {
+          "name": "Silver Lining"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/mt-joy/2025/forest-hills-stadium-queens-ny-1b43a590.html"
+}

@@ -1,0 +1,86 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Madman"
+        },
+        {
+          "name": "Paranoid"
+        },
+        {
+          "name": "Tooth Fairy"
+        },
+        {
+          "name": "Bambi"
+        },
+        {
+          "name": "Doubt"
+        },
+        {
+          "name": "Bang Bang"
+        },
+        {
+          "name": "No Poms"
+        },
+        {
+          "name": "South"
+        },
+        {
+          "name": "Prayer Man"
+        },
+        {
+          "name": "Flood"
+        },
+        {
+          "name": "Corduroy"
+        },
+        {
+          "name": "Everything At Once"
+        },
+        {
+          "name": "Way It Goes"
+        },
+        {
+          "name": "Baseball"
+        },
+        {
+          "name": "Buttercup"
+        },
+        {
+          "name": "Think It Over"
+        },
+        {
+          "name": "Bubbles"
+        },
+        {
+          "name": "Where to Now?"
+        },
+        {
+          "name": "Yippie Ki Yay"
+        },
+        {
+          "name": "Forget It"
+        },
+        {
+          "name": "Boys"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Warm Glow",
+          "notes": "(>)"
+        },
+        {
+          "name": "Violet"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hippo-campus/2025/brooklyn-paramount-brooklyn-ny-1b517144.html"
+}

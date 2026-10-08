@@ -1,0 +1,28 @@
+{
+  "artist": "G Flip",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "G Flip",
+      "name": "Bed on Fire"
+    },
+    {
+      "artists": "G Flip",
+      "name": "Disco Cowgirl"
+    },
+    {
+      "artists": "G Flip",
+      "explicit": true,
+      "name": "The Worst Person Alive"
+    },
+    {
+      "artists": "G Flip, The Beaches",
+      "name": "LEZ GO!"
+    },
+    {
+      "artists": "G Flip",
+      "name": "In Another Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4SdIXLzfabqU61iK7SnKAU"
+}

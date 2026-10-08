@@ -1,0 +1,47 @@
+{
+  "artist": "Jack White",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jack White",
+      "name": "G.O.D. And The Broken Ribs"
+    },
+    {
+      "artists": "Jack White, Alicia Keys",
+      "name": "Another Way to Die"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Lazaretto"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Archbishop Harold Holmes"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Love Is Blindness"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Dollar Bill"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Derecho Demonico"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Neighbors Blues"
+    },
+    {
+      "artists": "Jack White",
+      "name": "That's How I'm Feeling"
+    },
+    {
+      "artists": "Jack White",
+      "name": "Sixteen Saltines"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4FZ3j1oH43e7cukCALsCwf"
+}

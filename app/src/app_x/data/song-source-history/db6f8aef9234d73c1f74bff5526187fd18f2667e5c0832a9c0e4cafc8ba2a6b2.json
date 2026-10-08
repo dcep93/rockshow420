@@ -1,0 +1,27 @@
+{
+  "artist": "Ingrid Andress",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ingrid Andress",
+      "name": "More Hearts Than Mine"
+    },
+    {
+      "artists": "Teddy Swims, Ingrid Andress",
+      "name": "Bed on Fire (with Ingrid Andress)"
+    },
+    {
+      "artists": "Ingrid Andress, Sam Hunt",
+      "name": "Wishful Drinking (with Sam Hunt) - Bonus Track"
+    },
+    {
+      "artists": "Ingrid Andress",
+      "name": "Lady Like"
+    },
+    {
+      "artists": "Ingrid Andress",
+      "name": "Feel Like This"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0jPnVIasXzBYjrlpO5irii"
+}

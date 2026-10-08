@@ -1,0 +1,28 @@
+{
+  "artist": "Maisie Peters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Maisie Peters",
+      "name": "My Regards"
+    },
+    {
+      "artists": "Maisie Peters",
+      "name": "Questions"
+    },
+    {
+      "artists": "Maisie Peters",
+      "name": "There It Goes"
+    },
+    {
+      "artists": "Maisie Peters",
+      "name": "History Of Man"
+    },
+    {
+      "artists": "Maisie Peters",
+      "explicit": true,
+      "name": "Lost The Breakup"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2RVvqRBon9NgaGXKfywDSs"
+}

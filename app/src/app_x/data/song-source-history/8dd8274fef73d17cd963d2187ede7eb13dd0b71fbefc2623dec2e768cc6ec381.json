@@ -1,0 +1,27 @@
+{
+  "artist": "Angels & Airwaves",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Angels & Airwaves",
+      "name": "The Adventure"
+    },
+    {
+      "artists": "Angels & Airwaves",
+      "name": "Everything's Magic"
+    },
+    {
+      "artists": "Angels & Airwaves",
+      "name": "Sirens"
+    },
+    {
+      "artists": "Angels & Airwaves",
+      "name": "Secret Crowds"
+    },
+    {
+      "artists": "Angels & Airwaves",
+      "name": "The War"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7xklw3WodFZiNNmQt3DIgp"
+}

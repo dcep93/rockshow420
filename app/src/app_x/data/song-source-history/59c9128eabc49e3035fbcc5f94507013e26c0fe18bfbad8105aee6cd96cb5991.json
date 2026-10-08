@@ -1,0 +1,27 @@
+{
+  "artist": "KAMRAD",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "KAMRAD",
+      "name": "Be Mine"
+    },
+    {
+      "artists": "KAMRAD",
+      "name": "I Believe"
+    },
+    {
+      "artists": "KAMRAD",
+      "name": "So Good"
+    },
+    {
+      "artists": "KAMRAD",
+      "name": "Friends"
+    },
+    {
+      "artists": "KAMRAD",
+      "name": "Feel Alive"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6zcWVbyNT0z94MBffsTJGP"
+}

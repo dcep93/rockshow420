@@ -1,0 +1,27 @@
+{
+  "artist": "Renaldo & Clara",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Renaldo & Clara",
+      "name": "Tan brillant"
+    },
+    {
+      "artists": "Renaldo & Clara",
+      "name": "Per fer-te una idea"
+    },
+    {
+      "artists": "Maria Jaume, Renaldo & Clara",
+      "name": "Super mala pinta"
+    },
+    {
+      "artists": "Renaldo & Clara",
+      "name": "Amb tu podria estar"
+    },
+    {
+      "artists": "Alizzz, Renaldo & Clara",
+      "name": "No ho sé"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/29eGrPvxOuFDGOyOUi3RLq"
+}

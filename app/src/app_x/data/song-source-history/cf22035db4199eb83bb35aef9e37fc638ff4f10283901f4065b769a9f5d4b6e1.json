@@ -1,0 +1,27 @@
+{
+  "artist": "ODESZA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ODESZA",
+      "name": "A Moment Apart"
+    },
+    {
+      "artists": "ODESZA, Bettye LaVette",
+      "name": "The Last Goodbye"
+    },
+    {
+      "artists": "ODESZA, Zyra",
+      "name": "Say My Name"
+    },
+    {
+      "artists": "ODESZA",
+      "name": "Late Night"
+    },
+    {
+      "artists": "ODESZA, Naomi Wild",
+      "name": "Higher Ground"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/21mKp7DqtSNHhCAU2ugvUw"
+}

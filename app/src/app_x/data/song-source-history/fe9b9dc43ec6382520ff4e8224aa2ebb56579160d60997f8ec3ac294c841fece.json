@@ -1,0 +1,31 @@
+{
+  "artist": "Green Day",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Green Day",
+      "explicit": true,
+      "name": "Boulevard of Broken Dreams"
+    },
+    {
+      "artists": "Green Day",
+      "name": "Basket Case"
+    },
+    {
+      "artists": "Green Day",
+      "explicit": true,
+      "name": "American Idiot"
+    },
+    {
+      "artists": "Green Day",
+      "explicit": true,
+      "name": "Wake Me Up When September Ends"
+    },
+    {
+      "artists": "Green Day",
+      "explicit": true,
+      "name": "Brain Stew"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7oPftvlwr6VrsViSDV7fJY"
+}

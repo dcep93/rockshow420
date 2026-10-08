@@ -1,0 +1,32 @@
+{
+  "artist": "Smokepurpp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Smokepurpp",
+      "explicit": true,
+      "name": "Audi."
+    },
+    {
+      "artists": "Smokepurpp, Murda Beatz, Lil Yachty, Offset",
+      "explicit": true,
+      "name": "Do Not Disturb (feat. Lil Yachty & Offset)"
+    },
+    {
+      "artists": "Smokepurpp, Lil Pump",
+      "explicit": true,
+      "name": "Nephew (feat. Lil Pump)"
+    },
+    {
+      "artists": "Wuki, Smokepurpp",
+      "explicit": true,
+      "name": "Birdz (with Smokepurpp)"
+    },
+    {
+      "artists": "Smokepurpp, Travis Scott",
+      "explicit": true,
+      "name": "Fingers Blue (feat. Travis Scott)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/21dooacK2WGBB5amYvKyfM"
+}

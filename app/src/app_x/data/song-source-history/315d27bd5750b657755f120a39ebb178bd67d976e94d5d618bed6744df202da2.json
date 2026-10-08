@@ -1,0 +1,30 @@
+{
+  "artist": "Rainbow Kitten Surprise",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rainbow Kitten Surprise",
+      "explicit": true,
+      "name": "It's Called: Freefall"
+    },
+    {
+      "artists": "Rainbow Kitten Surprise",
+      "explicit": true,
+      "name": "Cocaine Jesus"
+    },
+    {
+      "artists": "Rainbow Kitten Surprise",
+      "name": "Painkillers"
+    },
+    {
+      "artists": "Rainbow Kitten Surprise",
+      "explicit": true,
+      "name": "Devil Like Me"
+    },
+    {
+      "artists": "Rainbow Kitten Surprise",
+      "name": "All's Well That Ends"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4hz8tIajF2INpgM0qzPJz2"
+}

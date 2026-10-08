@@ -1,0 +1,29 @@
+{
+  "artist": "Peach PRC",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Peach PRC",
+      "explicit": true,
+      "name": "God Is A Freak"
+    },
+    {
+      "artists": "Peach PRC",
+      "name": "Teenage Losers"
+    },
+    {
+      "artists": "Peach PRC",
+      "name": "Hold It For Her"
+    },
+    {
+      "artists": "Peach PRC",
+      "name": "Distant Lands"
+    },
+    {
+      "artists": "Peach PRC",
+      "explicit": true,
+      "name": "Josh"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/006j2rer9tZJCYniu7SaWS"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "Rex Orange County",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ravyn Lenae, Rex Orange County",
+      "name": "Love Me Not (feat. Rex Orange County)"
+    },
+    {
+      "artists": "Rex Orange County",
+      "explicit": true,
+      "name": "Best Friend"
+    },
+    {
+      "artists": "Rex Orange County, Daniel Caesar",
+      "explicit": true,
+      "name": "Indecision (feat. Daniel Caesar)"
+    },
+    {
+      "artists": "Rex Orange County",
+      "explicit": true,
+      "name": "Television / So Far So Good"
+    },
+    {
+      "artists": "Rex Orange County",
+      "name": "Pluto Projector"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7pbDxGE6nQSZVfiFdq9lOL"
+}

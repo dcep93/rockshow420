@@ -1,0 +1,30 @@
+{
+  "artist": "Yung Gravy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Yung Gravy, bbno$, Rich Brian",
+      "explicit": true,
+      "name": "C’est La Vie (with bbno$ & Rich Brian)"
+    },
+    {
+      "artists": "Yung Gravy",
+      "name": "Betty (Get Money)"
+    },
+    {
+      "artists": "Yung Gravy, James Brown",
+      "name": "SUPA GOOD!!! (from Dog Man)"
+    },
+    {
+      "artists": "Yung Gravy",
+      "explicit": true,
+      "name": "Mr. Clean"
+    },
+    {
+      "artists": "Yung Gravy",
+      "explicit": true,
+      "name": "oops!"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2YOYua8FpudSEiB9s88IgQ"
+}

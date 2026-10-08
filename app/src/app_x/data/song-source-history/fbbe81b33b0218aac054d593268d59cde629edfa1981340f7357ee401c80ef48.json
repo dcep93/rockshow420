@@ -1,0 +1,27 @@
+{
+  "artist": "Zach Bryan",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Zach Bryan, Kacey Musgraves",
+      "name": "I Remember Everything (feat. Kacey Musgraves)"
+    },
+    {
+      "artists": "Zach Bryan",
+      "name": "Something in the Orange"
+    },
+    {
+      "artists": "Zach Bryan",
+      "name": "Pink Skies"
+    },
+    {
+      "artists": "Zach Bryan",
+      "name": "Nine Ball"
+    },
+    {
+      "artists": "Zach Bryan",
+      "name": "Oklahoma Smokeshow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/40ZNYROS4zLfyyBSs2PGe2"
+}

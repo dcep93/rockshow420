@@ -1,0 +1,69 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "With the Love in My Heart"
+        },
+        {
+          "name": "Count the People"
+        },
+        {
+          "name": "Feel"
+        },
+        {
+          "name": "Hideaway"
+        },
+        {
+          "name": "Don't You Know",
+          "notes": "(Extended jazz solo)"
+        },
+        {
+          "name": "The Sun Is in Your Eyes"
+        },
+        {
+          "name": "In Too Deep",
+          "notes": "(Acoustic)"
+        },
+        {
+          "name": "Time Alone With You"
+        },
+        {
+          "name": "All I Need"
+        },
+        {
+          "name": "He Won't Hold You"
+        },
+        {
+          "name": "Best Part",
+          "notes": "(Daniel Caesar cover)"
+        },
+        {
+          "name": "Sleeping on My Dreams"
+        },
+        {
+          "name": "With the Love in My Heart"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "In My Room",
+          "notes": "(The Beach Boys cover)"
+        },
+        {
+          "name": "Blackbird",
+          "notes": "(The Beatles cover)"
+        },
+        {
+          "name": "We Will Rock You",
+          "notes": "(Queen cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/jacob-collier/2022/the-warfield-san-francisco-ca-5bb68354.html"
+}

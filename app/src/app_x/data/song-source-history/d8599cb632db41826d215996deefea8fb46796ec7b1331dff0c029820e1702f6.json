@@ -1,0 +1,47 @@
+{
+  "artist": "Hiromi",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hiromi",
+      "name": "Another autumn"
+    },
+    {
+      "artists": "Hiromi, Anthony Jackson, Simon Phillips",
+      "name": "Beethoven's Piano Sonata No. 8, Pathetique"
+    },
+    {
+      "artists": "Hiromi",
+      "name": "Blackbird"
+    },
+    {
+      "artists": "Rodrigo y Gabriela, Hiromi",
+      "name": "Akatsuki"
+    },
+    {
+      "artists": "Hiromi, Tomoaki Baba, Shun Ishiwaka",
+      "name": "FIRST NOTE"
+    },
+    {
+      "artists": "Hiromi, Tomoaki Baba, Shun Ishiwaka",
+      "name": "N.E.W."
+    },
+    {
+      "artists": "Hiromi, Anthony Jackson, Simon Phillips",
+      "name": "Seeker"
+    },
+    {
+      "artists": "Hiromi",
+      "name": "Mr. C.C."
+    },
+    {
+      "artists": "Hiromi",
+      "name": "Green Tea Farm"
+    },
+    {
+      "artists": "Hiromi, Tomoaki Baba, Shun Ishiwaka",
+      "name": "BLUE GIANT"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7DeuppKQdCVhuWrzzCBBpc"
+}

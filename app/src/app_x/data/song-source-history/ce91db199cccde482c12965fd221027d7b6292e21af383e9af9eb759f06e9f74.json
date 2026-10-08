@@ -1,0 +1,31 @@
+{
+  "artist": "jxdn",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Nessa Barrett, jxdn",
+      "name": "la di die (feat. Jaden Hossler)"
+    },
+    {
+      "artists": "jxdn",
+      "explicit": true,
+      "name": "ANGELS & DEMONS"
+    },
+    {
+      "artists": "jxdn",
+      "explicit": true,
+      "name": "BETTER OFF DEAD"
+    },
+    {
+      "artists": "jxdn, mgk",
+      "explicit": true,
+      "name": "WANNA BE (feat. Machine Gun Kelly)"
+    },
+    {
+      "artists": "jxdn",
+      "explicit": true,
+      "name": "Pray"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6Y64EaNqpqcZYTgs4c76gF"
+}

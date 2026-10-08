@@ -1,0 +1,27 @@
+{
+  "artist": "Couch",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Couch, Jackson Lundy",
+      "name": "Autumn"
+    },
+    {
+      "artists": "Couch",
+      "name": "Little Less Over You (The Sweater Sessions II)"
+    },
+    {
+      "artists": "Couch",
+      "name": "Easy to Love"
+    },
+    {
+      "artists": "Couch",
+      "name": "(I Wanted) Summer With You"
+    },
+    {
+      "artists": "Couch",
+      "name": "Vienna (The Sweater Sessions)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3nYyLjhw4mYzYfJePsCJYJ"
+}

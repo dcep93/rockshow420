@@ -1,0 +1,30 @@
+{
+  "artist": "The Beaches",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Beaches",
+      "name": "Edge of the Earth"
+    },
+    {
+      "artists": "The Beaches",
+      "name": "Blame Brett"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Last Girls At The Party"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Should've Known Better"
+    },
+    {
+      "artists": "The Beaches",
+      "explicit": true,
+      "name": "Hypothetical"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ws5XBA70XgeBpnLZhQBoy"
+}

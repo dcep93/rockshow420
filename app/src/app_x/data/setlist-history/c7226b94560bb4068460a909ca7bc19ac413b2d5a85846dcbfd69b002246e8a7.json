@@ -1,0 +1,92 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Dirty Love"
+        },
+        {
+          "name": "Sheep"
+        },
+        {
+          "name": "Lemon Tree"
+        },
+        {
+          "name": "Orange Blood"
+        },
+        {
+          "name": "Let Loose",
+          "notes": "(with Tom Petty and the Heartbreakers' \"Mary Jane’s Last Dance\" snippet)"
+        },
+        {
+          "name": "Coyote"
+        },
+        {
+          "name": "In the Middle",
+          "notes": "(with Gigi Perez)"
+        },
+        {
+          "name": "I'm Your Wreck"
+        },
+        {
+          "name": "Pink + White",
+          "notes": "(Frank Ocean cover)"
+        },
+        {
+          "name": "Strangers"
+        },
+        {
+          "name": "Younger Days",
+          "notes": "(with Harry Styles' \"As It Was\" snippet)"
+        },
+        {
+          "name": "Witness"
+        },
+        {
+          "name": "Mt. Joy",
+          "notes": "(with Grateful Dead 's \"Fire on the Mountain\" snippet)"
+        },
+        {
+          "name": "Highway Queen"
+        },
+        {
+          "name": "Have You Ever Seen the Rain?",
+          "notes": "(Creedence Clearwater Revival cover) (with Taylor Meier)"
+        },
+        {
+          "name": "Jenny Jenkins"
+        },
+        {
+          "name": "Pink Lady",
+          "notes": "(with SNACKTIME)"
+        },
+        {
+          "name": "Lucy",
+          "notes": "(with SNACKTIME)"
+        },
+        {
+          "name": "Julia",
+          "notes": "(with SNACKTIME) (with The Flaming Lips' \"Yoshimi Battles the Pink Robots\" and Gnarls Barkley's \"Crazy\" snippets)"
+        },
+        {
+          "name": "Silver Lining",
+          "notes": "(with SNACKTIME) (+ Gigi Perez)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Bathroom Light"
+        },
+        {
+          "name": "Astrovan"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/mt-joy/2026/madison-square-garden-new-york-ny-7b4c3a08.html"
+}

@@ -1,0 +1,47 @@
+{
+  "artist": "Paul Simon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Paul Simon",
+      "name": "You Can Call Me Al"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "50 Ways to Leave Your Lover"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Me and Julio Down by the Schoolyard"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Graceland"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Diamonds on the Soles of Her Shoes"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Kodachrome"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Slip Slidin' Away"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Late in the Evening"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Loves Me Like a Rock"
+    },
+    {
+      "artists": "Paul Simon",
+      "name": "Still Crazy After All These Years"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2CvCyf1gEVhI0mX6aFXmVI"
+}

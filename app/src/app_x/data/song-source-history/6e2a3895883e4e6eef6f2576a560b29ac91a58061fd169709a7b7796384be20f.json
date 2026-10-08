@@ -1,0 +1,30 @@
+{
+  "artist": "They Hate Change",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "They Hate Change",
+      "explicit": true,
+      "name": "X-Ray Spex"
+    },
+    {
+      "artists": "Harvey Sutherland, They Hate Change",
+      "name": "Running In Place"
+    },
+    {
+      "artists": "Erika de Casier, They Hate Change",
+      "name": "Call Me Anytime - They Hate Change Remix"
+    },
+    {
+      "artists": "They Hate Change, DJ GAY-Z",
+      "explicit": true,
+      "name": "From the Floor"
+    },
+    {
+      "artists": "They Hate Change",
+      "explicit": true,
+      "name": "Breathing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ht9VksrtRJDQXKzC2BZ3d"
+}

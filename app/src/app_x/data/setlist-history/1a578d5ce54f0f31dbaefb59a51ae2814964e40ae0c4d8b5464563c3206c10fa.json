@@ -1,0 +1,74 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Lonely Night"
+        },
+        {
+          "name": "Growing Pains"
+        },
+        {
+          "name": "Point Your Finger"
+        },
+        {
+          "name": "Movie Star"
+        },
+        {
+          "name": "Want Me Back"
+        },
+        {
+          "name": "Any Day Now"
+        },
+        {
+          "name": "Wouldn’t Come Back"
+        },
+        {
+          "name": "Out of My Mind"
+        },
+        {
+          "name": "Sleeping at the Wheel"
+        },
+        {
+          "name": "Secondhand Smoke"
+        },
+        {
+          "name": "What Is This Feeling? / Popular / For Good / Defying Gravity",
+          "notes": "(Stephen Schwartz cover)"
+        },
+        {
+          "name": "Bad Blood"
+        },
+        {
+          "name": "Save Me"
+        },
+        {
+          "name": "Do Re Mi"
+        },
+        {
+          "name": "Over and Over"
+        },
+        {
+          "name": "Vertigo"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Ick"
+        },
+        {
+          "name": "Last Bloom"
+        },
+        {
+          "name": "If I'm Honest"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/trousdale/2025/irving-plaza-new-york-ny-6b47e696.html"
+}

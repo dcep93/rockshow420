@@ -1,0 +1,27 @@
+{
+  "artist": "Young the Giant",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Young the Giant",
+      "name": "Mind Over Matter (Reprise)"
+    },
+    {
+      "artists": "Young the Giant",
+      "name": "Mind Over Matter"
+    },
+    {
+      "artists": "Young the Giant",
+      "name": "Cough Syrup - 2020 Remaster"
+    },
+    {
+      "artists": "Young the Giant",
+      "name": "Superposition"
+    },
+    {
+      "artists": "Young the Giant",
+      "name": "My Body - 2020 Remaster"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4j56EQDQu5XnL7R3E9iFJT"
+}

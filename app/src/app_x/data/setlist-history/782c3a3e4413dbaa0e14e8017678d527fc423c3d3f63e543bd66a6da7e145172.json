@@ -1,0 +1,96 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Alabama Getaway",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Truckin'",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Ramble On Rose",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Mr. Charlie",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Jack Straw",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Big River",
+          "notes": "(Johnny Cash cover)"
+        },
+        {
+          "name": "Althea",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "St. Stephen",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Scarlet Begonias",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Franklin's Tower",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Dear Mr. Fantasy",
+          "notes": "(Traffic cover) (>)"
+        },
+        {
+          "name": "Hey Jude",
+          "notes": "(The Beatles cover) (Coda) (>)"
+        },
+        {
+          "name": "Drums",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "Space",
+          "notes": "(Grateful Dead cover) (>)"
+        },
+        {
+          "name": "I'll Remember You",
+          "notes": "(Bob Dylan cover) (>) (Live debut by D&C)"
+        },
+        {
+          "name": "Fire on the Mountain",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Brown-Eyed Women",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Black Muddy River",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Old News Broadcast of the Grateful Dead",
+          "tape": true
+        },
+        {
+          "name": "Not Fade Away",
+          "notes": "(The Crickets cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-23abb8ef.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "The 502s",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The 502s",
+      "name": "Your Nonsense Makes Sense"
+    },
+    {
+      "artists": "The 502s",
+      "name": "Just A Little While"
+    },
+    {
+      "artists": "The 502s, hey, nothing",
+      "name": "hey, honey"
+    },
+    {
+      "artists": "The 502s",
+      "name": "When I Get To Heaven"
+    },
+    {
+      "artists": "The 502s",
+      "name": "Perfect Portrait of Young Love"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4sIuoDOzSlBqeiNJl631zX"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Bob Moses",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Elderbrook, Bob Moses",
+      "name": "Inner Light"
+    },
+    {
+      "artists": "Bob Moses, Kasablanca",
+      "name": "Afterglow"
+    },
+    {
+      "artists": "Bob Moses",
+      "name": "Tearing Me Up"
+    },
+    {
+      "artists": "Bob Moses, Jamie Jones",
+      "name": "Enough to Believe - Jamie Jones Remix"
+    },
+    {
+      "artists": "Bob Moses, CRi",
+      "name": "Keep Love Waiting"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6LHsnRBUYhFyt01PdKXAF5"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Loveless",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Loveless",
+      "name": "MIDDLE OF THE NIGHT"
+    },
+    {
+      "artists": "Loveless",
+      "explicit": true,
+      "name": "happier than ever"
+    },
+    {
+      "artists": "Loveless",
+      "name": "Running Up That Hill (A Deal With God)"
+    },
+    {
+      "artists": "Loveless",
+      "name": "I Love It When It Rains"
+    },
+    {
+      "artists": "Loveless, Kellin Quinn",
+      "name": "Someone Else"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1MP7xlABJ13LtmHfG77SCJ"
+}

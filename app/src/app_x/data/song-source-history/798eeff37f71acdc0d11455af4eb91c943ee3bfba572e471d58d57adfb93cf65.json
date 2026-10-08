@@ -1,0 +1,28 @@
+{
+  "artist": "MUNA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MUNA, Phoebe Bridgers",
+      "name": "Silk Chiffon"
+    },
+    {
+      "artists": "MUNA",
+      "name": "Dancing On The Wall"
+    },
+    {
+      "artists": "MUNA",
+      "name": "I Know A Place"
+    },
+    {
+      "artists": "MUNA",
+      "explicit": true,
+      "name": "Eastside Girls"
+    },
+    {
+      "artists": "MUNA",
+      "name": "It Gets So Hot"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6xdRb2GypJ7DqnWAI2mHGn"
+}

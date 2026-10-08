@@ -1,0 +1,28 @@
+{
+  "artist": "Staind",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Staind",
+      "explicit": true,
+      "name": "It's Been Awhile"
+    },
+    {
+      "artists": "Staind",
+      "name": "Outside"
+    },
+    {
+      "artists": "Staind",
+      "name": "Warm Safe Place"
+    },
+    {
+      "artists": "Staind",
+      "name": "So Far Away"
+    },
+    {
+      "artists": "Staind",
+      "name": "Right Here"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5KDIH2gF0VpelTqyQS7udb"
+}

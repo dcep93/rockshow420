@@ -1,0 +1,27 @@
+{
+  "artist": "Stephen Sanchez",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Stephen Sanchez",
+      "name": "Until I Found You"
+    },
+    {
+      "artists": "Stephen Sanchez, Em Beihold",
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version"
+    },
+    {
+      "artists": "Stephen Sanchez",
+      "name": "Until I Found You - Piano Version"
+    },
+    {
+      "artists": "Stephen Sanchez",
+      "name": "High"
+    },
+    {
+      "artists": "Stephen Sanchez",
+      "name": "Be More"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5XKFrudbV4IiuE5WuTPRmT"
+}

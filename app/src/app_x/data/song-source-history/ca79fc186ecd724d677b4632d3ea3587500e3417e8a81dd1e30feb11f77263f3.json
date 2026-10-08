@@ -1,0 +1,27 @@
+{
+  "artist": "Sofía Valdés",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "HONNE, Sofía Valdés",
+      "name": "NOW I'M ALONE (feat. Sofía Valdés)"
+    },
+    {
+      "artists": "Sofía Valdés",
+      "name": "Handful of Water"
+    },
+    {
+      "artists": "Sofía Valdés",
+      "name": "Already Yours"
+    },
+    {
+      "artists": "Sofía Valdés",
+      "name": "The Sweet Escape"
+    },
+    {
+      "artists": "Sofía Valdés",
+      "name": "Amsterdam - Versión En Español"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0caswMNVJ7vPNC1Z7NOeCT"
+}

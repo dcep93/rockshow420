@@ -1,0 +1,28 @@
+{
+  "artist": "HTRK",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "HTRK",
+      "name": "Kiss Kiss and Rhinestones"
+    },
+    {
+      "artists": "HTRK",
+      "name": "You Know How to Make Me Happy"
+    },
+    {
+      "artists": "HTRK",
+      "name": "Fast Friend"
+    },
+    {
+      "artists": "HTRK",
+      "name": "Give it Up"
+    },
+    {
+      "artists": "HTRK",
+      "explicit": true,
+      "name": "Real Headfuck"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/06sdJwlggq0PKOe4LPZWCg"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Flume",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Flume, kai",
+      "explicit": true,
+      "name": "Never Be Like You"
+    },
+    {
+      "artists": "Disclosure, Eliza Doolittle, Flume",
+      "name": "You & Me - Flume Remix"
+    },
+    {
+      "artists": "Flume, Toro y Moi",
+      "name": "The Difference"
+    },
+    {
+      "artists": "Seekae, Flume",
+      "name": "Test & Recognise - Flume Re-work"
+    },
+    {
+      "artists": "Flume, Chet Faker",
+      "name": "Drop The Game"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6nxWCVXbOlEVRexSbLsTer"
+}

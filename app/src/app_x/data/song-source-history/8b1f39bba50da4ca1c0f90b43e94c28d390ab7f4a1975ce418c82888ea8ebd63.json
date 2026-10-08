@@ -1,0 +1,30 @@
+{
+  "artist": "SZA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kendrick Lamar, SZA",
+      "explicit": true,
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\""
+    },
+    {
+      "artists": "Kendrick Lamar, SZA",
+      "name": "luther (with sza)"
+    },
+    {
+      "artists": "SZA",
+      "explicit": true,
+      "name": "Snooze"
+    },
+    {
+      "artists": "SZA",
+      "name": "Kill Bill"
+    },
+    {
+      "artists": "Doja Cat, SZA",
+      "explicit": true,
+      "name": "Kiss Me More (feat. SZA)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7tYKF4w9nC0nq9CsPZTHyP"
+}

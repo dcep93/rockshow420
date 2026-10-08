@@ -1,0 +1,28 @@
+{
+  "artist": "Wallows",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Wallows, Clairo",
+      "name": "Are You Bored Yet? (feat. Clairo)"
+    },
+    {
+      "artists": "Wallows",
+      "name": "Calling After Me"
+    },
+    {
+      "artists": "Wallows",
+      "name": "Remember When"
+    },
+    {
+      "artists": "Wallows",
+      "explicit": true,
+      "name": "Scrawny"
+    },
+    {
+      "artists": "Wallows",
+      "name": "Pleaser"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0NIPkIjTV8mB795yEIiPYL"
+}

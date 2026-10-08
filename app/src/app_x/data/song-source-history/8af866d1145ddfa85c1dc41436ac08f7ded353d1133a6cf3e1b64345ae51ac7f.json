@@ -1,0 +1,27 @@
+{
+  "artist": "Turnstile",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Turnstile",
+      "name": "BLACKOUT"
+    },
+    {
+      "artists": "Turnstile",
+      "name": "BIRDS"
+    },
+    {
+      "artists": "Turnstile",
+      "name": "NEVER ENOUGH"
+    },
+    {
+      "artists": "Turnstile",
+      "name": "I CARE"
+    },
+    {
+      "artists": "Turnstile, Slayyyter",
+      "name": "BIRDS: SLAYYYTER VERSION"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qnpHrOzdmOo1S4ox3j17x"
+}

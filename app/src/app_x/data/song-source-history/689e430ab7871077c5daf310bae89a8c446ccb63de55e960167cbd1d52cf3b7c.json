@@ -1,0 +1,29 @@
+{
+  "artist": "Still Woozy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Still Woozy",
+      "explicit": true,
+      "name": "Goodie Bag"
+    },
+    {
+      "artists": "Still Woozy",
+      "name": "Window"
+    },
+    {
+      "artists": "Still Woozy",
+      "explicit": true,
+      "name": "Habit"
+    },
+    {
+      "artists": "The Marías, Still Woozy",
+      "name": "Hush - Still Woozy Remix"
+    },
+    {
+      "artists": "Still Woozy",
+      "name": "Cooks"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4iMO20EPodreIaEl8qW66y"
+}

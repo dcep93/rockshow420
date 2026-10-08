@@ -1,0 +1,47 @@
+{
+  "artist": "Great Good Fine Ok",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Great Good Fine Ok, Digital Farm Animals",
+      "name": "You're the One for Me - Digital Farm Animals Remix"
+    },
+    {
+      "artists": "The Knocks, Great Good Fine Ok",
+      "name": "Lucky Me (feat. Great Good Fine Ok)"
+    },
+    {
+      "artists": "XYconstant, Great Good Fine Ok",
+      "name": "Too Much to Handle (XYconstant Remix)"
+    },
+    {
+      "artists": "Great Good Fine Ok, Before You Exit",
+      "name": "Find Yourself"
+    },
+    {
+      "artists": "Great Good Fine Ok",
+      "name": "Take It or Leave It"
+    },
+    {
+      "artists": "Great Good Fine Ok, John Splithoff",
+      "name": "See Me Here See Me Now"
+    },
+    {
+      "artists": "Great Good Fine Ok",
+      "name": "So Far So Good"
+    },
+    {
+      "artists": "Great Good Fine Ok, Before You Exit",
+      "name": "Paradise"
+    },
+    {
+      "artists": "Great Good Fine Ok, Emily Burns",
+      "name": "Could Be Us"
+    },
+    {
+      "artists": "Great Good Fine Ok",
+      "name": "Someone To You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/422RLznpwUa5FsQgnTlgUH"
+}

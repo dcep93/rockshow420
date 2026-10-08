@@ -1,0 +1,30 @@
+{
+  "artist": "Lost Kings",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lost Kings, Norma Jean Martine",
+      "name": "When We Were Young"
+    },
+    {
+      "artists": "Lost Kings, Wiz Khalifa, Social House",
+      "explicit": true,
+      "name": "Don't Kill My High"
+    },
+    {
+      "artists": "Lost Kings, Emily Warren",
+      "explicit": true,
+      "name": "Phone Down"
+    },
+    {
+      "artists": "Lost Kings",
+      "name": "INSOMNIA"
+    },
+    {
+      "artists": "Lost Kings, Loren Gray",
+      "explicit": true,
+      "name": "Anti-Everything"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3hyEbRtp617pNCuuQjyOmc"
+}

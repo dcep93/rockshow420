@@ -1,0 +1,27 @@
+{
+  "artist": "Djo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Djo",
+      "name": "End of Beginning"
+    },
+    {
+      "artists": "Djo",
+      "name": "Delete Ya"
+    },
+    {
+      "artists": "Djo",
+      "name": "Basic Being Basic"
+    },
+    {
+      "artists": "Djo",
+      "name": "Chateau (Feel Alright)"
+    },
+    {
+      "artists": "Djo",
+      "name": "Charlie's Garden"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+}

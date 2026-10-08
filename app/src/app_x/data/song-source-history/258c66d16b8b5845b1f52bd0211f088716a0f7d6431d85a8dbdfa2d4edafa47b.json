@@ -1,0 +1,28 @@
+{
+  "artist": "Krooked Kings",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Krooked Kings",
+      "name": "Catacombs"
+    },
+    {
+      "artists": "Krooked Kings",
+      "explicit": true,
+      "name": "Headhunters"
+    },
+    {
+      "artists": "Krooked Kings",
+      "name": "Memory Loss"
+    },
+    {
+      "artists": "Krooked Kings",
+      "name": "Lying Through Their Teeth"
+    },
+    {
+      "artists": "Krooked Kings",
+      "name": "Wish We Could Be Friends"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6PbMwLmbus5mZl93tX1lXE"
+}

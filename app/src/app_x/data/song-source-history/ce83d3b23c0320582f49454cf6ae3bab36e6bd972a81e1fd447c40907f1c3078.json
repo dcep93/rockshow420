@@ -1,0 +1,29 @@
+{
+  "artist": "Bb trickz",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bb trickz",
+      "name": "Super"
+    },
+    {
+      "artists": "Bb trickz",
+      "name": "poonte perritaa"
+    },
+    {
+      "artists": "Charli xcx, Bb trickz",
+      "explicit": true,
+      "name": "Club classics featuring bb trickz"
+    },
+    {
+      "artists": "benny blanco, Bb trickz",
+      "explicit": true,
+      "name": "Joven y Salvaje (with Bb trickz)"
+    },
+    {
+      "artists": "Bb trickz, Kevin AMF",
+      "name": "Jálale alv"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5QS9NAK4AgJPTcRe472pZA"
+}

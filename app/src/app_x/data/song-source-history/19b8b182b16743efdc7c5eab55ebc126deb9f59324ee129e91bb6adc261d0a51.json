@@ -1,0 +1,28 @@
+{
+  "artist": "LEVEL UP",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ALLEYCVT, LEVEL UP",
+      "name": "BELIEVE"
+    },
+    {
+      "artists": "Subtronics, Wooli, LEVEL UP",
+      "name": "Dingus"
+    },
+    {
+      "artists": "Excision, LEVEL UP",
+      "name": "Club XL"
+    },
+    {
+      "artists": "Subtronics, LEVEL UP, Grabbitz",
+      "name": "Power (feat. Grabbitz)"
+    },
+    {
+      "artists": "Kai Wachi, LEVEL UP",
+      "explicit": true,
+      "name": "OUT OF MY MIND"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+}

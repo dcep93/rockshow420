@@ -1,0 +1,32 @@
+{
+  "artist": "Kota the Friend",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kota the Friend, Hello O'shay, Alex Banin",
+      "explicit": true,
+      "name": "Long Beach"
+    },
+    {
+      "artists": "Kota the Friend",
+      "explicit": true,
+      "name": "Colorado"
+    },
+    {
+      "artists": "Kota the Friend",
+      "explicit": true,
+      "name": "Hollywood"
+    },
+    {
+      "artists": "Kota the Friend",
+      "explicit": true,
+      "name": "Pomegranate"
+    },
+    {
+      "artists": "Prof, Kota the Friend",
+      "explicit": true,
+      "name": "Lionhearted (with Kota the Friend)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2AfU5LYBVCiCtuCCfM7uVX"
+}

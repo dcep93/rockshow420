@@ -1,0 +1,29 @@
+{
+  "artist": "Glass Animals",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Glass Animals",
+      "name": "Heat Waves"
+    },
+    {
+      "artists": "Glass Animals",
+      "explicit": true,
+      "name": "Take A Slice"
+    },
+    {
+      "artists": "Glass Animals",
+      "name": "Gooey"
+    },
+    {
+      "artists": "Glass Animals",
+      "explicit": true,
+      "name": "The Other Side Of Paradise"
+    },
+    {
+      "artists": "Glass Animals",
+      "name": "Youth"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4yvcSjfu4PC0CYQyLy4wSq"
+}

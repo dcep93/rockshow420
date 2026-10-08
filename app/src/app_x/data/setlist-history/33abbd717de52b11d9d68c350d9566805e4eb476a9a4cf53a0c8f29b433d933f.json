@@ -1,0 +1,84 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "De Selby (Part 1)"
+        },
+        {
+          "name": "De Selby (Part 2)"
+        },
+        {
+          "name": "Jackie and Wilson"
+        },
+        {
+          "name": "From Eden"
+        },
+        {
+          "name": "Francesca"
+        },
+        {
+          "name": "To Be Alone"
+        },
+        {
+          "name": "Dinner & Diatribes"
+        },
+        {
+          "name": "Movement"
+        },
+        {
+          "name": "Cherry Wine"
+        },
+        {
+          "name": "To Someone From A Warm Climate (Uiscefhuaraithe)"
+        },
+        {
+          "name": "Like Real People Do"
+        },
+        {
+          "name": "Abstract (Psychopomp)"
+        },
+        {
+          "name": "Would That I"
+        },
+        {
+          "name": "Nina Cried Power"
+        },
+        {
+          "name": "Damage Gets Done"
+        },
+        {
+          "name": "Almost (Sweet Music)"
+        },
+        {
+          "name": "Eat Your Young"
+        },
+        {
+          "name": "First Light"
+        },
+        {
+          "name": "Take Me to Church"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Unknown/Nth"
+        },
+        {
+          "name": "The Weight",
+          "notes": "(The Band cover) (Andrew’s dad on drums)"
+        },
+        {
+          "name": "Work Song",
+          "notes": "(with Maddison Cunningham)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hozier/2023/madison-square-garden-new-york-ny-4ba3d742.html"
+}

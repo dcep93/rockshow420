@@ -1,0 +1,27 @@
+{
+  "artist": "Village People",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Village People",
+      "name": "Y.M.C.A."
+    },
+    {
+      "artists": "Village People",
+      "name": "In The Navy - Single Version"
+    },
+    {
+      "artists": "Village People",
+      "name": "In The Navy"
+    },
+    {
+      "artists": "Village People",
+      "name": "Macho Man"
+    },
+    {
+      "artists": "Village People",
+      "name": "Go West"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0dCKce6tJJdHvlWnDMwzPW"
+}

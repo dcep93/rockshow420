@@ -1,0 +1,47 @@
+{
+  "artist": "Tropidelic",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ELittle Stranger, Tropidelic",
+      "name": "Sunburn (with Tropidelic)"
+    },
+    {
+      "artists": "Tropidelic",
+      "name": "Out There"
+    },
+    {
+      "artists": "Tropidelic",
+      "name": "Falling Down"
+    },
+    {
+      "artists": "Tropidelic, Iration, The Elovaters",
+      "name": "Floating (with Iration & The Elovaters)"
+    },
+    {
+      "artists": "ETropidelic, Devin The Dude",
+      "name": "Sunny Days (with Devin The Dude)"
+    },
+    {
+      "artists": "ETropidelic, Matisyahu, Bumpin Uglies, The Elovaters",
+      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)"
+    },
+    {
+      "artists": "ETropidelic, The Pharcyde",
+      "name": "Movie Star (with The Pharcyde)"
+    },
+    {
+      "artists": "Tropidelic, Little Stranger",
+      "name": "Stolen Art (with Little Stranger)"
+    },
+    {
+      "artists": "Tropidelic, Fortunate Youth",
+      "name": "Drift (with Fortunate Youth)"
+    },
+    {
+      "artists": "ETropidelic, Krayzie Bone, Prof",
+      "name": "Neighborhood (with Krayzie Bone & Prof)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2SGFnb6c73UJd1vT6aGBMl"
+}

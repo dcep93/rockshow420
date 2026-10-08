@@ -1,0 +1,66 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "whatthehellishappening?"
+        },
+        {
+          "name": "Life Itself"
+        },
+        {
+          "name": "Wonderful Nothing"
+        },
+        {
+          "name": "Space Ghost Coast to Coast"
+        },
+        {
+          "name": "A Tear in Space (Airlock)"
+        },
+        {
+          "name": "Creatures in Heaven"
+        },
+        {
+          "name": "Youth"
+        },
+        {
+          "name": "Lost in the Ocean"
+        },
+        {
+          "name": "Gooey"
+        },
+        {
+          "name": "How I Learned to Love the Bomb"
+        },
+        {
+          "name": "Show Pony"
+        },
+        {
+          "name": "On the Run"
+        },
+        {
+          "name": "Take a Slice"
+        },
+        {
+          "name": "Tokyo Drifting"
+        },
+        {
+          "name": "Pork Soda"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "The Other Side of Paradise"
+        },
+        {
+          "name": "Heat Waves"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/glass-animals/2024/madison-square-garden-new-york-ny-3b541460.html"
+}

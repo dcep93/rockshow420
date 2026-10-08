@@ -1,0 +1,27 @@
+{
+  "artist": "NEIL FRANCES",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "NEIL FRANCES",
+      "name": "Teardrops"
+    },
+    {
+      "artists": "NEIL FRANCES",
+      "name": "Music Sounds Better with You"
+    },
+    {
+      "artists": "NEIL FRANCES",
+      "name": "Dumb Love"
+    },
+    {
+      "artists": "NEIL FRANCES",
+      "name": "Show Me the Right"
+    },
+    {
+      "artists": "NEIL FRANCES",
+      "name": "These Days"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/587PA35pRGL1JwQr6idJbb"
+}

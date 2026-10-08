@@ -1,0 +1,28 @@
+{
+  "artist": "Mushkaa",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "C Marí, Mushkaa, BLNCO",
+      "explicit": true,
+      "name": "Sempapa"
+    },
+    {
+      "artists": "Guxo, Cruzzi, Mushkaa, Rojuu, superreservao, El Bugg, Logal",
+      "name": "Rifle Talibán - remix"
+    },
+    {
+      "artists": "Mushkaa, Bad Gyal, Bexnil",
+      "name": "SexeSexy"
+    },
+    {
+      "artists": "Figa Flawas, Mushkaa",
+      "name": "DIABLA"
+    },
+    {
+      "artists": "C Marí, Mushkaa",
+      "name": "...porque yo te amé"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3jU5LKRsimuyZjA0lSkdPp"
+}

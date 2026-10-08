@@ -1,0 +1,27 @@
+{
+  "artist": "Gorgon City",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gorgon City, MNEK",
+      "name": "Ready For Your Love"
+    },
+    {
+      "artists": "Gorgon City",
+      "name": "Voodoo"
+    },
+    {
+      "artists": "Gorgon City, DRAMA",
+      "name": "You've Done Enough"
+    },
+    {
+      "artists": "Gorgon City, Katy Menditta",
+      "name": "Imagination"
+    },
+    {
+      "artists": "Duke Dumont, Gorgon City, NAATIONS",
+      "name": "Real Life"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4VNQWV2y1E97Eqo2D5UTjx"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Paramore",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Paramore",
+      "name": "The Only Exception"
+    },
+    {
+      "artists": "Paramore",
+      "name": "Still into You"
+    },
+    {
+      "artists": "Paramore",
+      "name": "All I Wanted"
+    },
+    {
+      "artists": "Paramore",
+      "name": "Misery Business"
+    },
+    {
+      "artists": "Paramore",
+      "name": "Decode"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/74XFHRwlV6OrjEM0A2NCMF"
+}

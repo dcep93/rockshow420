@@ -1,0 +1,27 @@
+{
+  "artist": "Pony Bradshaw",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pony Bradshaw",
+      "name": "Van Gogh"
+    },
+    {
+      "artists": "Pony Bradshaw",
+      "name": "Sawtoothed Jericho"
+    },
+    {
+      "artists": "Pony Bradshaw",
+      "name": "10x10"
+    },
+    {
+      "artists": "Pony Bradshaw",
+      "name": "Bad Teeth"
+    },
+    {
+      "artists": "Pony Bradshaw",
+      "name": "Plain Dealing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ATGYvt8HyUK8ydaxJybSi"
+}

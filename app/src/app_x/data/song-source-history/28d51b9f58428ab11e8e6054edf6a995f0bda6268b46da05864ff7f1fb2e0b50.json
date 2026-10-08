@@ -1,0 +1,29 @@
+{
+  "artist": "Aiko el grupo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Aiko el grupo",
+      "name": "césped falso"
+    },
+    {
+      "artists": "Aiko el grupo",
+      "explicit": true,
+      "name": "Oda a la muerte de nuestro amor"
+    },
+    {
+      "artists": "Aiko el grupo",
+      "name": "A mí ya me iba mal de antes"
+    },
+    {
+      "artists": "Aiko el grupo",
+      "name": "Paciencia"
+    },
+    {
+      "artists": "Aiko el grupo",
+      "explicit": true,
+      "name": "k pesao"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0mk9dVJMJF4fanFzeZo6K1"
+}

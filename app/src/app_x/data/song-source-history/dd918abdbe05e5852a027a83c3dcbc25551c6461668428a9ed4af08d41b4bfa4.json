@@ -1,0 +1,28 @@
+{
+  "artist": "Christian French",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Christian French",
+      "name": "love ride"
+    },
+    {
+      "artists": "Hoodie Allen, Christian French",
+      "explicit": true,
+      "name": "Come Around"
+    },
+    {
+      "artists": "Christian French",
+      "name": "head first"
+    },
+    {
+      "artists": "Christian French",
+      "name": "superstars"
+    },
+    {
+      "artists": "Christian French",
+      "name": "Season Of Us"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7naAJDAh7AZnf18YYfQruM"
+}

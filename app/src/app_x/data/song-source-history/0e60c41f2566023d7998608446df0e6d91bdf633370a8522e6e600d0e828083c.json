@@ -1,0 +1,32 @@
+{
+  "artist": "PHEM",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "emo808, Hypei, PHEM",
+      "explicit": true,
+      "name": "BACCSEAT RIDE"
+    },
+    {
+      "artists": "PHEM",
+      "explicit": true,
+      "name": "MECHANT"
+    },
+    {
+      "artists": "PHEM, Hypei",
+      "explicit": true,
+      "name": "KRİZ"
+    },
+    {
+      "artists": "PHEM, Zach Zenith",
+      "explicit": true,
+      "name": "SHOOTERS"
+    },
+    {
+      "artists": "PHEM",
+      "explicit": true,
+      "name": "TRAP RULES"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0BMnBygB6YAoapBQV8NayK"
+}

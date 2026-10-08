@@ -1,0 +1,27 @@
+{
+  "artist": "almost monday",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "almost monday",
+      "name": "can't slow down"
+    },
+    {
+      "artists": "almost monday",
+      "name": "no more regrets"
+    },
+    {
+      "artists": "almost monday",
+      "name": "better late than never"
+    },
+    {
+      "artists": "almost monday",
+      "name": "french kids"
+    },
+    {
+      "artists": "almost monday",
+      "name": "enjoy the ride"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/42FzVuyJH8YbkhzWSR2n8E"
+}

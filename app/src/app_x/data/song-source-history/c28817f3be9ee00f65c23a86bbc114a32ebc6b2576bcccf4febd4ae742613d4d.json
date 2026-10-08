@@ -1,0 +1,28 @@
+{
+  "artist": "William Black",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SLANDER, William Black",
+      "explicit": true,
+      "name": "Back To U"
+    },
+    {
+      "artists": "Dabin, William Black, Audra Miller",
+      "name": "Flutters"
+    },
+    {
+      "artists": "William Black",
+      "name": "Deep End"
+    },
+    {
+      "artists": "William Black, baby blue",
+      "name": "Monster"
+    },
+    {
+      "artists": "William Black, Monika Santucci",
+      "name": "Deep Blue"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7d5SfGXKpgS3JK8BFIq59h"
+}

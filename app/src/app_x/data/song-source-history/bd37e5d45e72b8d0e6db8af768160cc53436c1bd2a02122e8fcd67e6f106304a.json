@@ -1,0 +1,32 @@
+{
+  "artist": "TiaCorine",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Denzel Curry, TiaCorine, A$AP Ferg",
+      "explicit": true,
+      "name": "HOT ONE (with TiaCorine & A$AP Ferg)"
+    },
+    {
+      "artists": "TiaCorine",
+      "explicit": true,
+      "name": "FreakyT"
+    },
+    {
+      "artists": "BIA, TiaCorine",
+      "explicit": true,
+      "name": "WE ON GO III (feat. TiaCorine)"
+    },
+    {
+      "artists": "DJ Shadow, Run The Jewels, Denzel Curry, TiaCorine",
+      "explicit": true,
+      "name": "Nobody Speak Part 2"
+    },
+    {
+      "artists": "Joey Valence & Brae, TiaCorine",
+      "explicit": true,
+      "name": "BUST DOWN (feat. TiaCorine)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/39i5B6umzWzkfMe12JrMwW"
+}

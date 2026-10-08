@@ -1,0 +1,27 @@
+{
+  "artist": "Ski Team",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ski Team",
+      "name": "Thank You, Jalen Brunson"
+    },
+    {
+      "artists": "Ski Team",
+      "name": "Gilroy"
+    },
+    {
+      "artists": "Ski Team",
+      "name": "Music For My Family"
+    },
+    {
+      "artists": "Ski Team",
+      "name": "Thirst Trap For Diego"
+    },
+    {
+      "artists": "Ski Team",
+      "name": "Photos"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7CAWVNv92kzOn5HvsHzaxO"
+}

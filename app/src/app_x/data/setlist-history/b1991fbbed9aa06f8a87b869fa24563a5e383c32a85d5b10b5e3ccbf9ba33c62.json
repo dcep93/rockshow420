@@ -1,0 +1,101 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Contrapunctus 1",
+          "notes": "(Johann Sebastian Bach cover)"
+        },
+        {
+          "name": "Big Dipper"
+        },
+        {
+          "name": "Matter of Time"
+        },
+        {
+          "name": "In Real Life"
+        },
+        {
+          "name": "Sauna"
+        },
+        {
+          "name": "Lonely Town"
+        },
+        {
+          "name": "Tender Defender"
+        },
+        {
+          "name": "Memories",
+          "notes": "(Cory Wong cover)"
+        },
+        {
+          "name": "1612"
+        },
+        {
+          "name": "Simple Step",
+          "notes": "(Groove Spoon cover)"
+        },
+        {
+          "name": "3 on E"
+        },
+        {
+          "name": "Tokyo Night",
+          "notes": "(Vulfmon cover) (with Evangeline)"
+        },
+        {
+          "name": "My First Car",
+          "notes": "(with Bernard “Pretty” Purdie)"
+        },
+        {
+          "name": "Simply Beautiful",
+          "notes": "(Al Green cover) (with Bernard “Pretty” Purdie)"
+        },
+        {
+          "name": "Movin' Out (Anthony's Song)",
+          "notes": "(Billy Joel cover)"
+        },
+        {
+          "name": "Jealous Guy",
+          "notes": "(John Lennon cover) (with Charles Jones)"
+        },
+        {
+          "name": "Baby I Don't Know Oh Oh",
+          "notes": "(with Charles Jones)"
+        },
+        {
+          "name": "Can You Tell"
+        },
+        {
+          "name": "LAX"
+        },
+        {
+          "name": "This Is Not the Song I Wrote"
+        },
+        {
+          "name": "New Beastly"
+        },
+        {
+          "name": "Wait for the Moment"
+        },
+        {
+          "name": "Back Pocket"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Dean Town"
+        },
+        {
+          "name": "Welcome to Vulf Records",
+          "tape": true
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/vulfpeck/2025/madison-square-garden-new-york-ny-7b5daebc.html"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "MAVI",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "MAVI",
+      "explicit": true,
+      "name": "Love, of Money"
+    },
+    {
+      "artists": "Ovrkast., Samara Cyn, MAVI",
+      "explicit": true,
+      "name": "KNOCK"
+    },
+    {
+      "artists": "MAVI",
+      "explicit": true,
+      "name": "the giver"
+    },
+    {
+      "artists": "MAVI, MIKE",
+      "explicit": true,
+      "name": "Triple Nickel (feat. MIKE)"
+    },
+    {
+      "artists": "MAVI",
+      "explicit": true,
+      "name": "Sense"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1peoXq0RPx7czVoFjloeDQ"
+}

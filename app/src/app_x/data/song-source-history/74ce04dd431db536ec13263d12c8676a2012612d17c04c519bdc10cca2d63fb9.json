@@ -1,0 +1,28 @@
+{
+  "artist": "Aquilo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Aquilo",
+      "name": "Silhouette"
+    },
+    {
+      "artists": "Aquilo",
+      "name": "You There"
+    },
+    {
+      "artists": "Aquilo",
+      "name": "It All Comes Down to This"
+    },
+    {
+      "artists": "Aquilo",
+      "name": "Thin"
+    },
+    {
+      "artists": "Aquilo",
+      "explicit": true,
+      "name": "Sorry"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/26GHRG8x1F4AzbCKzUaIbw"
+}

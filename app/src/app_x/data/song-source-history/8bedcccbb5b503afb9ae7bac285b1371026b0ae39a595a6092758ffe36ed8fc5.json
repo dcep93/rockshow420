@@ -1,0 +1,28 @@
+{
+  "artist": "Bad Nerves",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Bad Nerves",
+      "name": "Can't Be Mine"
+    },
+    {
+      "artists": "Bad Nerves",
+      "name": "Baby Drummer"
+    },
+    {
+      "artists": "Bad Nerves",
+      "name": "NETWORK"
+    },
+    {
+      "artists": "Bad Nerves",
+      "explicit": true,
+      "name": "Don't Stop"
+    },
+    {
+      "artists": "Bad Nerves",
+      "name": "You've Got The Nerve"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+}

@@ -1,0 +1,104 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Keep Me in Mind"
+        },
+        {
+          "name": "Let It Go"
+        },
+        {
+          "name": "As She's Walking Away"
+        },
+        {
+          "name": "Real Thing"
+        },
+        {
+          "name": "Use Somebody",
+          "notes": "(Kings of Leon cover)"
+        },
+        {
+          "name": "Goodbye in Her Eyes"
+        },
+        {
+          "name": "Tomorrow Never Comes"
+        },
+        {
+          "name": "Loving You Easy"
+        },
+        {
+          "name": "Start Over",
+          "notes": "(Acoustic)"
+        },
+        {
+          "name": "Whipping Post",
+          "notes": "(The Allman Brothers Band cover)"
+        }
+      ]
+    },
+    {
+      "name": "Intermission",
+      "songs": [
+        {
+          "name": "Drum Solos"
+        },
+        {
+          "name": "Jump Right In / Castaway / Where the Boat Leaves From"
+        },
+        {
+          "name": "Knee Deep"
+        },
+        {
+          "name": "The Eye",
+          "notes": "(Brandi Carlile cover)"
+        },
+        {
+          "name": "Sunday Finest",
+          "notes": "(Sir Rosevelt cover)"
+        },
+        {
+          "name": "Colder Weather",
+          "notes": "(with Take It to the Limit interlude)"
+        },
+        {
+          "name": "Family Table"
+        },
+        {
+          "name": "It's a Great Day to Be Alive",
+          "notes": "(Darrell Scott cover)"
+        },
+        {
+          "name": "Toes"
+        },
+        {
+          "name": "Beautiful Drug"
+        },
+        {
+          "name": "Chicken Fried"
+        },
+        {
+          "name": "Homegrown"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "My Old Man"
+        },
+        {
+          "name": "Guitar Duel"
+        },
+        {
+          "name": "Panama",
+          "notes": "(Van Halen cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/zac-brown-band/2017/shoreline-amphitheatre-mountain-view-ca-3e3113b.html"
+}

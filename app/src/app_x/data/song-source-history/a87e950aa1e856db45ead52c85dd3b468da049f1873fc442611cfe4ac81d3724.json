@@ -1,0 +1,28 @@
+{
+  "artist": "Sawyer Hill",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sawyer Hill",
+      "explicit": true,
+      "name": "High On My Lows"
+    },
+    {
+      "artists": "Sawyer Hill",
+      "name": "Look At The Time"
+    },
+    {
+      "artists": "Sawyer Hill",
+      "name": "Firestarters"
+    },
+    {
+      "artists": "Sawyer Hill",
+      "name": "For The Hell Of It"
+    },
+    {
+      "artists": "Sawyer Hill",
+      "name": "Masochistic Lover"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3CwWzT9t3z7DARyhDIzwIG"
+}

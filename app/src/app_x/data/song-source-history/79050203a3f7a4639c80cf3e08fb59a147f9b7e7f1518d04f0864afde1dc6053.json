@@ -1,0 +1,27 @@
+{
+  "artist": "DJ Minx",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dam Swindle, DJ Minx",
+      "name": "Back to the Old School"
+    },
+    {
+      "artists": "DJ Minx, Prunk",
+      "name": "Another One - Prunk Remix"
+    },
+    {
+      "artists": "DJ Minx",
+      "name": "A Walk in the Park"
+    },
+    {
+      "artists": "Robotman, Marshall Jefferson, Richie Hawtin, DJ Minx",
+      "name": "Do Da Doo - DJ Minx Remix"
+    },
+    {
+      "artists": "Robotman, Marshall Jefferson, Richie Hawtin, DJ Minx",
+      "name": "Do Da Doo - DJ Minx Extended Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4PTQtiKISN5iGNpbRVv02B"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Arizona Zervas",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arizona Zervas",
+      "explicit": true,
+      "name": "ROXANNE"
+    },
+    {
+      "artists": "Arizona Zervas",
+      "explicit": true,
+      "name": "FML"
+    },
+    {
+      "artists": "Arizona Zervas",
+      "explicit": true,
+      "name": "NIGHTRIDER"
+    },
+    {
+      "artists": "Arizona Zervas, Swae Lee",
+      "explicit": true,
+      "name": "ROXANNE - Remix"
+    },
+    {
+      "artists": "Arizona Zervas",
+      "explicit": true,
+      "name": "No I in Team"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0vRvGUQVUjytro0xpb26bs"
+}

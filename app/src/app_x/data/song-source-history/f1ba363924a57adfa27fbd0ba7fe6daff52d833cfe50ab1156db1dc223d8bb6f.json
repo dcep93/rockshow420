@@ -1,0 +1,31 @@
+{
+  "artist": "Dr. Fresch",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dr. Fresch, Baby Eazy E",
+      "explicit": true,
+      "name": "Gangsta Gangsta"
+    },
+    {
+      "artists": "Dr. Fresch",
+      "explicit": true,
+      "name": "Armageddon"
+    },
+    {
+      "artists": "Dr. Fresch, Marten Hørger",
+      "name": "Take A Step Back"
+    },
+    {
+      "artists": "Dr. Fresch, Mina Knock",
+      "explicit": true,
+      "name": "Feedback"
+    },
+    {
+      "artists": "Dr. Fresch, Mina Knock",
+      "explicit": true,
+      "name": "Timeless"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1htHgbGwgCWJBfGiQwcRqC"
+}

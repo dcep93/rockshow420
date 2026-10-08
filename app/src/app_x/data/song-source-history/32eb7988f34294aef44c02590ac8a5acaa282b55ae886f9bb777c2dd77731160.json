@@ -1,0 +1,27 @@
+{
+  "artist": "Claptone",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Claptone, Nathan Nicholson",
+      "name": "Heartbeat"
+    },
+    {
+      "artists": "Alaia & Gallo, Kevin Haden, Claptone",
+      "name": "Who Is He? - Claptone Remix"
+    },
+    {
+      "artists": "Claptone, JAW",
+      "name": "No Eyes"
+    },
+    {
+      "artists": "Claptone, JAW",
+      "name": "No Eyes - Radio Edit"
+    },
+    {
+      "artists": "Ava Max, Claptone",
+      "name": "My Head & My Heart - Claptone Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4mncDFjVLUa3s025Tct3Ry"
+}

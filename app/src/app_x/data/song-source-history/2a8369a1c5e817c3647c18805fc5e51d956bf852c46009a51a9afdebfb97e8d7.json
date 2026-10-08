@@ -1,0 +1,28 @@
+{
+  "artist": "Dombresky",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dombresky",
+      "name": "Soul Sacrifice"
+    },
+    {
+      "artists": "The Jackson 5, Disco Dom, Dombresky",
+      "name": "ABC - Disco Dom Refunk"
+    },
+    {
+      "artists": "Disco Dom, Dombresky",
+      "name": "There is Life"
+    },
+    {
+      "artists": "Taylor Swift, Dombresky",
+      "explicit": true,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix"
+    },
+    {
+      "artists": "Dombresky, Donnie Sloan, Ricky Ducati",
+      "name": "Down Low"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2GVtgxcx7jg5xVCZsIHSGN"
+}

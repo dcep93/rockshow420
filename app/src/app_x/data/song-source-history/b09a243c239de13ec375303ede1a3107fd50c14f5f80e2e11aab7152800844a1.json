@@ -1,0 +1,27 @@
+{
+  "artist": "L'Impératrice",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "L'Impératrice",
+      "name": "Agitations tropicales"
+    },
+    {
+      "artists": "L'Impératrice",
+      "name": "Vanille fraise"
+    },
+    {
+      "artists": "L'Impératrice, Isaac Delusion",
+      "name": "Sonate Pacifique"
+    },
+    {
+      "artists": "L'Impératrice",
+      "name": "Voodoo?"
+    },
+    {
+      "artists": "L'Impératrice",
+      "name": "Peur des filles"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4PwlsrN0t5mLN0C827cbEU"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "The Neighbourhood",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Neighbourhood",
+      "name": "Sweater Weather"
+    },
+    {
+      "artists": "The Neighbourhood",
+      "name": "Reflections"
+    },
+    {
+      "artists": "The Neighbourhood",
+      "name": "Softcore"
+    },
+    {
+      "artists": "The Neighbourhood",
+      "name": "Daddy Issues"
+    },
+    {
+      "artists": "The Neighbourhood",
+      "name": "You Get Me So High"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/77SW9BnxLY8rJ0RciFqkHh"
+}

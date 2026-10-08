@@ -24,7 +24,10 @@ export function formatConcertDate(iso: string, timezone: string, precision?: str
     return day.toFormat("ccc, LLL d, yyyy") + (end?.isValid && endDate !== iso.slice(0, 10) ? ` – ${end.toFormat("ccc, LLL d, yyyy")}` : "");
   }
   const value = zoned(iso, timezone);
-  return value?.isValid ? value.toFormat("ccc, LLL d, yyyy · h:mm a ZZZZ") : "Date unavailable";
+  if (!value?.isValid) return "Date unavailable";
+  const end = endDate ? DateTime.fromISO(endDate, { zone: "UTC" }) : null;
+  return value.toFormat("ccc, LLL d, yyyy · h:mm a ZZZZ")
+    + (end?.isValid && endDate !== value.toISODate() ? ` – ${end.toFormat("ccc, LLL d, yyyy")}` : "");
 }
 export function isCalendarDate(value: string): boolean {
   return /^\d{4}-\d{2}-\d{2}$/.test(value) && DateTime.fromISO(value, { zone: "UTC" }).isValid;

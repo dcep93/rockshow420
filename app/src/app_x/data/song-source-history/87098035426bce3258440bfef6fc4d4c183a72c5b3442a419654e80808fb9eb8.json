@@ -1,0 +1,27 @@
+{
+  "artist": "Silvana Estrada",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Silvana Estrada",
+      "name": "Como Un Pájaro"
+    },
+    {
+      "artists": "Silvana Estrada",
+      "name": "Un Rayo de Luz"
+    },
+    {
+      "artists": "Gepe, Silvana Estrada",
+      "name": "HABLAR DE TI (...)"
+    },
+    {
+      "artists": "Silvana Estrada",
+      "name": "Te Guardo"
+    },
+    {
+      "artists": "Silvana Estrada",
+      "name": "Dime"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/72VywtXEoONiBLNu3ibGI7"
+}

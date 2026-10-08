@@ -1,0 +1,47 @@
+{
+  "artist": "Cory Wong",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vaundy, Cory Wong",
+      "name": "Todome no ichigeki (feat. Cory Wong)"
+    },
+    {
+      "artists": "Cory Wong, Cody Fry",
+      "name": "Golden"
+    },
+    {
+      "artists": "Cory Wong, Dirty Loops",
+      "name": "Follow The Light"
+    },
+    {
+      "artists": "Cory Wong, Metropole Orkest, Jules Buckley",
+      "name": "Starship Syncopation"
+    },
+    {
+      "artists": "Cory Wong, Dirty Loops",
+      "name": "Ring Of Saturn"
+    },
+    {
+      "artists": "Cory Wong, Tom Misch",
+      "name": "Cosmic Sans"
+    },
+    {
+      "artists": "Cory Wong, Dirty Loops",
+      "name": "Thriller"
+    },
+    {
+      "artists": "Cory Wong, Dirty Loops",
+      "name": "Turbo"
+    },
+    {
+      "artists": "Cody Fry, Cory Wong, Dynamo",
+      "name": "Better"
+    },
+    {
+      "artists": "Cory Wong, Magic City Hippies",
+      "name": "Blame It On The Moon"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6xt9sJmmyYwWkJv8A6ssiU"
+}

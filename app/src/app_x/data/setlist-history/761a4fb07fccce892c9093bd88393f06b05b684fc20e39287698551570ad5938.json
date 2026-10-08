@@ -1,0 +1,73 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Press Restart"
+        },
+        {
+          "name": "Portugal"
+        },
+        {
+          "name": "Lisa Baby"
+        },
+        {
+          "name": "Kamikaze"
+        },
+        {
+          "name": "All I Want"
+        },
+        {
+          "name": "Shiver Shiver"
+        },
+        {
+          "name": "Avalanche"
+        },
+        {
+          "name": "Aquaman"
+        },
+        {
+          "name": "Surrender"
+        },
+        {
+          "name": "Tightrope"
+        },
+        {
+          "name": "Different Colors"
+        },
+        {
+          "name": "Shut Up and Dance"
+        },
+        {
+          "name": "Can't Sleep (Wolves)"
+        },
+        {
+          "name": "Tiger Teeth"
+        },
+        {
+          "name": "One Foot"
+        },
+        {
+          "name": "Next in Line"
+        },
+        {
+          "name": "Headphones"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Up 2 U"
+        },
+        {
+          "name": "Anna Sun"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/walk-the-moon/2018/fox-theater-oakland-ca-43eedb97.html"
+}

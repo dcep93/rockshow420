@@ -1,0 +1,29 @@
+{
+  "artist": "Kim Petras",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sam Smith, Kim Petras",
+      "name": "Unholy (feat. Kim Petras)"
+    },
+    {
+      "artists": "David Guetta, Kim Petras",
+      "name": "When We Were Young (The Logical Song)"
+    },
+    {
+      "artists": "Kim Petras",
+      "explicit": true,
+      "name": "Autobahn"
+    },
+    {
+      "artists": "Charli xcx, Kim Petras, Jay Park",
+      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park"
+    },
+    {
+      "artists": "Kim Petras",
+      "explicit": true,
+      "name": "Need For Speed"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "The Internet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Internet",
+      "name": "Hold On"
+    },
+    {
+      "artists": "The Internet, KAYTRANADA",
+      "explicit": true,
+      "name": "Girl (feat. KAYTRANADA)"
+    },
+    {
+      "artists": "The Internet",
+      "explicit": true,
+      "name": "Special Affair"
+    },
+    {
+      "artists": "The Internet, Tyler, The Creator, Steve Lacy",
+      "explicit": true,
+      "name": "Palace/Curse (feat. Tyler, The Creator & Steve Lacy)"
+    },
+    {
+      "artists": "The Internet",
+      "name": "Dontcha"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7GN9PivdemQRKjDt4z5Zv8"
+}

@@ -1,0 +1,47 @@
+{
+  "artist": "Sum 41",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sum 41",
+      "name": "In Too Deep"
+    },
+    {
+      "artists": "ESum 41",
+      "name": "Still Waiting"
+    },
+    {
+      "artists": "ESum 41",
+      "name": "Fat Lip"
+    },
+    {
+      "artists": "ESum 41",
+      "name": "The Hell Song"
+    },
+    {
+      "artists": "Sum 41",
+      "name": "Pieces"
+    },
+    {
+      "artists": "Sum 41",
+      "name": "With Me"
+    },
+    {
+      "artists": "Sum 41",
+      "name": "War"
+    },
+    {
+      "artists": "ESum 41",
+      "name": "Over My Head (Better Off Dead)"
+    },
+    {
+      "artists": "ESum 41",
+      "name": "Landmines"
+    },
+    {
+      "artists": "Sum 41",
+      "name": "No Reason"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0qT79UgT5tY4yudH9VfsdT"
+}

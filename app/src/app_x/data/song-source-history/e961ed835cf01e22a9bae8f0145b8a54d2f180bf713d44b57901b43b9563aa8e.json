@@ -1,0 +1,27 @@
+{
+  "artist": "Diamante Negro",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Cora Yako, Diamante Negro",
+      "name": "Azul Oscuro Casi Negro"
+    },
+    {
+      "artists": "Diamante Negro",
+      "name": "Club Caribe"
+    },
+    {
+      "artists": "Diamante Negro",
+      "name": "Quedará en Nuestra Mente"
+    },
+    {
+      "artists": "Diamante Negro",
+      "name": "Olvídate de Mí"
+    },
+    {
+      "artists": "Diamante Negro",
+      "name": "Sola"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/51WUBWxuW4MAoBwuYraA4v"
+}

@@ -1,9 +1,14 @@
+// Historical migration rules; production rules are verified by tables.test.ts.
 /// <reference types="node" />
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { after, before, beforeEach, test } from "node:test";
 import { assertFails, assertSucceeds, initializeTestEnvironment } from "@firebase/rules-unit-testing";
 import type { RulesTestEnvironment } from "@firebase/rules-unit-testing";
+import { migrateCancelled } from "../data/migrateCancelled";
+import { migrateIds } from "../data/migrateIds";
+import legacyIds from "../data/legacyIds.json";
+import type { Firestore } from "firebase/firestore";
 import {
   collection,
   deleteDoc,
@@ -52,7 +57,7 @@ before(async () => {
     firestore: {
       host,
       port: Number(port),
-      rules: readFileSync(new URL("../backend/firestore.rules", import.meta.url), "utf8"),
+      rules: readFileSync(new URL("../backend/firestore.migration.rules", import.meta.url), "utf8"),
     },
   });
 });
@@ -161,12 +166,12 @@ test("another owner cannot mutate someone else’s logs", async () => {
   await assertFails(setDoc(doc(db, "user_concerts/owner_other"), { user_id: "owner", concert_id: "other" }));
 });
 
-test("ticket status allows missing or empty, purchased, and sold_out for owners and admins only", async () => {
+test("ticket status allows missing or empty, purchased, sold_out, and cancelled for owners and admins only", async () => {
   for (const db of [account(), admin()]) {
     const ref = doc(db, "user_concerts/owner_other");
     const identity = { user_id: "owner", concert_id: "other" };
     await assertSucceeds(setDoc(ref, identity));
-    for (const ticket_status of ["", "purchased", "sold_out"]) {
+    for (const ticket_status of ["", "purchased", "sold_out", "cancelled"]) {
       await assertSucceeds(setDoc(ref, { ...identity, ticket_status }));
       await assertSucceeds(updateDoc(ref, { notes: "Keep my ticket", removed: true }));
       assert.equal((await getDoc(ref)).data()?.ticket_status, ticket_status);
@@ -285,6 +290,22 @@ test("the complete Notion import respects deployed validation and document acces
   }
   assert.equal(sourceRows.size, 336);
   assert.equal((await getDocs(collection(db, "user_concerts"))).size, 1);
+  for (const { id } of manifest.existing_concerts) await setDoc(doc(db, "concerts", id), concert);
+  const original = manifest.concerts[0].id as keyof typeof legacyIds.concerts;
+  const next = legacyIds.concerts[original];
+  // Rules testing exposes the compat type; the modular SDK unwraps it at runtime.
+  const migrationDb = db as unknown as Firestore;
+  const entry = { user_id: "owner", concert_id: original, notes: "Preserve me", ticket_status: "purchased", removed: true, future_field: { version: 9 } };
+  await setDoc(doc(db, "user_concerts", `owner_${original}`), entry);
+  await setDoc(doc(db, "concerts", next), { ...concert, name: "Do not overwrite me" });
+  await assert.rejects(() => migrateIds(migrationDb, () => {}), /Destination exists/);
+  assert.equal((await getDoc(doc(db, "concerts", next))).data()?.name, "Do not overwrite me");
+  await deleteDoc(doc(db, "concerts", next));
+  assert.equal((await migrateIds(migrationDb, () => {})).changed, 369);
+  assert.equal((await getDoc(doc(db, "concerts", original))).exists(), false);
+  assert.deepEqual((await getDoc(doc(db, "user_concerts", `owner_${next}`))).data(), { ...entry, concert_id: next });
+  assert.equal((await getDoc(doc(db, "user_concerts", `owner_${original}`))).exists(), false);
+  assert.equal((await migrateIds(migrationDb, () => {})).changed, 0);
 });
 
 test("owners hide default concerts, restore entries and cannot hide another user's concerts", async () => {
@@ -309,4 +330,19 @@ test("owners hide default concerts, restore entries and cannot hide another user
     await deleteDoc(doc(context.firestore(), "concerts/concert"));
   });
   await assertSucceeds(updateDoc(edited, { removed: true }));
+});
+
+
+test("cancelled import markers move to the owner's ticket status without losing other data", async () => {
+  await env.withSecurityRulesDisabled(async (context) => {
+    await updateDoc(doc(context.firestore(), "concerts/concert"), { status: "cancelled", future_field: 7 });
+    await setDoc(doc(context.firestore(), "user_concerts/owner_concert"), { ...log, ticket_status: "purchased" });
+  });
+  assert.equal(await migrateCancelled(admin() as unknown as Firestore, "owner"), 1);
+  const saved = (await getDoc(doc(admin(), "user_concerts/owner_concert"))).data();
+  assert.deepEqual(saved, { ...log, ticket_status: "cancelled" });
+  const event = (await getDoc(doc(admin(), "concerts/concert"))).data();
+  assert.equal(event?.status, undefined);
+  assert.equal(event?.future_field, 7);
+  assert.equal(await migrateCancelled(admin() as unknown as Firestore, "owner"), 0);
 });

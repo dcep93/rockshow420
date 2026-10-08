@@ -1,0 +1,27 @@
+{
+  "artist": "Silversun Pickups",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Silversun Pickups",
+      "name": "Lazy Eye"
+    },
+    {
+      "artists": "Silversun Pickups",
+      "name": "Panic Switch"
+    },
+    {
+      "artists": "Silversun Pickups",
+      "name": "Circadian Rhythm (Last Dance)"
+    },
+    {
+      "artists": "Silversun Pickups",
+      "name": "Kissing Families"
+    },
+    {
+      "artists": "Silversun Pickups",
+      "name": "Three Seed"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6qyi8X6MdP1lu6B1K6yh3h"
+}

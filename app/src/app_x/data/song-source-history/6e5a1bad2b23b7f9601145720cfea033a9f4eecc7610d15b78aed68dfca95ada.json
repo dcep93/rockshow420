@@ -1,0 +1,27 @@
+{
+  "artist": "Big Wild",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Big Wild, Rationale",
+      "name": "6's to 9's"
+    },
+    {
+      "artists": "Big Wild",
+      "name": "When I Get There"
+    },
+    {
+      "artists": "Big Wild",
+      "name": "Awaken"
+    },
+    {
+      "artists": "Big Wild, Rationale, Day Wave",
+      "name": "6's to 9's - Day Wave Remix"
+    },
+    {
+      "artists": "Big Wild",
+      "name": "Purple Sand (My Home)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0PxzGnCYBpSuaI49OR94cA"
+}

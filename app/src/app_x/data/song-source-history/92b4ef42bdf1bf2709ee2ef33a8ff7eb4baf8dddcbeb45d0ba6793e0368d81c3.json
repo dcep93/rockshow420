@@ -1,0 +1,30 @@
+{
+  "artist": "Rico Nasty",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "XG, Rico Nasty, JAKOPS",
+      "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY"
+    },
+    {
+      "artists": "Rico Nasty",
+      "name": "You Can't Run From Me (from Cyberpunk: Edgerunners Season 2)"
+    },
+    {
+      "artists": "Rico Nasty",
+      "explicit": true,
+      "name": "Smack A Bitch"
+    },
+    {
+      "artists": "Rico Nasty",
+      "explicit": true,
+      "name": "Pussy Poppin (I Don't Really Talk Like This)"
+    },
+    {
+      "artists": "Doechii, Rico Nasty",
+      "explicit": true,
+      "name": "Swamp Bitches (with Rico Nasty)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2OaHYHb2XcFPvqL3VsyPzU"
+}

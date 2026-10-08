@@ -1,0 +1,110 @@
+{
+  "notes": "Note: Third Show",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Woman to Woman",
+          "notes": "(Joe Cocker cover)"
+        },
+        {
+          "name": "Let Me Get By"
+        },
+        {
+          "name": "Playing With My Emotions"
+        },
+        {
+          "name": "Take Me as I Am"
+        },
+        {
+          "name": "Anyhow"
+        },
+        {
+          "name": "Bell Bottom Blues",
+          "notes": "(Derek and the Dominos cover)"
+        },
+        {
+          "name": "Why Does Love Got to Be So Sad?",
+          "notes": "(Derek and the Dominos cover)"
+        },
+        {
+          "name": "Life Is Crazy",
+          "notes": "(Mike Mattison cover)"
+        },
+        {
+          "name": "Get What You Deserve",
+          "notes": "(The Derek Trucks Band cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Statesboro Blues",
+          "notes": "(Blind Willie McTell cover) (>)"
+        },
+        {
+          "name": "Don't Let Me Slide"
+        },
+        {
+          "name": "Part of Me"
+        },
+        {
+          "name": "It Ain't Fair",
+          "notes": "(Ben E. King cover) (>)"
+        },
+        {
+          "name": "Dreams",
+          "notes": "(The Allman Brothers Band cover)"
+        },
+        {
+          "name": "Angel From Montgomery",
+          "notes": "(John Prine cover) (>)"
+        },
+        {
+          "name": "Sugaree",
+          "notes": "(Jerry Garcia cover)"
+        },
+        {
+          "name": "Keep On Smilin'",
+          "notes": "(Wet Willie cover)"
+        },
+        {
+          "name": "Midnight in Harlem",
+          "notes": "(w/ ‘Little Martha’ intro)"
+        },
+        {
+          "name": "I Want More",
+          "notes": "(>)"
+        },
+        {
+          "name": "Presence of the Lord",
+          "notes": "(Blind Faith cover) (Last time played by TTB 12/29/2010)"
+        },
+        {
+          "name": "Beck's Bolero",
+          "notes": "(Jeff Beck cover)"
+        }
+      ]
+    },
+    {
+      "name": "Encore",
+      "songs": [
+        {
+          "name": "A Song for You",
+          "notes": "(Leon Russell cover)"
+        },
+        {
+          "name": "Soul Sweet Song"
+        },
+        {
+          "name": "Space Captain",
+          "notes": "(Matthew Moore cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2024/beacon-theatre-new-york-ny-13ad5de5.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Lauv",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lauv",
+      "name": "I Like Me Better"
+    },
+    {
+      "artists": "Lauv, LANY",
+      "name": "Mean It"
+    },
+    {
+      "artists": "Lauv",
+      "name": "Steal The Show"
+    },
+    {
+      "artists": "Lauv",
+      "name": "Paris in the Rain"
+    },
+    {
+      "artists": "Lauv, Troye Sivan",
+      "name": "i'm so tired..."
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5JZ7CnR6gTvEMKX4g70Amv"
+}

@@ -1,0 +1,32 @@
+{
+  "artist": "Freddie Gibbs",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Freddie Gibbs, The Alchemist, Anderson .Paak",
+      "explicit": true,
+      "name": "Ensalada (feat. Anderson .Paak)"
+    },
+    {
+      "artists": "Freddie Gibbs, The Alchemist",
+      "explicit": true,
+      "name": "1985"
+    },
+    {
+      "artists": "Freddie Gibbs, The Alchemist",
+      "explicit": true,
+      "name": "Shangri La"
+    },
+    {
+      "artists": "Freddie Gibbs, The Alchemist, Rick Ross",
+      "explicit": true,
+      "name": "Scottie Beam"
+    },
+    {
+      "artists": "Freddie Gibbs, The Alchemist, Tyler, The Creator",
+      "explicit": true,
+      "name": "Something to Rap About (feat. Tyler, The Creator)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0Y4inQK6OespitzD6ijMwb"
+}

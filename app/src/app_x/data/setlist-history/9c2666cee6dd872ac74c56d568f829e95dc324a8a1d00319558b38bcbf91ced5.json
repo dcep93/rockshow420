@@ -1,0 +1,51 @@
+{
+  "notes": "Note: Setlist incomplete and out of order",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "We Are Never Ever Getting Back Together",
+          "tape": true
+        },
+        {
+          "name": "You Signed Up for This"
+        },
+        {
+          "name": "Psycho"
+        },
+        {
+          "name": "Boy"
+        },
+        {
+          "name": "Outdoor Pool"
+        },
+        {
+          "name": "Cate's Brother",
+          "notes": "(Snippet)"
+        },
+        {
+          "name": "Place We Were Made"
+        },
+        {
+          "name": "Sad Girl Summer"
+        },
+        {
+          "name": "Villain"
+        },
+        {
+          "name": "Worst of You"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "John Hughes Movie"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/maisie-peters/2022/the-chapel-san-francisco-ca-7b4f9608.html"
+}

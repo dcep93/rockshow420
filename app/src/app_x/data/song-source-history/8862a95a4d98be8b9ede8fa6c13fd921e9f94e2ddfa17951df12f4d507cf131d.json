@@ -1,0 +1,48 @@
+{
+  "artist": "JP Saxe",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JP Saxe, Julia Michaels",
+      "name": "If the World Was Ending (feat. Julia Michaels)"
+    },
+    {
+      "artists": "JP Saxe",
+      "name": "A Little Bit Yours"
+    },
+    {
+      "artists": "JP Saxe, Evaluna Montaner",
+      "name": "If The World Was Ending - Spanglish Version"
+    },
+    {
+      "artists": "JP Saxe, Charlotte Lawrence",
+      "name": "The Few Things (With Charlotte Lawrence)"
+    },
+    {
+      "artists": "JP Saxe",
+      "name": "Someday"
+    },
+    {
+      "artists": "JP Saxe",
+      "name": "Hey Stupid, I Love You"
+    },
+    {
+      "artists": "JP Saxe, Maren Morris",
+      "explicit": true,
+      "name": "Line By Line (feat. Maren Morris)"
+    },
+    {
+      "artists": "Maisie Peters, JP Saxe",
+      "name": "Maybe Don't (feat. JP Saxe)"
+    },
+    {
+      "artists": "JP Saxe",
+      "name": "When I Lose You"
+    },
+    {
+      "artists": "Ashley Cooke, JP Saxe",
+      "name": "man behind the glass (feat. JP Saxe)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/66W9LaWS0DPdL7Sz8iYGYe"
+}

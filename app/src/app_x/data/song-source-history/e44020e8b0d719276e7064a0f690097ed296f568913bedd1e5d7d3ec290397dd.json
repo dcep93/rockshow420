@@ -1,0 +1,27 @@
+{
+  "artist": "Loviet",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Loviet",
+      "name": "Broken Lips"
+    },
+    {
+      "artists": "Loviet",
+      "name": "FEEDER"
+    },
+    {
+      "artists": "Loviet",
+      "name": "CAN YOU HELP ME OUT"
+    },
+    {
+      "artists": "Loviet",
+      "name": "CHEERLEADER"
+    },
+    {
+      "artists": "Loviet",
+      "name": "EXPLOSURE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2oULrQuWXhDGUEBtWQPiA9"
+}

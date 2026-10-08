@@ -1,0 +1,27 @@
+{
+  "artist": "Tiny Habits",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tiny Habits",
+      "name": "Love Ruins Everything"
+    },
+    {
+      "artists": "Tiny Habits",
+      "name": "Anything He Was"
+    },
+    {
+      "artists": "Tiny Habits",
+      "name": "Right In Front Of Me"
+    },
+    {
+      "artists": "Tiny Habits",
+      "name": "Belt Loop"
+    },
+    {
+      "artists": "Tiny Habits",
+      "name": "Wishes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2QYdqWGgRorVkA8cJMMdrn"
+}

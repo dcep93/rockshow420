@@ -1,0 +1,27 @@
+{
+  "artist": "ROOKIE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "ROOKIE",
+      "name": "One Way Ticket"
+    },
+    {
+      "artists": "ROOKIE",
+      "name": "I Can't Have You But I Want You"
+    },
+    {
+      "artists": "ROOKIE",
+      "name": "Sunglasses"
+    },
+    {
+      "artists": "ROOKIE",
+      "name": "Hold On Tight"
+    },
+    {
+      "artists": "ROOKIE",
+      "name": "Michigan"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5RK3ubgRUSpRlRkkT8gurm"
+}

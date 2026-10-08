@@ -1,0 +1,47 @@
+{
+  "artist": "Lamp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Lamp",
+      "name": "二十歳の恋"
+    },
+    {
+      "artists": "Lamp",
+      "name": "ゆめうつつ"
+    },
+    {
+      "artists": "Lamp",
+      "name": "For Lovers"
+    },
+    {
+      "artists": "Lamp",
+      "name": "Last Train At 25 O'clock"
+    },
+    {
+      "artists": "Lamp",
+      "name": "From The Window"
+    },
+    {
+      "artists": "Lamp",
+      "name": "雨降る夜の向こう"
+    },
+    {
+      "artists": "Lamp",
+      "name": "A Toshi no Aki"
+    },
+    {
+      "artists": "Lamp",
+      "name": "Kimiga Nakunara"
+    },
+    {
+      "artists": "Lamp",
+      "name": "密やかに"
+    },
+    {
+      "artists": "Lamp",
+      "name": "Behind The Moon Shadow"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0rFHElzeddB9ymDjgpBENX"
+}

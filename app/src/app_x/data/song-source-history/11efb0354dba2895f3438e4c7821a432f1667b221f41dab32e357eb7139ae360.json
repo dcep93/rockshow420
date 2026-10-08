@@ -1,0 +1,27 @@
+{
+  "artist": "Dabin",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Seven Lions, SLANDER, Dabin, Dylan Matthew",
+      "name": "First Time (feat. Dylan Matthew)"
+    },
+    {
+      "artists": "Dabin, Kai Wachi, Lø Spirit",
+      "name": "Hollow"
+    },
+    {
+      "artists": "Dabin, Trella",
+      "name": "Worlds Away"
+    },
+    {
+      "artists": "Dabin, William Black, Audra Miller",
+      "name": "Flutters"
+    },
+    {
+      "artists": "ILLENIUM, Bastille, Dabin",
+      "name": "Feel Alive"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7lZauDnRoAC3kmaYae2opv"
+}

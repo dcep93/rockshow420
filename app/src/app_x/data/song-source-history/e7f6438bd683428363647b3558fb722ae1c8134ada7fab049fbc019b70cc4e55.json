@@ -1,0 +1,47 @@
+{
+  "artist": "Dijon",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dijon",
+      "name": "The Dress"
+    },
+    {
+      "artists": "Justin Bieber, Dijon",
+      "name": "DEVOTION"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Talk Down"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Skin"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Yamaha"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Many Times"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Big Mike's"
+    },
+    {
+      "artists": "Dijon",
+      "name": "HIGHER!"
+    },
+    {
+      "artists": "Dijon",
+      "name": "alley-oop"
+    },
+    {
+      "artists": "Dijon",
+      "name": "Rodeo Clown"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0knGpCTbmG4ctl1wzYRZs4"
+}

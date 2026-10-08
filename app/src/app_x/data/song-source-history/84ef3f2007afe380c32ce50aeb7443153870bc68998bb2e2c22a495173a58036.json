@@ -1,0 +1,28 @@
+{
+  "artist": "Mount Kimbie",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "slowthai, James Blake, Mount Kimbie",
+      "explicit": true,
+      "name": "feel away (feat. James Blake & Mount Kimbie)"
+    },
+    {
+      "artists": "Mount Kimbie, King Krule",
+      "name": "Empty And Silent (feat. King Krule)"
+    },
+    {
+      "artists": "Mount Kimbie, King Krule",
+      "name": "Blue Train Lines"
+    },
+    {
+      "artists": "Mount Kimbie, Micachu",
+      "name": "Marilyn"
+    },
+    {
+      "artists": "Mount Kimbie",
+      "name": "Made To Stray"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3NUtpWpGDoffm3RCGhSHtl"
+}

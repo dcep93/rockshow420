@@ -1,0 +1,32 @@
+{
+  "artist": "Warren G",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Warren G, Nate Dogg",
+      "explicit": true,
+      "name": "Regulate"
+    },
+    {
+      "artists": "Warren G, O.G.L.B.",
+      "explicit": true,
+      "name": "This D.J."
+    },
+    {
+      "artists": "Warren G, Nate Dogg, The Game",
+      "explicit": true,
+      "name": "Party We Will Throw Now!"
+    },
+    {
+      "artists": "Warren G, Nate Dogg",
+      "explicit": true,
+      "name": "Nobody Does It Better"
+    },
+    {
+      "artists": "Warren G, Adina Howard",
+      "explicit": true,
+      "name": "What's Love Got To Do With It"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2B4ZHz4QDWJTXPFPgO5peE"
+}

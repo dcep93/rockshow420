@@ -1,0 +1,84 @@
+{
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "i hate this tune"
+        },
+        {
+          "name": "Adored"
+        },
+        {
+          "name": "Heading for the Door"
+        },
+        {
+          "name": "who’s your boyfriend"
+        },
+        {
+          "name": "car"
+        },
+        {
+          "name": "Kool Aid"
+        },
+        {
+          "name": "Foam"
+        },
+        {
+          "name": "moody"
+        },
+        {
+          "name": "come on home"
+        },
+        {
+          "name": "shut up"
+        },
+        {
+          "name": "she’s got a gun"
+        },
+        {
+          "name": "more to lose"
+        },
+        {
+          "name": "jazz burger",
+          "notes": "(Performed at B Stage in crowd)"
+        },
+        {
+          "name": "Linger",
+          "notes": "(The Cranberries cover) (Performed at B Stage in crowd)"
+        },
+        {
+          "name": "I Wanna Dance with You"
+        },
+        {
+          "name": "Bull Breed"
+        },
+        {
+          "name": "Fried Rice"
+        },
+        {
+          "name": "Sofa King"
+        },
+        {
+          "name": "Murder on the Dancefloor",
+          "notes": "(Sophie Ellis‐Bextor cover)"
+        },
+        {
+          "name": "say something"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Sweet Hallelujah"
+        },
+        {
+          "name": "Oysters in My Pocket"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/royel-otis/2026/william-randolph-hearst-greek-theatre-berkeley-ca-4b484f06.html"
+}

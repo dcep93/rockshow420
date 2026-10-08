@@ -1,0 +1,27 @@
+{
+  "artist": "Legowelt",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Legowelt, Younger Rebinds",
+      "name": "Disco Rout - Younger Rebinds Remix 2"
+    },
+    {
+      "artists": "Legowelt",
+      "name": "Disco Rout - Original Mix"
+    },
+    {
+      "artists": "Legowelt",
+      "name": "Enchantress 1200"
+    },
+    {
+      "artists": "Legowelt, Photonz",
+      "name": "Institute of The Overmind - Photonz Remix"
+    },
+    {
+      "artists": "Legowelt",
+      "name": "Sturmvogel"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0cG9dZ6X8YfLeGe24QWMwM"
+}

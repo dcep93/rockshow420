@@ -1,0 +1,27 @@
+{
+  "artist": "Viceroy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Viceroy",
+      "name": "Sun Girl"
+    },
+    {
+      "artists": "Viceroy",
+      "name": "On A Sunday"
+    },
+    {
+      "artists": "Viceroy",
+      "name": "Here, I Love You"
+    },
+    {
+      "artists": "Viceroy",
+      "name": "Statira"
+    },
+    {
+      "artists": "Viceroy",
+      "name": "Bicycle"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3VzuxgSgyF18Qw2ysTqdmR"
+}

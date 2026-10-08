@@ -1,0 +1,32 @@
+{
+  "artist": "tobi lou",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "tobi lou",
+      "explicit": true,
+      "name": "I Was Sad Last Night I'm OK Now"
+    },
+    {
+      "artists": "tobi lou",
+      "explicit": true,
+      "name": "Buff Baby"
+    },
+    {
+      "artists": "tobi lou",
+      "explicit": true,
+      "name": "2hrs"
+    },
+    {
+      "artists": "tobi lou",
+      "explicit": true,
+      "name": "Darlin'"
+    },
+    {
+      "artists": "tobi lou",
+      "explicit": true,
+      "name": "Just Keep Goin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4T8NIfZmVY6TJFqVzN6X49"
+}

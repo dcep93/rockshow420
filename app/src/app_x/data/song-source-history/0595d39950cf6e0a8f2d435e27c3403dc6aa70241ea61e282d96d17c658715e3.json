@@ -1,0 +1,28 @@
+{
+  "artist": "The Temper Trap",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Temper Trap",
+      "name": "Sweet Disposition"
+    },
+    {
+      "artists": "Mac Miller, The Temper Trap",
+      "explicit": true,
+      "name": "Love Lost"
+    },
+    {
+      "artists": "Lost Frequencies, The Temper Trap",
+      "name": "Sweet Disposition (a moment, a love)"
+    },
+    {
+      "artists": "The Temper Trap, John Summit, Silver Panda",
+      "name": "Sweet Disposition - John Summit & Silver Panda Remix"
+    },
+    {
+      "artists": "The Temper Trap",
+      "name": "Love Lost"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4W48hZAnAHVOC2c8WH8pcq"
+}

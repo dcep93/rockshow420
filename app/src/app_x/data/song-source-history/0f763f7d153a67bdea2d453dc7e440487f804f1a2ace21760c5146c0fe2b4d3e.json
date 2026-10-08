@@ -1,0 +1,27 @@
+{
+  "artist": "Amo Amo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Poolside, Amo Amo",
+      "name": "Around The Sun"
+    },
+    {
+      "artists": "Amo Amo",
+      "name": "Canta"
+    },
+    {
+      "artists": "Amo Amo",
+      "name": "Closer to You"
+    },
+    {
+      "artists": "Zimmer, Amo Amo",
+      "name": "Silverlake"
+    },
+    {
+      "artists": "Amo Amo",
+      "name": "Antidote"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6IXFZ8obsCsz6YcPuPwSSm"
+}

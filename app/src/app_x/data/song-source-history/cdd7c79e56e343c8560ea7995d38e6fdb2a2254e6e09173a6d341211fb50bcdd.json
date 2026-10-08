@@ -1,0 +1,47 @@
+{
+  "artist": "Snarky Puppy",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Snarky Puppy",
+      "name": "Lingus"
+    },
+    {
+      "artists": "Snarky Puppy",
+      "name": "Shofukan"
+    },
+    {
+      "artists": "Snarky Puppy",
+      "name": "What About Me?"
+    },
+    {
+      "artists": "Snarky Puppy, Metropole Orkest, Jules Buckley",
+      "name": "Waves Upon Waves"
+    },
+    {
+      "artists": "Snarky Puppy, Metropole Orkest, Jules Buckley",
+      "name": "As You Are But Not As You Were"
+    },
+    {
+      "artists": "Snarky Puppy",
+      "name": "Outlier"
+    },
+    {
+      "artists": "Snarky Puppy",
+      "name": "Sleeper"
+    },
+    {
+      "artists": "Snarky Puppy",
+      "name": "Tarova"
+    },
+    {
+      "artists": "Snarky Puppy, Banda Magda",
+      "name": "Amour T'es La"
+    },
+    {
+      "artists": "Snarky Puppy, Metropole Orkest, Jules Buckley",
+      "name": "Chimera"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+}

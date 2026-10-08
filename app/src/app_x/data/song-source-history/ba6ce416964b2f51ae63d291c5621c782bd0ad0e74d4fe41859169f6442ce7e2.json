@@ -1,0 +1,27 @@
+{
+  "artist": "Magic City Hippies",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Magic City Hippies, NoMBe",
+      "name": "Givin' Up On Lovin'"
+    },
+    {
+      "artists": "Magic City Hippies",
+      "name": "Enemies"
+    },
+    {
+      "artists": "Magic City Hippies",
+      "name": "Queen"
+    },
+    {
+      "artists": "Magic City Hippies",
+      "name": "Snakes"
+    },
+    {
+      "artists": "Magic City Hippies",
+      "name": "Fanfare"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1ikg4sypcURm8Vy5GP68xb"
+}

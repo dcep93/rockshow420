@@ -1,0 +1,32 @@
+{
+  "artist": "Doechii",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Doechii",
+      "explicit": true,
+      "name": "Anxiety"
+    },
+    {
+      "artists": "Doechii, JT",
+      "explicit": true,
+      "name": "Alter Ego (with JT)"
+    },
+    {
+      "artists": "JENNIE, Doechii",
+      "explicit": true,
+      "name": "ExtraL (feat. Doechii)"
+    },
+    {
+      "artists": "Lady Gaga, Doechii",
+      "explicit": true,
+      "name": "RUNWAY"
+    },
+    {
+      "artists": "Doechii",
+      "explicit": true,
+      "name": "DENIAL IS A RIVER"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4E2rKHVDssGJm2SCDOMMJB"
+}

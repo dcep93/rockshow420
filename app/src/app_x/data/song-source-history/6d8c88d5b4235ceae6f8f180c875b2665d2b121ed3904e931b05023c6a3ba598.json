@@ -1,0 +1,32 @@
+{
+  "artist": "SOB X RBE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "SOB X RBE",
+      "explicit": true,
+      "name": "Anti"
+    },
+    {
+      "artists": "SOB X RBE",
+      "explicit": true,
+      "name": "Paramedic!"
+    },
+    {
+      "artists": "SOB X RBE",
+      "explicit": true,
+      "name": "Calvin Cambridge"
+    },
+    {
+      "artists": "DDG, SOB X RBE",
+      "explicit": true,
+      "name": "BAY 2 DA YAK"
+    },
+    {
+      "artists": "SOB X RBE",
+      "explicit": true,
+      "name": "Always"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2TImI3DW7o5MdRXJs4D37h"
+}

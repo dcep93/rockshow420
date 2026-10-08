@@ -1,0 +1,27 @@
+{
+  "artist": "Daniela Pes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daniela Pes",
+      "name": "Carme"
+    },
+    {
+      "artists": "Daniela Pes",
+      "name": "Ca milla dia dì"
+    },
+    {
+      "artists": "Daniela Pes",
+      "name": "Illa Sera"
+    },
+    {
+      "artists": "Daniela Pes",
+      "name": "Làira"
+    },
+    {
+      "artists": "Daniela Pes",
+      "name": "Arca"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6DEkxQm6GxNV26tUMfVf6c"
+}

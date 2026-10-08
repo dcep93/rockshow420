@@ -1,0 +1,28 @@
+{
+  "artist": "Janet Jackson",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Janet Jackson",
+      "name": "Someone To Call My Lover"
+    },
+    {
+      "artists": "Michael Jackson, Janet Jackson",
+      "explicit": true,
+      "name": "Scream"
+    },
+    {
+      "artists": "Janet Jackson",
+      "name": "That's The Way Love Goes"
+    },
+    {
+      "artists": "Janet Jackson",
+      "name": "All For You"
+    },
+    {
+      "artists": "Janet Jackson",
+      "name": "Together Again"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4qwGe91Bz9K2T8jXTZ815W"
+}

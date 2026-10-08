@@ -1,0 +1,32 @@
+{
+  "artist": "GRiFF!",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "GRiFF!",
+      "explicit": true,
+      "name": "Tinted Windows"
+    },
+    {
+      "artists": "GRiFF!",
+      "explicit": true,
+      "name": "Exercise Bike"
+    },
+    {
+      "artists": "GRiFF!",
+      "explicit": true,
+      "name": "Vincent Van Gogh"
+    },
+    {
+      "artists": "GRiFF!, WIL$ON, Matt Fischer",
+      "explicit": true,
+      "name": "Dream Uh U"
+    },
+    {
+      "artists": "GRiFF!",
+      "explicit": true,
+      "name": "Strip Club rn"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4OesV70i0gkBdn2KniZ3Hz"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Franz Ferdinand",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Franz Ferdinand",
+      "name": "Take Me Out"
+    },
+    {
+      "artists": "Franz Ferdinand",
+      "name": "This fffire - New Version"
+    },
+    {
+      "artists": "Franz Ferdinand",
+      "name": "No You Girls"
+    },
+    {
+      "artists": "Franz Ferdinand",
+      "name": "Do You Want To"
+    },
+    {
+      "artists": "Franz Ferdinand",
+      "name": "This Fire"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0XNa1vTidXlvJ2gHSsRi4A"
+}

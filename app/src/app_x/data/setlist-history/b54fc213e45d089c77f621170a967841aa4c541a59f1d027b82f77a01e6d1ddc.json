@@ -1,0 +1,102 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "name": "Set 1:",
+      "songs": [
+        {
+          "name": "Box of Rain",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Cumberland Blues",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Beat It on Down the Line",
+          "notes": "(Jesse Fuller cover)"
+        },
+        {
+          "name": "Just Like Tom Thumb's Blues",
+          "notes": "(Bob Dylan cover)"
+        },
+        {
+          "name": "Candyman",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Don't Let Go",
+          "notes": "(Roy Hamilton cover)"
+        },
+        {
+          "name": "The Music Never Stopped",
+          "notes": "(Grateful Dead cover)"
+        }
+      ]
+    },
+    {
+      "name": "Set 2:",
+      "songs": [
+        {
+          "name": "Eyes of the World",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Cold Rain and Snow",
+          "notes": "([traditional] cover)"
+        },
+        {
+          "name": "Mama Tried",
+          "notes": "(Merle Haggard cover)"
+        },
+        {
+          "name": "Mexicali Blues",
+          "notes": "(Bob Weir cover)"
+        },
+        {
+          "name": "Bird Song",
+          "notes": "(Jerry Garcia cover)"
+        },
+        {
+          "name": "Turn On Your Love Light",
+          "notes": "(Bobby “Blue” Bland cover)"
+        },
+        {
+          "name": "Alligator",
+          "notes": "(Grateful Dead cover) (> Turn on Your Lovelight reprise)"
+        },
+        {
+          "name": "Dark Star",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "St. Stephen",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Not Fade Away",
+          "notes": "(The Crickets cover)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "They Love Each Other",
+          "notes": "(Jerry Garcia cover) (Preceded by St. Stephen reprise)"
+        },
+        {
+          "name": "Truckin'",
+          "notes": "(Grateful Dead cover)"
+        },
+        {
+          "name": "Samson and Delilah",
+          "notes": "([traditional] cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/grateful-shred/2024/brooklyn-bowl-brooklyn-ny-53511fcd.html"
+}

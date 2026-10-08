@@ -1,0 +1,28 @@
+{
+  "artist": "Olivia Dean",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Olivia Dean",
+      "name": "Man I Need"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "So Easy (To Fall In Love)"
+    },
+    {
+      "artists": "Sam Fender, Olivia Dean",
+      "explicit": true,
+      "name": "Rein Me In (with Olivia Dean)"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "Nice To Each Other"
+    },
+    {
+      "artists": "Olivia Dean",
+      "name": "A Couple Minutes"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/00x1fYSGhdqScXBRpSj3DW"
+}

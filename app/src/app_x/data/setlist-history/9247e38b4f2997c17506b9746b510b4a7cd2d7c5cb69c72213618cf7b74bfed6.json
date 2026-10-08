@@ -1,0 +1,411 @@
+{
+  "artist": {
+    "text": "Khruangbin",
+    "title": "View Khruangbin setlists",
+    "url": "https://www.setlist.fm/setlists/khruangbin-23da00bb.html"
+  },
+  "event_date": "2024-09-21",
+  "last_edit": {
+    "at": "2024-09-22T03:28:12Z",
+    "labels": [
+      "View profile of LyndaChill",
+      "Sunday, 22 September 2024 at 03:28:12 UTC"
+    ],
+    "links": [
+      {
+        "text": "LyndaChill",
+        "title": "View profile of LyndaChill",
+        "url": "https://www.setlist.fm/user/LyndaChill"
+      }
+    ],
+    "text": "(last edit by LyndaChill, 22 Sep 2024, 03:28 UTC)"
+  },
+  "setlist_id": "3539df7",
+  "sets": [
+    {
+      "kind": "set",
+      "name": "A La Sala",
+      "songs": [
+        {
+          "annotations": [],
+          "name": "Fifteen Fifty‐Three",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Fifteen Fifty‐Three",
+              "title": "Statistics for Fifteen Fifty‐Three performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=43e90f3b"
+            }
+          ],
+          "source_text": "Fifteen Fifty‐Three"
+        },
+        {
+          "annotations": [],
+          "name": "May Ninth",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "May Ninth",
+              "title": "Statistics for May Ninth performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4be90f3a"
+            }
+          ],
+          "source_text": "May Ninth"
+        },
+        {
+          "annotations": [],
+          "name": "Ada Jean",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Ada Jean",
+              "title": "Statistics for Ada Jean performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=53e90f39"
+            }
+          ],
+          "source_text": "Ada Jean"
+        },
+        {
+          "annotations": [],
+          "name": "Farolim de Felgueiras",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Farolim de Felgueiras",
+              "title": "Statistics for Farolim de Felgueiras performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=5be90f38"
+            }
+          ],
+          "source_text": "Farolim de Felgueiras"
+        },
+        {
+          "annotations": [],
+          "name": "Pon Pón",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Pon Pón",
+              "title": "Statistics for Pon Pón performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=43e90f3f"
+            }
+          ],
+          "source_text": "Pon Pón"
+        },
+        {
+          "annotations": [],
+          "name": "Todavía Viva",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Todavía Viva",
+              "title": "Statistics for Todavía Viva performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4be90f3e"
+            }
+          ],
+          "source_text": "Todavía Viva"
+        },
+        {
+          "annotations": [],
+          "name": "Juegos y Nubes",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Juegos y Nubes",
+              "title": "Statistics for Juegos y Nubes performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4be90f36"
+            }
+          ],
+          "source_text": "Juegos y Nubes"
+        },
+        {
+          "annotations": [],
+          "name": "Hold Me Up (Thank You)",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Hold Me Up (Thank You)",
+              "title": "Statistics for Hold Me Up (Thank You) performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=5be90f3c"
+            }
+          ],
+          "source_text": "Hold Me Up (Thank You)"
+        },
+        {
+          "annotations": [],
+          "name": "Caja de la Sala",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Caja de la Sala",
+              "title": "Statistics for Caja de la Sala performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=43e90f37"
+            }
+          ],
+          "source_text": "Caja de la Sala"
+        },
+        {
+          "annotations": [],
+          "name": "Three From Two",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Three From Two",
+              "title": "Statistics for Three From Two performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4be90f32"
+            }
+          ],
+          "source_text": "Three From Two"
+        },
+        {
+          "annotations": [],
+          "name": "A Love International",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "A Love International",
+              "title": "Statistics for A Love International performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=53e90f31"
+            }
+          ],
+          "source_text": "A Love International"
+        },
+        {
+          "annotations": [],
+          "name": "Les Petits Gris",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Les Petits Gris",
+              "title": "Statistics for Les Petits Gris performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=5be90f30"
+            }
+          ],
+          "source_text": "Les Petits Gris"
+        }
+      ]
+    },
+    {
+      "kind": "set",
+      "name": "Set 2:",
+      "songs": [
+        {
+          "annotations": [],
+          "name": "The Number 3",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "The Number 3",
+              "title": "Statistics for The Number 3 performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=3cae917"
+            }
+          ],
+          "source_text": "The Number 3"
+        },
+        {
+          "annotations": [],
+          "name": "August 10",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "August 10",
+              "title": "Statistics for August 10 performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=53f41be1"
+            }
+          ],
+          "source_text": "August 10"
+        },
+        {
+          "annotations": [],
+          "name": "Lady and Man",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Lady and Man",
+              "title": "Statistics for Lady and Man performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4bf41be2"
+            }
+          ],
+          "source_text": "Lady and Man"
+        },
+        {
+          "annotations": [],
+          "name": "The Infamous Bill",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "The Infamous Bill",
+              "title": "Statistics for The Infamous Bill performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=4bcda73e"
+            }
+          ],
+          "source_text": "The Infamous Bill"
+        },
+        {
+          "annotations": [],
+          "name": "Pelota",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Pelota",
+              "title": "Statistics for Pelota performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=23e7ec53"
+            }
+          ],
+          "source_text": "Pelota"
+        },
+        {
+          "annotations": [],
+          "name": "Evan Finds the Third Room",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Evan Finds the Third Room",
+              "title": "Statistics for Evan Finds the Third Room performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=5bf473b8"
+            }
+          ],
+          "source_text": "Evan Finds the Third Room"
+        },
+        {
+          "annotations": [],
+          "name": "Time (You and I)",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Time (You and I)",
+              "title": "Statistics for Time (You and I) performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=2be7ec52"
+            }
+          ],
+          "source_text": "Time (You and I)"
+        }
+      ]
+    },
+    {
+      "kind": "encore",
+      "name": "Encore:",
+      "songs": [
+        {
+          "annotations": [
+            {
+              "text": "(w/ Emma from M.I.T.)"
+            }
+          ],
+          "name": "Dearest Alfred",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "Dearest Alfred",
+              "title": "Statistics for Dearest Alfred performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=7395be1d"
+            }
+          ],
+          "source_text": "Dearest Alfred (w/ Emma from M.I.T.)"
+        },
+        {
+          "annotations": [],
+          "name": "María también",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "María también",
+              "title": "Statistics for María también performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=7bfbf604"
+            }
+          ],
+          "source_text": "María también"
+        },
+        {
+          "annotations": [],
+          "name": "People Everywhere (Still Alive)",
+          "source_classes": [
+            "setlistParts",
+            "song"
+          ],
+          "source_links": [
+            {
+              "text": "People Everywhere (Still Alive)",
+              "title": "Statistics for People Everywhere (Still Alive) performed by Khruangbin",
+              "url": "https://www.setlist.fm/stats/songs/khruangbin-23da00bb.html?songid=bcae936"
+            }
+          ],
+          "source_text": "People Everywhere (Still Alive)"
+        }
+      ]
+    }
+  ],
+  "source_url": "https://www.setlist.fm/setlist/khruangbin/2024/forest-hills-stadium-queens-ny-3539df7.html",
+  "tour": {
+    "text": "A LA SALA",
+    "title": "A LA SALA by Khruangbin setlists",
+    "url": "https://www.setlist.fm/search?artist=23da00bb&tour=5bdca37c"
+  },
+  "venue": {
+    "text": "Forest Hills Stadium, Queens, NY, USA",
+    "title": "View Forest Hills Stadium, Queens, NY, USA setlists",
+    "url": "https://www.setlist.fm/venue/forest-hills-stadium-queens-ny-usa-1bd26dfc.html"
+  }
+}

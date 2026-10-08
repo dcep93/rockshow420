@@ -1,0 +1,28 @@
+{
+  "artist": "JJ Wilde",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JJ Wilde",
+      "name": "The Rush"
+    },
+    {
+      "artists": "JJ Wilde",
+      "name": "Mercy"
+    },
+    {
+      "artists": "JJ Wilde",
+      "explicit": true,
+      "name": "Best Boy"
+    },
+    {
+      "artists": "JJ Wilde",
+      "name": "Hands"
+    },
+    {
+      "artists": "JJ Wilde",
+      "name": "Off The Rails"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1pLZeUSXJwVVJSPhmBSwf6"
+}

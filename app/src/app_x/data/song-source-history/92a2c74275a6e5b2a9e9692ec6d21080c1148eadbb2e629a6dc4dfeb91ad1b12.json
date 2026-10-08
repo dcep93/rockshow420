@@ -1,0 +1,30 @@
+{
+  "artist": "Sabrina Carpenter",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sabrina Carpenter",
+      "explicit": true,
+      "name": "Espresso"
+    },
+    {
+      "artists": "Sabrina Carpenter",
+      "explicit": true,
+      "name": "Manchild"
+    },
+    {
+      "artists": "Sabrina Carpenter",
+      "explicit": true,
+      "name": "Please Please Please"
+    },
+    {
+      "artists": "Sabrina Carpenter",
+      "name": "Taste"
+    },
+    {
+      "artists": "Sabrina Carpenter",
+      "name": "House Tour"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/74KM79TiuVKeVCqs8QtB0B"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "Theo Katzman",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Theo Katzman",
+      "name": "The Death of Us"
+    },
+    {
+      "artists": "Theo Katzman",
+      "name": "Good to Be Alone"
+    },
+    {
+      "artists": "Theo Katzman, 10 Good Songs",
+      "name": "Be the Wheel"
+    },
+    {
+      "artists": "Theo Katzman",
+      "name": "What Did You Mean (When You Said Love)"
+    },
+    {
+      "artists": "Theo Katzman",
+      "explicit": true,
+      "name": "(I Don't Want to Be A) Billionaire"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2a4lU7F8toqKpb5v6Ftqya"
+}

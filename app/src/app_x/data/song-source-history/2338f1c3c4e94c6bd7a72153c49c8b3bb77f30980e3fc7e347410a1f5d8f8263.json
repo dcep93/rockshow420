@@ -1,0 +1,27 @@
+{
+  "artist": "Starfari",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Starfari",
+      "name": "Commitment - Original Mix"
+    },
+    {
+      "artists": "NRVS LVRS, Starfari",
+      "name": "Yr Pretty House - STARFARI Remix"
+    },
+    {
+      "artists": "Starfari",
+      "name": "The Weekend - Original Mix"
+    },
+    {
+      "artists": "Starfari, MPHD",
+      "name": "The Weekend - MPHD remix"
+    },
+    {
+      "artists": "Starfari, Niteppl",
+      "name": "Timeless - Original Mix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7hUDSTu4Rh2lAgnb4qKLEh"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "White Panda",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "White Panda",
+      "explicit": true,
+      "name": "Midnight Life"
+    },
+    {
+      "artists": "Panic! At The Disco, White Panda",
+      "name": "High Hopes - White Panda Remix"
+    },
+    {
+      "artists": "White Panda",
+      "explicit": true,
+      "name": "Ice Cream Woman"
+    },
+    {
+      "artists": "Ember Island, White Panda",
+      "name": "Umbrella - White Panda Remix"
+    },
+    {
+      "artists": "White Panda",
+      "explicit": true,
+      "name": "Firefly"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1mOUOvOOaoTF2b3kDjrety"
+}

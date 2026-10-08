@@ -1,0 +1,28 @@
+{
+  "artist": "DJ Snake",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DJ Snake, Justin Bieber",
+      "name": "Let Me Love You"
+    },
+    {
+      "artists": "Major Lazer, DJ Snake, MØ, Diplo",
+      "name": "Lean On"
+    },
+    {
+      "artists": "DJ Snake, Selena Gomez, Ozuna, Cardi B",
+      "explicit": true,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)"
+    },
+    {
+      "artists": "DJ Snake, Bipolar Sunshine",
+      "name": "Middle"
+    },
+    {
+      "artists": "DJ Snake, AlunaGeorge",
+      "name": "You Know You Like It"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/540vIaP2JwjQb9dm3aArA4"
+}

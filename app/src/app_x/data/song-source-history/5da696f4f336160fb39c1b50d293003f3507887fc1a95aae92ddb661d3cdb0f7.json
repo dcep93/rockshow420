@@ -1,0 +1,27 @@
+{
+  "artist": "Sofia Kourtesis",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sofia Kourtesis",
+      "name": "By Your Side"
+    },
+    {
+      "artists": "Sofia Kourtesis",
+      "name": "Madres"
+    },
+    {
+      "artists": "Sofia Kourtesis",
+      "name": "Si Te Portas Bonito"
+    },
+    {
+      "artists": "Sofia Kourtesis",
+      "name": "La Perla - Edit"
+    },
+    {
+      "artists": "Sofia Kourtesis, Tourist",
+      "name": "La Perla - Tourist Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7wXTWO45lqpUejDkike0Gf"
+}

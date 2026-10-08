@@ -1,0 +1,50 @@
+{
+  "artist": "Hippo Campus",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Hippo Campus",
+      "explicit": true,
+      "name": "Way It Goes"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "Buttercup"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "South"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "warm glow"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "baseball"
+    },
+    {
+      "artists": "Hippo Campus",
+      "explicit": true,
+      "name": "Bambi"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "Suicide Saturday"
+    },
+    {
+      "artists": "Hippo Campus",
+      "explicit": true,
+      "name": "Bad Dream Baby"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "Boys"
+    },
+    {
+      "artists": "Hippo Campus",
+      "name": "Monsoon"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1btWGBz4Uu1HozTwb2Lm8A"
+}

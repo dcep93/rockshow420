@@ -1,0 +1,28 @@
+{
+  "artist": "Panchiko",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Panchiko",
+      "name": "D>E>A>T>H>M>E>T>A>L"
+    },
+    {
+      "artists": "Panchiko",
+      "name": "Laputa"
+    },
+    {
+      "artists": "Panchiko",
+      "explicit": true,
+      "name": "All They Wanted"
+    },
+    {
+      "artists": "Panchiko",
+      "name": "Kicking Cars"
+    },
+    {
+      "artists": "Panchiko",
+      "name": "Until I Know"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4KEHIUSoWCcqrk8AddTE1O"
+}

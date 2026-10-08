@@ -1,0 +1,27 @@
+{
+  "artist": "camoufly",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "camoufly",
+      "name": "Odyssey"
+    },
+    {
+      "artists": "camoufly",
+      "name": "Ultramoon"
+    },
+    {
+      "artists": "camoufly",
+      "name": "Himalaya"
+    },
+    {
+      "artists": "Oppidan, camoufly",
+      "name": "hold tight"
+    },
+    {
+      "artists": "camoufly",
+      "name": "Always"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+}

@@ -1,0 +1,74 @@
+{
+  "basis": "Published production program; exact performance unverified",
+  "kind": "musical_program",
+  "notes": "IBDB musical numbers for the touring production that played San Francisco September 5–30, 2018. Matinee versus evening on September 9 is unknown.",
+  "production": "2013–2020 North American tour, Orpheum Theatre September 2018",
+  "sets": [
+    {
+      "name": "Act 1",
+      "songs": [
+        {
+          "name": "Think of Me"
+        },
+        {
+          "name": "Angel of Music"
+        },
+        {
+          "name": "Little Lotte/The Mirror (Angel of Music)"
+        },
+        {
+          "name": "The Phantom of the Opera"
+        },
+        {
+          "name": "The Music of the Night"
+        },
+        {
+          "name": "I Remember/Stranger Than You Dreamt It"
+        },
+        {
+          "name": "Magical Lasso"
+        },
+        {
+          "name": "Notes/Prima Donna"
+        },
+        {
+          "name": "Poor Fool, He Makes Me Laugh"
+        },
+        {
+          "name": "Why Have You Brought Me Here/Raoul I've Been There"
+        },
+        {
+          "name": "All I Ask of You"
+        },
+        {
+          "name": "All I Ask of You (Reprise)"
+        }
+      ]
+    },
+    {
+      "name": "Act 2",
+      "songs": [
+        {
+          "name": "Masquerade/Why So Silent"
+        },
+        {
+          "name": "Notes/Twisted Every Way"
+        },
+        {
+          "name": "Wishing You Were Somehow Here Again"
+        },
+        {
+          "name": "Wandering Child/Bravo, Bravo"
+        },
+        {
+          "name": "The Point of No Return"
+        },
+        {
+          "name": "Down Once More/Track Down This Murderer"
+        }
+      ]
+    }
+  ],
+  "title": "The Phantom of the Opera",
+  "url": "https://www.ibdb.com/tour-production/the-phantom-of-the-opera--500558"
+}

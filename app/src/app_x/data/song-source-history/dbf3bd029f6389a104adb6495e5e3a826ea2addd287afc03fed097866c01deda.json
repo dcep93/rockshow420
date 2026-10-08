@@ -1,0 +1,29 @@
+{
+  "artist": "OTTTO",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "OTTTO",
+      "name": "My Pain"
+    },
+    {
+      "artists": "OTTTO",
+      "explicit": true,
+      "name": "Skyscraper"
+    },
+    {
+      "artists": "OTTTO, Nick Oliveri",
+      "explicit": true,
+      "name": "Sweaty Pool"
+    },
+    {
+      "artists": "OTTTO",
+      "name": "Ride Low"
+    },
+    {
+      "artists": "OTTTO",
+      "name": "Night Howlers"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4CZKVwqjjQpc8677Btlyjt"
+}

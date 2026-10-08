@@ -1,0 +1,65 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Skynyrd Nation"
+        },
+        {
+          "name": "What's Your Name"
+        },
+        {
+          "name": "Double Trouble"
+        },
+        {
+          "name": "Travelin' Man"
+        },
+        {
+          "name": "That Smell"
+        },
+        {
+          "name": "I Know a Little"
+        },
+        {
+          "name": "Whiskey Rock-a-Roller"
+        },
+        {
+          "name": "Saturday Night Special"
+        },
+        {
+          "name": "The Ballad of Curtis Loew"
+        },
+        {
+          "name": "Tuesday's Gone"
+        },
+        {
+          "name": "Don't Ask Me No Questions"
+        },
+        {
+          "name": "Simple Man"
+        },
+        {
+          "name": "Gimme Three Steps"
+        },
+        {
+          "name": "Call Me the Breeze",
+          "notes": "(J.J. Cale cover)"
+        },
+        {
+          "name": "Sweet Home Alabama"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Free Bird"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/lynyrd-skynyrd/2018/shoreline-amphitheatre-mountain-view-ca-1bed2980.html"
+}

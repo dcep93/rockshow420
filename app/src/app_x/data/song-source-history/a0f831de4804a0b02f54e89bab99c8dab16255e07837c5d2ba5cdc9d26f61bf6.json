@@ -1,0 +1,47 @@
+{
+  "artist": "Goose",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Goose",
+      "name": "Your Direction"
+    },
+    {
+      "artists": "Goose",
+      "name": "So Ready"
+    },
+    {
+      "artists": "Goose",
+      "name": "Hungersite"
+    },
+    {
+      "artists": "Goose",
+      "name": "Madalena"
+    },
+    {
+      "artists": "Goose",
+      "name": "Good Times // End Times"
+    },
+    {
+      "artists": "Goose",
+      "name": "Good2B"
+    },
+    {
+      "artists": "Goose",
+      "name": "Royal"
+    },
+    {
+      "artists": "Goose",
+      "name": "Borne"
+    },
+    {
+      "artists": "Goose",
+      "name": "Arcadia"
+    },
+    {
+      "artists": "Goose",
+      "name": "Give It Time"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5tkITWzssc9z9hu7ZEOCXz"
+}

@@ -1,0 +1,30 @@
+{
+  "artist": "All Time Low",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "All Time Low",
+      "name": "Dear Maria, Count Me In"
+    },
+    {
+      "artists": "All Time Low, blackbear",
+      "explicit": true,
+      "name": "Monsters (feat. blackbear)"
+    },
+    {
+      "artists": "All Time Low",
+      "explicit": true,
+      "name": "Weightless"
+    },
+    {
+      "artists": "All Time Low, Demi Lovato, blackbear",
+      "explicit": true,
+      "name": "Monsters (feat. Demi Lovato and blackbear)"
+    },
+    {
+      "artists": "All Time Low, Juliet Simms",
+      "name": "Remembering Sunday"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/46gyXjRIvN1NL1eCB8GBxo"
+}

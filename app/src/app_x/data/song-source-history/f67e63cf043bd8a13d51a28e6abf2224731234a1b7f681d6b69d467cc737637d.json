@@ -1,0 +1,32 @@
+{
+  "artist": "Kid Quill",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Kid Quill",
+      "explicit": true,
+      "name": "Playlist"
+    },
+    {
+      "artists": "Kid Quill",
+      "explicit": true,
+      "name": "Kids in the Summer"
+    },
+    {
+      "artists": "Kid Quill",
+      "explicit": true,
+      "name": "90s kids"
+    },
+    {
+      "artists": "Kid Quill",
+      "explicit": true,
+      "name": "Small Talk"
+    },
+    {
+      "artists": "Kid Quill, Devvon Terrell, Mark Battles",
+      "explicit": true,
+      "name": "A Song to Sing"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5vGXVYudNgm9E7jhXMM0Ro"
+}

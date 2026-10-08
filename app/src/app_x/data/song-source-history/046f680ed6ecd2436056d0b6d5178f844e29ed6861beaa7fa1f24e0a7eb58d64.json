@@ -1,0 +1,48 @@
+{
+  "artist": "Miya Folick",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Miya Folick, Petey USA",
+      "explicit": true,
+      "name": "Haircut"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "I Will Follow You Into The Dark"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Drugs or People"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Talking with Strangers"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "This Time Around"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Thingamajig"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Bad Thing"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "So Clear"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Freak Out"
+    },
+    {
+      "artists": "Miya Folick",
+      "name": "Elton John"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1jFVu6Z7wmwywivOeBTSIV"
+}
