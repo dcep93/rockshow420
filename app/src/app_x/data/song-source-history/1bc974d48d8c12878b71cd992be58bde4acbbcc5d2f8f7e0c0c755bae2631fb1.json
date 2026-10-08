@@ -1,0 +1,27 @@
+{
+  "artist": "Guga Bruno",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Guga Bruno",
+      "name": "Pra Sempre"
+    },
+    {
+      "artists": "Fernando Aranha, Guga Bruno",
+      "name": "Fábula da Kasa Branca"
+    },
+    {
+      "artists": "Fernando Aranha, Guga Bruno",
+      "name": "Kasa branca"
+    },
+    {
+      "artists": "Fernando Aranha, Guga Bruno",
+      "name": "Bico da pedra"
+    },
+    {
+      "artists": "Fernando Aranha, Guga Bruno",
+      "name": "Fábula da roda gigante"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1yeors4ljBnt7xLYrEvU4v"
+}

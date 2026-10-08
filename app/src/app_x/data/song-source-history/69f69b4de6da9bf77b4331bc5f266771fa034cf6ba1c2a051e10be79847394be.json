@@ -1,0 +1,32 @@
+{
+  "artist": "Ena Pá 2000",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ena Pá 2000",
+      "explicit": true,
+      "name": "Marilú"
+    },
+    {
+      "artists": "Ena Pá 2000",
+      "explicit": true,
+      "name": "Colhão Colhão"
+    },
+    {
+      "artists": "Ena Pá 2000",
+      "explicit": true,
+      "name": "Um Gajo Muita Fixe"
+    },
+    {
+      "artists": "Ena Pá 2000",
+      "explicit": true,
+      "name": "Menina Azul (Surf)"
+    },
+    {
+      "artists": "Ena Pá 2000",
+      "explicit": true,
+      "name": "Quero Foder Contigo"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/093MyOTOwfd5C6BahtK4tD"
+}

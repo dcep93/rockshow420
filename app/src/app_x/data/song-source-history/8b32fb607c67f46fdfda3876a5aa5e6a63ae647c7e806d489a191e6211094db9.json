@@ -1,0 +1,27 @@
+{
+  "artist": "After",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "After",
+      "name": "300 dreams"
+    },
+    {
+      "artists": "After",
+      "name": "Blind"
+    },
+    {
+      "artists": "After",
+      "name": "Snowburn"
+    },
+    {
+      "artists": "After",
+      "name": "Take Me to Sunrise"
+    },
+    {
+      "artists": "After",
+      "name": "Deep Diving"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7KfMR05zRrWyhQimnYa8li"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "TWIN XL",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "TWIN XL",
+      "name": "Good"
+    },
+    {
+      "artists": "TWIN XL",
+      "name": "Lemonade"
+    },
+    {
+      "artists": "TWIN XL, Smallpools",
+      "explicit": true,
+      "name": "Slow Heart"
+    },
+    {
+      "artists": "TWIN XL",
+      "name": "Problematic"
+    },
+    {
+      "artists": "TWIN XL, DREAMERS",
+      "name": "Upgrade"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4OkceeWNJehKqXINqtVeX1"
+}

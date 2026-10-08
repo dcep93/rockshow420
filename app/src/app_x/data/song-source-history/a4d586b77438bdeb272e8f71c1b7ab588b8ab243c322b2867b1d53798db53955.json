@@ -1,0 +1,28 @@
+{
+  "artist": "YOZY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "YOZY",
+      "explicit": true,
+      "name": "Ay! Que Calor"
+    },
+    {
+      "artists": "Pureblast, YOZY",
+      "name": "Half Faces (Yozy Remix)"
+    },
+    {
+      "artists": "YOZY",
+      "name": "DEDICATED TO THE GIRL ONLINE"
+    },
+    {
+      "artists": "YOZY",
+      "name": "The night our hearts touched each other (everytime)"
+    },
+    {
+      "artists": "YOZY",
+      "name": "Gabbertone II"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6cDSzK72GxBOfXCeSdVlZV"
+}

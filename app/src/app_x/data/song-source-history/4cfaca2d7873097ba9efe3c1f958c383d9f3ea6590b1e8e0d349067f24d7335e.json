@@ -1,0 +1,30 @@
+{
+  "artist": "Amorphous",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Fat Joe, DJ Khaled, Amorphous",
+      "name": "Sunshine (The Light)"
+    },
+    {
+      "artists": "Amorphous, Kelly Rowland, CeCe Peniston",
+      "explicit": true,
+      "name": "Finally (Cannot Hide It)"
+    },
+    {
+      "artists": "Amorphous, Kehlani",
+      "explicit": true,
+      "name": "Back Together"
+    },
+    {
+      "artists": "Amorphous, Bree Runway",
+      "explicit": true,
+      "name": "The Vibe"
+    },
+    {
+      "artists": "Mariah Carey, Amorphous",
+      "name": "Butterfly - Amorphous Anniversary Club Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2mvAbMVwkxiZWJXjorKpdK"
+}

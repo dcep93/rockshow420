@@ -6,13 +6,15 @@ This reduces initial catalog delivery to six document reads. Authentication/prof
 
 ## Live cutover
 
-Production has not been migrated. Firestore returned `429 RESOURCE_EXHAUSTED` on October 8, 2026 UTC. Saved import/research snapshots are not an authoritative current database backup and must not be used for production migration.
+Deploy through `.github/workflows/workflow.yaml` on `main`. No personal Firebase CLI login is needed; GitHub uses its existing `SA_KEY` secret. The first run on October 8 passed application/cache tests and build, then stopped before production writes because the deployment account lacked Firestore IAM permissions. Quota reads are working again. Production migration is pending a successful release.
 
-1. Once fresh server reads work, deploy `backend/firestore.rules` and `backend/firestore.indexes.json` using the backend Firebase config. Keep the old hosting release until migration succeeds. Do not push/deploy hosting without the user's requested release instruction.
-2. In a controlled authenticated admin session, invoke `migrateTables(db, saveBackup, options)` from `data/migrateTables.ts`. Supply a callback that durably saves all raw values, preserving Timestamp seconds/nanoseconds and other Firestore types, and rejects if saving fails. The function is deliberately not exposed as an ordinary application control. A temporary migration runner can import it without changing the permanent UI.
-3. The function first probes server reads, creates a schema-0 `tables/concerts` lock, and then reads all six legacy collections from the server. New rules reject every legacy write while that lock exists, including owner deletes. It saves the backup before preparing a clean schema with `cleanSchema` and atomically publishing all six schema-1 documents. It never deletes legacy collections during this phase. Unknown fields halt migration for review rather than being silently dropped.
-4. Read all six new documents from the server and compare record IDs, counts, references, and all retained fields against the cleaned projection of the saved backup. Verify each removed field in the archived raw source. Check the new frontend against production locally, including public reads and an owner edit/reset. Then publish the matching frontend when release is authorized.
-5. Old clients can still read legacy data but cannot write after cutover. After the matching frontend is live and the six tables are verified, finish the requested cleanup by deleting the frozen legacy collections from the database using the durable external backup. Until that cutover, they must remain available to the hosted old client. Remove their temporary compatibility rules in the same release. Do not describe production as clean before this final step; no automatic deletion or reverse migration is provided.
+1. Prepare a fresh source backup and validated six-table projection. Upload the backup artifact before any write. Saved research snapshots are never substituted for fresh production data.
+2. Deploy `backend/firestore.migration.rules` and index exemptions. Wait eleven minutes for active clients to adopt the write protections while the old application remains usable.
+3. Create the schema-0 `tables/concerts` lock, re-read the source and require an exact match to the uploaded backup. Any intervening edit aborts safely. Publish all six schema-1 documents atomically with native Firestore timestamp precision preserved.
+4. Deploy matching Hosting, verify exact HTML and built asset hashes, and read/validate all six public tables.
+5. Delete only unchanged, backed-up legacy documents with update-time preconditions. Verify that all six legacy collections are empty, then deploy final rules with no legacy access. The private admins registry remains separate and unchanged.
+
+GitHub artifacts contain the previously public database records, never the restricted admin registry or credentials. Download successful backup/report artifacts to durable operator storage; GitHub retention is 90 days. Check the run and reports before describing production as migrated or clean.
 
 ## Interruption recovery
 
@@ -32,7 +34,7 @@ npm run lint
 
 `tests/seed.mjs` seeds the six-table layout in the demo project. The emulator preview at port 5173 uses disposable test fixtures; port 5174 remains connected to production. No preview writes are copied to production.
 
-## Schema cleanup (prepared, not run against production)
+## Schema cleanup
 
 `cleanSchema` is pure and leaves the supplied backup untouched. It removes `users.display_name`, archives `concerts.import_source` in the caller's durable backup, moves legacy concert cancellations to the sole owner's `ticket_status`, removes default-only log entries, and retires festival wrappers only when each references one concert with the same name and preserved date range. It refuses ambiguous multi-concert festivals. Old festival URLs resolve through static aliases; they do not require a legacy table. It rejects unknown fields, broken references, noncanonical log IDs, unsupported ticket statuses, and ambiguous cancellation ownership. Normal application edits remain forward-compatible with newly added fields; the cleanup is an explicit one-off operation.
 
@@ -44,20 +46,16 @@ const options = { confirmedFestivalDates: { jucc7j: { start: "2021-07-29", end: 
 
 The option only accepts that exact range in the current concert data. It does not change concert dates. If fresh reads instead show that tables were already migrated, use a privileged one-off transaction with a fresh durable backup and this pure transformation. The normal client rules intentionally allow only one entry change per table; do not broaden them for a cleanup utility.
 
-`database-schema-audit.json` describes the saved pre-cleanup snapshot; `database-cleanup-dry-run.json` describes the transformed snapshot. Neither is evidence of current production contents. The dry run has no retired/unknown fields, broken references, duplicate event records, or default-only logs. It retains all 354 concerts, 320 artists, 93 venues and one user. The 15 duplicate festival wrappers are removed; `schedules` starts empty; four purchased overrides plus two migrated cancellations remain meaningful user data. Festival lineups and schedules have not yet been researched/imported.
+`database-schema-audit.json` describes the saved pre-cleanup snapshot; `database-cleanup-dry-run.json` describes the transformed snapshot. Neither is evidence of current production contents. Those original local dry runs predate the festival import. The fresh production preflight has 35 meaningful personal overrides, all preserved by the current projection. The projection retains 354 concerts and one profile, imports the researched festival artists/venue/schedules, and retires 15 duplicate festival wrappers. See `festival-lineup-import.md` for current import counts.
 
 ## Schedule representation
 
-`tables/schedules.records[concertId] = { sets: { [setId]: { artist_id, start?, end?, stage? } } }`. Stable six-character set IDs distinguish repeat performances. Times are ISO strings with explicit offsets, interpreted in the concert venue timezone; unknown times stay absent. `user_concerts.seen_set_ids` defaults to `[]`, and records with no remaining override are deleted. Adding a schedule to an event with preexisting supporting-artist selections stops for explicit reconciliation; it never silently marks a particular performance seen. Removing or reassigning a selected set also stops for review.
+`tables/schedules.records[concertId] = { sets: { [setId]: { artist_id, day?, start?, end?, stage? } } }`. Stable six-character set IDs distinguish repeat performances. The optional `day` is the festival programme date, including when an after-midnight performance falls on the next calendar date. Times are ISO strings with explicit offsets, interpreted in the concert venue timezone; unknown times stay absent. `user_concerts.seen_set_ids` defaults to `[]`, and records with no remaining override are deleted. Adding a schedule to an event with preexisting supporting-artist selections stops for explicit reconciliation; it never silently marks a particular performance seen. Removing or reassigning a selected set also stops for review.
 
-Schedules are public, edits require an admin, and rules restrict user selections to set IDs on that same concert. Admin application validation also checks artist membership, time ranges and retained selections. Legacy collection rules remain only for the pending cutover described above.
+Schedules are public, edits require an admin, and rules restrict user selections to set IDs on that same concert. Admin application validation also checks artist membership, time ranges and retained selections. Temporary legacy collection rules live in `firestore.migration.rules`; final `firestore.rules` contains no legacy access.
 
-## GitHub release pipeline (prepared October 8)
+## Deployment access and recovery
 
-The user requested GitHub deployment. The workflow now builds/tests, authenticates using the existing SA_KEY secret, prepares a fresh six-table projection, and uploads a raw backup of the publicly readable legacy collections. The restricted, unchanged admins registry is checked in memory and is never placed in an artifact. No service-account credential is placed in an artifact.
-
-On initial migration it deploys migration-compatible rules and index exemptions, waits eleven minutes for active clients to adopt the rules, then locks writes and re-reads. Any source change since artifact upload aborts safely and removes only its own lock. Matching sources publish all six tables atomically with native timestamp precision preserved. The latest preflight contains 35 meaningful personal overrides, all preserved.
-
-The workflow deploys Hosting, verifies exact index HTML and hashes of every built asset plus six public table reads/schema integrity, then conditionally retires the backed-up legacy documents and deploys final rules with no legacy access. It uses the service account through ADC; interactive CLI sign-in is unnecessary. Artifacts are retained for 90 days and should also be downloaded to the operator's durable backup storage after the run.
+The workflow uses the existing `SA_KEY` service account through ADC. Required roles are Firebase Hosting Admin, Firebase Rules Admin, Service Usage Viewer, Cloud Datastore User, and Cloud Datastore Index Admin. The last two were missing in the first run; adding them requires the owner's explicit access approval. The pipeline never requests personal CLI authentication or stores credentials in artifacts.
 
 A repeated release validates existing tables without replacing them. It backs up any remaining frozen legacy documents and can resume cleanup. Migration-compatible rules are only deployed on an initial migration; final rules remain authoritative thereafter. A failed run is not evidence that production migration or cleanup finished. Check step results and saved reports.

@@ -1,0 +1,76 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: \"Eddie\" was on the setlist, but not played. \"Under the Bridge\" was on the setlist, but \"I Could Have Lied\" was played instead.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Amériques",
+          "notes": "(Edgard Varèse song) (Chicago Symphony Orchestra conducted by Pierre Boulez)",
+          "tape": true
+        },
+        {
+          "name": "Intro Jam"
+        },
+        {
+          "name": "Can't Stop"
+        },
+        {
+          "name": "Scar Tissue"
+        },
+        {
+          "name": "Dani California"
+        },
+        {
+          "name": "Aquatic Mouth Dance"
+        },
+        {
+          "name": "Suck My Kiss"
+        },
+        {
+          "name": "Orange Claw Hammer",
+          "notes": "(Captain Beefheart & His Magic Band cover) (Flea solo)"
+        },
+        {
+          "name": "Soul to Squeeze"
+        },
+        {
+          "name": "Dreamboy/Dreamgirl",
+          "notes": "(Cynthia & Johnny O cover) (John solo)"
+        },
+        {
+          "name": "Right on Time",
+          "notes": "(The Clash's \"London Calling\" intro)"
+        },
+        {
+          "name": "Carry Me Home"
+        },
+        {
+          "name": "Tell Me Baby"
+        },
+        {
+          "name": "Californication"
+        },
+        {
+          "name": "Black Summer"
+        },
+        {
+          "name": "By the Way"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "I Could Have Lied"
+        },
+        {
+          "name": "Give It Away"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2023/grant-park-chicago-il-usa-33a40845.html"
+}

@@ -1,0 +1,61 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "The Bean Kicked In"
+        },
+        {
+          "name": "uhhh"
+        },
+        {
+          "name": "Stick!"
+        },
+        {
+          "name": "mind your business"
+        },
+        {
+          "name": "get off my dick"
+        },
+        {
+          "name": "Marinate"
+        },
+        {
+          "name": "IHY2LN"
+        },
+        {
+          "name": "sipping my tea"
+        },
+        {
+          "name": "bane"
+        },
+        {
+          "name": "(Unknown)",
+          "notes": "(New song)"
+        },
+        {
+          "name": "dummy",
+          "notes": "(New song, live debut)"
+        },
+        {
+          "name": "fafo"
+        },
+        {
+          "name": "Jesus Is The One (I Got Depression)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "fafo",
+          "notes": "(Reprise)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/zack-fox/2023/grant-park-chicago-il-usa-33a4142d.html"
+}

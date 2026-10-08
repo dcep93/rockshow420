@@ -1,0 +1,27 @@
+{
+  "artist": "Rachel Chinouriri",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rachel Chinouriri",
+      "name": "All I Ever Asked"
+    },
+    {
+      "artists": "Rachel Chinouriri, sombr",
+      "name": "All I Ever Asked (with sombr)"
+    },
+    {
+      "artists": "Rachel Chinouriri",
+      "name": "Make believe"
+    },
+    {
+      "artists": "Rachel Chinouriri",
+      "name": "One song away from crying"
+    },
+    {
+      "artists": "Rachel Chinouriri",
+      "name": "Broken chair"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4wrzxtBZw20ufDstKyTnnP"
+}

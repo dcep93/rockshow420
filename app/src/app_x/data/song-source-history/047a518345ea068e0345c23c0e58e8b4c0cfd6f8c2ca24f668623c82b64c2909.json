@@ -1,0 +1,27 @@
+{
+  "artist": "The Chameleons",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Chameleons",
+      "name": "Swamp Thing"
+    },
+    {
+      "artists": "The Chameleons",
+      "name": "Don't Fall"
+    },
+    {
+      "artists": "The Chameleons",
+      "name": "Up the Down Escalator"
+    },
+    {
+      "artists": "The Chameleons",
+      "name": "Second Skin"
+    },
+    {
+      "artists": "The Chameleons",
+      "name": "Monkeyland"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4HLWX9kzfraiCsTvrxJEXm"
+}

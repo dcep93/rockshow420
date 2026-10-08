@@ -1,0 +1,31 @@
+{
+  "artist": "Ojoo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Ojoo, R2r Moe, Ray Dour",
+      "explicit": true,
+      "name": "Wake up"
+    },
+    {
+      "artists": "Ojoo",
+      "name": "Dry November"
+    },
+    {
+      "artists": "Ojoo",
+      "explicit": true,
+      "name": "Intro"
+    },
+    {
+      "artists": "Ojoo, Eddy Rivers",
+      "explicit": true,
+      "name": "On My Mind"
+    },
+    {
+      "artists": "Ojoo, Ray Dour",
+      "explicit": true,
+      "name": "2 Seater"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6JOKfOTPCROdO6GPNzAZCY"
+}

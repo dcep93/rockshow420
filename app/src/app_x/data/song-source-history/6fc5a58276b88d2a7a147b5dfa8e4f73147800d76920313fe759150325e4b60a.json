@@ -1,0 +1,27 @@
+{
+  "artist": "Duster",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Duster",
+      "name": "Inside Out"
+    },
+    {
+      "artists": "Duster",
+      "name": "Me and the Birds"
+    },
+    {
+      "artists": "Duster",
+      "name": "Constellations"
+    },
+    {
+      "artists": "Duster",
+      "name": "Stars Will Fall"
+    },
+    {
+      "artists": "Duster",
+      "name": "Stratosphere"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5AyEXCtu3xnnsTGCo4RVZh"
+}

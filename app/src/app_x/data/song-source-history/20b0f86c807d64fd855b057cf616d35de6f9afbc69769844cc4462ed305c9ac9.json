@@ -1,0 +1,27 @@
+{
+  "artist": "Ariox",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Al·lèrgiques al pol·len, Ariox",
+      "name": "No Et Canto amb Pena"
+    },
+    {
+      "artists": "Ariox, Galgo Lento",
+      "name": "L'estiu amb tu"
+    },
+    {
+      "artists": "Ariox",
+      "name": "Ja fa un temps"
+    },
+    {
+      "artists": "Ariox",
+      "name": "Dies D'estiu"
+    },
+    {
+      "artists": "Ariox",
+      "name": "El Porc"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/40qrXwBvQ93tL5ondgFXzE"
+}

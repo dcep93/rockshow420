@@ -1,0 +1,27 @@
+{
+  "artist": "Xebi SF",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Xebi SF, Nacho Vegas",
+      "name": "España en Glovo"
+    },
+    {
+      "artists": "Xebi SF",
+      "name": "Y Ahí Estás Tú"
+    },
+    {
+      "artists": "Xebi SF",
+      "name": "La Vida Moderna"
+    },
+    {
+      "artists": "Xebi SF",
+      "name": "Por más que lo intente"
+    },
+    {
+      "artists": "Xebi SF",
+      "name": "De amor"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1kRVTSRBerHQwmJ15aEfeE"
+}

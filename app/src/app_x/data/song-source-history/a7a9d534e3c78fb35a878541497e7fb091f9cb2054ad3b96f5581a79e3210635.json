@@ -1,0 +1,28 @@
+{
+  "artist": "Arca",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Arca, ROSALÍA",
+      "name": "KLK"
+    },
+    {
+      "artists": "Arca",
+      "name": "Rakata"
+    },
+    {
+      "artists": "Addison Rae, Arca",
+      "name": "Aquamarine / Arcamarine"
+    },
+    {
+      "artists": "Safety Trance, Arca",
+      "explicit": true,
+      "name": "El Alma Que Te Trajo"
+    },
+    {
+      "artists": "Arca",
+      "name": "Prada"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+}

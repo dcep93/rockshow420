@@ -1,0 +1,27 @@
+{
+  "artist": "Beluga",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Beluga",
+      "name": "Bioluminiscencia"
+    },
+    {
+      "artists": "Kuqui Alegre, Mon Vázquez, BUCKINGHAM, Beluga, MERINO, Gallos, Allende, Milena Brody, Jacob Mey, Gotelé",
+      "name": "No Dudaría"
+    },
+    {
+      "artists": "Beluga",
+      "name": "Aprendiz de Leones"
+    },
+    {
+      "artists": "Beluga",
+      "name": "Mis Demonios"
+    },
+    {
+      "artists": "Beluga",
+      "name": "Búmeran"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3LWwxAEAuFu8uFaxx8OXov"
+}

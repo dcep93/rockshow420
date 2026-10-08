@@ -1,0 +1,30 @@
+{
+  "artist": "James Blake",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Travis Scott, James Blake, 21 Savage",
+      "explicit": true,
+      "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)"
+    },
+    {
+      "artists": "Jay Rock, Kendrick Lamar, Future, James Blake",
+      "explicit": true,
+      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)"
+    },
+    {
+      "artists": "Metro Boomin, James Blake",
+      "name": "Hummingbird (Metro Boomin & James Blake)"
+    },
+    {
+      "artists": "James Blake, Travis Scott, Ludwig Göransson",
+      "name": "When I’m Home"
+    },
+    {
+      "artists": "Dave, James Blake",
+      "explicit": true,
+      "name": "History (feat. James Blake)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/53KwLdlmrlCelAZMaLVZqU"
+}

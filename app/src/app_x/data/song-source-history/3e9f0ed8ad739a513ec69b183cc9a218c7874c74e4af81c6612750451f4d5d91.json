@@ -1,0 +1,27 @@
+{
+  "artist": "Watchhouse",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Watchhouse",
+      "name": "Wildfire"
+    },
+    {
+      "artists": "Watchhouse",
+      "name": "Daylight"
+    },
+    {
+      "artists": "Watchhouse",
+      "name": "Old Ties and Companions"
+    },
+    {
+      "artists": "Watchhouse",
+      "name": "Golden Embers"
+    },
+    {
+      "artists": "Watchhouse",
+      "name": "Hard Travelin'"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/675tsBPpaZtqyiBwEf3ZEP"
+}

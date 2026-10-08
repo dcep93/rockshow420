@@ -1,0 +1,73 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Webcast live by Hulu",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Purple Rain",
+          "notes": "(Prince song) (Snippet)",
+          "tape": true
+        },
+        {
+          "name": "Thieves",
+          "notes": "(Ministry cover) (Abbreviated)"
+        },
+        {
+          "name": "Break Stuff"
+        },
+        {
+          "name": "Hot Dog"
+        },
+        {
+          "name": "My Generation",
+          "notes": "(with Metallica’s \"Master of Puppets\" snippet at the intro)"
+        },
+        {
+          "name": "Livin' It Up"
+        },
+        {
+          "name": "Party Up (Up in Here) / Insane in the Brain",
+          "notes": "(DJ Lethal interlude)",
+          "tape": true
+        },
+        {
+          "name": "Rollin' (Air Raid Vehicle)"
+        },
+        {
+          "name": "Nookie"
+        },
+        {
+          "name": "90.2.10",
+          "notes": "(Interlude only)",
+          "tape": true
+        },
+        {
+          "name": "My Way"
+        },
+        {
+          "name": "Jump Around / Hip Hop Hooray / Just a Friend",
+          "notes": "(DJ Lethal interlude)",
+          "tape": true
+        },
+        {
+          "name": "Faith",
+          "notes": "(George Michael cover) (Through first chorus only)"
+        },
+        {
+          "name": "Take a Look Around"
+        },
+        {
+          "name": "Dad Vibes",
+          "tape": true
+        },
+        {
+          "name": "Don't You (Forget About Me)",
+          "notes": "(Simple Minds song)",
+          "tape": true
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/limp-bizkit/2021/grant-park-chicago-il-usa-338f1ca9.html"
+}

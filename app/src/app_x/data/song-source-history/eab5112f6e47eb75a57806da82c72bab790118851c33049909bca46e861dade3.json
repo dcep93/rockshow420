@@ -1,0 +1,27 @@
+{
+  "artist": "Carola",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "LP Giobbi, Bruno Be, Carola, Clover County",
+      "name": "Do For Love"
+    },
+    {
+      "artists": "Felix Da Housecat, Fatboy Slim, Carola, 7KY",
+      "name": "Funk Drunk"
+    },
+    {
+      "artists": "Samantha Machado, RUSHÖ, Carola",
+      "name": "Nunca Vai Mudar - RUSHÖ & Carola Remix"
+    },
+    {
+      "artists": "Carola",
+      "name": "Come With Me"
+    },
+    {
+      "artists": "KVSH, Carola",
+      "name": "Welcome To The Future"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1ms2l3rB6iHHxtPvR9kxgW"
+}

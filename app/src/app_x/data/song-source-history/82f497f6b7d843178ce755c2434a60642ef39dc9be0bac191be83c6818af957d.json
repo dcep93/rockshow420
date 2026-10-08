@@ -1,0 +1,32 @@
+{
+  "artist": "GloRilla",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "j-hope, GloRilla",
+      "explicit": true,
+      "name": "Killin' It Girl (feat. GloRilla)"
+    },
+    {
+      "artists": "Tyler, The Creator, GloRilla, Sexyy Red, Lil Wayne",
+      "explicit": true,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)"
+    },
+    {
+      "artists": "GloRilla, Sexyy Red",
+      "explicit": true,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)"
+    },
+    {
+      "artists": "GloRilla",
+      "explicit": true,
+      "name": "TGIF"
+    },
+    {
+      "artists": "GloRilla, Megan Thee Stallion",
+      "explicit": true,
+      "name": "Wanna Be (with Megan Thee Stallion)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2qoQgPAilErOKCwE2Y8wOG"
+}

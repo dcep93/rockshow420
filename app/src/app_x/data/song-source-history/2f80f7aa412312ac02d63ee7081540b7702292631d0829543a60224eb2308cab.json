@@ -1,0 +1,27 @@
+{
+  "artist": "The Alive!",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Alive!",
+      "name": "BURNT"
+    },
+    {
+      "artists": "The Alive!",
+      "name": "THE MAN"
+    },
+    {
+      "artists": "The Alive!",
+      "name": "THE TIME"
+    },
+    {
+      "artists": "The Alive!",
+      "name": "Come and Get It"
+    },
+    {
+      "artists": "The Alive!",
+      "name": "MUD"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7dmbckQLtacSogGixbzrQp"
+}

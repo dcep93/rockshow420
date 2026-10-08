@@ -1,0 +1,28 @@
+{
+  "artist": "Mabel",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Mabel",
+      "name": "Don't Call Me Up"
+    },
+    {
+      "artists": "Clean Bandit, Mabel, 24kGoldn",
+      "name": "Tick Tock (feat. 24kGoldn)"
+    },
+    {
+      "artists": "Mabel",
+      "name": "Mad Love"
+    },
+    {
+      "artists": "Mabel, Kojo Funds",
+      "name": "Finders Keepers"
+    },
+    {
+      "artists": "AJ Tracey, Mabel",
+      "explicit": true,
+      "name": "West Ten (with Mabel)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1MIVXf74SZHmTIp4V4paH4"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Daytime Lover",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Daytime Lover",
+      "name": "I was asleep"
+    },
+    {
+      "artists": "Daytime Lover",
+      "name": "Shimmer"
+    },
+    {
+      "artists": "Daytime Lover",
+      "name": "Wasting Time"
+    },
+    {
+      "artists": "Daytime Lover",
+      "name": "More Feelin"
+    },
+    {
+      "artists": "Daytime Lover",
+      "name": "Pleaser"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/193YlAH5ef6yH1S1c1wVOc"
+}

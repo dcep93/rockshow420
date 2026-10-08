@@ -1,0 +1,36 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Setlist incomplete",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Five N' Dime",
+          "notes": "(Mills song)",
+          "tape": true
+        },
+        {
+          "name": "Money for Nothing",
+          "notes": "(Dire Straits song)",
+          "tape": true
+        },
+        {
+          "name": "Sinner of the City"
+        },
+        {
+          "name": "Dopamine Drop"
+        },
+        {
+          "name": "(Unknown)"
+        },
+        {
+          "name": "Happier Alone"
+        },
+        {
+          "name": "Cave In"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/austin-meade/2023/grant-park-chicago-il-usa-43a41feb.html"
+}

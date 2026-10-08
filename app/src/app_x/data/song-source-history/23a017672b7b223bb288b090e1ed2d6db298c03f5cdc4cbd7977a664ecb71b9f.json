@@ -1,0 +1,27 @@
+{
+  "artist": "Tourist",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Tourist, Ardyn",
+      "name": "We Stayed Up All Night"
+    },
+    {
+      "artists": "Elderbrook, Tourist",
+      "name": "Howl"
+    },
+    {
+      "artists": "Tourist",
+      "name": "Bunny"
+    },
+    {
+      "artists": "All Saints, Tourist",
+      "name": "Pure Shores"
+    },
+    {
+      "artists": "Swedish House Mafia, The Weeknd, Tourist",
+      "name": "Moth To A Flame (with The Weeknd, feat. Tourist) - Tourist Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2ABBMkcUeM9hdpimo86mo6"
+}

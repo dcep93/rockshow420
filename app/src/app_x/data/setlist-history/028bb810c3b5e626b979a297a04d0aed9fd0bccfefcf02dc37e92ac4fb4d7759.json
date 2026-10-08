@@ -1,0 +1,55 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Lake stage; started late due to weather concerns",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Hold the Line",
+          "notes": "(Major Lazer cover)"
+        },
+        {
+          "name": "L.E.S. Artistes"
+        },
+        {
+          "name": "GO!"
+        },
+        {
+          "name": "Lights Out"
+        },
+        {
+          "name": "Say Aha"
+        },
+        {
+          "name": "Shove It"
+        },
+        {
+          "name": "Shake"
+        },
+        {
+          "name": "My Horror"
+        },
+        {
+          "name": "High Priestess"
+        },
+        {
+          "name": "Disparate Youth"
+        },
+        {
+          "name": "Creator",
+          "notes": "(invited crowd on stage to dance)"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Big Mouth"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/santigold/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6cce.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Vetusta Morla",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Vetusta Morla",
+      "name": "Copenhague"
+    },
+    {
+      "artists": "Vetusta Morla",
+      "name": "Si vuelves"
+    },
+    {
+      "artists": "Vetusta Morla",
+      "name": "Valiente"
+    },
+    {
+      "artists": "Vetusta Morla",
+      "name": "Cuarteles de Invierno"
+    },
+    {
+      "artists": "Vetusta Morla",
+      "name": "Maldita Dulzura"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6J6yx1t3nwIDyPXk5xa7O8"
+}

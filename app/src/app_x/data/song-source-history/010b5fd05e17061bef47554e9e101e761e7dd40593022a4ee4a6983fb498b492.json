@@ -1,0 +1,27 @@
+{
+  "artist": "Pond",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pond",
+      "name": "Paint Me Silver"
+    },
+    {
+      "artists": "Pond",
+      "name": "Sweep Me Off My Feet"
+    },
+    {
+      "artists": "Pond",
+      "name": "Holding Out For You"
+    },
+    {
+      "artists": "Pond",
+      "name": "America's Cup"
+    },
+    {
+      "artists": "Pond",
+      "name": "Man It Feels Like Space Again"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4skJp5OKvcc9eKokiuhi2s"
+}

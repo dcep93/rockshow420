@@ -37,6 +37,25 @@ DIRECTORIES = {
 }
 
 
+# Reviewed name variants only. No fuzzy matching or broad suffix stripping.
+ARTIST_ALIASES = {
+    'AJNA (US)': 'Ajna',
+    'Altin Gün': 'Altın Gün',
+    'Full Moonalice': 'Moonalice',
+    'JD Twitch (Optimo)': 'JD Twitch',
+    'Luttrell': 'Eric Luttrell',
+    'Mob Rich': 'Moby Rich',
+    'Petey': 'Petey USA',
+    'TAGABOW': 'They Are Gutting a Body of Water',
+    'SF Gay Men’s Chorus': 'San Francisco Gay Men’s Chorus',
+}
+
+
+def artist_norm(value):
+    aliases = {norm(k): norm(v) for k, v in ARTIST_ALIASES.items()}
+    return aliases.get(norm(value), norm(value))
+
+
 def targets_for(catalog):
     targets = []
     for cid, schedule in catalog['schedules'].items():
@@ -77,7 +96,7 @@ def candidate_links(html, url):
 
 
 def matches_target(actual, target, html, directory):
-    if norm(actual['artist']) != norm(target['artist']):
+    if artist_norm(actual['artist']) != artist_norm(target['artist']):
         return False
     dates = target['dates']
     if dates and actual['event_date'] not in dates:
@@ -139,8 +158,10 @@ def main():
     targets = targets_for(read(args.catalog, {}))
     args.work.mkdir(parents=True, exist_ok=True)
     state = read(args.work / 'progress.json', {'directories': {}, 'pages': {}, 'records': {}})
+    if args.offline and state.get('blocked', '').startswith('Access challenge:'):
+        state['http_access_block'] = state.pop('blocked')
     current_keys = {t['key'] for t in targets}
-    state['records'] = {k: v for k, v in state['records'].items() if k in current_keys}
+    state['records'] = {k: v for k, v in state['records'].items() if k in current_keys and not (v.get('status') == 'absent_from_directory' and v.get('artist') in ARTIST_ALIASES)}
     state.update(total_schedule_rows=sum(len(t['sets']) for t in targets), total_artist_concert_pairs=len(targets),
                  retrieval='Ordinary public HTML; no music API; stop on access challenge')
     fetcher = Fetcher(args.work)
@@ -175,7 +196,7 @@ def main():
                 state['records'][key] = {**target, 'status': 'excluded_cancelled'}
                 continue
             directory = state['directories'][target['concert_id']]
-            candidates = [x for x in directory['links'] if norm(x['artist']) == norm(target['artist'])]
+            candidates = [x for x in directory['links'] if artist_norm(x['artist']) == artist_norm(target['artist'])]
             unavailable = [x['url'] for x in candidates if not (fetcher.folder / (hashlib.sha256(x['url'].encode()).hexdigest() + '.html')).exists()]
             if args.offline and unavailable:
                 state['records'][key] = {**target, 'status': 'unvisited', 'candidate_urls': [x['url'] for x in candidates], 'remaining_urls': unavailable}

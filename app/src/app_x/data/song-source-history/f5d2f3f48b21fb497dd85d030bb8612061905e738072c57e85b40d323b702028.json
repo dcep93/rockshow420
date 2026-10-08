@@ -1,0 +1,27 @@
+{
+  "artist": "Griff",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Griff",
+      "name": "Vertigo"
+    },
+    {
+      "artists": "Griff",
+      "name": "Walk"
+    },
+    {
+      "artists": "Griff",
+      "name": "Anything"
+    },
+    {
+      "artists": "Griff",
+      "name": "last night's mascara"
+    },
+    {
+      "artists": "Griff",
+      "name": "Tears For Fun"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5RJFJWYgtgWktosLrUDzff"
+}

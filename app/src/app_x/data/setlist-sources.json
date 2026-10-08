@@ -4638,5 +4638,4175 @@
       "venue": "Golden Gate Park, San Francisco, CA, USA"
     },
     "url": "https://www.setlist.fm/setlist/kygo/2019/golden-gate-park-san-francisco-ca-usa-3b9ff86c.html"
+  },
+  {
+    "artist_id": "ajna-us",
+    "concert_id": "8nhjof",
+    "expected": {
+      "artist": "Ajna",
+      "event_date": "2018-08-12",
+      "venue": "Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ajna/2018/golden-gate-park-san-francisco-ca-usa-2be88c16.html"
+  },
+  {
+    "artist_id": "megan-thee-stallion",
+    "concert_id": "c26k26",
+    "expected": {
+      "artist": "Megan Thee Stallion",
+      "event_date": "2021-09-05",
+      "venue": "Napa Valley Expo, Napa, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/megan-thee-stallion/2021/napa-valley-expo-napa-ca-usa-138c39c9.html"
+  },
+  {
+    "artist_id": "sf-gay-mens-chorus",
+    "concert_id": "xuwdm1",
+    "expected": {
+      "artist": "San Francisco Gay Men’s Chorus",
+      "event_date": "2026-08-09",
+      "venue": "Lands End, Golden Gate Park, San Francisco, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/san-francisco-gay-mens-chorus/2026/golden-gate-park-san-francisco-ca-usa-2b71b89e.html"
+  },
+  {
+    "artist_id": "maria-jaume",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Maria Jaume",
+      "event_date": "2024-05-29",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/maria-jaume/2024/parc-del-forum-barcelona-spain-7ba91aec.html"
+  },
+  {
+    "artist_id": "tropical-fuck-storm",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Tropical Fuck Storm",
+      "event_date": "2024-05-29",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/tropical-fuck-storm/2024/parc-del-forum-barcelona-spain-6ba8de36.html"
+  },
+  {
+    "artist_id": "ratboys",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Ratboys",
+      "event_date": "2024-05-29",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/ratboys/2024/parc-del-forum-barcelona-spain-ba935c6.html"
+  },
+  {
+    "artist_id": "stella-maris",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Stella Maris",
+      "event_date": "2024-05-29",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/stella-maris/2024/parc-del-forum-barcelona-spain-73a8de3d.html"
+  },
+  {
+    "artist_id": "phoenix",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Phoenix",
+      "event_date": "2024-05-29",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/phoenix/2024/parc-del-forum-barcelona-spain-73a8de39.html"
+  },
+  {
+    "artist_id": "renaldo-clara",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Renaldo & Clara",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/renaldo-and-clara/2024/parc-del-forum-barcelona-spain-53a97351.html"
+  },
+  {
+    "artist_id": "dillom",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Dillom",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/dillom/2024/parc-del-forum-barcelona-spain-1ba9bd38.html"
+  },
+  {
+    "artist_id": "amaarae",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Amaarae",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/amaarae/2024/parc-del-forum-barcelona-spain-43a9777f.html"
+  },
+  {
+    "artist_id": "deftones",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Deftones",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/deftones/2024/parc-del-forum-barcelona-spain-2bab78ea.html"
+  },
+  {
+    "artist_id": "peggy-gou",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Peggy Gou",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/peggy-gou/2024/parc-del-forum-barcelona-spain-3bab78e8.html"
+  },
+  {
+    "artist_id": "carino",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Cariño",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/carino/2024/parc-del-forum-barcelona-spain-1b56c500.html"
+  },
+  {
+    "artist_id": "william-basinski",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "William Basinski",
+      "event_date": "2024-05-30",
+      "venue": "Auditori Fòrum CCIB, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/william-basinski/2024/auditori-forum-ccib-barcelona-spain-7ba96a98.html"
+  },
+  {
+    "artist_id": "lambchop",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Lambchop",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/lambchop/2024/parc-del-forum-barcelona-spain-3ba824c4.html"
+  },
+  {
+    "artist_id": "arab-strap",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Arab Strap",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/arab-strap/2024/parc-del-forum-barcelona-spain-3ba824c0.html"
+  },
+  {
+    "artist_id": "blonde-redhead",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Blonde Redhead",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/blonde-redhead/2024/parc-del-forum-barcelona-spain-43a8dfcf.html"
+  },
+  {
+    "artist_id": "beth-gibbons",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Beth Gibbons",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/beth-gibbons/2024/parc-del-forum-barcelona-spain-3ab794f.html"
+  },
+  {
+    "artist_id": "freddie-gibbs-madlib",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Freddie Gibbs & Madlib",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/freddie-gibbs-and-madlib/2024/parc-del-forum-barcelona-spain-6ba96aa2.html"
+  },
+  {
+    "artist_id": "vampire-weekend",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Vampire Weekend",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/vampire-weekend/2024/parc-del-forum-barcelona-spain-33ab78ed.html"
+  },
+  {
+    "artist_id": "justice",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Justice",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/justice/2024/parc-del-forum-barcelona-spain-6ba8a646.html"
+  },
+  {
+    "artist_id": "nieve-ella",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Nieve Ella",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/nieve-ella/2024/parc-del-forum-barcelona-spain-5ba97338.html"
+  },
+  {
+    "artist_id": "mannequin-pussy",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mannequin Pussy",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mannequin-pussy/2024/parc-del-forum-barcelona-spain-23a824bb.html"
+  },
+  {
+    "artist_id": "billy-woods",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "billy woods",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/billy-woods/2024/parc-del-forum-barcelona-spain-53a9733d.html"
+  },
+  {
+    "artist_id": "yeule",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "yeule",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/yeule/2024/parc-del-forum-barcelona-spain-53ab7bd1.html"
+  },
+  {
+    "artist_id": "the-armed",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Armed",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-armed/2024/parc-del-forum-barcelona-spain-2ba824be.html"
+  },
+  {
+    "artist_id": "l-imperatrice",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "L’Impératrice",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/limperatrice/2024/parc-del-forum-barcelona-spain-4ba8dfca.html"
+  },
+  {
+    "artist_id": "roosevelt",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Roosevelt",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/roosevelt/2024/parc-del-forum-barcelona-spain-4ba97342.html"
+  },
+  {
+    "artist_id": "a-g-cook",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "A. G. Cook",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/a-g-cook/2024/parc-del-forum-barcelona-spain-7ba976f0.html"
+  },
+  {
+    "artist_id": "amyl-and-the-sniffers",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Amyl and the Sniffers",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/amyl-and-the-sniffers/2024/parc-del-forum-barcelona-spain-4ba8dfd6.html"
+  },
+  {
+    "artist_id": "pulp",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Pulp",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/pulp/2024/parc-del-forum-barcelona-spain-63ab9adb.html"
+  },
+  {
+    "artist_id": "htrk",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "HTRK",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/htrk/2024/parc-del-forum-barcelona-spain-356c9c3.html"
+  },
+  {
+    "artist_id": "duster",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Duster",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/duster/2024/parc-del-forum-barcelona-spain-7ba96a9c.html"
+  },
+  {
+    "artist_id": "lolahol",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Lolahol",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/lolahol/2024/parc-del-forum-barcelona-spain-53a97331.html"
+  },
+  {
+    "artist_id": "wiegedood",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Wiegedood",
+      "event_date": "2024-05-30",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/wiegedood/2024/parc-del-forum-barcelona-spain-4ba97332.html"
+  },
+  {
+    "artist_id": "clipse",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Clipse",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/clipse/2024/parc-del-forum-barcelona-spain-43a97323.html"
+  },
+  {
+    "artist_id": "joanna-sternberg",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Joanna Sternberg",
+      "event_date": "2024-05-31",
+      "venue": "Auditori Fòrum CCIB, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/joanna-sternberg/2024/auditori-forum-ccib-barcelona-spain-4ba973fa.html"
+  },
+  {
+    "artist_id": "chelsea-wolfe",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Chelsea Wolfe",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/chelsea-wolfe/2024/parc-del-forum-barcelona-spain-2ba824b2.html"
+  },
+  {
+    "artist_id": "jessica-pratt",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Jessica Pratt",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/jessica-pratt/2024/parc-del-forum-barcelona-spain-5ba97304.html"
+  },
+  {
+    "artist_id": "the-last-dinner-party",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Last Dinner Party",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-last-dinner-party/2024/parc-del-forum-barcelona-spain-2babf456.html"
+  },
+  {
+    "artist_id": "badbadnotgood",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "BADBADNOTGOOD",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/badbadnotgood/2024/parc-del-forum-barcelona-spain-53a97311.html"
+  },
+  {
+    "artist_id": "jai-paul",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Jai Paul",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/jai-paul/2024/parc-del-forum-barcelona-spain-4ba97312.html"
+  },
+  {
+    "artist_id": "barry-can-t-swim",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Barry Can’t Swim",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/barry-cant-swim/2024/parc-del-forum-barcelona-spain-43a8dfc3.html"
+  },
+  {
+    "artist_id": "mica-levi",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mica Levi",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mica-levi/2024/parc-del-forum-barcelona-spain-33563c05.html"
+  },
+  {
+    "artist_id": "omar-apollo",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Omar Apollo",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/omar-apollo/2024/parc-del-forum-barcelona-spain-53a97329.html"
+  },
+  {
+    "artist_id": "lana-del-rey",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Lana Del Rey",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/lana-del-rey/2024/parc-del-forum-barcelona-spain-5bab9f8c.html"
+  },
+  {
+    "artist_id": "disclosure",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Disclosure",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/disclosure/2024/parc-del-forum-barcelona-spain-33a824bd.html"
+  },
+  {
+    "artist_id": "dogstar",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Dogstar",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/dogstar/2024/parc-del-forum-barcelona-spain-5ba97314.html"
+  },
+  {
+    "artist_id": "mushkaa",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mushkaa",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mushkaa/2024/parc-del-forum-barcelona-spain-ba881f2.html"
+  },
+  {
+    "artist_id": "guillem-gisbert",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Guillem Gisbert",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/guillem-gisbert/2024/parc-del-forum-barcelona-spain-43a9731b.html"
+  },
+  {
+    "artist_id": "faye-webster",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Faye Webster",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/faye-webster/2024/parc-del-forum-barcelona-spain-73a8de59.html"
+  },
+  {
+    "artist_id": "mount-kimbie",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mount Kimbie",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mount-kimbie/2024/parc-del-forum-barcelona-spain-3ba824bc.html"
+  },
+  {
+    "artist_id": "sega-bodega",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Sega Bodega",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/sega-bodega/2024/parc-del-forum-barcelona-spain-4ba983b6.html"
+  },
+  {
+    "artist_id": "ethel-cain",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Ethel Cain",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/ethel-cain/2024/parc-del-forum-barcelona-spain-3abe183.html"
+  },
+  {
+    "artist_id": "troye-sivan",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Troye Sivan",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/troye-sivan/2024/parc-del-forum-barcelona-spain-73ab9e79.html"
+  },
+  {
+    "artist_id": "julia-amor",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "julia amor",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/julia-amor/2024/parc-del-forum-barcelona-spain-63459e37.html"
+  },
+  {
+    "artist_id": "scowl",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Scowl",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/scowl/2024/parc-del-forum-barcelona-spain-53a97305.html"
+  },
+  {
+    "artist_id": "hannah-diamond",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Hannah Diamond",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/hannah-diamond/2024/parc-del-forum-barcelona-spain-5ba97300.html"
+  },
+  {
+    "artist_id": "brutus",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Brutus",
+      "event_date": "2024-05-31",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/brutus/2024/parc-del-forum-barcelona-spain-43a97303.html"
+  },
+  {
+    "artist_id": "romy",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Romy",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/romy/2024/parc-del-forum-barcelona-spain-63a8de57.html"
+  },
+  {
+    "artist_id": "charli-xcx",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Charli xcx",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/charli-xcx/2024/parc-del-forum-barcelona-spain-4babf38a.html"
+  },
+  {
+    "artist_id": "lankum",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Lankum",
+      "event_date": "2024-06-01",
+      "venue": "Auditori Fòrum CCIB, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/lankum/2024/auditori-forum-ccib-barcelona-spain-3ba824a8.html"
+  },
+  {
+    "artist_id": "wolf-eyes",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Wolf Eyes",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/wolf-eyes/2024/parc-del-forum-barcelona-spain-5ba973cc.html"
+  },
+  {
+    "artist_id": "lisabo",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Lisabö",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/lisabo/2024/parc-del-forum-barcelona-spain-4ba973ea.html"
+  },
+  {
+    "artist_id": "la-zowi",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "La Zowi",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/la-zowi/2024/parc-del-forum-barcelona-spain-53a973e9.html"
+  },
+  {
+    "artist_id": "atarashii-gakko",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "ATARASHII GAKKO!",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/atarashii-gakko/2024/parc-del-forum-barcelona-spain-23ab404b.html"
+  },
+  {
+    "artist_id": "mitski",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Mitski",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/mitski/2024/parc-del-forum-barcelona-spain-13ab7941.html"
+  },
+  {
+    "artist_id": "roisin-murphy",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Róisín Murphy",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/roisin-murphy/2024/parc-del-forum-barcelona-spain-43a973f3.html"
+  },
+  {
+    "artist_id": "slow-pulp",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Slow Pulp",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/slow-pulp/2024/parc-del-forum-barcelona-spain-33a82499.html"
+  },
+  {
+    "artist_id": "eartheater",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Eartheater",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/eartheater/2024/parc-del-forum-barcelona-spain-5ba973ec.html"
+  },
+  {
+    "artist_id": "liberato",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Liberato",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/liberato/2024/parc-del-forum-barcelona-spain-5ba973f4.html"
+  },
+  {
+    "artist_id": "bikini-kill",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Bikini Kill",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/bikini-kill/2024/parc-del-forum-barcelona-spain-73a8de49.html"
+  },
+  {
+    "artist_id": "bikoko",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Bikôkô",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/bikoko/2024/parc-del-forum-barcelona-spain-335b30c5.html"
+  },
+  {
+    "artist_id": "pj-harvey",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "PJ Harvey",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/pj-harvey/2024/parc-del-forum-barcelona-spain-73a976fd.html"
+  },
+  {
+    "artist_id": "sza",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "SZA",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/sza/2024/parc-del-forum-barcelona-spain-3ab7943.html"
+  },
+  {
+    "artist_id": "depresion-sonora",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Depresión Sonora",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/depresion-sonora/2024/parc-del-forum-barcelona-spain-3ba824ac.html"
+  },
+  {
+    "artist_id": "princess-superstar",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Princess Superstar",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/princess-superstar/2024/parc-del-forum-barcelona-spain-53a973d1.html"
+  },
+  {
+    "artist_id": "alcala-norte",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Alcalá Norte",
+      "event_date": "2024-06-01",
+      "venue": "Parc del Fòrum, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/alcala-norte/2024/parc-del-forum-barcelona-spain-4ba973d6.html"
+  },
+  {
+    "artist_id": "desire",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Desire",
+      "event_date": "2024-05-29",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/desire/2024/sala-apolo-barcelona-spain-43a8ebe7.html"
+  },
+  {
+    "artist_id": "the-dare",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "The Dare",
+      "event_date": "2024-05-29",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/the-dare/2024/sala-apolo-barcelona-spain-53a8ebed.html"
+  },
+  {
+    "artist_id": "fat-dog",
+    "concert_id": "3s9mjj",
+    "expected": {
+      "artist": "Fat Dog",
+      "event_date": "2024-05-29",
+      "venue": "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+    },
+    "url": "https://www.setlist.fm/setlist/fat-dog/2024/sala-apolo-barcelona-spain-5ba8ebfc.html"
+  },
+  {
+    "artist_id": "band-maid",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "BAND‐MAID",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bandmaid/2023/grant-park-chicago-il-usa-4ba41fda.html"
+  },
+  {
+    "artist_id": "beabadoobee",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "beabadoobee",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beabadoobee/2023/grant-park-chicago-il-usa-5ba423f4.html"
+  },
+  {
+    "artist_id": "big-wild",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Big Wild",
+      "event_date": "2023-08-04",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/big-wild/2023/grant-park-chicago-il-usa-4ba41f16.html"
+  },
+  {
+    "artist_id": "cafune",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "CAFUNÉ",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cafune/2023/grant-park-chicago-il-usa-5ba41fd8.html"
+  },
+  {
+    "artist_id": "declan-mckenna",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Declan McKenna",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/declan-mckenna/2023/grant-park-chicago-il-usa-53a41fe1.html"
+  },
+  {
+    "artist_id": "emo-nite",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Emo Nite",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/emo-nite/2023/grant-park-chicago-il-usa-73a40e7d.html"
+  },
+  {
+    "artist_id": "foals",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Foals",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foals/2023/grant-park-chicago-il-usa-4ba41f0a.html"
+  },
+  {
+    "artist_id": "fred-again",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Fred again..",
+      "event_date": "2023-08-04",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/fred-again/2023/grant-park-chicago-il-usa-5ba41f20.html"
+  },
+  {
+    "artist_id": "giant-rooks",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Giant Rooks",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/giant-rooks/2023/grant-park-chicago-il-usa-43a41fdf.html"
+  },
+  {
+    "artist_id": "hemlocke-springs",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "hemlocke springs",
+      "event_date": "2023-08-04",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hemlocke-springs/2023/grant-park-chicago-il-usa-4ba41fd6.html"
+  },
+  {
+    "artist_id": "jessie-reyez",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Jessie Reyez",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jessie-reyez/2023/grant-park-chicago-il-usa-4ba41f02.html"
+  },
+  {
+    "artist_id": "ken-carson",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Ken Carson",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ken-carson/2023/grant-park-chicago-il-usa-43a40f83.html"
+  },
+  {
+    "artist_id": "kendrick-lamar",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Kendrick Lamar",
+      "event_date": "2023-08-04",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kendrick-lamar/2023/grant-park-chicago-il-usa-53a41f15.html"
+  },
+  {
+    "artist_id": "knocked-loose",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Knocked Loose",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/knocked-loose/2023/grant-park-chicago-il-usa-4ba41f1e.html"
+  },
+  {
+    "artist_id": "peach-pit",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Peach Pit",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/peach-pit/2023/grant-park-chicago-il-usa-43a41f0b.html"
+  },
+  {
+    "artist_id": "ray-volpe",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Ray Volpe",
+      "event_date": "2023-08-04",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ray-volpe/2023/grant-park-chicago-il-usa-5ba41fe0.html"
+  },
+  {
+    "artist_id": "sabrina-carpenter",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sabrina Carpenter",
+      "event_date": "2023-08-04",
+      "venue": "Allianz Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sabrina-carpenter/2023/grant-park-chicago-il-usa-5ba41f04.html"
+  },
+  {
+    "artist_id": "sincere-engineer",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sincere Engineer",
+      "event_date": "2023-08-04",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sincere-engineer/2023/grant-park-chicago-il-usa-4ba41fde.html"
+  },
+  {
+    "artist_id": "skizzy-mars",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Skizzy Mars",
+      "event_date": "2023-08-04",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/skizzy-mars/2023/grant-park-chicago-il-usa-4ba41ffa.html"
+  },
+  {
+    "artist_id": "sudan-archives",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sudan Archives",
+      "event_date": "2023-08-04",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sudan-archives/2023/grant-park-chicago-il-usa-5ba41f14.html"
+  },
+  {
+    "artist_id": "sueco",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sueco",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sueco/2023/grant-park-chicago-il-usa-53a40f81.html"
+  },
+  {
+    "artist_id": "tems",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Tems",
+      "event_date": "2023-08-04",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tems/2023/grant-park-chicago-il-usa-4ba41f06.html"
+  },
+  {
+    "artist_id": "the-1975",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The 1975",
+      "event_date": "2023-08-04",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-1975/2023/grant-park-chicago-il-usa-4ba423de.html"
+  },
+  {
+    "artist_id": "the-502s",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The 502s",
+      "event_date": "2023-08-04",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-502s/2023/grant-park-chicago-il-usa-43a41fdb.html"
+  },
+  {
+    "artist_id": "thirty-seconds-to-mars",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Thirty Seconds to Mars",
+      "event_date": "2023-08-04",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/thirty-seconds-to-mars/2023/grant-park-chicago-il-usa-4ba41f26.html"
+  },
+  {
+    "artist_id": "aidan-bissett",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Aidan Bissett",
+      "event_date": "2023-08-05",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/aidan-bissett/2023/grant-park-chicago-il-usa-73a40e61.html"
+  },
+  {
+    "artist_id": "alex-g",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Alex G",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alex-g/2023/grant-park-chicago-il-usa-23a414e7.html"
+  },
+  {
+    "artist_id": "bonnie-x-clyde",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Bonnie X Clyde",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bonnie-x-clyde/2023/grant-park-chicago-il-usa-6ba40e5e.html"
+  },
+  {
+    "artist_id": "destroy-lonely",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Destroy Lonely",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/destroy-lonely/2023/grant-park-chicago-il-usa-2ba4146e.html"
+  },
+  {
+    "artist_id": "friday-pilots-club",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Friday Pilots Club",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/friday-pilots-club/2023/grant-park-chicago-il-usa-6ba40e6a.html"
+  },
+  {
+    "artist_id": "jid",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "JID",
+      "event_date": "2023-08-05",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jid/2023/grant-park-chicago-il-usa-23a41463.html"
+  },
+  {
+    "artist_id": "maggie-rogers",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Maggie Rogers",
+      "event_date": "2023-08-05",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maggie-rogers/2023/grant-park-chicago-il-usa-2ba41472.html"
+  },
+  {
+    "artist_id": "mavi",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "MAVI",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mavi/2023/grant-park-chicago-il-usa-7ba40e68.html"
+  },
+  {
+    "artist_id": "morgan-wade",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Morgan Wade",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/morgan-wade/2023/grant-park-chicago-il-usa-33a414e5.html"
+  },
+  {
+    "artist_id": "motherfolk",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Motherfolk",
+      "event_date": "2023-08-05",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/motherfolk/2023/grant-park-chicago-il-usa-7ba40e50.html"
+  },
+  {
+    "artist_id": "niki",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "NIKI",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/niki/2023/grant-park-chicago-il-usa-23a414e3.html"
+  },
+  {
+    "artist_id": "odesza",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "ODESZA",
+      "event_date": "2023-08-05",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/odesza/2023/grant-park-chicago-il-usa-33a4147d.html"
+  },
+  {
+    "artist_id": "pardyalone",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Pardyalone",
+      "event_date": "2023-08-05",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pardyalone/2023/grant-park-chicago-il-usa-7ba40e70.html"
+  },
+  {
+    "artist_id": "pusha-t",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Pusha T",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pusha-t/2023/grant-park-chicago-il-usa-23a4147f.html"
+  },
+  {
+    "artist_id": "suki-waterhouse",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Suki Waterhouse",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/suki-waterhouse/2023/grant-park-chicago-il-usa-23a4143b.html"
+  },
+  {
+    "artist_id": "sylvan-esso",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sylvan Esso",
+      "event_date": "2023-08-05",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sylvan-esso/2023/grant-park-chicago-il-usa-33a4140d.html"
+  },
+  {
+    "artist_id": "the-garden",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Garden",
+      "event_date": "2023-08-05",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-garden/2023/grant-park-chicago-il-usa-73a40e69.html"
+  },
+  {
+    "artist_id": "the-knocks",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Knocks",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-knocks/2023/grant-park-chicago-il-usa-33a41419.html"
+  },
+  {
+    "artist_id": "the-linda-lindas",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Linda Lindas",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-linda-lindas/2023/grant-park-chicago-il-usa-7ba40e74.html"
+  },
+  {
+    "artist_id": "the-revivalists",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Revivalists",
+      "event_date": "2023-08-05",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-revivalists/2023/grant-park-chicago-il-usa-33a4146d.html"
+  },
+  {
+    "artist_id": "tom-odell",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Tom Odell",
+      "event_date": "2023-08-05",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tom-odell/2023/grant-park-chicago-il-usa-2ba4142a.html"
+  },
+  {
+    "artist_id": "tomorrow-x-together",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "TOMORROW X TOGETHER",
+      "event_date": "2023-08-05",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tomorrow-x-together/2023/grant-park-chicago-il-usa-3ba4147c.html"
+  },
+  {
+    "artist_id": "windser",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Windser",
+      "event_date": "2023-08-05",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/windser/2023/grant-park-chicago-il-usa-6ba40e66.html"
+  },
+  {
+    "artist_id": "yung-gravy",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Yung Gravy",
+      "event_date": "2023-08-05",
+      "venue": "Allianz Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yung-gravy/2023/grant-park-chicago-il-usa-3ba41468.html"
+  },
+  {
+    "artist_id": "zack-fox",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Zack Fox",
+      "event_date": "2023-08-05",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/zack-fox/2023/grant-park-chicago-il-usa-33a4142d.html"
+  },
+  {
+    "artist_id": "a-boogie-wit-da-hoodie",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "A Boogie Wit da Hoodie",
+      "event_date": "2023-08-06",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/a-boogie-wit-da-hoodie/2023/grant-park-chicago-il-usa-33a408fd.html"
+  },
+  {
+    "artist_id": "dehd",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Dehd",
+      "event_date": "2023-08-06",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dehd/2023/grant-park-chicago-il-usa-33a408f5.html"
+  },
+  {
+    "artist_id": "alvvays",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Alvvays",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alvvays/2023/grant-park-chicago-il-usa-43a40b1f.html"
+  },
+  {
+    "artist_id": "holly-humberstone",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Holly Humberstone",
+      "event_date": "2023-08-06",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/holly-humberstone/2023/grant-park-chicago-il-usa-13a401ed.html"
+  },
+  {
+    "artist_id": "ingrid-andress",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Ingrid Andress",
+      "event_date": "2023-08-06",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ingrid-andress/2023/grant-park-chicago-il-usa-2ba408ee.html"
+  },
+  {
+    "artist_id": "joey-bada",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Joey Bada$$",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joey-bada/2023/grant-park-chicago-il-usa-3ba408dc.html"
+  },
+  {
+    "artist_id": "lana-del-rey",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Lana Del Rey",
+      "event_date": "2023-08-06",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lana-del-rey/2023/grant-park-chicago-il-usa-33a4082d.html"
+  },
+  {
+    "artist_id": "lil-yachty",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Lil Yachty",
+      "event_date": "2023-08-06",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lil-yachty/2023/grant-park-chicago-il-usa-2ba40802.html"
+  },
+  {
+    "artist_id": "magdalena-bay",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Magdalena Bay",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/magdalena-bay/2023/grant-park-chicago-il-usa-1ba401f8.html"
+  },
+  {
+    "artist_id": "maisie-peters",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Maisie Peters",
+      "event_date": "2023-08-06",
+      "venue": "Allianz Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maisie-peters/2023/grant-park-chicago-il-usa-3a401fb.html"
+  },
+  {
+    "artist_id": "matroda",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Matroda",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/matroda/2023/grant-park-chicago-il-usa-ba401f6.html"
+  },
+  {
+    "artist_id": "mt-joy",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Mt. Joy",
+      "event_date": "2023-08-06",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mt-joy/2023/grant-park-chicago-il-usa-33a408f1.html"
+  },
+  {
+    "artist_id": "poolside",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Poolside",
+      "event_date": "2023-08-06",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/poolside/2023/grant-park-chicago-il-usa-53a40b15.html"
+  },
+  {
+    "artist_id": "red-hot-chili-peppers",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Red Hot Chili Peppers",
+      "event_date": "2023-08-06",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2023/grant-park-chicago-il-usa-33a40845.html"
+  },
+  {
+    "artist_id": "rina-sawayama",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Rina Sawayama",
+      "event_date": "2023-08-06",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rina-sawayama/2023/grant-park-chicago-il-usa-33a40825.html"
+  },
+  {
+    "artist_id": "the-backseat-lovers",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Backseat Lovers",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-backseat-lovers/2023/grant-park-chicago-il-usa-3ba408e0.html"
+  },
+  {
+    "artist_id": "the-happy-fits",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Happy Fits",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-happy-fits/2023/grant-park-chicago-il-usa-ba401fe.html"
+  },
+  {
+    "artist_id": "the-red-clay-strays",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Red Clay Strays",
+      "event_date": "2023-08-06",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-red-clay-strays/2023/grant-park-chicago-il-usa-3a47527.html"
+  },
+  {
+    "artist_id": "upsahl",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "UPSAHL",
+      "event_date": "2023-08-06",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/upsahl/2023/grant-park-chicago-il-usa-23a408fb.html"
+  },
+  {
+    "artist_id": "wax-motif",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Wax Motif",
+      "event_date": "2023-08-06",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wax-motif/2023/grant-park-chicago-il-usa-3a401f7.html"
+  },
+  {
+    "artist_id": "acraze",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "ACRAZE",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/acraze/2023/grant-park-chicago-il-usa-43a41f03.html"
+  },
+  {
+    "artist_id": "austin-meade",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Austin Meade",
+      "event_date": "2023-08-03",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/austin-meade/2023/grant-park-chicago-il-usa-43a41feb.html"
+  },
+  {
+    "artist_id": "ax-and-the-hatchetmen",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Ax and the Hatchetmen",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ax-and-the-hatchetmen/2023/grant-park-chicago-il-usa-43a41ff7.html"
+  },
+  {
+    "artist_id": "beauty-school-dropout",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Beauty School Dropout",
+      "event_date": "2023-08-03",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beauty-school-dropout/2023/grant-park-chicago-il-usa-33a40ca9.html"
+  },
+  {
+    "artist_id": "billie-eilish",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Billie Eilish",
+      "event_date": "2023-08-03",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/billie-eilish/2023/grant-park-chicago-il-usa-4ba423ae.html"
+  },
+  {
+    "artist_id": "carly-rae-jepsen",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Carly Rae Jepsen",
+      "event_date": "2023-08-03",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/carly-rae-jepsen/2023/grant-park-chicago-il-usa-4ba41f1a.html"
+  },
+  {
+    "artist_id": "chri-tian-gate",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Chri$tian Gate$",
+      "event_date": "2023-08-03",
+      "venue": "BMI Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chritian-gate/2023/grant-park-chicago-il-usa-53a41ff5.html"
+  },
+  {
+    "artist_id": "clinton-kane",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Clinton Kane",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/clinton-kane/2023/grant-park-chicago-il-usa-53a41ff1.html"
+  },
+  {
+    "artist_id": "diplo",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Diplo",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/diplo/2023/grant-park-chicago-il-usa-5ba41f18.html"
+  },
+  {
+    "artist_id": "disco-lines",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Disco Lines",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/disco-lines/2023/grant-park-chicago-il-usa-5ba41ffc.html"
+  },
+  {
+    "artist_id": "dom-dolla",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Dom Dolla",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dom-dolla/2023/grant-park-chicago-il-usa-53a41f1d.html"
+  },
+  {
+    "artist_id": "finish-ticket",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Finish Ticket",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/finish-ticket/2023/grant-park-chicago-il-usa-53a41fe9.html"
+  },
+  {
+    "artist_id": "franc-moody",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Franc Moody",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/franc-moody/2023/grant-park-chicago-il-usa-53a41ffd.html"
+  },
+  {
+    "artist_id": "joy-oladokun",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Joy Oladokun",
+      "event_date": "2023-08-03",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joy-oladokun/2023/grant-park-chicago-il-usa-5ba41f00.html"
+  },
+  {
+    "artist_id": "karol-g",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "KAROL G",
+      "event_date": "2023-08-03",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/karol-g/2023/grant-park-chicago-il-usa-43a41f23.html"
+  },
+  {
+    "artist_id": "key-glock",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Key Glock",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/key-glock/2023/grant-park-chicago-il-usa-4ba41f0e.html"
+  },
+  {
+    "artist_id": "lainey-wilson",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Lainey Wilson",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lainey-wilson/2023/grant-park-chicago-il-usa-43a41f0f.html"
+  },
+  {
+    "artist_id": "lovejoy",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Lovejoy",
+      "event_date": "2023-08-03",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lovejoy/2023/grant-park-chicago-il-usa-7ba41ae8.html"
+  },
+  {
+    "artist_id": "matt-maltese",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Matt Maltese",
+      "event_date": "2023-08-03",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/matt-maltese/2023/grant-park-chicago-il-usa-5ba41ff0.html"
+  },
+  {
+    "artist_id": "men-i-trust",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Men I Trust",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/men-i-trust/2023/grant-park-chicago-il-usa-4ba41f12.html"
+  },
+  {
+    "artist_id": "newjeans",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "NewJeans",
+      "event_date": "2023-08-03",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/newjeans/2023/grant-park-chicago-il-usa-43a41f1f.html"
+  },
+  {
+    "artist_id": "noah-kahan",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Noah Kahan",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/noah-kahan/2023/grant-park-chicago-il-usa-5ba41f24.html"
+  },
+  {
+    "artist_id": "portugal-the-man",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Portugal. The Man",
+      "event_date": "2023-08-03",
+      "venue": "T-Mobile Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/portugal-the-man/2023/grant-park-chicago-il-usa-4ba41f22.html"
+  },
+  {
+    "artist_id": "rema",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Rema",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rema/2023/grant-park-chicago-il-usa-53a41f0d.html"
+  },
+  {
+    "artist_id": "richy-mitch-the-coal-miners",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Richy Mitch & The Coal Miners",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/richy-mitch-and-the-coal-miners/2023/grant-park-chicago-il-usa-4ba41ff6.html"
+  },
+  {
+    "artist_id": "sofi-tukker",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Sofi Tukker",
+      "event_date": "2023-08-03",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sofi-tukker/2023/grant-park-chicago-il-usa-43a41f13.html"
+  },
+  {
+    "artist_id": "spacey-jane",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Spacey Jane",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/spacey-jane/2023/grant-park-chicago-il-usa-43a41fff.html"
+  },
+  {
+    "artist_id": "the-beaches",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Beaches",
+      "event_date": "2023-08-03",
+      "venue": "Bud Light Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-beaches/2023/grant-park-chicago-il-usa-43a40f9b.html"
+  },
+  {
+    "artist_id": "the-rose",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "The Rose",
+      "event_date": "2023-08-03",
+      "venue": "Bacardí Stage, Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-rose/2023/grant-park-chicago-il-usa-43a40f9f.html"
+  },
+  {
+    "artist_id": "timmy-trumpet",
+    "concert_id": "ub5qri",
+    "expected": {
+      "artist": "Timmy Trumpet",
+      "event_date": "2023-08-03",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/timmy-trumpet/2023/grant-park-chicago-il-usa-5ba41f0c.html"
+  },
+  {
+    "artist_id": "arizona-zervas",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Arizona Zervas",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/arizona-zervas/2021/grant-park-chicago-il-usa-138f2119.html"
+  },
+  {
+    "artist_id": "boy-pablo",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "boy pablo",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/boy-pablo/2021/grant-park-chicago-il-usa-38f211f.html"
+  },
+  {
+    "artist_id": "cam",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Cam",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cam/2021/grant-park-chicago-il-usa-138f21f9.html"
+  },
+  {
+    "artist_id": "elohim",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Elohim",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/elohim/2021/grant-park-chicago-il-usa-138f21fd.html"
+  },
+  {
+    "artist_id": "emotional-oranges",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Emotional Oranges",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/emotional-oranges/2021/grant-park-chicago-il-usa-1b8f212c.html"
+  },
+  {
+    "artist_id": "giveon",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "GIVĒON",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/givon/2021/grant-park-chicago-il-usa-38f2127.html"
+  },
+  {
+    "artist_id": "grandson",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "grandson",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/grandson/2021/grant-park-chicago-il-usa-1b8f2134.html"
+  },
+  {
+    "artist_id": "gus-dapperton",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Gus Dapperton",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gus-dapperton/2021/grant-park-chicago-il-usa-38f213f.html"
+  },
+  {
+    "artist_id": "jack-harlow",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Jack Harlow",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jack-harlow/2021/grant-park-chicago-il-usa-1b8f2110.html"
+  },
+  {
+    "artist_id": "jawny",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "JAWNY",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jawny/2021/grant-park-chicago-il-usa-5b8f1348.html"
+  },
+  {
+    "artist_id": "kenny-mason",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Kenny Mason",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kenny-mason/2021/grant-park-chicago-il-usa-b8f2136.html"
+  },
+  {
+    "artist_id": "lauv",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Lauv",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lauv/2021/grant-park-chicago-il-usa-38f2113.html"
+  },
+  {
+    "artist_id": "marshmello",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Marshmello",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/marshmello/2021/grant-park-chicago-il-usa-b8f2116.html"
+  },
+  {
+    "artist_id": "polo-g",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Polo G",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/polo-g/2021/grant-park-chicago-il-usa-1b8f2124.html"
+  },
+  {
+    "artist_id": "renforshort",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "renforshort",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/renforshort/2021/grant-park-chicago-il-usa-1b8f2144.html"
+  },
+  {
+    "artist_id": "roddy-ricch",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Roddy Ricch",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/roddy-ricch/2021/grant-park-chicago-il-usa-138f211d.html"
+  },
+  {
+    "artist_id": "uicideboy",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "$uicideboy$",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/uicideboy/2021/grant-park-chicago-il-usa-38f2117.html"
+  },
+  {
+    "artist_id": "tobi-lou",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Tobi Lou",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tobi-lou/2021/grant-park-chicago-il-usa-38f2133.html"
+  },
+  {
+    "artist_id": "tyler-the-creator",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Tyler, The Creator",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tyler-the-creator/2021/grant-park-chicago-il-usa-38f210b.html"
+  },
+  {
+    "artist_id": "white-reaper",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "White Reaper",
+      "event_date": "2021-07-30",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/white-reaper/2021/grant-park-chicago-il-usa-38f211b.html"
+  },
+  {
+    "artist_id": "angels-airwaves",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Angels & Airwaves",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/angels-and-airwaves/2021/grant-park-chicago-il-usa-2b8f180e.html"
+  },
+  {
+    "artist_id": "cannons",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Cannons",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cannons/2021/grant-park-chicago-il-usa-1b8f0df8.html"
+  },
+  {
+    "artist_id": "cavetown",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Cavetown",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cavetown/2021/grant-park-chicago-il-usa-338f181d.html"
+  },
+  {
+    "artist_id": "freddie-gibbs",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Freddie Gibbs",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/freddie-gibbs/2021/grant-park-chicago-il-usa-238f180f.html"
+  },
+  {
+    "artist_id": "iann-dior",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "iann dior",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/iann-dior/2021/grant-park-chicago-il-usa-38f1917.html"
+  },
+  {
+    "artist_id": "journey",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Journey",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/journey/2021/grant-park-chicago-il-usa-3b8f1cd0.html"
+  },
+  {
+    "artist_id": "laundry-day",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "LAUNDRY DAY",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/laundry-day/2021/grant-park-chicago-il-usa-238f181b.html"
+  },
+  {
+    "artist_id": "limp-bizkit",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Limp Bizkit",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/limp-bizkit/2021/grant-park-chicago-il-usa-338f1ca9.html"
+  },
+  {
+    "artist_id": "lost-kings",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Lost Kings",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lost-kings/2021/grant-park-chicago-il-usa-238f180b.html"
+  },
+  {
+    "artist_id": "marc-rebillet",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Marc Rebillet",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/marc-rebillet/2021/grant-park-chicago-il-usa-338f1ca5.html"
+  },
+  {
+    "artist_id": "megan-thee-stallion",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Megan Thee Stallion",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/megan-thee-stallion/2021/grant-park-chicago-il-usa-3b8f1cac.html"
+  },
+  {
+    "artist_id": "michigander",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Michigander",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/michigander/2021/grant-park-chicago-il-usa-2b8f181a.html"
+  },
+  {
+    "artist_id": "monophonics",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Monophonics",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/monophonics/2021/grant-park-chicago-il-usa-b8f0dae.html"
+  },
+  {
+    "artist_id": "porches",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Porches",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/porches/2021/grant-park-chicago-il-usa-238f1823.html"
+  },
+  {
+    "artist_id": "post-malone",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Post Malone",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/post-malone/2021/grant-park-chicago-il-usa-2b8f1cae.html"
+  },
+  {
+    "artist_id": "tate-mcrae",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Tate McRae",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tate-mcrae/2021/grant-park-chicago-il-usa-238f181f.html"
+  },
+  {
+    "artist_id": "the-backseat-lovers",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "The Backseat Lovers",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-backseat-lovers/2021/grant-park-chicago-il-usa-338f1ca1.html"
+  },
+  {
+    "artist_id": "trippie-redd",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Trippie Redd",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/trippie-redd/2021/grant-park-chicago-il-usa-238f1caf.html"
+  },
+  {
+    "artist_id": "whitney",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Whitney",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/whitney/2021/grant-park-chicago-il-usa-2b8f1826.html"
+  },
+  {
+    "artist_id": "young-the-giant",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Young the Giant",
+      "event_date": "2021-07-31",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/young-the-giant/2021/grant-park-chicago-il-usa-2b8f1ca2.html"
+  },
+  {
+    "artist_id": "brittany-howard",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Brittany Howard",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/brittany-howard/2021/grant-park-chicago-il-usa-1b8f15c0.html"
+  },
+  {
+    "artist_id": "brockhampton",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "BROCKHAMPTON",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/brockhampton/2021/grant-park-chicago-il-usa-b8f15ce.html"
+  },
+  {
+    "artist_id": "brooke-alexx",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Brooke Alexx",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/brooke-alexx/2021/grant-park-chicago-il-usa-63a06aa7.html"
+  },
+  {
+    "artist_id": "earthgang",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "EarthGang",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/earthgang/2021/grant-park-chicago-il-usa-138f15b9.html"
+  },
+  {
+    "artist_id": "elderbrook",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Elderbrook",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/elderbrook/2021/grant-park-chicago-il-usa-138f15bd.html"
+  },
+  {
+    "artist_id": "foo-fighters",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Foo Fighters",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/foo-fighters/2021/grant-park-chicago-il-usa-b8f15d6.html"
+  },
+  {
+    "artist_id": "g-herbo",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "G Herbo",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/g-herbo/2021/grant-park-chicago-il-usa-438f0b97.html"
+  },
+  {
+    "artist_id": "jpegmafia",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "JPEGMAFIA",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jpegmafia/2021/grant-park-chicago-il-usa-38f15bf.html"
+  },
+  {
+    "artist_id": "jxdn",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "jxdn",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jxdn/2021/grant-park-chicago-il-usa-1b8f15cc.html"
+  },
+  {
+    "artist_id": "modest-mouse",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Modest Mouse",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/modest-mouse/2021/grant-park-chicago-il-usa-38f15cb.html"
+  },
+  {
+    "artist_id": "neal-francis",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Neal Francis",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/neal-francis/2021/grant-park-chicago-il-usa-b8f15a2.html"
+  },
+  {
+    "artist_id": "ottto",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "OTTTO",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ottto/2021/grant-park-chicago-il-usa-63b99227.html"
+  },
+  {
+    "artist_id": "peach-tree-rascals",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Peach Tree Rascals",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/peach-tree-rascals/2021/grant-park-chicago-il-usa-38f15c3.html"
+  },
+  {
+    "artist_id": "princess-nokia",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Princess Nokia",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/princess-nokia/2021/grant-park-chicago-il-usa-138f15c9.html"
+  },
+  {
+    "artist_id": "rico-nasty",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Rico Nasty",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rico-nasty/2021/grant-park-chicago-il-usa-1b8f15b8.html"
+  },
+  {
+    "artist_id": "shy-carter",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Shy Carter",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/shy-carter/2021/grant-park-chicago-il-usa-138f15a1.html"
+  },
+  {
+    "artist_id": "sir-chloe",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Sir Chloe",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sir-chloe/2021/grant-park-chicago-il-usa-38f15cf.html"
+  },
+  {
+    "artist_id": "surfaces",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Surfaces",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/surfaces/2021/grant-park-chicago-il-usa-138f15c1.html"
+  },
+  {
+    "artist_id": "young-thug",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Young Thug",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/young-thug/2021/grant-park-chicago-il-usa-b8f15ca.html"
+  },
+  {
+    "artist_id": "all-time-low",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "All Time Low",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/all-time-low/2021/grant-park-chicago-il-usa-2b8f241e.html"
+  },
+  {
+    "artist_id": "almost-monday",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "almost monday",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/almost-monday/2021/grant-park-chicago-il-usa-338f2439.html"
+  },
+  {
+    "artist_id": "ant-clemons",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Ant Clemons",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ant-clemons/2021/grant-park-chicago-il-usa-238f2447.html"
+  },
+  {
+    "artist_id": "ashe",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Ashe",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ashe/2021/grant-park-chicago-il-usa-238f2417.html"
+  },
+  {
+    "artist_id": "black-pumas",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Black Pumas",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/black-pumas/2021/grant-park-chicago-il-usa-338f2421.html"
+  },
+  {
+    "artist_id": "christian-french",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Christian French",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/christian-french/2021/grant-park-chicago-il-usa-338f2455.html"
+  },
+  {
+    "artist_id": "dayglow",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Dayglow",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dayglow/2021/grant-park-chicago-il-usa-2b8f24da.html"
+  },
+  {
+    "artist_id": "flo-milli",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Flo Milli",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/flo-milli/2021/grant-park-chicago-il-usa-238f242f.html"
+  },
+  {
+    "artist_id": "illenium",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "ILLENIUM",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/illenium/2021/grant-park-chicago-il-usa-238f2407.html"
+  },
+  {
+    "artist_id": "jimmy-eat-world",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Jimmy Eat World",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jimmy-eat-world/2021/grant-park-chicago-il-usa-338f245d.html"
+  },
+  {
+    "artist_id": "kim-petras",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Kim Petras",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kim-petras/2021/grant-park-chicago-il-usa-3b8f240c.html"
+  },
+  {
+    "artist_id": "lp",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "LP",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lp/2021/grant-park-chicago-il-usa-338f242d.html"
+  },
+  {
+    "artist_id": "max",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "MAX",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/max/2021/grant-park-chicago-il-usa-3b8f243c.html"
+  },
+  {
+    "artist_id": "night-lovell",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Night Lovell",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/night-lovell/2021/grant-park-chicago-il-usa-338f2449.html"
+  },
+  {
+    "artist_id": "oliver-tree",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Oliver Tree",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/oliver-tree/2021/grant-park-chicago-il-usa-2b8f2406.html"
+  },
+  {
+    "artist_id": "orville-peck",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Orville Peck",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/orville-peck/2021/grant-park-chicago-il-usa-2b8f2436.html"
+  },
+  {
+    "artist_id": "paris-texas",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Paris Texas",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/paris-texas/2021/grant-park-chicago-il-usa-3b8f2424.html"
+  },
+  {
+    "artist_id": "playboi-carti",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Playboi Carti",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/playboi-carti/2021/grant-park-chicago-il-usa-3b8f2414.html"
+  },
+  {
+    "artist_id": "saint-jhn",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "SAINt JHN",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/saint-jhn/2021/grant-park-chicago-il-usa-3b8f2418.html"
+  },
+  {
+    "artist_id": "steve-aoki",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Steve Aoki",
+      "event_date": "2021-07-29",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/steve-aoki/2021/grant-park-chicago-il-usa-3b8f2400.html"
+  },
+  {
+    "artist_id": "toosii",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Toosii",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/toosii/2021/grant-park-chicago-il-usa-b8f15b6.html"
+  },
+  {
+    "artist_id": "the-front-bottoms",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "The Front Bottoms",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-front-bottoms/2021/grant-park-chicago-il-usa-38f15b7.html"
+  },
+  {
+    "artist_id": "band-of-horses",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Band of Horses",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/band-of-horses/2021/grant-park-chicago-il-usa-1b8f15b0.html"
+  },
+  {
+    "artist_id": "dermot-kennedy",
+    "concert_id": "yyea3y",
+    "expected": {
+      "artist": "Dermot Kennedy",
+      "event_date": "2021-08-01",
+      "venue": "Grant Park, Chicago, IL, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dermot-kennedy/2021/grant-park-chicago-il-usa-138f15cd.html"
+  },
+  {
+    "artist_id": "vampire-weekend",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Vampire Weekend",
+      "event_date": "2024-05-10",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/vampire-weekend/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff9.html"
+  },
+  {
+    "artist_id": "jai-paul",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Jai Paul",
+      "event_date": "2024-05-10",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jai-paul/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6cd1.html"
+  },
+  {
+    "artist_id": "alvvays",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Alvvays",
+      "event_date": "2024-05-10",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alvvays/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babeff6.html"
+  },
+  {
+    "artist_id": "unknown-mortal-orchestra",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Unknown Mortal Orchestra",
+      "event_date": "2024-05-10",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/unknown-mortal-orchestra/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6070.html"
+  },
+  {
+    "artist_id": "andy-shauf",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Andy Shauf",
+      "event_date": "2024-05-10",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/andy-shauf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba89040.html"
+  },
+  {
+    "artist_id": "joanna-newsom",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Joanna Newsom",
+      "event_date": "2024-05-10",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joanna-newsom/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8903b.html"
+  },
+  {
+    "artist_id": "courtney-barnett",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Courtney Barnett",
+      "event_date": "2024-05-10",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/courtney-barnett/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff1.html"
+  },
+  {
+    "artist_id": "hemlocke-springs",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "hemlocke springs",
+      "event_date": "2024-05-10",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hemlocke-springs/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a89037.html"
+  },
+  {
+    "artist_id": "peach-pit",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Peach Pit",
+      "event_date": "2024-05-10",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/peach-pit/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6071.html"
+  },
+  {
+    "artist_id": "abby-sage",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Abby Sage",
+      "event_date": "2024-05-10",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/abby-sage/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902a.html"
+  },
+  {
+    "artist_id": "yot-club",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Yot Club",
+      "event_date": "2024-05-10",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yot-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89035.html"
+  },
+  {
+    "artist_id": "horse-jumper-of-love",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Horse Jumper of Love",
+      "event_date": "2024-05-10",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/horse-jumper-of-love/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6076.html"
+  },
+  {
+    "artist_id": "kara-jackson",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Kara Jackson",
+      "event_date": "2024-05-10",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kara-jackson/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902e.html"
+  },
+  {
+    "artist_id": "gustaf",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Gustaf",
+      "event_date": "2024-05-10",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gustaf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6074.html"
+  },
+  {
+    "artist_id": "ty-segall",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Ty Segall",
+      "event_date": "2024-05-10",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ty-segall/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab607c.html"
+  },
+  {
+    "artist_id": "blondshell",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Blondshell",
+      "event_date": "2024-05-10",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/blondshell/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba89036.html"
+  },
+  {
+    "artist_id": "joanna-sternberg",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Joanna Sternberg",
+      "event_date": "2024-05-10",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joanna-sternberg/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8902f.html"
+  },
+  {
+    "artist_id": "the-postal-service",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "The Postal Service",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-postal-service/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abef05.html"
+  },
+  {
+    "artist_id": "death-cab-for-cutie",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Death Cab for Cutie",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/death-cab-for-cutie/2024/utah-state-fairpark-salt-lake-city-ut-usa-5babeff4.html"
+  },
+  {
+    "artist_id": "belle-and-sebastian",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Belle and Sebastian",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/belle-and-sebastian/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abefed.html"
+  },
+  {
+    "artist_id": "current-joys",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Current Joys",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/current-joys/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890ff.html"
+  },
+  {
+    "artist_id": "bombay-bicycle-club",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Bombay Bicycle Club",
+      "event_date": "2024-05-11",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bombay-bicycle-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab606b.html"
+  },
+  {
+    "artist_id": "beach-fossils",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Beach Fossils",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beach-fossils/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babefea.html"
+  },
+  {
+    "artist_id": "fazerdaze",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Fazerdaze",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/fazerdaze/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890f3.html"
+  },
+  {
+    "artist_id": "late-night-drive-home",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "late night drive home",
+      "event_date": "2024-05-11",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/late-night-drive-home/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a891a9.html"
+  },
+  {
+    "artist_id": "dinosaur-jr",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Dinosaur Jr.",
+      "event_date": "2024-05-11",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dinosaur-jr/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefef.html"
+  },
+  {
+    "artist_id": "slow-pulp",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Slow Pulp",
+      "event_date": "2024-05-11",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/slow-pulp/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab606c.html"
+  },
+  {
+    "artist_id": "water-from-your-eyes",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Water From Your Eyes",
+      "event_date": "2024-05-11",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/water-from-your-eyes/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6063.html"
+  },
+  {
+    "artist_id": "arcy-drive",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Arcy Drive",
+      "event_date": "2024-05-11",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/arcy-drive/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890fb.html"
+  },
+  {
+    "artist_id": "tv-girl",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "TV Girl",
+      "event_date": "2024-05-11",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tv-girl/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab606e.html"
+  },
+  {
+    "artist_id": "the-garden",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "The Garden",
+      "event_date": "2024-05-11",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-garden/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab606d.html"
+  },
+  {
+    "artist_id": "tagabow",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "They Are Gutting a Body of Water",
+      "event_date": "2024-05-11",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/they-are-gutting-a-body-of-water/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6062.html"
+  },
+  {
+    "artist_id": "cautious-clay",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Cautious Clay",
+      "event_date": "2024-05-11",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cautious-clay/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890fc.html"
+  },
+  {
+    "artist_id": "yellow-days",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Yellow Days",
+      "event_date": "2024-05-11",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yellow-days/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890fd.html"
+  },
+  {
+    "artist_id": "lomelda",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Lomelda",
+      "event_date": "2024-05-11",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lomelda/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890f8.html"
+  },
+  {
+    "artist_id": "malcolm-todd",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Malcolm Todd",
+      "event_date": "2024-05-11",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/malcolm-todd/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a93db9.html"
+  },
+  {
+    "artist_id": "lcd-soundsystem",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "LCD Soundsystem",
+      "event_date": "2024-05-12",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lcd-soundsystem/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefff.html"
+  },
+  {
+    "artist_id": "interpol",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Interpol",
+      "event_date": "2024-05-12",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/interpol/2024/utah-state-fairpark-salt-lake-city-ut-usa-5babefec.html"
+  },
+  {
+    "artist_id": "100-gecs",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "100 gecs",
+      "event_date": "2024-05-12",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/100-gecs/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefe3.html"
+  },
+  {
+    "artist_id": "guided-by-voices",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Guided by Voices",
+      "event_date": "2024-05-12",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/guided-by-voices/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6058.html"
+  },
+  {
+    "artist_id": "yves-tumor",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Yves Tumor",
+      "event_date": "2024-05-12",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yves-tumor/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6cc3.html"
+  },
+  {
+    "artist_id": "panchiko",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Panchiko",
+      "event_date": "2024-05-12",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/panchiko/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab605d.html"
+  },
+  {
+    "artist_id": "pond",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Pond",
+      "event_date": "2024-05-12",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/pond/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab605f.html"
+  },
+  {
+    "artist_id": "css",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "CSS",
+      "event_date": "2024-05-12",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/css/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890ed.html"
+  },
+  {
+    "artist_id": "royel-otis",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Royel Otis",
+      "event_date": "2024-05-12",
+      "venue": "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/royel-otis/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6053.html"
+  },
+  {
+    "artist_id": "model-actriz",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Model/Actriz",
+      "event_date": "2024-05-12",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/modelactriz/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6052.html"
+  },
+  {
+    "artist_id": "kevin-kaarl",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Kevin Kaarl",
+      "event_date": "2024-05-12",
+      "venue": "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kevin-kaarl/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890ec.html"
+  },
+  {
+    "artist_id": "petey",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Petey USA",
+      "event_date": "2024-05-12",
+      "venue": "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/petey-usa/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890ee.html"
+  },
+  {
+    "artist_id": "santigold",
+    "concert_id": "fuaiif",
+    "expected": {
+      "artist": "Santigold",
+      "event_date": "2024-05-11",
+      "venue": "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/santigold/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6cce.html"
+  },
+  {
+    "artist_id": "the-score",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "The Score",
+      "event_date": "2019-09-21",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-score/2019/br-cohn-winery-glen-ellen-ca-usa-139c0529.html"
+  },
+  {
+    "artist_id": "atlas-genius",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "Atlas Genius",
+      "event_date": "2019-09-21",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/atlas-genius/2019/br-cohn-winery-glen-ellen-ca-usa-139c052d.html"
+  },
+  {
+    "artist_id": "misterwives",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "MisterWives",
+      "event_date": "2019-09-21",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/misterwives/2019/br-cohn-winery-glen-ellen-ca-usa-139c0525.html"
+  },
+  {
+    "artist_id": "walk-the-moon",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "WALK THE MOON",
+      "event_date": "2019-09-21",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/walk-the-moon/2019/br-cohn-winery-glen-ellen-ca-usa-7b9c1efc.html"
+  },
+  {
+    "artist_id": "chvrches",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "CHVRCHES",
+      "event_date": "2019-09-21",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chvrches/2019/br-cohn-winery-glen-ellen-ca-usa-239ccc0b.html"
+  },
+  {
+    "artist_id": "mondo-cozmo",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "Mondo Cozmo",
+      "event_date": "2019-09-22",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mondo-cozmo/2019/br-cohn-winery-glen-ellen-ca-usa-139c0569.html"
+  },
+  {
+    "artist_id": "cold-war-kids",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "Cold War Kids",
+      "event_date": "2019-09-22",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cold-war-kids/2019/br-cohn-winery-glen-ellen-ca-usa-739c0a95.html"
+  },
+  {
+    "artist_id": "silversun-pickups",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "Silversun Pickups",
+      "event_date": "2019-09-22",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/silversun-pickups/2019/br-cohn-winery-glen-ellen-ca-usa-539c2b71.html"
+  },
+  {
+    "artist_id": "death-cab-for-cutie",
+    "concert_id": "81bzyp",
+    "expected": {
+      "artist": "Death Cab for Cutie",
+      "event_date": "2019-09-22",
+      "venue": "B.R. Cohn Winery, Glen Ellen, CA, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/death-cab-for-cutie/2019/br-cohn-winery-glen-ellen-ca-usa-639c3223.html"
+  },
+  {
+    "artist_id": "post-malone",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Post Malone",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/post-malone/2024/flushing-meadows-corona-park-queens-ny-usa-4babef96.html"
+  },
+  {
+    "artist_id": "rauw-alejandro",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Rauw Alejandro",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rauw-alejandro/2024/flushing-meadows-corona-park-queens-ny-usa-53abef89.html"
+  },
+  {
+    "artist_id": "dominic-fike",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Dominic Fike",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dominic-fike/2024/flushing-meadows-corona-park-queens-ny-usa-2bab5406.html"
+  },
+  {
+    "artist_id": "labrinth",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Labrinth",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/labrinth/2024/flushing-meadows-corona-park-queens-ny-usa-7b56a2e8.html"
+  },
+  {
+    "artist_id": "farruko",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Farruko",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/farruko/2024/flushing-meadows-corona-park-queens-ny-usa-7356f22d.html"
+  },
+  {
+    "artist_id": "alex-g",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Alex G",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/alex-g/2024/flushing-meadows-corona-park-queens-ny-usa-3a8f57f.html"
+  },
+  {
+    "artist_id": "yung-gravy",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Yung Gravy",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/yung-gravy/2024/flushing-meadows-corona-park-queens-ny-usa-23ab54fb.html"
+  },
+  {
+    "artist_id": "teezo-touchdown",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Teezo Touchdown",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/teezo-touchdown/2024/flushing-meadows-corona-park-queens-ny-usa-2bab54fa.html"
+  },
+  {
+    "artist_id": "qveen-herby",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Qveen Herby",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/qveen-herby/2024/flushing-meadows-corona-park-queens-ny-usa-6b56f22e.html"
+  },
+  {
+    "artist_id": "flo",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "FLO",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/flo/2024/flushing-meadows-corona-park-queens-ny-usa-3bab54f8.html"
+  },
+  {
+    "artist_id": "ryan-beatty",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Ryan Beatty",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/ryan-beatty/2024/flushing-meadows-corona-park-queens-ny-usa-73a82e29.html"
+  },
+  {
+    "artist_id": "arcy-drive",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Arcy Drive",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/arcy-drive/2024/flushing-meadows-corona-park-queens-ny-usa-6356f22f.html"
+  },
+  {
+    "artist_id": "underscores",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "underscores",
+      "event_date": "2024-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/underscores/2024/flushing-meadows-corona-park-queens-ny-usa-3a8f56b.html"
+  },
+  {
+    "artist_id": "the-killers",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "The Killers",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-killers/2024/flushing-meadows-corona-park-queens-ny-usa-13aba18d.html"
+  },
+  {
+    "artist_id": "21-savage",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "21 Savage",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/21-savage/2024/flushing-meadows-corona-park-queens-ny-usa-5babef88.html"
+  },
+  {
+    "artist_id": "carly-rae-jepsen",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Carly Rae Jepsen",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/carly-rae-jepsen/2024/flushing-meadows-corona-park-queens-ny-usa-13a8f571.html"
+  },
+  {
+    "artist_id": "sabrina-carpenter",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Sabrina Carpenter",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sabrina-carpenter/2024/flushing-meadows-corona-park-queens-ny-usa-53a8d3ed.html"
+  },
+  {
+    "artist_id": "sexyy-red",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Sexyy Red",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sexyy-red/2024/flushing-meadows-corona-park-queens-ny-usa-3a8f577.html"
+  },
+  {
+    "artist_id": "tv-girl",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "TV Girl",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tv-girl/2024/flushing-meadows-corona-park-queens-ny-usa-3a8f573.html"
+  },
+  {
+    "artist_id": "doechii",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Doechii",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/doechii/2024/flushing-meadows-corona-park-queens-ny-usa-b56e91a.html"
+  },
+  {
+    "artist_id": "hippo-campus",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Hippo Campus",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hippo-campus/2024/flushing-meadows-corona-park-queens-ny-usa-1ba809b4.html"
+  },
+  {
+    "artist_id": "p1harmony",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "P1Harmony",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/p1harmony/2024/flushing-meadows-corona-park-queens-ny-usa-1356e911.html"
+  },
+  {
+    "artist_id": "d4vd",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "d4vd",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/d4vd/2024/flushing-meadows-corona-park-queens-ny-usa-356e917.html"
+  },
+  {
+    "artist_id": "bakar",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Bakar",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/bakar/2024/flushing-meadows-corona-park-queens-ny-usa-7b56f224.html"
+  },
+  {
+    "artist_id": "claire-rosinkranz",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Claire Rosinkranz",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/claire-rosinkranz/2024/flushing-meadows-corona-park-queens-ny-usa-b56e91e.html"
+  },
+  {
+    "artist_id": "riovaz",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Riovaz",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/riovaz/2024/flushing-meadows-corona-park-queens-ny-usa-1356e925.html"
+  },
+  {
+    "artist_id": "skizzy-mars",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Skizzy Mars",
+      "event_date": "2024-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/skizzy-mars/2024/flushing-meadows-corona-park-queens-ny-usa-356e91f.html"
+  },
+  {
+    "artist_id": "sza",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "SZA",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sza/2024/flushing-meadows-corona-park-queens-ny-usa-5babef94.html"
+  },
+  {
+    "artist_id": "renee-rapp",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Reneé Rapp",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/renee-rapp/2024/flushing-meadows-corona-park-queens-ny-usa-6356a2d3.html"
+  },
+  {
+    "artist_id": "don-toliver",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Don Toliver",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/don-toliver/2024/flushing-meadows-corona-park-queens-ny-usa-ba9211e.html"
+  },
+  {
+    "artist_id": "faye-webster",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Faye Webster",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/faye-webster/2024/flushing-meadows-corona-park-queens-ny-usa-ba8f576.html"
+  },
+  {
+    "artist_id": "malcolm-todd",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Malcolm Todd",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/malcolm-todd/2024/flushing-meadows-corona-park-queens-ny-usa-1b56e90c.html"
+  },
+  {
+    "artist_id": "kevin-abstract",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Kevin Abstract",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/kevin-abstract/2024/flushing-meadows-corona-park-queens-ny-usa-7356a2e1.html"
+  },
+  {
+    "artist_id": "cannons",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Cannons",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/cannons/2024/flushing-meadows-corona-park-queens-ny-usa-235654af.html"
+  },
+  {
+    "artist_id": "chappell-roan",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Chappell Roan",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/chappell-roan/2024/flushing-meadows-corona-park-queens-ny-usa-6b56a2da.html"
+  },
+  {
+    "artist_id": "stephen-sanchez",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Stephen Sanchez",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/stephen-sanchez/2024/flushing-meadows-corona-park-queens-ny-usa-6b56a2de.html"
+  },
+  {
+    "artist_id": "beach-fossils",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Beach Fossils",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/beach-fossils/2024/flushing-meadows-corona-park-queens-ny-usa-13a8f575.html"
+  },
+  {
+    "artist_id": "elyanna",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Elyanna",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/elyanna/2024/flushing-meadows-corona-park-queens-ny-usa-1b56e908.html"
+  },
+  {
+    "artist_id": "geese",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Geese",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/geese/2024/flushing-meadows-corona-park-queens-ny-usa-4b565f2e.html"
+  },
+  {
+    "artist_id": "g-flip",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "G Flip",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/g-flip/2024/flushing-meadows-corona-park-queens-ny-usa-7b578e2c.html"
+  },
+  {
+    "artist_id": "baby-queen",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Baby Queen",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/baby-queen/2024/flushing-meadows-corona-park-queens-ny-usa-53abe39d.html"
+  },
+  {
+    "artist_id": "husbands",
+    "concert_id": "cy53a8",
+    "expected": {
+      "artist": "Husbands",
+      "event_date": "2024-06-09",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/husbands/2024/flushing-meadows-corona-park-queens-ny-usa-356e90b.html"
+  },
+  {
+    "artist_id": "black-party",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Black Party",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/black-party/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf38.html"
+  },
+  {
+    "artist_id": "t-pain",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "T‐Pain",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tpain/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf4b.html"
+  },
+  {
+    "artist_id": "mk-gee",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Mk.gee",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mkgee/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf55.html"
+  },
+  {
+    "artist_id": "tyler-the-creator",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Tyler, The Creator",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tyler-the-creator/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf53.html"
+  },
+  {
+    "artist_id": "mannequin-pussy",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Mannequin Pussy",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mannequin-pussy/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf41.html"
+  },
+  {
+    "artist_id": "tyla",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Tyla",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/tyla/2025/flushing-meadows-corona-park-queens-ny-usa-7b44c640.html"
+  },
+  {
+    "artist_id": "the-backseat-lovers",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "The Backseat Lovers",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-backseat-lovers/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf54.html"
+  },
+  {
+    "artist_id": "benson-boone",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Benson Boone",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/benson-boone/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf57.html"
+  },
+  {
+    "artist_id": "dogpark",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Dogpark",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/dogpark/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf1d.html"
+  },
+  {
+    "artist_id": "matt-champion",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Matt Champion",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/matt-champion/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf46.html"
+  },
+  {
+    "artist_id": "wasia-project",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Wasia Project",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wasia-project/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf45.html"
+  },
+  {
+    "artist_id": "role-model",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "ROLE MODEL",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/role-model/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf4e.html"
+  },
+  {
+    "artist_id": "jpegmafia",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "JPEGMAFIA",
+      "event_date": "2025-06-06",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/jpegmafia/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf4d.html"
+  },
+  {
+    "artist_id": "marina",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "MARINA",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/marina/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf2b.html"
+  },
+  {
+    "artist_id": "conan-gray",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Conan Gray",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/conan-gray/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf36.html"
+  },
+  {
+    "artist_id": "olivia-rodrigo",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Olivia Rodrigo",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/olivia-rodrigo/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf32.html"
+  },
+  {
+    "artist_id": "young-miko",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Young Miko",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/young-miko/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf35.html"
+  },
+  {
+    "artist_id": "feid",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Feid",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/feid/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf31.html"
+  },
+  {
+    "artist_id": "the-lemon-twigs",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "The Lemon Twigs",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-lemon-twigs/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf27.html"
+  },
+  {
+    "artist_id": "car-seat-headrest",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Car Seat Headrest",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/car-seat-headrest/2025/flushing-meadows-corona-park-queens-ny-usa-435de3a3.html"
+  },
+  {
+    "artist_id": "wave-to-earth",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "wave to earth",
+      "event_date": "2025-06-07",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/wave-to-earth/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf2c.html"
+  },
+  {
+    "artist_id": "joey-valence-brae",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Joey Valence & Brae",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joey-valence-and-brae/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf06.html"
+  },
+  {
+    "artist_id": "raye",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "RAYE",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/raye/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf14.html"
+  },
+  {
+    "artist_id": "royel-otis",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Royel Otis",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/royel-otis/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf0a.html"
+  },
+  {
+    "artist_id": "mt-joy",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Mt. Joy",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/mt-joy/2025/flushing-meadows-corona-park-queens-ny-usa-435ddf17.html"
+  },
+  {
+    "artist_id": "hozier",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Hozier",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/hozier/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf12.html"
+  },
+  {
+    "artist_id": "militarie-gun",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Militarie Gun",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/militarie-gun/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddff8.html"
+  },
+  {
+    "artist_id": "amaarae",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Amaarae",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/amaarae/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf0e.html"
+  },
+  {
+    "artist_id": "the-japanese-house",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "The Japanese House",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-japanese-house/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf08.html"
+  },
+  {
+    "artist_id": "clairo",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Clairo",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/clairo/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf16.html"
+  },
+  {
+    "artist_id": "glass-animals",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Glass Animals",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/glass-animals/2025/flushing-meadows-corona-park-queens-ny-usa-5b5ddf10.html"
+  },
+  {
+    "artist_id": "montell-fish",
+    "concert_id": "7zj1wf",
+    "expected": {
+      "artist": "Montell Fish",
+      "event_date": "2025-06-08",
+      "venue": "Flushing Meadows Corona Park, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/montell-fish/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf01.html"
+  },
+  {
+    "artist_id": "lucy-dacus",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Lucy Dacus",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lucy-dacus/2025/forest-hills-stadium-queens-ny-usa-334264ed.html"
+  },
+  {
+    "artist_id": "djo",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Djo",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/djo/2025/forest-hills-stadium-queens-ny-usa-234264e3.html"
+  },
+  {
+    "artist_id": "gigi-perez",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Gigi Perez",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/gigi-perez/2025/forest-hills-stadium-queens-ny-usa-2b4264e2.html"
+  },
+  {
+    "artist_id": "rachel-chinouriri",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Rachel Chinouriri",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/rachel-chinouriri/2025/forest-hills-stadium-queens-ny-usa-134229f5.html"
+  },
+  {
+    "artist_id": "maude-latour",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Maude Latour",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/maude-latour/2025/forest-hills-stadium-queens-ny-usa-3b4264e0.html"
+  },
+  {
+    "artist_id": "the-aces",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "The Aces",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-aces/2025/forest-hills-stadium-queens-ny-usa-2b4264ee.html"
+  },
+  {
+    "artist_id": "sarah-kinsley",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Sarah Kinsley",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sarah-kinsley/2025/forest-hills-stadium-queens-ny-usa-234264e7.html"
+  },
+  {
+    "artist_id": "goldie-boutilier",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Goldie Boutilier",
+      "event_date": "2025-09-26",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/goldie-boutilier/2025/forest-hills-stadium-queens-ny-usa-2b4264e6.html"
+  },
+  {
+    "artist_id": "doechii",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Doechii",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/doechii/2025/forest-hills-stadium-queens-ny-usa-334264e5.html"
+  },
+  {
+    "artist_id": "remi-wolf",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Remi Wolf",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/remi-wolf/2025/forest-hills-stadium-queens-ny-usa-334264d9.html"
+  },
+  {
+    "artist_id": "lola-young",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Lola Young",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/lola-young/2025/forest-hills-stadium-queens-ny-usa-234264df.html"
+  },
+  {
+    "artist_id": "griff",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Griff",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/griff/2025/forest-hills-stadium-queens-ny-usa-334264dd.html"
+  },
+  {
+    "artist_id": "peach-prc",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Peach PRC",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/peach-prc/2025/forest-hills-stadium-queens-ny-usa-3b4264dc.html"
+  },
+  {
+    "artist_id": "sunday-1994",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Sunday (1994)",
+      "event_date": "2025-09-27",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/sunday-1994/2025/forest-hills-stadium-queens-ny-usa-3b4264d0.html"
+  },
+  {
+    "artist_id": "clairo",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Clairo",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/clairo/2025/forest-hills-stadium-queens-ny-usa-2b4264d6.html"
+  },
+  {
+    "artist_id": "the-marias",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "The Marías",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-marias/2025/forest-hills-stadium-queens-ny-usa-3b4264d4.html"
+  },
+  {
+    "artist_id": "the-last-dinner-party",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "The Last Dinner Party",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/the-last-dinner-party/2025/forest-hills-stadium-queens-ny-usa-234264cb.html"
+  },
+  {
+    "artist_id": "paris-paloma",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Paris Paloma",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/paris-paloma/2025/forest-hills-stadium-queens-ny-usa-2b4264ca.html"
+  },
+  {
+    "artist_id": "blondshell",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Blondshell",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/blondshell/2025/forest-hills-stadium-queens-ny-usa-334264c9.html"
+  },
+  {
+    "artist_id": "joy-oladokun",
+    "concert_id": "65mer9",
+    "expected": {
+      "artist": "Joy Oladokun",
+      "event_date": "2025-09-28",
+      "venue": "Forest Hills Stadium, Queens, NY, USA"
+    },
+    "url": "https://www.setlist.fm/setlist/joy-oladokun/2025/forest-hills-stadium-queens-ny-usa-234264cf.html"
   }
 ]

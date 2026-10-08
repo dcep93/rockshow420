@@ -1,0 +1,27 @@
+{
+  "artist": "Quarters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Quarters",
+      "name": "Kiwi"
+    },
+    {
+      "artists": "Quarters",
+      "name": "T Love"
+    },
+    {
+      "artists": "Quarters",
+      "name": "Blue Copper"
+    },
+    {
+      "artists": "Quarters",
+      "name": "Dead"
+    },
+    {
+      "artists": "Quarters",
+      "name": "Do or Die"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+}

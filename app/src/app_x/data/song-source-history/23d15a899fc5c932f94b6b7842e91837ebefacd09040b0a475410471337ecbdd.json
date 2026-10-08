@@ -1,0 +1,31 @@
+{
+  "artist": "phem",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "phem, mgk",
+      "explicit": true,
+      "name": "Sorry Mama"
+    },
+    {
+      "artists": "gabriel black, phem",
+      "explicit": true,
+      "name": "dead yet (with phem)"
+    },
+    {
+      "artists": "The Amity Affliction, phem",
+      "name": "Not Without My Ghosts"
+    },
+    {
+      "artists": "phem",
+      "explicit": true,
+      "name": "flowers"
+    },
+    {
+      "artists": "Tyler Posey, phem, Travis Barker",
+      "explicit": true,
+      "name": "Shut Up (feat. phem & Travis Barker)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0MGJHTThvyAyqKuEAgPqDr"
+}

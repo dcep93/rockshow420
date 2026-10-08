@@ -1,5 +1,7 @@
 # Song sources and database review — October 8, 2026
 
+> **Festival enrichment update (October 8):** The expanded 1,387-artist catalog now has 1,187 Spotify lists (900 additions), with 200 explicit unresolved/unavailable cases. All 287 prior payloads are preserved. See [the complete current Spotify review](spotify-festival-enrichment.md). The snapshot counts below document the earlier 320-artist pass.
+
 **Scope:** saved production snapshot plus correction/time overlays. Live Firestore reads are quota-blocked. These counts do not claim a fresh production audit. Nothing was committed, pushed, or deployed.
 
 - 265 reported setlists across 208 concerts, all `kind: "setlist_fm"`.

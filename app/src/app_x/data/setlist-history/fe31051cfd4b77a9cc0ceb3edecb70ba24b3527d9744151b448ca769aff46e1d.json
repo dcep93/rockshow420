@@ -1,0 +1,52 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "ROCKMAN"
+        },
+        {
+          "name": "Dream police"
+        },
+        {
+          "name": "How many miles"
+        },
+        {
+          "name": "Candy"
+        },
+        {
+          "name": "I Want"
+        },
+        {
+          "name": "You got it"
+        },
+        {
+          "name": "New Low"
+        },
+        {
+          "name": "DNM"
+        },
+        {
+          "name": "Alesis"
+        },
+        {
+          "name": "Breakthespell"
+        },
+        {
+          "name": "Are You Looking Up"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "ROCKMAN"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/mkgee/2025/flushing-meadows-corona-park-queens-ny-usa-535ddf55.html"
+}

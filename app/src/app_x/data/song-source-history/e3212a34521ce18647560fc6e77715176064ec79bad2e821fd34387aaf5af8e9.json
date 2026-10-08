@@ -1,0 +1,31 @@
+{
+  "artist": "The Garden",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Garden, Mac DeMarco",
+      "explicit": true,
+      "name": "Thy Mission"
+    },
+    {
+      "artists": "The Garden",
+      "explicit": true,
+      "name": "This Could Build Us a Home"
+    },
+    {
+      "artists": "The Garden",
+      "name": "Egg"
+    },
+    {
+      "artists": "The Garden",
+      "explicit": true,
+      "name": "Call This # Now"
+    },
+    {
+      "artists": "The Garden",
+      "explicit": true,
+      "name": "Freight Yard"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4UVlSeEFDPmlkYKaRMRoOz"
+}

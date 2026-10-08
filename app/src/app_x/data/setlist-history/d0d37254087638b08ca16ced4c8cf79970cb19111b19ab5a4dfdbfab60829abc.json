@@ -1,0 +1,52 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "intro / cipha",
+          "tape": true
+        },
+        {
+          "name": "63 skies"
+        },
+        {
+          "name": "interlude I",
+          "tape": true
+        },
+        {
+          "name": "texas instruments"
+        },
+        {
+          "name": "interlude II",
+          "tape": true
+        },
+        {
+          "name": "eightball"
+        },
+        {
+          "name": "interlude III",
+          "tape": true
+        },
+        {
+          "name": "violence I"
+        },
+        {
+          "name": "a wasp appears"
+        },
+        {
+          "name": "interlude IIII",
+          "tape": true
+        },
+        {
+          "name": "behind the waterfall"
+        },
+        {
+          "name": "outro",
+          "tape": true
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/they-are-gutting-a-body-of-water/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6062.html"
+}

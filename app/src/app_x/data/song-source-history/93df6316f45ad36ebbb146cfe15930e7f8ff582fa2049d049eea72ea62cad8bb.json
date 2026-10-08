@@ -1,0 +1,27 @@
+{
+  "artist": "DURRY",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "DURRY",
+      "name": "Who's Laughing Now"
+    },
+    {
+      "artists": "DURRY",
+      "name": "idk i just work here"
+    },
+    {
+      "artists": "DURRY",
+      "name": "Who's Laughing Now - LC Version"
+    },
+    {
+      "artists": "DURRY",
+      "name": "I'm Fine (No Really)"
+    },
+    {
+      "artists": "DURRY",
+      "name": "Little Bit Lonely"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6zpptMjiapn5PB0Y5k3xWN"
+}

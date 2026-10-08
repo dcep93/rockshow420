@@ -5,7 +5,7 @@ from html import escape
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs
-from festival_setlists import DIRECTORIES, candidate_links, targets_for
+from festival_setlists import DIRECTORIES, artist_norm, candidate_links, targets_for
 from refresh_setlists import read, save
 from seed_setlists import identity, norm
 
@@ -37,8 +37,8 @@ def queue():
     result = []
     for cid, suffix in DIRECTORIES.items():
         directory = 'https://www.setlist.fm/festival/' + suffix
-        artists = {norm(t['artist']) for t in targets if t['concert_id'] == cid}
-        result.extend(x['url'] for x in candidate_links(path(directory).read_text(), directory) if norm(x['artist']) in artists)
+        artists = {artist_norm(t['artist']) for t in targets if t['concert_id'] == cid}
+        result.extend(x['url'] for x in candidate_links(path(directory).read_text(), directory) if artist_norm(x['artist']) in artists)
     candidate_queue = list(dict.fromkeys(result))
     return [url for url in candidate_queue if not path(url).exists()]
 

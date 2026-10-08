@@ -1,0 +1,27 @@
+{
+  "artist": "Morreo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Morreo",
+      "name": "Fuerza Bruta"
+    },
+    {
+      "artists": "Morreo",
+      "name": "PIM PAM PUM"
+    },
+    {
+      "artists": "Morreo",
+      "name": "No Hagas Nada"
+    },
+    {
+      "artists": "Morreo",
+      "name": "Locos por el Ritmo"
+    },
+    {
+      "artists": "Morreo",
+      "name": "Me da la Tos"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3Xp3bobA8pIQerBzo8jW8d"
+}

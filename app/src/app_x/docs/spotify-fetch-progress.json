@@ -1,4 +1,16 @@
 {
+  "070-shake": {
+    "candidate_errors": [],
+    "candidates": [
+      "12Zk1DFhCbHY6v3xep2ZjI"
+    ],
+    "count": 5,
+    "id": "070-shake",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "070 Shake",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/12Zk1DFhCbHY6v3xep2ZjI"
+  },
   "1-800-girls": {
     "candidate_errors": [
       {
@@ -149,6 +161,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6EqFMCnVGBRNmwPlk2f3Uc"
   },
+  "acidnena": {
+    "candidates": [],
+    "id": "acidnena",
+    "name": "Acidnena",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "acraze": {
     "candidate_errors": [],
     "candidates": [
@@ -160,6 +179,13 @@
     "name": "ACRAZE",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4pnp4w9g30yLfVIAFnZMRd"
+  },
+  "adrasha": {
+    "candidates": [],
+    "id": "adrasha",
+    "name": "Adrasha",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "afrojack": {
     "candidate_errors": [],
@@ -180,11 +206,20 @@
       "2JlcNc71MfHpqUzAcTscDD",
       "6RGri3BX7P64gUBuf6uU7p"
     ],
+    "count": 5,
     "id": "after",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "300dreams",
+      "deepdiving",
+      "takemetosunrise"
+    ],
     "name": "After",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/after/2026/golden-gate-park-san-francisco-ca-usa-5349a76d.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7KfMR05zRrWyhQimnYa8li"
   },
   "ag-club": {
     "candidate_errors": [],
@@ -209,6 +244,13 @@
     "name": "Aidan Bissett",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4XQI4hyuy5xun1ou3SM8Oe"
+  },
+  "aidan-corcoran": {
+    "candidates": [],
+    "id": "aidan-corcoran",
+    "name": "Aidan Corcoran",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "aiko-el-grupo": {
     "candidate_errors": [],
@@ -239,6 +281,13 @@
     "name": "Aines",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1JxQwWa6ZP0xGTh3LHgctB"
+  },
+  "ajna-us": {
+    "candidates": [],
+    "id": "ajna-us",
+    "name": "AJNA (US)",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "alan-walker": {
     "candidate_errors": [],
@@ -293,7 +342,7 @@
       "2WWTUZ3LpcAAPhSEz3H0rg",
       "6lcwlkAjBPSKnFBZjjZFJs"
     ],
-    "count": 10,
+    "count": 5,
     "id": "alex-g",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -368,7 +417,7 @@
     "candidates": [
       "2zgG1GPDvjaBgxeQaVXI14"
     ],
-    "count": 10,
+    "count": 5,
     "id": "all-that-remains",
     "name": "All That Remains",
     "status": "cached",
@@ -434,11 +483,39 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/42FzVuyJH8YbkhzWSR2n8E"
   },
+  "alphabet-rockers": {
+    "candidate_errors": [],
+    "candidates": [
+      "1drbmqQDCYQ7pPtGYj5Y04"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1drbmqQDCYQ7pPtGYj5Y04"
+        ],
+        "source_html_sha256": "ba3363f95096eb15fbfcce961261cb3aeb7ac843d6aa3da78309735918cc388c",
+        "url": "https://open.spotify.com/track/65usS9xlThq8ItuEhh8xkc"
+      },
+      {
+        "ids": [
+          "1drbmqQDCYQ7pPtGYj5Y04"
+        ],
+        "source_html_sha256": "4dd769fad511b21d6d690f9d4986dfd57766aa51febe09cc63ff05275c139697",
+        "url": "https://open.spotify.com/track/0AhSHESeo26Z1zh4nMNNfu"
+      }
+    ],
+    "id": "alphabet-rockers",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Alphabet Rockers",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1drbmqQDCYQ7pPtGYj5Y04"
+  },
   "alt-j": {
     "candidates": [
       "3XHO7cRUPCLOr6jwp8vsx5"
     ],
-    "count": 10,
+    "count": 5,
     "id": "alt-j",
     "name": "alt-J",
     "status": "cached",
@@ -472,7 +549,7 @@
     "candidates": [
       "5wugb0kaq0J6nyQ5Xgd17i"
     ],
-    "count": 10,
+    "count": 5,
     "id": "aly-aj",
     "name": "Aly & AJ",
     "status": "cached",
@@ -532,7 +609,7 @@
     "candidates": [
       "0MlOPi3zIDMVrfA9R04Fe3"
     ],
-    "count": 10,
+    "count": 5,
     "id": "american-authors",
     "name": "American Authors",
     "status": "cached",
@@ -565,14 +642,21 @@
   "amorphous": {
     "candidate_errors": [],
     "candidates": [
-      "4w6RRGDInS3wnYNgF6cI7E",
       "2mvAbMVwkxiZWJXjorKpdK"
     ],
+    "count": 5,
     "id": "amorphous",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Amorphous",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "2mvAbMVwkxiZWJXjorKpdK"
+      ],
+      "source_html_sha256": "bef2119a550fd9a993012731fd9ab51e6216dea0829fc3906dd6f402b57a4985",
+      "url": "https://linktr.ee/officialamorphous"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2mvAbMVwkxiZWJXjorKpdK"
   },
   "amos-lee": {
     "candidate_errors": [],
@@ -610,6 +694,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3jK9MiCrA42lLAdMGUZpwa"
   },
+  "anderson-paak-the-free-nationals": {
+    "candidates": [],
+    "id": "anderson-paak-the-free-nationals",
+    "name": "Anderson .Paak & The Free Nationals",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "andre-power": {
     "candidate_errors": [],
     "candidates": [
@@ -622,6 +713,34 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6ilBbQy2gAe1KclVLxRMZP"
   },
+  "andy-p": {
+    "candidate_errors": [],
+    "candidates": [
+      "0PDRABDKVH8SmAv1Xrb6yG"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "0PDRABDKVH8SmAv1Xrb6yG"
+        ],
+        "source_html_sha256": "bfdbb632c0fe0067a8067e3b141b471a4c42b9e81214ce4850d52e978a61fe18",
+        "url": "https://open.spotify.com/track/6W84lzHUA13na6UmMbdpvx"
+      },
+      {
+        "ids": [
+          "0PDRABDKVH8SmAv1Xrb6yG"
+        ],
+        "source_html_sha256": "e4d684dfd0e84d3fc9af231a8ad51b138f04fbf0a87775473edf144426083f0f",
+        "url": "https://open.spotify.com/track/3Iu2mdndFVhqCprC3RJvoY"
+      }
+    ],
+    "id": "andy-p",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Andy P",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0PDRABDKVH8SmAv1Xrb6yG"
+  },
   "andy-shauf": {
     "candidate_errors": [],
     "candidates": [
@@ -633,6 +752,13 @@
     "name": "Andy Shauf",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5mFKYdmiYwNJTDtSzgFyQx"
+  },
+  "angeles-victor-gloria-javier": {
+    "candidates": [],
+    "id": "angeles-victor-gloria-javier",
+    "name": "Ángeles, Víctor, Gloria & Javier",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "angelica-garcia": {
     "candidate_errors": [],
@@ -662,7 +788,7 @@
     "candidates": [
       "65C6Unk7nhg2aCnVuAPMo8"
     ],
-    "count": 10,
+    "count": 5,
     "id": "animals-as-leaders",
     "name": "Animals as Leaders",
     "status": "cached",
@@ -684,7 +810,7 @@
     "candidates": [
       "6p6WfcngzvbVPbmV9HMb5l"
     ],
-    "count": 10,
+    "count": 5,
     "id": "annika-bennett",
     "name": "Annika Bennett",
     "status": "cached",
@@ -701,6 +827,13 @@
     "name": "ANOTR",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4p5WgeiPSPpqPDs7T6OkWf"
+  },
+  "anruna": {
+    "candidates": [],
+    "id": "anruna",
+    "name": "Anruna",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "ant-clemons": {
     "candidate_errors": [],
@@ -730,7 +863,7 @@
     "candidates": [
       "1f3ubTd6eyxuy30ddDJQQa"
     ],
-    "count": 10,
+    "count": 5,
     "id": "aoife-odonovan",
     "name": "Aoife O’Donovan",
     "status": "cached",
@@ -773,24 +906,39 @@
     "url": "https://open.spotify.com/embed/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
   },
   "arca": {
-    "candidate_errors": [],
-    "candidates": [
-      "5sMpr88JI4MrjjiHSovg2U",
-      "4SQdUpG4f7UbkJG3cJ2Iyj",
-      "0OUlaS8QyjueREbkYdEp69",
-      "3f0I15yeFlN38wnXxjWJgg"
-    ],
+    "count": 5,
     "id": "arca",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Multiple distinctive official discography titles match the public artist ranked list",
+      "corroborating_titles": [
+        "Willow",
+        "Fxck",
+        "Taconeando"
+      ],
+      "profile_id": "4SQdUpG4f7UbkJG3cJ2Iyj",
+      "sources": [
+        {
+          "source_html_sha256": "07490f451ce58d14ebdab8b8881f20c6f976e195816d6cb8f164438e074171e1",
+          "url": "https://www.xlrecordings.com/releases/xxxxx"
+        },
+        {
+          "profile_ids": [
+            "4SQdUpG4f7UbkJG3cJ2Iyj"
+          ],
+          "source_html_sha256": "68fdf664e1c4d7f7a92a7f091606ac1e06aa2bb19bdec2dfe4a757bfcc99e665",
+          "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+        }
+      ]
+    },
     "name": "Arca",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
   },
   "arctic-monkeys": {
     "candidates": [
       "7Ln80lUS6He07XvHI8qqHH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "arctic-monkeys",
     "name": "Arctic Monkeys",
     "status": "cached",
@@ -825,6 +973,27 @@
     "id": "arielle-lana",
     "name": "Arielle Lana",
     "status": "no_spotify_match"
+  },
+  "ariox": {
+    "candidate_errors": [],
+    "candidates": [
+      "40qrXwBvQ93tL5ondgFXzE"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "40qrXwBvQ93tL5ondgFXzE"
+        ],
+        "source_html_sha256": "a4322d7cccfae3115e74c765dd6c81e4e11900c080faecd6f3fccfdcfcd1e824",
+        "url": "https://open.spotify.com/track/0AlfSFYWRdTrh2Q55oRfXs"
+      }
+    ],
+    "id": "ariox",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Ariox",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/40qrXwBvQ93tL5ondgFXzE"
   },
   "arizona-zervas": {
     "candidate_errors": [],
@@ -908,7 +1077,7 @@
     "candidates": [
       "1dwRnam2taNMv8H3VR6isd"
     ],
-    "count": 10,
+    "count": 5,
     "id": "assembly-of-dust",
     "name": "Assembly of Dust",
     "status": "cached",
@@ -917,14 +1086,23 @@
   "atarashii-gakko": {
     "candidate_errors": [],
     "candidates": [
-      "4OfU76YhPU04wlmbVFFgTJ",
-      "0AHigF4jwyhAZhWGGWeN98"
+      "4OfU76YhPU04wlmbVFFgTJ"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4OfU76YhPU04wlmbVFFgTJ"
+        ],
+        "source_html_sha256": "5c9dc2808a0250446af9df4b836fec12094d4729c0a33cc1c1bdf2f30ff175d2",
+        "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
+      }
     ],
     "id": "atarashii-gakko",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Atarashii Gakko!",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4OfU76YhPU04wlmbVFFgTJ"
   },
   "atlas-genius": {
     "candidate_errors": [],
@@ -961,12 +1139,11 @@
       "6FlNvYVUKGWlJSqVexY7fV",
       "3EVs8tntn5BpxP9xRAWfOG"
     ],
-    "count": 10,
+    "count": 5,
     "id": "aurora",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.aurora-music.com/",
     "name": "AURORA",
-    "reason": "More than five artist candidates",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1WgXqy2Dd70QQOU7Ay074N"
   },
@@ -988,17 +1165,27 @@
       "7IZcg74X6CKzf0SfRliRrB",
       "3uX1tstdmFJyxW9b5mSNlU"
     ],
+    "count": 5,
     "id": "automatic",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "blackbox",
+      "mq9",
+      "newbeginning",
+      "toomuchmoney"
+    ],
     "name": "Automatic",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/automatic/2026/golden-gate-park-san-francisco-ca-usa-4349a75f.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3uX1tstdmFJyxW9b5mSNlU"
   },
   "awolnation": {
     "candidates": [
       "4njdEjTnLfcGImKZu1iSrz"
     ],
-    "count": 10,
+    "count": 5,
     "id": "awolnation",
     "name": "AWOLNATION",
     "status": "cached",
@@ -1061,7 +1248,7 @@
       "6Z4JcgqrqgysyHIPRtDIHo",
       "6W05avv6IaFth7mi884Jbe"
     ],
-    "count": 10,
+    "count": 5,
     "id": "baby-rose",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.babyrose.art/",
@@ -1076,14 +1263,30 @@
   "babyjake": {
     "candidate_errors": [],
     "candidates": [
-      "70XSQjMzOflrR7RU4Ww1xk"
+      "07Asx51VtMw5kbNXKrpZlq"
     ],
-    "count": 1,
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "07Asx51VtMw5kbNXKrpZlq"
+        ],
+        "source_html_sha256": "7c44d21750b98130795d5b3a74d8e1a6a0c802c2dee43d216ebd666d8d7aca1f",
+        "url": "https://open.spotify.com/track/1tLUTC1W8zwmWooBNemXpB"
+      }
+    ],
     "id": "babyjake",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "BabyJake",
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/70XSQjMzOflrR7RU4Ww1xk"
+    "url": "https://open.spotify.com/embed/artist/07Asx51VtMw5kbNXKrpZlq"
+  },
+  "bad-juuju": {
+    "candidates": [],
+    "id": "bad-juuju",
+    "name": "Bad Juuju",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "bad-neighbors": {
     "candidate_errors": [],
@@ -1113,7 +1316,7 @@
     "candidates": [
       "0YhUSm86okLWldQVwJkLlP"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bad-suns",
     "name": "Bad Suns",
     "status": "cached",
@@ -1123,7 +1326,7 @@
     "candidates": [
       "0eI3X5rAzHRZVe5FPk4MN1"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bad-wolves",
     "name": "Bad Wolves",
     "status": "cached",
@@ -1168,7 +1371,7 @@
     "candidates": [
       "50lhyY7UVI9NyVHl79rVgk"
     ],
-    "count": 10,
+    "count": 5,
     "id": "baio",
     "name": "BAIO",
     "status": "cached",
@@ -1185,6 +1388,19 @@
     "name": "Bakar",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3K2Srho6NCF3o9MswGR76H"
+  },
+  "balma": {
+    "candidate_errors": [],
+    "candidates": [
+      "120KlGliWpuFD6rw7oiLAH",
+      "6nOjkYbsqO4nJKnJDV9Puz",
+      "5JxecZ9ySocAFurZ7mrmj1"
+    ],
+    "id": "balma",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Balma",
+    "reason": "Multiple profiles match artist heading",
+    "status": "ambiguous"
   },
   "balming-tiger": {
     "candidate_errors": [],
@@ -1246,6 +1462,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0wn2qDKzeFlhjRUtJAwJjp"
   },
+  "bapari": {
+    "candidates": [],
+    "id": "bapari",
+    "name": "Bapari",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "barry-can-t-swim": {
     "candidate_errors": [],
     "candidates": [
@@ -1269,7 +1492,7 @@
       "6Gl4Q3ePw6HKMfIOix5QpG",
       "4nyfD0XIo5icaEiarXhVjI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bartees-strange",
     "name": "Bartees Strange",
     "status": "cached",
@@ -1279,7 +1502,7 @@
     "candidates": [
       "7EQ0qTo7fWT7DPxmxtSYEc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bastille",
     "name": "Bastille",
     "status": "cached",
@@ -1320,17 +1543,29 @@
       "35l9BRT7MXmM8bv2WDQiyB",
       "7d4D73NWdGyUgyMvcUZjvt"
     ],
-    "count": 10,
+    "count": 5,
     "id": "beabadoobee",
     "name": "beabadoobee",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/35l9BRT7MXmM8bv2WDQiyB"
   },
+  "beach-fossils": {
+    "candidate_errors": [],
+    "candidates": [
+      "1bwUhKRmEkOZ1wuTnV9XjC"
+    ],
+    "count": 5,
+    "id": "beach-fossils",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Beach Fossils",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+  },
   "beane": {
     "candidates": [
       "6OPhoP9klTrNJm9EF0FnRt"
     ],
-    "count": 10,
+    "count": 5,
     "id": "beane",
     "name": "Beane",
     "status": "cached",
@@ -1378,6 +1613,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3vbKDsSS70ZX9D2OcvbZmS"
   },
+  "bella-de-leon": {
+    "candidates": [],
+    "id": "bella-de-leon",
+    "name": "Bella De Leon",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "belle-and-sebastian": {
     "candidate_errors": [],
     "candidates": [
@@ -1402,11 +1644,19 @@
       "3LWwxAEAuFu8uFaxx8OXov",
       "0BrsQCd7jNO3LNfqfSS7ee"
     ],
+    "count": 5,
     "id": "beluga",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "aprendizdeleones",
+      "bioluminiscencia"
+    ],
     "name": "Beluga",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/beluga/2019/passeio-maritimo-de-alges-oeiras-portugal-2b9ee876.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3LWwxAEAuFu8uFaxx8OXov"
   },
   "ben-bohmer": {
     "candidate_errors": [],
@@ -1495,7 +1745,7 @@
       "6nLLZgwVLxBM1zkXp0oi1R",
       "0ig2bPEJBAHFzhloImvkwI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bertha",
     "identity_basis": "Official Grateful Drag profile; venue and saved setlist identify BERTHA as this act",
     "identity_source": "https://linktr.ee/gratefuldrag",
@@ -1532,11 +1782,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3NBmfDV6Yh3hjuQUBVvYgO"
   },
+  "beya": {
+    "candidates": [],
+    "id": "beya",
+    "name": "Beya",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "beyonce": {
     "candidates": [
       "6vWDO969PvNqNYHIOW5v0m"
     ],
-    "count": 10,
+    "count": 5,
     "id": "beyonce",
     "name": "Beyoncé",
     "status": "cached",
@@ -1626,15 +1883,29 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0gvHPdYxlU94W7V5MSIlFe"
   },
+  "bikoko": {
+    "candidates": [],
+    "id": "bikoko",
+    "name": "Bikoko",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "bilal": {
     "candidates": [
       "4jCbgl5Dmt3uOh8WRQfpPs"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bilal",
     "name": "Bilal",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+  },
+  "bill-kouligas": {
+    "candidates": [],
+    "id": "bill-kouligas",
+    "name": "Bill Kouligas",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "billie-eilish": {
     "candidate_errors": [],
@@ -1664,29 +1935,51 @@
     "candidates": [
       "6zFYqv1mOsgBRQbae3JJ9e"
     ],
-    "count": 10,
+    "count": 5,
     "id": "billy-joel",
     "name": "Billy Joel",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6zFYqv1mOsgBRQbae3JJ9e"
   },
   "billy-woods": {
-    "candidate_errors": [],
-    "candidates": [
-      "39vtb2iiz3079nqfL5nfFc",
-      "6LBeufpafDptDQKemiHOCK"
-    ],
+    "count": 5,
     "id": "billy-woods",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official label identifies recording; public Spotify recording credits identify artist profile",
+      "profile_id": "39vtb2iiz3079nqfL5nfFc",
+      "recording": "Hiding Places",
+      "sources": [
+        {
+          "profile_ids": [],
+          "recording_urls": [],
+          "source_html_sha256": "f62765da22b1df8b2a0807472e294038e5a1eb106a5ee0c186ac97417899b6f0",
+          "url": "https://backwoodzstudioz.com/pages/billy-woods"
+        },
+        {
+          "profile_ids": [
+            "39vtb2iiz3079nqfL5nfFc"
+          ],
+          "source_html_sha256": "d6d1c535f0eb25b959bf82b120398c768b9b307992aa220afe583cdb862daa09",
+          "url": "https://open.spotify.com/album/0HmKhR7Umt3ACs52ZLnKyK"
+        }
+      ]
+    },
     "name": "billy woods",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/39vtb2iiz3079nqfL5nfFc"
+  },
+  "bingo-loco": {
+    "candidates": [],
+    "id": "bingo-loco",
+    "name": "BINGO LOCO",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "bishop-briggs": {
     "candidates": [
       "0yb46jwm7gqbZXVXZQ8Z1e"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bishop-briggs",
     "name": "Bishop Briggs",
     "status": "cached",
@@ -1720,7 +2013,7 @@
     "candidates": [
       "0Nrwy16xCPXG8AwkMbcVvo"
     ],
-    "count": 10,
+    "count": 5,
     "id": "black-pistol-fire",
     "name": "Black Pistol Fire",
     "status": "cached",
@@ -1730,7 +2023,7 @@
     "candidates": [
       "6eU0jV2eEZ8XTM7EmlguK6"
     ],
-    "count": 10,
+    "count": 5,
     "id": "black-pumas",
     "name": "Black Pumas",
     "status": "cached",
@@ -1764,7 +2057,7 @@
     "candidates": [
       "2eam0iDomRHGBypaDQLwWI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bleachers",
     "name": "Bleachers",
     "status": "cached",
@@ -1795,17 +2088,25 @@
     "url": "https://open.spotify.com/embed/artist/5isqImG0rLfAgBJSPMEVXF"
   },
   "blondie": {
-    "candidate_errors": [],
-    "candidates": [
-      "4tpUmLEVLCGFr93o8hFFIB",
-      "2d8Ljf8vu0emfTNbSD3CEc",
-      "0H0ZcmgYdv0LEZhsdg5Cep"
-    ],
+    "count": 5,
     "id": "blondie",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official artist/label profile link",
+      "profile_id": "4tpUmLEVLCGFr93o8hFFIB",
+      "sources": [
+        {
+          "profile_ids": [
+            "4tpUmLEVLCGFr93o8hFFIB"
+          ],
+          "recording_urls": [],
+          "source_html_sha256": "89f554aa2adb310f7938595a45cbda3ebca3969d8a4b1188667737ae6b728ea4",
+          "url": "https://blondie.lnk.to/Streaming"
+        }
+      ]
+    },
     "name": "Blondie",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4tpUmLEVLCGFr93o8hFFIB"
   },
   "blondshell": {
     "candidate_errors": [],
@@ -1847,7 +2148,7 @@
     "candidates": [
       "5NyCIBCeU080ynEj33S4hC"
     ],
-    "count": 10,
+    "count": 5,
     "id": "blu-detiger",
     "name": "Blu DeTiger",
     "status": "cached",
@@ -1883,11 +2184,25 @@
     "name": "Bob Weir & Wolf Bros",
     "status": "no_spotify_match"
   },
+  "bobo": {
+    "candidates": [],
+    "id": "bobo",
+    "name": "bobo_",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "body-of-leaves": {
+    "candidates": [],
+    "id": "body-of-leaves",
+    "name": "Body Of Leaves",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "bombay-bicycle-club": {
     "candidates": [
       "3pTE9iaJTkWns3mxpNQlJV"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bombay-bicycle-club",
     "name": "Bombay Bicycle Club",
     "status": "cached",
@@ -1897,7 +2212,7 @@
     "candidates": [
       "4LEiUm1SRbFMgfqnQTwUbQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "bon-iver",
     "name": "Bon Iver",
     "status": "cached",
@@ -1914,6 +2229,13 @@
     "name": "Bonnie X Clyde",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/74xeHqz5Ap8ZHq69TkxI0r"
+  },
+  "bootie-mashup": {
+    "candidates": [],
+    "id": "bootie-mashup",
+    "name": "Bootie Mashup",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "boris-brejcha": {
     "candidate_errors": [],
@@ -1932,7 +2254,7 @@
       "7wGrLSB3v7jkV3fSsjYwtv",
       "1vduvchoXSkpzr1FZm0dBz"
     ],
-    "count": 10,
+    "count": 5,
     "id": "born-ruffians",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.bornruffians.ca/",
@@ -1986,7 +2308,7 @@
     "candidates": [
       "1hLiboQ98IQWhpKeP9vRFw"
     ],
-    "count": 10,
+    "count": 5,
     "id": "boygenius",
     "name": "boygenius",
     "status": "cached",
@@ -1996,11 +2318,18 @@
     "candidates": [
       "62k5LKMhymqlDNo2DWOvvv"
     ],
-    "count": 10,
+    "count": 5,
     "id": "boys-noize",
     "name": "Boys Noize",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/62k5LKMhymqlDNo2DWOvvv"
+  },
+  "brady-okeefe": {
+    "candidates": [],
+    "id": "brady-okeefe",
+    "name": "Brady O’Keefe",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "brakence": {
     "candidate_errors": [],
@@ -2042,7 +2371,7 @@
     "candidates": [
       "4XquDVA8pkg5Lx91No1JxB"
     ],
-    "count": 10,
+    "count": 5,
     "id": "brittany-howard",
     "name": "Brittany Howard",
     "status": "cached",
@@ -2070,7 +2399,7 @@
     "candidates": [
       "1KP6TWI40m7p3QBTU6u2xo"
     ],
-    "count": 10,
+    "count": 5,
     "id": "brns",
     "name": "BØRNS",
     "status": "cached",
@@ -2150,11 +2479,18 @@
     "reason": "Multiple profiles match artist heading",
     "status": "ambiguous"
   },
+  "buffalo-gospel": {
+    "candidates": [],
+    "id": "buffalo-gospel",
+    "name": "Buffalo Gospel",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "buffchick": {
     "candidates": [
       "0bySwTrRN75nqs2vLS00zn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "buffchick",
     "name": "buffchick",
     "status": "cached",
@@ -2218,7 +2554,7 @@
     "candidates": [
       "6ydoSd3N2mwgwBHtF6K7eX"
     ],
-    "count": 10,
+    "count": 5,
     "id": "calum-scott",
     "name": "Calum Scott",
     "status": "cached",
@@ -2304,11 +2640,39 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1GVbOnrND8b3eh2JZ4opw8"
   },
+  "carlos-vidal": {
+    "candidate_errors": [],
+    "candidates": [
+      "0KtUMWOqXKXGqwMdzWzqnm"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "0KtUMWOqXKXGqwMdzWzqnm"
+        ],
+        "source_html_sha256": "9d6e65d0cae2224881cad4ae6671093304e61b08fd00cacf72a73deace8c8257",
+        "url": "https://open.spotify.com/track/57bqidyZ0Hkbhuta7GKhUD"
+      },
+      {
+        "ids": [
+          "0KtUMWOqXKXGqwMdzWzqnm"
+        ],
+        "source_html_sha256": "02d7b76beaa476fde915e9024f432799dcb39a71344b95f8a9fdab9d6584876f",
+        "url": "https://open.spotify.com/track/1MrdlFITumzuX4Hdht1vOl"
+      }
+    ],
+    "id": "carlos-vidal",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Carlos Vidal",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0KtUMWOqXKXGqwMdzWzqnm"
+  },
   "carly-rae-jepsen": {
     "candidates": [
       "6sFIWsNpZYqfjUpaCgueju"
     ],
-    "count": 10,
+    "count": 5,
     "id": "carly-rae-jepsen",
     "name": "Carly Rae Jepsen",
     "status": "cached",
@@ -2317,20 +2681,29 @@
   "carola": {
     "candidate_errors": [],
     "candidates": [
-      "1sLho4JtHWiN8X9lFP0dBd"
+      "1ms2l3rB6iHHxtPvR9kxgW"
     ],
     "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1ms2l3rB6iHHxtPvR9kxgW"
+        ],
+        "source_html_sha256": "f5bc99ead9fe933b41d3de027c2a433db6663ae9984944c7dee4f74ef9c7570f",
+        "url": "https://open.spotify.com/album/473D1rbKmLyh3LtP92FHzs"
+      }
+    ],
     "id": "carola",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "Carola",
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/1sLho4JtHWiN8X9lFP0dBd"
+    "url": "https://open.spotify.com/embed/artist/1ms2l3rB6iHHxtPvR9kxgW"
   },
   "caroline-jones": {
     "candidates": [
       "3xl6isKUFqJNui79kpdT0Y"
     ],
-    "count": 10,
+    "count": 5,
     "id": "caroline-jones",
     "name": "Caroline Jones",
     "status": "cached",
@@ -2340,7 +2713,7 @@
     "candidates": [
       "30OjWukpFMe1Ji8uzeCCe2"
     ],
-    "count": 10,
+    "count": 5,
     "id": "caroline-strickland",
     "name": "Caroline Strickland",
     "status": "cached",
@@ -2357,6 +2730,13 @@
     "name": "Cash Cash",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1LOB7jTeEV14pHai6EXSzF"
+  },
+  "catarina-matos": {
+    "candidates": [],
+    "id": "catarina-matos",
+    "name": "Catarina Matos",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "cautious-clay": {
     "candidate_errors": [],
@@ -2418,6 +2798,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4MKrXiEHOd8zXvrxRsAJ8Q"
   },
+  "charles-hawthorne": {
+    "candidates": [],
+    "id": "charles-hawthorne",
+    "name": "Charles Hawthorne",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "charli-xcx": {
     "candidate_errors": [],
     "candidates": [
@@ -2434,7 +2821,7 @@
     "candidates": [
       "6VuMaDnrHyPL1p4EHjYLi7"
     ],
-    "count": 10,
+    "count": 5,
     "id": "charlie-puth",
     "name": "Charlie Puth",
     "status": "cached",
@@ -2444,7 +2831,7 @@
     "candidates": [
       "1G0YV9WooUBjrwDq0Q7EFK"
     ],
-    "count": 10,
+    "count": 5,
     "id": "charlotte-cardin",
     "name": "Charlotte Cardin",
     "status": "cached",
@@ -2478,7 +2865,7 @@
     "candidates": [
       "3pIGm1omCcHIb1juBNHspg"
     ],
-    "count": 10,
+    "count": 5,
     "id": "cherry-glazerr",
     "name": "Cherry Glazerr",
     "status": "cached",
@@ -2495,6 +2882,13 @@
     "name": "Chezile",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1EmdfupUQDpXOcb4Nj2mBH"
+  },
+  "chica-gang": {
+    "candidates": [],
+    "id": "chica-gang",
+    "name": "CHICA Gang",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "chicago-made": {
     "candidate_errors": [
@@ -2538,7 +2932,7 @@
     "candidates": [
       "73sIBHcqh3Z3NyqHKZ7FOL"
     ],
-    "count": 10,
+    "count": 5,
     "id": "childish-gambino",
     "name": "Childish Gambino",
     "status": "cached",
@@ -2621,7 +3015,7 @@
     "candidates": [
       "1dyGPAYZZHHW6WIqwKN5QF"
     ],
-    "count": 10,
+    "count": 5,
     "id": "chris-thile",
     "name": "Chris Thile",
     "status": "cached",
@@ -2643,7 +3037,7 @@
     "candidates": [
       "2mV8aJphiSHYJf43DxL7Gt"
     ],
-    "count": 10,
+    "count": 5,
     "id": "chromeo",
     "name": "Chromeo",
     "status": "cached",
@@ -2653,7 +3047,7 @@
     "candidates": [
       "3CjlHNtplJyTf9npxaPl5w"
     ],
-    "count": 10,
+    "count": 5,
     "id": "chvrches",
     "name": "CHVRCHES",
     "status": "cached",
@@ -2687,7 +3081,7 @@
     "candidates": [
       "3l0CmX0FuQjFxr8SK7Vqag"
     ],
-    "count": 10,
+    "count": 5,
     "id": "clairo",
     "name": "Clairo",
     "status": "cached",
@@ -2783,7 +3177,7 @@
     "candidates": [
       "3utxjLheHaVEd9bPjQRsy8"
     ],
-    "count": 10,
+    "count": 5,
     "id": "coheed-and-cambria",
     "name": "Coheed and Cambria",
     "status": "cached",
@@ -2854,7 +3248,7 @@
       "6xt9sJmmyYwWkJv8A6ssiU",
       "2pauAe2Cb2jZEXpCVSWmWz"
     ],
-    "count": 10,
+    "count": 5,
     "id": "cory-wong",
     "name": "Cory Wong",
     "status": "cached",
@@ -2865,7 +3259,7 @@
       "23eyCXsyHcoYwABucxrhDC",
       "3nYyLjhw4mYzYfJePsCJYJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "couch",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.couchtheband.com/",
@@ -2965,23 +3359,32 @@
     "candidates": [
       "7uZO1ri6Y9Wlv7cDoOOUDI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "crys",
     "name": "CRYS",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
   },
   "css": {
-    "candidate_errors": [],
-    "candidates": [
-      "2K13AVg3bFpHSxDM1vJ0qA",
-      "6PTCIiaRw6dXe00R6wYshG"
-    ],
+    "count": 5,
     "id": "css",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official artist/label profile link",
+      "profile_id": "2K13AVg3bFpHSxDM1vJ0qA",
+      "sources": [
+        {
+          "profile_ids": [
+            "2K13AVg3bFpHSxDM1vJ0qA"
+          ],
+          "recording_urls": [],
+          "source_html_sha256": "332c698dc77ecbbe7ad4f8d8d7436bb61631674f568c00fac5df1b370ee0371a",
+          "url": "https://www.subpop.com/artists/css"
+        }
+      ]
+    },
     "name": "CSS",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2K13AVg3bFpHSxDM1vJ0qA"
   },
   "cuco": {
     "candidate_errors": [],
@@ -3023,7 +3426,7 @@
     "candidates": [
       "4EENT7N7rCBwrddM3s0vFS"
     ],
-    "count": 10,
+    "count": 5,
     "id": "cut-copy",
     "name": "Cut Copy",
     "status": "cached",
@@ -3069,7 +3472,7 @@
     "candidates": [
       "0SrIPejckovMwhrN3MZFPB"
     ],
-    "count": 10,
+    "count": 5,
     "id": "daisy-the-great",
     "name": "Daisy the Great",
     "status": "cached",
@@ -3092,6 +3495,13 @@
     "name": "Dani Deahl",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2ZSfvlL7saepOXm3vAloZ3"
+  },
+  "dani-satin-and-always-hallways": {
+    "candidates": [],
+    "id": "dani-satin-and-always-hallways",
+    "name": "Dani Satin and Always Hallways",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "daniel-caesar": {
     "candidate_errors": [],
@@ -3151,7 +3561,7 @@
     "candidates": [
       "4VjljDo2biBRVJ1WEXZ8GE"
     ],
-    "count": 10,
+    "count": 5,
     "id": "dark-star-orchestra",
     "name": "Dark Star Orchestra",
     "status": "cached",
@@ -3161,7 +3571,7 @@
     "candidates": [
       "1qMgGon16RoDAfujk41Em0"
     ],
-    "count": 10,
+    "count": 5,
     "id": "darrell-scott",
     "name": "Darrell Scott",
     "status": "cached",
@@ -3171,7 +3581,7 @@
     "candidates": [
       "2TI7qyDE0QfyOlnbtfDo7L"
     ],
-    "count": 10,
+    "count": 5,
     "id": "dave-matthews-band",
     "name": "Dave Matthews Band",
     "status": "cached",
@@ -3213,11 +3623,32 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6eJa3zG1QZLRB3xgRuyxbm"
   },
+  "daytime-lover": {
+    "candidate_errors": [],
+    "candidates": [
+      "193YlAH5ef6yH1S1c1wVOc"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "193YlAH5ef6yH1S1c1wVOc"
+        ],
+        "source_html_sha256": "22b9abb91926ca276922bb8fe780d6e0538d09343330bac08ca7965660bfcbb3",
+        "url": "https://open.spotify.com/track/5pdsdirVXAvyU2xYasDiWn"
+      }
+    ],
+    "id": "daytime-lover",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Daytime Lover",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/193YlAH5ef6yH1S1c1wVOc"
+  },
   "dead-company": {
     "candidates": [
       "4QMYdqiJf5bEC7P0EHbnxn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "dead-company",
     "name": "Dead & Company",
     "status": "cached",
@@ -3287,7 +3718,7 @@
     "candidates": [
       "0xPoVNPnxIIUS1vrxAYV00"
     ],
-    "count": 10,
+    "count": 5,
     "id": "del-water-gap",
     "name": "Del Water Gap",
     "status": "cached",
@@ -3304,6 +3735,13 @@
     "name": "Delacey",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1thbOfXak53dM1Xabq3pmb"
+  },
+  "demdike-stare-b2b-raime": {
+    "candidates": [],
+    "id": "demdike-stare-b2b-raime",
+    "name": "Demdike Stare b2b Raime",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "denzel-curry": {
     "candidate_errors": [],
@@ -3426,6 +3864,34 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/51WUBWxuW4MAoBwuYraA4v"
   },
+  "dick-stusso": {
+    "candidate_errors": [],
+    "candidates": [
+      "7yUlwLhbOmjtsj4Uk5mviU"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "7yUlwLhbOmjtsj4Uk5mviU"
+        ],
+        "source_html_sha256": "925b6f9c89b5a2d4147688075212fa0917c07fca2712542c8cd7245729550c4e",
+        "url": "https://open.spotify.com/track/2zmuMZ2snDgfxwFAiJtwAD"
+      },
+      {
+        "ids": [
+          "7yUlwLhbOmjtsj4Uk5mviU"
+        ],
+        "source_html_sha256": "acf010662c777235225515abe9aa99b67a88617b1a0d2673c28916b8cf91c2ef",
+        "url": "https://open.spotify.com/track/3UCq6EcylAMqOJmaifPoul"
+      }
+    ],
+    "id": "dick-stusso",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Dick Stusso",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7yUlwLhbOmjtsj4Uk5mviU"
+  },
   "die-spitz": {
     "candidate_errors": [],
     "candidates": [
@@ -3481,7 +3947,7 @@
       "1tJLNbhtHhqf8GeonwmA3j",
       "0XfQBWgzisaS9ltDV9bXAS"
     ],
-    "count": 10,
+    "count": 5,
     "id": "dijon",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -3576,7 +4042,7 @@
       "3TOqt5oJwL9BE2NG9MEwDa",
       "2OUDnwobBOEVNlw5ZVNKQY"
     ],
-    "count": 10,
+    "count": 5,
     "id": "disturbed",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -3595,6 +4061,55 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3TOqt5oJwL9BE2NG9MEwDa"
   },
+  "divinity-roxx": {
+    "candidate_errors": [],
+    "candidates": [
+      "6Jp4e4JHGZN1bmRxovEZSI"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "6Jp4e4JHGZN1bmRxovEZSI"
+        ],
+        "source_html_sha256": "7de695ee76877eef012cd15f274319133a290bd3e993c493eb86406398d6b23e",
+        "url": "https://open.spotify.com/track/4vrJ3jAyWqWYCY8BmHVe8u"
+      },
+      {
+        "ids": [
+          "6Jp4e4JHGZN1bmRxovEZSI"
+        ],
+        "source_html_sha256": "ee9998697c07520e9df696855c75da1d45d6dc66ac953b20213d546a0de53302",
+        "url": "https://open.spotify.com/track/4CMHhk9jrio5C5yBcNWCuP"
+      }
+    ],
+    "id": "divinity-roxx",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Divinity Roxx",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6Jp4e4JHGZN1bmRxovEZSI"
+  },
+  "dj-dolomedes": {
+    "candidates": [],
+    "id": "dj-dolomedes",
+    "name": "DJ Dolomedes",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "dj-erinyes": {
+    "candidates": [],
+    "id": "dj-erinyes",
+    "name": "DJ Erinyes",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "dj-fart-in-the-club": {
+    "candidates": [],
+    "id": "dj-fart-in-the-club",
+    "name": "Dj Fart in the Club",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "dj-haram": {
     "candidate_errors": [],
     "candidates": [
@@ -3606,6 +4121,41 @@
     "name": "DJ Haram",
     "reason": "Multiple profiles match artist heading",
     "status": "ambiguous"
+  },
+  "dj-heavy": {
+    "candidate_errors": [],
+    "candidates": [
+      "7EtT1fkAgM7MjJ2d4ecDdR"
+    ],
+    "count": 1,
+    "credit_evidence": [
+      {
+        "ids": [
+          "7EtT1fkAgM7MjJ2d4ecDdR"
+        ],
+        "source_html_sha256": "a0a36015532cc3d942d9e01da2fc9e63143b5ef5db4f40765b5f81222155183b",
+        "url": "https://open.spotify.com/track/6YLuDeBdXIN10s6RhmZivO"
+      },
+      {
+        "ids": [
+          "7EtT1fkAgM7MjJ2d4ecDdR"
+        ],
+        "source_html_sha256": "b8b5191c7dbd1c3f6050dea7cd10fd4bc940dac5febb9b138005e63cb3ae1647",
+        "url": "https://open.spotify.com/intl-ja/track/21T6Lw0Lv6TMOAU1xuER9o"
+      }
+    ],
+    "id": "dj-heavy",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "DJ Heavy",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7EtT1fkAgM7MjJ2d4ecDdR"
+  },
+  "dj-hopeless-hot-goth-pole-show": {
+    "candidates": [],
+    "id": "dj-hopeless-hot-goth-pole-show",
+    "name": "DJ Hopeless & Hot Goth Pole Show",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "dj-koze": {
     "candidate_errors": [],
@@ -3619,16 +4169,23 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1kR99O4MgSTasyeJh8UFCg"
   },
+  "dj-lazyboy": {
+    "candidates": [],
+    "id": "dj-lazyboy",
+    "name": "DJ Lazyboy",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "dj-mel": {
     "candidate_errors": [],
     "candidates": [
       "2VAK3OAV6FwD1y2wsGBPIw"
     ],
-    "count": 3,
     "id": "dj-mel",
     "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
     "name": "DJ Mel",
-    "status": "cached",
+    "reason": "Same-name profile needs stronger festival identity corroboration",
+    "status": "needs_review",
     "url": "https://open.spotify.com/embed/artist/2VAK3OAV6FwD1y2wsGBPIw"
   },
   "dj-metro": {
@@ -3654,6 +4211,13 @@
     "name": "DJ Minx",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4PTQtiKISN5iGNpbRVv02B"
+  },
+  "dj-negro-presents-the-noise": {
+    "candidates": [],
+    "id": "dj-negro-presents-the-noise",
+    "name": "DJ Negro presents The Noise",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "dj-playero": {
     "candidate_errors": [],
@@ -3702,6 +4266,13 @@
     "name": "DJ Spanish Fly",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7CYLMcm73iQAL1ExdljKlM"
+  },
+  "dj-starr-noir": {
+    "candidates": [],
+    "id": "dj-starr-noir",
+    "name": "DJ Starr Noir",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "djo": {
     "candidate_errors": [],
@@ -3836,6 +4407,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/202HZzqKvPsMHcbwnDZx7u"
   },
+  "dpr-ian-dpr-live": {
+    "candidates": [],
+    "id": "dpr-ian-dpr-live",
+    "name": "DPR IAN & DPR LIVE",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "dr-fresch": {
     "candidate_errors": [],
     "candidates": [
@@ -3876,7 +4454,7 @@
     "candidates": [
       "7w9jdhcgHNdiPeNPUoFSlx"
     ],
-    "count": 10,
+    "count": 5,
     "id": "dropkick-murphys",
     "name": "Dropkick Murphys",
     "status": "cached",
@@ -3936,17 +4514,55 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6TVVIyd0fsRDGg6WzHKyTP"
   },
-  "duster": {
+  "durry": {
     "candidate_errors": [],
     "candidates": [
-      "5AyEXCtu3xnnsTGCo4RVZh",
-      "1h5Eb0oaSKFYo0JttM3sh1"
+      "6zpptMjiapn5PB0Y5k3xWN"
     ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "6zpptMjiapn5PB0Y5k3xWN"
+        ],
+        "source_html_sha256": "14b417e29a27d3d4acf5295723ff21ab062ada6f92735350b025537c835a2ba7",
+        "url": "https://open.spotify.com/track/5V9ri3wZCY3ChAbqxk5Pso"
+      },
+      {
+        "ids": [
+          "6zpptMjiapn5PB0Y5k3xWN"
+        ],
+        "source_html_sha256": "1ef0b68c1493aea4a1e472f7914e99ec28c43c322cf336e3a7ec5bc98c75556c",
+        "url": "https://open.spotify.com/track/5Yr0fA4Cmw3TqJuenYmhFa"
+      }
+    ],
+    "id": "durry",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Durry",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6zpptMjiapn5PB0Y5k3xWN"
+  },
+  "duster": {
+    "count": 5,
     "id": "duster",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Multiple distinctive official discography titles match the public artist ranked list",
+      "corroborating_titles": [
+        "Inside Out",
+        "Constellations",
+        "Stratosphere"
+      ],
+      "profile_id": "5AyEXCtu3xnnsTGCo4RVZh",
+      "sources": [
+        {
+          "source_html_sha256": "3e3507640165ba90ef4ce5e24872d5232d4c500c6f39abc90f6d385c70d0e5a6",
+          "url": "https://unrecovery.org/"
+        }
+      ]
+    },
     "name": "Duster",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5AyEXCtu3xnnsTGCo4RVZh"
   },
   "dylan-brady": {
     "candidate_errors": [],
@@ -4032,6 +4648,34 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0ynzbXwyCzxicMKHBoOkSH"
   },
+  "el-kontessa": {
+    "candidate_errors": [],
+    "candidates": [
+      "1V7Q80qWWKLRo8U1RDUa9G"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1V7Q80qWWKLRo8U1RDUa9G"
+        ],
+        "source_html_sha256": "6d8c6de49a50a6bd45bfcacf578dc20f728cd871d4a54058e1c47b33099a2b66",
+        "url": "https://open.spotify.com/track/4q9xy6BfcQy8Yy20sWZwMU"
+      },
+      {
+        "ids": [
+          "1V7Q80qWWKLRo8U1RDUa9G"
+        ],
+        "source_html_sha256": "118f46020b0780528a4c06740c4e3e389eecd75233d3b5ca343361758f029aec",
+        "url": "https://open.spotify.com/album/2RVNTDX2gGdQf4ObYsCEkl"
+      }
+    ],
+    "id": "el-kontessa",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "El Kontessa",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1V7Q80qWWKLRo8U1RDUa9G"
+  },
   "el-mato-a-un-policia-motorizado": {
     "candidate_errors": [],
     "candidates": [
@@ -4044,6 +4688,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5rLsN2LxYaEPLa1N7I2mPB"
   },
+  "elaine-robin": {
+    "candidates": [],
+    "id": "elaine-robin",
+    "name": "Elaine & Robin",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "elderbrook": {
     "candidate_errors": [],
     "candidates": [
@@ -4055,6 +4706,41 @@
     "name": "Elderbrook",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2vf4pRsEY6LpL5tKmqWb64"
+  },
+  "electric-feels": {
+    "candidates": [],
+    "id": "electric-feels",
+    "name": "Electric Feels",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "elena-moon-park": {
+    "candidate_errors": [],
+    "candidates": [
+      "4Okanr8CZ6f2oGudDIyv77"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4Okanr8CZ6f2oGudDIyv77"
+        ],
+        "source_html_sha256": "f513c9f03575e9259cfa3cca31f02f7f98462b3ac222031e716d4b1f7fe83634",
+        "url": "https://open.spotify.com/album/5oT1GZYi4R45iWtIZ2lMkI"
+      },
+      {
+        "ids": [
+          "4Okanr8CZ6f2oGudDIyv77"
+        ],
+        "source_html_sha256": "7c6cc66de03f955f5ee96d8ee481fdcb9025a1a4037b2995631b7a88342a11e0",
+        "url": "https://open.spotify.com/intl-es/track/2i18cRyBMB9XtGCZd4Q22W"
+      }
+    ],
+    "id": "elena-moon-park",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Elena Moon Park",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4Okanr8CZ6f2oGudDIyv77"
   },
   "elephant-heart": {
     "candidate_errors": [],
@@ -4109,20 +4795,28 @@
   "elohim": {
     "candidate_errors": [],
     "candidates": [
-      "7zQ5YZmi36gAiKxLmuHMhZ"
+      "6wKxOKEA3K6R2UZ3COLXEY"
     ],
     "count": 5,
     "id": "elohim",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Elohim",
+    "official_identity_evidence": {
+      "profile_ids": [
+        "6wKxOKEA3K6R2UZ3COLXEY"
+      ],
+      "recording_urls": [],
+      "source_html_sha256": "f656dec4985aacf7f56beace84bed6db293579df2f62e1c4df367bd8a17cd84a",
+      "url": "https://linktr.ee/elohimmusic"
+    },
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/7zQ5YZmi36gAiKxLmuHMhZ"
+    "url": "https://open.spotify.com/embed/artist/6wKxOKEA3K6R2UZ3COLXEY"
   },
   "elton-john": {
     "candidates": [
       "3PhoLpVuITZKcymswpck5b"
     ],
-    "count": 10,
+    "count": 5,
     "id": "elton-john",
     "name": "Elton John",
     "status": "cached",
@@ -4190,11 +4884,39 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/67hb7towEyKvt5Z8Bx306c"
   },
+  "ena-pa-2000": {
+    "candidate_errors": [],
+    "candidates": [
+      "093MyOTOwfd5C6BahtK4tD"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "093MyOTOwfd5C6BahtK4tD"
+        ],
+        "source_html_sha256": "a9a627e30c108052a9338539e7098fa42bb28c90ab02a4bd6e408647b637e7a5",
+        "url": "https://open.spotify.com/track/3jBVRTgy7nGk0fukLOdMk0"
+      },
+      {
+        "ids": [
+          "093MyOTOwfd5C6BahtK4tD"
+        ],
+        "source_html_sha256": "d65ee7d425c5ef82086a279c6449e4661eaef01aeb3376b79d3a3e2bf4b79396",
+        "url": "https://open.spotify.com/intl-es/track/0hxr4n1jCj8cTzvvTyJvaf"
+      }
+    ],
+    "id": "ena-pa-2000",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Ena Pá 2000",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/093MyOTOwfd5C6BahtK4tD"
+  },
   "eprom": {
     "candidates": [
       "2c2X6dr1PHctH24BxNOjHi"
     ],
-    "count": 10,
+    "count": 5,
     "id": "eprom",
     "name": "EPROM",
     "status": "cached",
@@ -4236,6 +4958,34 @@
     "name": "Erika de Casier",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1nIJEqPyIj5qutlgWNmQB0"
+  },
+  "etari": {
+    "candidate_errors": [],
+    "candidates": [
+      "5T2a7X0y51m0vb8PkSBiR1"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "5T2a7X0y51m0vb8PkSBiR1"
+        ],
+        "source_html_sha256": "e15bee8319f63f4421b8376fb9425ea3d97c4e7cb0889da329d9eb9ccaec6cbe",
+        "url": "https://open.spotify.com/track/3YoTD6EcXldoV59joClhhG"
+      },
+      {
+        "ids": [
+          "5T2a7X0y51m0vb8PkSBiR1"
+        ],
+        "source_html_sha256": "992ea486619be8def11639f60e394b3bbecf6400e1c243539d7a64051d9d34a4",
+        "url": "https://open.spotify.com/track/7KfVBJCM81xyQulTIFgseA"
+      }
+    ],
+    "id": "etari",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Etari",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5T2a7X0y51m0vb8PkSBiR1"
   },
   "ethel-cain": {
     "candidate_errors": [],
@@ -4292,6 +5042,13 @@
     "reason": "Multiple profiles match artist heading",
     "status": "ambiguous"
   },
+  "f-r-a-c": {
+    "candidates": [],
+    "id": "f-r-a-c",
+    "name": "F.R.A.C",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "fabia-rebordao": {
     "candidate_errors": [],
     "candidates": [
@@ -4315,7 +5072,7 @@
       "4UXqAaa6dQYAk18Lv7PEgX",
       "1wObFQKM4jTjOud9tuVudn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "fall-out-boy",
     "name": "Fall Out Boy",
     "status": "cached",
@@ -4379,7 +5136,7 @@
     "candidates": [
       "2kGBy2WHvF0VdZyqiVCkDT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "father-john-misty",
     "name": "Father John Misty",
     "status": "cached",
@@ -4482,7 +5239,7 @@
     "candidates": [
       "37M5pPGs6V1fchFJSgCguX"
     ],
-    "count": 10,
+    "count": 5,
     "id": "finneas",
     "name": "FINNEAS",
     "status": "cached",
@@ -4492,7 +5249,7 @@
     "candidates": [
       "4AcHt3JxKy59IX7JNNlZn4"
     ],
-    "count": 10,
+    "count": 5,
     "id": "fitz-and-the-tantrums",
     "name": "Fitz and The Tantrums",
     "status": "cached",
@@ -4560,7 +5317,7 @@
       "5kQGFREO5FzMBMsAO3cEtj",
       "4gd6KDBMaE1Ywnl6WBgDGa"
     ],
-    "count": 10,
+    "count": 5,
     "id": "flogging-molly",
     "name": "Flogging Molly",
     "status": "cached",
@@ -4571,7 +5328,7 @@
       "5SOYsnPZLyeIIlKRrtqapT",
       "0szWPxzzE8DVEfXFRCLBUb"
     ],
-    "count": 10,
+    "count": 5,
     "id": "flor",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://florsounds.com/",
@@ -4647,7 +5404,7 @@
     "candidates": [
       "5ApQnMT6oR8eLguf24xb9S"
     ],
-    "count": 10,
+    "count": 5,
     "id": "foreign-air",
     "name": "Foreign Air",
     "status": "cached",
@@ -4657,7 +5414,7 @@
     "candidates": [
       "6IRouO5mvvfcyxtPDKMYFN"
     ],
-    "count": 10,
+    "count": 5,
     "id": "foreigner",
     "name": "Foreigner",
     "status": "cached",
@@ -4667,7 +5424,7 @@
     "candidates": [
       "7gP3bB2nilZXLfPHJhMdvc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "foster-the-people",
     "name": "Foster the People",
     "status": "cached",
@@ -4690,7 +5447,7 @@
       "0XNa1vTidXlvJ2gHSsRi4A",
       "3auYehHHrX5LtGOPteaofj"
     ],
-    "count": 10,
+    "count": 5,
     "id": "franz-ferdinand",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -4733,6 +5490,13 @@
     "name": "Freddie Gibbs",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0Y4inQK6OespitzD6ijMwb"
+  },
+  "freddie-gibbs-madlib": {
+    "candidates": [],
+    "id": "freddie-gibbs-madlib",
+    "name": "Freddie Gibbs & Madlib",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "freya-ridings": {
     "candidate_errors": [],
@@ -4781,6 +5545,13 @@
     "name": "Frost Children",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6R1kfr0GIWnwxY4zW11Vag"
+  },
+  "full-moonalice": {
+    "candidates": [],
+    "id": "full-moonalice",
+    "name": "Full Moonalice",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "future": {
     "candidate_errors": [],
@@ -4846,7 +5617,7 @@
     "candidates": [
       "0gXx2aQ2mfovDfqCw10MQC"
     ],
-    "count": 10,
+    "count": 5,
     "id": "g-jones",
     "name": "G Jones",
     "status": "cached",
@@ -4856,11 +5627,32 @@
     "candidates": [
       "01aC2ikO4Xgb2LUpf9JfKp"
     ],
-    "count": 10,
+    "count": 5,
     "id": "gary-clark-jr",
     "name": "Gary Clark Jr.",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/01aC2ikO4Xgb2LUpf9JfKp"
+  },
+  "gavin-hardkiss": {
+    "candidate_errors": [],
+    "candidates": [
+      "4tckET2nkkxAWIZoadAGLL"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4tckET2nkkxAWIZoadAGLL"
+        ],
+        "source_html_sha256": "5ada1908953e5f725d8f9951856ecd1b1687cb2cc366690c088077917574a884",
+        "url": "https://open.spotify.com/track/2bhgzzjHKibxQnSvlJteSF"
+      }
+    ],
+    "id": "gavin-hardkiss",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Gavin Hardkiss",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4tckET2nkkxAWIZoadAGLL"
   },
   "gavin-james": {
     "candidate_errors": [],
@@ -4868,11 +5660,19 @@
       "25tMQOrIU4LlUo6Sv8v5SE",
       "61PV5MMzHPqmiqsRMYWLsT"
     ],
+    "count": 5,
     "id": "gavin-james",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "always",
+      "tired"
+    ],
     "name": "Gavin James",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/gavin-james/2019/passeio-maritimo-de-alges-oeiras-portugal-39efd4b.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/25tMQOrIU4LlUo6Sv8v5SE"
   },
   "geese": {
     "candidate_errors": [
@@ -4887,7 +5687,7 @@
       "0WCo84qtCKfbyIf1lqQWB4",
       "4ogf206MydyTFBUNeguyIl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "geese",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -4969,7 +5769,7 @@
     "candidates": [
       "7i1CyQ1fogh4bkj3EPj3ls"
     ],
-    "count": 10,
+    "count": 5,
     "id": "girl-ultra",
     "name": "Girl Ultra",
     "status": "cached",
@@ -4979,7 +5779,7 @@
     "candidates": [
       "7AWyYXZ5tIc0xNSfKLD3QX"
     ],
-    "count": 10,
+    "count": 5,
     "id": "girlhouse",
     "name": "girlhouse",
     "status": "cached",
@@ -5001,29 +5801,50 @@
     "candidates": [
       "4yvcSjfu4PC0CYQyLy4wSq"
     ],
-    "count": 10,
+    "count": 5,
     "id": "glass-animals",
     "name": "Glass Animals",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4yvcSjfu4PC0CYQyLy4wSq"
   },
+  "glorilla": {
+    "candidate_errors": [],
+    "candidates": [
+      "2qoQgPAilErOKCwE2Y8wOG"
+    ],
+    "count": 5,
+    "id": "glorilla",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "GloRilla",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2qoQgPAilErOKCwE2Y8wOG"
+  },
   "glove": {
     "candidate_errors": [],
     "candidates": [
-      "75XeVX3ggxZzH9lS2UTNJa"
+      "4QbWweBoGYV4uFUQZeK1cy"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4QbWweBoGYV4uFUQZeK1cy"
+        ],
+        "source_html_sha256": "98e84020e7b4ce03170a98ddd513c36b03956e705093955e454634ef1bba9e9e",
+        "url": "https://open.spotify.com/album/7JkmH8AQI0roWtv4Uuc1QR"
+      }
     ],
     "id": "glove",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "Glove",
-    "reason": "Same-name profile needs stronger identity corroboration",
     "rejected_archive_candidates": [
       {
         "reason": "Artist mismatch: Childish Gambino",
         "url": "https://open.spotify.com/embed/artist/73sIBHcqh3Z3NyqHKZ7FOL"
       }
     ],
-    "status": "needs_review",
-    "url": "https://open.spotify.com/embed/artist/75XeVX3ggxZzH9lS2UTNJa"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4QbWweBoGYV4uFUQZeK1cy"
   },
   "gogo-penguin": {
     "candidate_errors": [],
@@ -5093,7 +5914,7 @@
       "0qI1asCY8CHtPiATYLomml",
       "1fteJUdGkr1zNK1vVQmo7e"
     ],
-    "count": 10,
+    "count": 5,
     "id": "goose",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -5120,7 +5941,7 @@
     "candidates": [
       "67aDn6MpR8gpp7yX21dT9o"
     ],
-    "count": 10,
+    "count": 5,
     "id": "gordon-goodwin",
     "name": "Gordon Goodwin",
     "status": "cached",
@@ -5154,11 +5975,30 @@
     "candidates": [
       "49EzPBcvDdWe93QJcA7UPf"
     ],
-    "count": 10,
+    "count": 5,
     "id": "grace-enger",
     "name": "Grace Enger",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/49EzPBcvDdWe93QJcA7UPf"
+  },
+  "grace-ives": {
+    "candidate_errors": [],
+    "candidates": [
+      "4TZieE5978SbTInJswaay2"
+    ],
+    "count": 5,
+    "id": "grace-ives",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Grace Ives",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4TZieE5978SbTInJswaay2"
+  },
+  "grace-towers-friends": {
+    "candidates": [],
+    "id": "grace-towers-friends",
+    "name": "Grace Towers & Friends",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "grace-vanderwaal": {
     "candidate_errors": [],
@@ -5202,11 +6042,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4ZgQDCtRqZlhLswVS6MHN4"
   },
+  "grass-child": {
+    "candidates": [],
+    "id": "grass-child",
+    "name": "Grass Child",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "grateful-shred": {
     "candidates": [
       "44G9mngUyQol4lNhoPIamb"
     ],
-    "count": 10,
+    "count": 5,
     "id": "grateful-shred",
     "name": "Grateful Shred",
     "status": "cached",
@@ -5216,7 +6063,7 @@
     "candidates": [
       "422RLznpwUa5FsQgnTlgUH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "great-good-fine-ok",
     "name": "Great Good Fine Ok",
     "status": "cached",
@@ -5226,7 +6073,7 @@
     "candidates": [
       "7oPftvlwr6VrsViSDV7fJY"
     ],
-    "count": 10,
+    "count": 5,
     "id": "green-day",
     "name": "Green Day",
     "status": "cached",
@@ -5236,7 +6083,7 @@
     "candidates": [
       "33bzrYoIWLx5uox3y0VtHn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "greensky-bluegrass",
     "name": "Greensky Bluegrass",
     "status": "cached",
@@ -5246,7 +6093,7 @@
     "candidates": [
       "4NpFxQe2UvRCAjto3JqlSl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "greta-van-fleet",
     "name": "Greta Van Fleet",
     "status": "cached",
@@ -5255,14 +6102,30 @@
   "griff": {
     "candidate_errors": [],
     "candidates": [
-      "4OesV70i0gkBdn2KniZ3Hz"
+      "5RJFJWYgtgWktosLrUDzff"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "5RJFJWYgtgWktosLrUDzff"
+        ],
+        "source_html_sha256": "2fe3e1037e0e51532e93483805748f02d7da1e343bec305b031ff6a2926c8739",
+        "url": "https://open.spotify.com/track/2LHTw0z12Jden9Q35aivgX"
+      },
+      {
+        "ids": [
+          "5RJFJWYgtgWktosLrUDzff"
+        ],
+        "source_html_sha256": "c256f01fd9ef155f142e8f1b57cbb1e237af2195d5829f5f4ce7242a61667843",
+        "url": "https://open.spotify.com/track/0n9Pw6QZYovG8WWPLhe8Uh"
+      }
     ],
     "id": "griff",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Griff",
-    "reason": "Same-name profile needs stronger identity corroboration",
-    "status": "needs_review",
-    "url": "https://open.spotify.com/embed/artist/4OesV70i0gkBdn2KniZ3Hz"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5RJFJWYgtgWktosLrUDzff"
   },
   "gryffin": {
     "candidate_errors": [],
@@ -5275,6 +6138,27 @@
     "name": "Gryffin",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+  },
+  "guga-bruno": {
+    "candidate_errors": [],
+    "candidates": [
+      "1yeors4ljBnt7xLYrEvU4v"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1yeors4ljBnt7xLYrEvU4v"
+        ],
+        "source_html_sha256": "4f50883211ffd885a75da3ba73e965857e4887adc50ec8fbf9aa3c4c2ed9b29d",
+        "url": "https://open.spotify.com/track/7CGthAkkFQlezFPFCXkE5S"
+      }
+    ],
+    "id": "guga-bruno",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Guga Bruno",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1yeors4ljBnt7xLYrEvU4v"
   },
   "guided-by-voices": {
     "candidate_errors": [],
@@ -5364,7 +6248,7 @@
     "candidates": [
       "73MDShZzdL4vUGMkmXOG6X"
     ],
-    "count": 10,
+    "count": 5,
     "id": "haley-heynderickx",
     "name": "Haley Heynderickx",
     "status": "cached",
@@ -5422,7 +6306,7 @@
     "candidates": [
       "6RDN7Y9LPG2tahFP5YFv19"
     ],
-    "count": 10,
+    "count": 5,
     "id": "hank-heaven",
     "name": "Hank Heaven",
     "status": "cached",
@@ -5462,7 +6346,7 @@
     "candidates": [
       "0fEQo2Dm5MtsWnd4tncTlt"
     ],
-    "count": 10,
+    "count": 5,
     "id": "hastings",
     "identity_basis": "Credited artist on public Spotify song/album page",
     "identity_source": "https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev",
@@ -5486,11 +6370,39 @@
     "candidates": [
       "4C8JImYOstMiTrnIwgSX9M"
     ],
-    "count": 10,
+    "count": 5,
     "id": "heartsounds",
     "name": "Heartsounds",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4C8JImYOstMiTrnIwgSX9M"
+  },
+  "heavee": {
+    "candidate_errors": [],
+    "candidates": [
+      "3bTrwZAKTLYI9zozCH6zxw"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "3bTrwZAKTLYI9zozCH6zxw"
+        ],
+        "source_html_sha256": "73823b7a302e71191e03b189a964141c0d8a5e4bc04deac5d7e6e3755fa4401d",
+        "url": "https://open.spotify.com/track/7HT8lC1m3rqVsADLbmrUDT"
+      },
+      {
+        "ids": [
+          "3bTrwZAKTLYI9zozCH6zxw"
+        ],
+        "source_html_sha256": "e8e5894b9b963ef99fc04296a1de4619b0f896a3d657b165c7fc3f177a959f2e",
+        "url": "https://open.spotify.com/track/6dMicvAqxgZEbJvirLbvM8"
+      }
+    ],
+    "id": "heavee",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Heavee",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3bTrwZAKTLYI9zozCH6zxw"
   },
   "hembree": {
     "candidate_errors": [],
@@ -5516,6 +6428,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/52PdgUJOjvS6Mpmjy1SAlx"
   },
+  "herrensauna-cem-b2b-mcmlxxxv-b2b-salome-b2b-spfdj": {
+    "candidates": [],
+    "id": "herrensauna-cem-b2b-mcmlxxxv-b2b-salome-b2b-spfdj",
+    "name": "Herrensauna (CEM b2b MCMLXXXV b2b Salome b2b SPFDJ)",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "hey-nothing": {
     "candidate_errors": [],
     "candidates": [
@@ -5538,7 +6457,7 @@
     "candidates": [
       "1btWGBz4Uu1HozTwb2Lm8A"
     ],
-    "count": 10,
+    "count": 5,
     "id": "hippo-campus",
     "name": "Hippo Campus",
     "status": "cached",
@@ -5550,7 +6469,7 @@
       "7DeuppKQdCVhuWrzzCBBpc",
       "04v4hOyH3Qds5zEsQTEZjJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "hiromi",
     "identity_basis": "Public artist biography identifies the Japanese jazz pianist and Sonicwonder catalog",
     "identity_source": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc",
@@ -5564,22 +6483,23 @@
     "url": "https://open.spotify.com/embed/artist/7DeuppKQdCVhuWrzzCBBpc"
   },
   "hitech": {
-    "candidate_errors": [
-      {
-        "reason": "Artist mismatch: Africa HiTech",
-        "url": "https://open.spotify.com/embed/artist/0NwdePm5jeQAtYt7dyFVEu"
-      }
-    ],
+    "candidate_errors": [],
     "candidates": [
-      "2Au9zIICTEr0oeV1iQrJ6X",
-      "0NwdePm5jeQAtYt7dyFVEu",
-      "5ObRaACHt3lY2PISRHvlzW"
+      "2Au9zIICTEr0oeV1iQrJ6X"
     ],
+    "count": 5,
     "id": "hitech",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "HiTech",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "2Au9zIICTEr0oeV1iQrJ6X"
+      ],
+      "source_html_sha256": "e7f857de9c7a0e3727314c91dd1af628da2af628d5fa0aef0b54934638ce715a",
+      "url": "https://linktr.ee/hitechdetroit"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2Au9zIICTEr0oeV1iQrJ6X"
   },
   "hobo-johnson": {
     "candidate_errors": [],
@@ -5606,6 +6526,13 @@
     "id": "hobo-johnson-the-lovemakers",
     "name": "Hobo Johnson & The Lovemakers",
     "status": "needs_review"
+  },
+  "hofe-x-4-40": {
+    "candidates": [],
+    "id": "hofe-x-4-40",
+    "name": "Hofe x 4:40",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "hoko": {
     "candidate_errors": [],
@@ -5667,6 +6594,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/33LSz2nhC8pCPTb3pd5add"
   },
+  "hot-goth-freak-show": {
+    "candidates": [],
+    "id": "hot-goth-freak-show",
+    "name": "Hot Goth Freak Show",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "hotline-tnt": {
     "candidate_errors": [],
     "candidates": [
@@ -5683,7 +6617,7 @@
     "candidates": [
       "2FXC3k01G6Gw61bmprjgqS"
     ],
-    "count": 10,
+    "count": 5,
     "id": "hozier",
     "name": "Hozier",
     "status": "cached",
@@ -5700,6 +6634,13 @@
     "name": "HTRK",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/06sdJwlggq0PKOe4LPZWCg"
+  },
+  "hugo-sousa": {
+    "candidates": [],
+    "id": "hugo-sousa",
+    "name": "Hugo Sousa",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "husbands": {
     "candidate_errors": [],
@@ -5754,7 +6695,7 @@
       "75mafsNqNE1WSEVxIKuY5C",
       "11tUC9DyG8tCFXNioBcama"
     ],
-    "count": 10,
+    "count": 5,
     "id": "idles",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -5823,7 +6764,7 @@
       "1dejmKNeaODb0iOLjhuu3P",
       "2PZThLYBW7XtcYVzQms8oM"
     ],
-    "count": 10,
+    "count": 5,
     "id": "infinity-song",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://ffm.to/infinitysong",
@@ -5850,14 +6791,22 @@
   "interpol": {
     "candidate_errors": [],
     "candidates": [
-      "0ShxwiirUZhl326ZTiddHb"
+      "3WaJSfKnzc65VDgmj2zU8B"
     ],
     "count": 5,
     "id": "interpol",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Interpol",
+    "official_identity_evidence": {
+      "profile_ids": [
+        "3WaJSfKnzc65VDgmj2zU8B"
+      ],
+      "recording_urls": [],
+      "source_html_sha256": "6db17c8e37a8ec46897af7b8dca9eb867a40f1077055528323897ea9457a5406",
+      "url": "https://www.partisanrecords.com/artists/interpol"
+    },
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/0ShxwiirUZhl326ZTiddHb"
+    "url": "https://open.spotify.com/embed/artist/3WaJSfKnzc65VDgmj2zU8B"
   },
   "iration": {
     "candidate_errors": [],
@@ -5972,7 +6921,7 @@
       "3nL2SIFMBNjPJ3kUWvMRiC",
       "4FZ3j1oH43e7cukCALsCwf"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jack-white",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -6019,11 +6968,37 @@
       "3LiP1obfPWBFo6CWsDMzBj",
       "2jnNzN7TDpZ74HJDofLGhW"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jacob-collier",
     "name": "Jacob Collier",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3LiP1obfPWBFo6CWsDMzBj"
+  },
+  "jade": {
+    "candidate_errors": [],
+    "candidates": [
+      "2EmcKC5wA38PKb4ue4ZzbE",
+      "24b0qNYNgeOfpP5rbljIB3",
+      "71ViI32vG1wixQUJNEHwRD",
+      "6puFUDFF9N67aDfvKW0tH9",
+      "7MbzmiosmSypFOUyKF9jQI",
+      "7ypgj95aGInvJMJbMv78wB",
+      "4WmtKVMoT1cQyHhD6lduGh"
+    ],
+    "count": 5,
+    "id": "jade",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "angelofmydreams",
+      "fufnfuckyoufornow",
+      "plasticbox"
+    ],
+    "name": "JADE",
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/jade/2026/golden-gate-park-san-francisco-ca-usa-4b49a7ce.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/24b0qNYNgeOfpP5rbljIB3"
   },
   "jai-paul": {
     "candidate_errors": [],
@@ -6062,16 +7037,29 @@
     "url": "https://open.spotify.com/embed/artist/5lEF4Tt1uK7Kuk80ILMlE9"
   },
   "james-blake": {
-    "candidate_errors": [],
-    "candidates": [
-      "53KwLdlmrlCelAZMaLVZqU",
-      "7dFCkegfCScAKTX2bfUhDz"
-    ],
+    "count": 5,
     "id": "james-blake",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official label identifies recording; public Spotify recording credits identify artist profile",
+      "profile_id": "53KwLdlmrlCelAZMaLVZqU",
+      "recording": "Godspeed",
+      "sources": [
+        {
+          "source_html_sha256": "2f8d636af8b3394ec8e8dca47cb3ca88abdfbfad3dc51ebcbb5ddfcfd938289b",
+          "url": "https://www.universal-music.co.jp/james-blake/products/00602435230337/"
+        },
+        {
+          "profile_ids": [
+            "53KwLdlmrlCelAZMaLVZqU"
+          ],
+          "source_html_sha256": "57495cfee51041b4d598d6b73ef667ef68a32993b14162c3a697c63f3e2d9926",
+          "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+        }
+      ]
+    },
     "name": "James Blake",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/53KwLdlmrlCelAZMaLVZqU"
   },
   "james-murphy": {
     "candidate_errors": [],
@@ -6089,7 +7077,7 @@
     "candidates": [
       "7A0awCXkE1FtSU8B0qwOJQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jamie-xx",
     "name": "Jamie xx",
     "status": "cached",
@@ -6099,7 +7087,7 @@
     "candidates": [
       "2gYTWrlVtX32Mj4FwbFcYY"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jammy-buffet",
     "name": "Jammy Buffet",
     "status": "cached",
@@ -6133,7 +7121,7 @@
     "candidates": [
       "3Lg3FGwBxOGuefqekQzRUf"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jason-isbell-and-the-400-unit",
     "name": "Jason Isbell and the 400 Unit",
     "status": "cached",
@@ -6143,7 +7131,7 @@
     "candidates": [
       "4phGZZrJZRo4ElhRtViYdl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jason-mraz",
     "name": "Jason Mraz",
     "status": "cached",
@@ -6173,6 +7161,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/25pd339V2rRJo84USlcSRP"
   },
+  "jd-twitch-optimo": {
+    "candidates": [],
+    "id": "jd-twitch-optimo",
+    "name": "JD Twitch (Optimo)",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "jean-dawson": {
     "candidate_errors": [],
     "candidates": [
@@ -6189,7 +7184,7 @@
     "candidates": [
       "1VmIiQ7VHrqHg90igSWrB0"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jesse-jo-stark",
     "name": "Jesse Jo Stark",
     "status": "cached",
@@ -6199,7 +7194,7 @@
     "candidates": [
       "366xgdzfRGQoiDRGidGlDJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jesse-welles",
     "name": "Jesse Welles",
     "status": "cached",
@@ -6220,14 +7215,21 @@
   "jessica-pratt": {
     "candidate_errors": [],
     "candidates": [
-      "5axz31mltRMW9F82oAqS5g",
       "5KTykbPcDB4GYS49jcHbWh"
     ],
+    "count": 5,
     "id": "jessica-pratt",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Jessica Pratt",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "5KTykbPcDB4GYS49jcHbWh"
+      ],
+      "source_html_sha256": "c7598dfb9d8dc0192eafd30f846676e7412a4775802bfba629ad8ddc3d826075",
+      "url": "https://jessicapratt.bandcamp.com/music"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5KTykbPcDB4GYS49jcHbWh"
   },
   "jessie-murph": {
     "candidate_errors": [],
@@ -6269,7 +7271,7 @@
     "candidates": [
       "3Ayl7mCk0nScecqOzvNp6s"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jimmy-eat-world",
     "name": "Jimmy Eat World",
     "status": "cached",
@@ -6305,7 +7307,7 @@
       "2g3VEVdHk05LfppWINoj9s",
       "3HXLY1sNXIxHfulrjPiRf5"
     ],
-    "count": 10,
+    "count": 5,
     "id": "joan",
     "identity_basis": "Public Spotify biography identifies the Little Rock pop duo",
     "identity_source": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5",
@@ -6395,7 +7397,7 @@
       "0hEurMDQu99nJRq8pTxO14",
       "6NFjVnsbtbReRbaTJRzAtX"
     ],
-    "count": 10,
+    "count": 5,
     "id": "john-mayer",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -6505,7 +7507,7 @@
       "7rrTqtOUOwva4sgTx9C9F9",
       "2uVXA7BM8MOCT8zQw9TLw6"
     ],
-    "count": 10,
+    "count": 5,
     "id": "joy-oladokun",
     "name": "Joy Oladokun",
     "status": "cached",
@@ -6515,7 +7517,7 @@
     "candidates": [
       "7qbvNcfTfckhCNM8NiR8nN"
     ],
-    "count": 10,
+    "count": 5,
     "id": "joyce-manor",
     "name": "Joyce Manor",
     "status": "cached",
@@ -6525,7 +7527,7 @@
     "candidates": [
       "1UfzhwcOR4yfX7yHTPfC9m"
     ],
-    "count": 10,
+    "count": 5,
     "id": "joywave",
     "name": "Joywave",
     "status": "cached",
@@ -6535,7 +7537,7 @@
     "candidates": [
       "66W9LaWS0DPdL7Sz8iYGYe"
     ],
-    "count": 10,
+    "count": 5,
     "id": "jp-saxe",
     "name": "JP Saxe",
     "status": "cached",
@@ -6565,6 +7567,27 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
   },
+  "julia-amor": {
+    "candidate_errors": [],
+    "candidates": [
+      "7xZqz9bsl0Zxf0g3mwnc9u"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "7xZqz9bsl0Zxf0g3mwnc9u"
+        ],
+        "source_html_sha256": "939a6cc162975067bbf80470e478be7c7fcefb5a831b76dc9663f730099746c5",
+        "url": "https://open.spotify.com/album/0HDST0SNR7oFLCbJxZPCzR"
+      }
+    ],
+    "id": "julia-amor",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "julia amor",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7xZqz9bsl0Zxf0g3mwnc9u"
+  },
   "julian-lamadrid": {
     "candidate_errors": [],
     "candidates": [
@@ -6592,14 +7615,23 @@
   "jupiter-okwess": {
     "candidate_errors": [],
     "candidates": [
-      "2tujJgEWPfR8gdqVw183dT",
-      "7wY8W0BTDUbnEUGu5K1uRF"
+      "2tujJgEWPfR8gdqVw183dT"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "2tujJgEWPfR8gdqVw183dT"
+        ],
+        "source_html_sha256": "07b11a63311801fab588bcd1b0e5fdac92a383cd5de42fc6fc56a8cb2c9c8ba4",
+        "url": "https://open.spotify.com/track/67Cek9KjLrVc78oCJsZtCA"
+      }
     ],
     "id": "jupiter-okwess",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Jupiter & Okwess",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2tujJgEWPfR8gdqVw183dT"
   },
   "justice": {
     "candidate_errors": [],
@@ -6637,6 +7669,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4FN8WHqUbwkd97WEjoCu7B"
   },
+  "justin-waves": {
+    "candidates": [],
+    "id": "justin-waves",
+    "name": "Justin Waves",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "jxdn": {
     "candidate_errors": [],
     "candidates": [
@@ -6661,6 +7700,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/70kkdajctXSbqSMJbQO424"
   },
+  "kaidara": {
+    "candidates": [],
+    "id": "kaidara",
+    "name": "Kaidara",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "kailee-morgue": {
     "candidate_errors": [],
     "candidates": [
@@ -6677,7 +7723,7 @@
     "candidates": [
       "6HQYnRM4OzToCYPpVBInuU"
     ],
-    "count": 10,
+    "count": 5,
     "id": "kamasi-washington",
     "name": "Kamasi Washington",
     "status": "cached",
@@ -6807,7 +7853,7 @@
     "candidates": [
       "07EcmJpfAday8xGkslfanE"
     ],
-    "count": 10,
+    "count": 5,
     "id": "kevin-abstract",
     "name": "Kevin Abstract",
     "status": "cached",
@@ -6859,7 +7905,7 @@
     "candidates": [
       "2mVVjNmdjXZZDvhgQWiakk"
     ],
-    "count": 10,
+    "count": 5,
     "id": "khruangbin",
     "name": "Khruangbin",
     "status": "cached",
@@ -6901,6 +7947,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5dkb0qOeUicNVLZKRGG92m"
   },
+  "kids-rock-for-kids": {
+    "candidates": [],
+    "id": "kids-rock-for-kids",
+    "name": "Kids Rock For Kids",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "kikagaku-moyo": {
     "candidate_errors": [],
     "candidates": [
@@ -6929,7 +7982,7 @@
     "candidates": [
       "6hk7Yq1DU9QcCCrz9uc0Ti"
     ],
-    "count": 10,
+    "count": 5,
     "id": "kimbra",
     "name": "Kimbra",
     "status": "cached",
@@ -6949,7 +8002,7 @@
     "candidates": [
       "69KMf1tEHAWHxacVjcjqKD"
     ],
-    "count": 10,
+    "count": 5,
     "id": "king-willow",
     "name": "King Willow",
     "status": "cached",
@@ -7007,7 +8060,7 @@
     "candidates": [
       "5ABfpj7Z00wfPiv2uW4MFm"
     ],
-    "count": 10,
+    "count": 5,
     "id": "knuckle-puck",
     "name": "Knuckle Puck",
     "status": "cached",
@@ -7043,11 +8096,18 @@
     "candidates": [
       "3RNrq3jvMZxD9ZyoOZbQOD"
     ],
-    "count": 10,
+    "count": 5,
     "id": "korn",
     "name": "Korn",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+  },
+  "kosine-frayne-vibez": {
+    "candidates": [],
+    "id": "kosine-frayne-vibez",
+    "name": "Kosine × Frayne Vibez",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "kota-the-friend": {
     "candidate_errors": [
@@ -7071,7 +8131,7 @@
     "candidates": [
       "4np3dM8CSvjKhToa0Epfs9"
     ],
-    "count": 10,
+    "count": 5,
     "id": "koyo",
     "name": "Koyo",
     "status": "cached",
@@ -7088,6 +8148,34 @@
     "name": "Krooked Kings",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6PbMwLmbus5mZl93tX1lXE"
+  },
+  "kutso": {
+    "candidate_errors": [],
+    "candidates": [
+      "7mSKpboJAyXUfZjUkb4lcr"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "7mSKpboJAyXUfZjUkb4lcr"
+        ],
+        "source_html_sha256": "5a968392b297041cbeb3f009347f69741e87705e34f1817976dde71e99bd53fb",
+        "url": "https://open.spotify.com/track/6jTvtf5fYbpEaWIMoynWfC"
+      },
+      {
+        "ids": [
+          "7mSKpboJAyXUfZjUkb4lcr"
+        ],
+        "source_html_sha256": "671b91791bdf5d868138e3a85bc2ddfa7ec2eb4d2c056c39392c97e381c56504",
+        "url": "https://open.spotify.com/track/08JKtxD9G21cm0Vfo8kWSj"
+      }
+    ],
+    "id": "kutso",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "KuTso",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7mSKpboJAyXUfZjUkb4lcr"
   },
   "kwn": {
     "candidate_errors": [],
@@ -7177,7 +8265,7 @@
     "candidates": [
       "3nuc29fYGlQbIrwh4yrNWd"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lake-street-dive",
     "name": "Lake Street Dive",
     "status": "cached",
@@ -7212,7 +8300,7 @@
       "0rFHElzeddB9ymDjgpBENX",
       "7dCyo9Lf7xFeYnYwZxUusF"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lamp",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.ilikelamp.com/",
@@ -7288,7 +8376,7 @@
     "candidates": [
       "677sHrkjhB7IP4YwjzZyc4"
     ],
-    "count": 10,
+    "count": 5,
     "id": "last-dinosaurs",
     "name": "Last Dinosaurs",
     "status": "cached",
@@ -7354,18 +8442,6 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/40LHVA5BTQp9RxHOQ9JPYj"
   },
-  "lauren-sanderson": {
-    "candidate_errors": [],
-    "candidates": [
-      "06vRrrjT3DBRkhBlXoBdYj"
-    ],
-    "id": "lauren-sanderson",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-    "name": "Lauren Sanderson",
-    "reason": "Catalog artist retired",
-    "status": "retired",
-    "url": "https://open.spotify.com/embed/artist/06vRrrjT3DBRkhBlXoBdYj"
-  },
   "lauv": {
     "candidate_errors": [],
     "candidates": [
@@ -7398,7 +8474,7 @@
       "2V66DNll1Zp0OnPUGh3hFu",
       "5rwUYLyUq8gBsVaOUcUxpE"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lawrence",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -7421,7 +8497,7 @@
     "candidates": [
       "066X20Nz7iquqkkCW6Jxy6"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lcd-soundsystem",
     "name": "LCD Soundsystem",
     "status": "cached",
@@ -7499,6 +8575,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5YZ5AExR68U3ZblH6HcO6B"
   },
+  "leyl-master-black": {
+    "candidates": [],
+    "id": "leyl-master-black",
+    "name": "Leyl Master Black",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "liberato": {
     "candidate_errors": [],
     "candidates": [
@@ -7573,7 +8656,7 @@
   },
   "linafornia": {
     "candidates": [],
-    "count": 10,
+    "count": 5,
     "id": "linafornia",
     "identity_basis": "Public Spotify credit for wetttt",
     "identity_source": "https://open.spotify.com/playlist/77Vqe42HtYNs33IMdOKXuI",
@@ -7585,7 +8668,7 @@
     "candidates": [
       "6yULqqTzvfwsEonNzu7iJQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lindsay-lou",
     "name": "Lindsay Lou",
     "status": "cached",
@@ -7627,6 +8710,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0MoXIHcFwhIWnFgBfdvQ30"
   },
+  "little-moon": {
+    "candidates": [],
+    "id": "little-moon",
+    "name": "Little Moon",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "little-stranger": {
     "candidate_errors": [],
     "candidates": [
@@ -7661,7 +8751,7 @@
     "candidates": [
       "1GmsPCcpKgF9OhlNXjOsbS"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lizzy-mcalpine",
     "name": "Lizzy McAlpine",
     "status": "cached",
@@ -7671,17 +8761,31 @@
     "candidates": [
       "75dQReiBOHN37fQgWQrIAJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "local-natives",
     "name": "Local Natives",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/75dQReiBOHN37fQgWQrIAJ"
   },
   "locus-pocus": {
-    "candidates": [],
+    "candidates": [
+      "4MWifxkVhRGDVZ83FQBWcL"
+    ],
+    "credit_evidence": [
+      {
+        "ids": [
+          "4MWifxkVhRGDVZ83FQBWcL"
+        ],
+        "source_html_sha256": "b3a78cde2918e7703e7aca880bd671bb47aaf93193784efee697224c1a2f0c8d",
+        "url": "https://open.spotify.com/album/0dcDKykcXyWXJg5Wji2wAo"
+      }
+    ],
     "id": "locus-pocus",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "identity_review_required": true,
     "name": "Locus Pocus",
-    "status": "no_spotify_match"
+    "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
+    "status": "needs_review"
   },
   "lola-young": {
     "candidate_errors": [],
@@ -7708,7 +8812,8 @@
     "id": "lolahol",
     "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
     "name": "Lolahol",
-    "status": "needs_review"
+    "reason": "Matching public artist embed exposes no ranked tracks",
+    "status": "no_ranked_tracks"
   },
   "lomelda": {
     "candidate_errors": [],
@@ -7786,7 +8891,7 @@
     "candidates": [
       "4KJ6jujcNPzOyhdNoiNftp"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lovelytheband",
     "name": "lovelytheband",
     "status": "cached",
@@ -7830,7 +8935,7 @@
   },
   "lrain": {
     "candidates": [],
-    "count": 10,
+    "count": 5,
     "id": "lrain",
     "identity_basis": "Credited artist on public Spotify song/album page",
     "identity_source": "https://open.spotify.com/track/1dIJIJDMORNO8jHQXNnSCP",
@@ -7842,7 +8947,7 @@
     "candidates": [
       "2b6gc4EVpO6OTlDvKrK852"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lucky-chops",
     "name": "Lucky Chops",
     "status": "cached",
@@ -7885,7 +8990,7 @@
     "candidates": [
       "5iXYJYmMcjlTFL1qA8UfgY"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lukas-nelson-promise-of-the-real",
     "name": "Lukas Nelson & Promise of the Real",
     "status": "cached",
@@ -7906,14 +9011,30 @@
   "luna-li": {
     "candidate_errors": [],
     "candidates": [
-      "4ZAk3yVJdtf1CFnTiG08U3",
-      "3GhOs3hCuHyXUsqBpbPvgy"
+      "4ZAk3yVJdtf1CFnTiG08U3"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4ZAk3yVJdtf1CFnTiG08U3"
+        ],
+        "source_html_sha256": "cac1a40d2b03fa6d245aa6f6d2a4e670f34a1930a111deb62dc4b87fe78beaaa",
+        "url": "https://open.spotify.com/track/0R6sz2EUOMSM3qaZHEpG63"
+      }
     ],
     "id": "luna-li",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Luna Li",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "4ZAk3yVJdtf1CFnTiG08U3"
+      ],
+      "source_html_sha256": "525d86a65a9eeb34b5c6812d9e4cd547a2f25700c320cd07938b7e18bfea22f7",
+      "url": "https://lunalimusic.com/"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4ZAk3yVJdtf1CFnTiG08U3"
   },
   "lunay": {
     "candidate_errors": [],
@@ -7969,7 +9090,7 @@
     "candidates": [
       "6oBm8HB0yfrIc9IHbxs6in"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lykke-li",
     "name": "Lykke Li",
     "status": "cached",
@@ -7979,11 +9100,18 @@
     "candidates": [
       "4MVyzYMgTwdP7Z49wAZHx0"
     ],
-    "count": 10,
+    "count": 5,
     "id": "lynyrd-skynyrd",
     "name": "Lynyrd Skynyrd",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4MVyzYMgTwdP7Z49wAZHx0"
+  },
+  "m8nse": {
+    "candidates": [],
+    "id": "m8nse",
+    "name": "M8NSE",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "mabe-fratti": {
     "candidate_errors": [],
@@ -8000,16 +9128,23 @@
   "mabel": {
     "candidate_errors": [],
     "candidates": [
-      "1hhQRlbjtVj3lrP7b3eblN",
-      "1MIVXf74SZHmTIp4V4paH4",
-      "5xkUQl2YUo783z0VtacAMa",
-      "7mM2sm7CppI1adkdG5nURJ"
+      "1MIVXf74SZHmTIp4V4paH4"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1MIVXf74SZHmTIp4V4paH4"
+        ],
+        "source_html_sha256": "45ee6778efd8b364a2284b46ede98a4e6a43e6b2bf03043cee64defc288b86c3",
+        "url": "https://open.spotify.com/album/4A6oATprhdXN0AkYkZw7Kv"
+      }
     ],
     "id": "mabel",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "Mabel",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1MIVXf74SZHmTIp4V4paH4"
   },
   "mac-demarco": {
     "candidate_errors": [],
@@ -8039,7 +9174,7 @@
     "candidates": [
       "48Qmm3KEWtgPvLdy9cddPc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "madi-sipes-the-painted-blue",
     "name": "Madi Sipes & The Painted Blue",
     "status": "cached",
@@ -8049,7 +9184,7 @@
     "candidates": [
       "3h9TfIgwhovQELlP2jj4xL"
     ],
-    "count": 10,
+    "count": 5,
     "id": "madison-cunningham",
     "name": "Madison Cunningham",
     "status": "cached",
@@ -8083,7 +9218,7 @@
     "candidates": [
       "4NZvixzsSefsNiIqXn0NDe"
     ],
-    "count": 10,
+    "count": 5,
     "id": "maggie-rogers",
     "name": "Maggie Rogers",
     "status": "cached",
@@ -8093,17 +9228,29 @@
     "candidates": [
       "1ikg4sypcURm8Vy5GP68xb"
     ],
-    "count": 10,
+    "count": 5,
     "id": "magic-city-hippies",
     "name": "Magic City Hippies",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1ikg4sypcURm8Vy5GP68xb"
   },
+  "magnus-ferrell": {
+    "candidate_errors": [],
+    "candidates": [
+      "5CljSCTqoS1Yu0tNJZJcKe"
+    ],
+    "count": 5,
+    "id": "magnus-ferrell",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Magnus Ferrell",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5CljSCTqoS1Yu0tNJZJcKe"
+  },
   "maisie-peters": {
     "candidates": [
       "2RVvqRBon9NgaGXKfywDSs"
     ],
-    "count": 10,
+    "count": 5,
     "id": "maisie-peters",
     "name": "Maisie Peters",
     "status": "cached",
@@ -8206,7 +9353,7 @@
     "candidates": [
       "0FeWKiZSwBRdGzqeCdlH1a"
     ],
-    "count": 10,
+    "count": 5,
     "id": "marcus-king",
     "name": "Marcus King",
     "status": "cached",
@@ -8260,6 +9407,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2QYudLHQwV6MDxWpZZtMNO"
   },
+  "maria-rui": {
+    "candidates": [],
+    "id": "maria-rui",
+    "name": "Maria Rui",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "mariah-the-scientist": {
     "candidate_errors": [],
     "candidates": [
@@ -8296,6 +9450,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/11p2E654TTU8e0nZWBR4AL"
   },
+  "mark-obrien": {
+    "candidates": [],
+    "id": "mark-obrien",
+    "name": "Mark O’Brien",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "marlon-funaki": {
     "candidate_errors": [],
     "candidates": [
@@ -8319,6 +9480,55 @@
     "name": "Marshmello",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/64KEffDW9EtZ1y2vBYgq8T"
+  },
+  "marta-mer": {
+    "candidates": [],
+    "id": "marta-mer",
+    "name": "Marta Mer",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "marta-movidas": {
+    "candidate_errors": [],
+    "candidates": [
+      "59NswlApCpxmZbKSNQg0i5"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "59NswlApCpxmZbKSNQg0i5"
+        ],
+        "source_html_sha256": "b4565e7b308ba1d9dead6cb468e08a807739700c42b0af423ea6653f69c618e4",
+        "url": "https://open.spotify.com/intl-es/track/5IbWZkprjzBfhLanXPPU27"
+      },
+      {
+        "ids": [
+          "59NswlApCpxmZbKSNQg0i5"
+        ],
+        "source_html_sha256": "45fbcbb3ea5583ef21a448942adc499a6f90fd6b5313159c3b0727e16c44dd44",
+        "url": "https://open.spotify.com/album/5UIcJgeFhGwyeFxrrvZPGj"
+      }
+    ],
+    "id": "marta-movidas",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Marta Movidas",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/59NswlApCpxmZbKSNQg0i5"
+  },
+  "martina-o-clock": {
+    "candidates": [],
+    "id": "martina-o-clock",
+    "name": "Martina O' Clock",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "marty-rock": {
+    "candidates": [],
+    "id": "marty-rock",
+    "name": "Marty Rock",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "masego": {
     "candidate_errors": [],
@@ -8440,20 +9650,12 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1bqxdqvUtPWZri43cKHac8"
   },
-  "maz": {
-    "candidate_errors": [],
-    "candidates": [
-      "3on1hfU7mL8uahVR3coOF8",
-      "0Co1iSj5JPAHPnyPBynYpr",
-      "6gYwbDKcqhLitCTlgF1oZn",
-      "7qPidGN2eRPNPzIpL4w6hS",
-      "3Le1Vxup51oZTtf6xMREXv"
-    ],
-    "id": "maz",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-    "name": "Maz",
-    "reason": "Identity needs review",
-    "status": "retired"
+  "maz-kidd-revel": {
+    "candidates": [],
+    "id": "maz-kidd-revel",
+    "name": "Maz & Kidd Revel",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "meduza": {
     "candidate_errors": [],
@@ -8471,7 +9673,7 @@
     "candidates": [
       "4bzfsZhaLW6VWHLh1sqcrK"
     ],
-    "count": 10,
+    "count": 5,
     "id": "meet-me-the-altar",
     "name": "Meet Me @ the Altar",
     "status": "cached",
@@ -8507,7 +9709,7 @@
       "3TmIeKYsTmXbJ7J9WmhloL",
       "0G7KI9I5BApiXc5Sqpyil9"
     ],
-    "count": 10,
+    "count": 5,
     "id": "melt",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://ffm.to/aoxbymm",
@@ -8524,7 +9726,7 @@
     "candidates": [
       "3zmfs9cQwzJl575W1ZYXeT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "men-i-trust",
     "name": "Men I Trust",
     "status": "cached",
@@ -8582,7 +9784,7 @@
     "candidates": [
       "0oL26Dn9y761yfJgNb3vfu"
     ],
-    "count": 10,
+    "count": 5,
     "id": "michigander",
     "name": "Michigander",
     "status": "cached",
@@ -8604,7 +9806,7 @@
     "candidates": [
       "4W5ucdWYixUi9C1qdY7Djw"
     ],
-    "count": 10,
+    "count": 5,
     "id": "microwave",
     "name": "Microwave",
     "status": "cached",
@@ -8634,7 +9836,7 @@
       "6h0k5lBXSPh9LZ6TDeH2LP",
       "5MmVJVhhYKQ86izuGHzJYA"
     ],
-    "count": 10,
+    "count": 5,
     "id": "mika",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.yomika.com/",
@@ -8650,7 +9852,7 @@
     "candidates": [
       "1buzCmyYZE4kcdLRudsb8V"
     ],
-    "count": 10,
+    "count": 5,
     "id": "mikky-ekko",
     "name": "Mikky Ekko",
     "status": "cached",
@@ -8720,7 +9922,7 @@
     "candidates": [
       "5ivCbtrcD5N4rD337xIb2z"
     ],
-    "count": 10,
+    "count": 5,
     "id": "misterwives",
     "name": "MisterWives",
     "status": "cached",
@@ -8742,7 +9944,7 @@
     "candidates": [
       "1jFVu6Z7wmwywivOeBTSIV"
     ],
-    "count": 10,
+    "count": 5,
     "id": "miya-folick",
     "name": "Miya Folick",
     "status": "cached",
@@ -8857,7 +10059,7 @@
       "0bgqV7o9qcr1Z2UC1wtrkj",
       "4SV0hSxnWnnFHpMZyPJSuP"
     ],
-    "count": 10,
+    "count": 5,
     "id": "moe",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.moe.org/pages/band",
@@ -8887,7 +10089,7 @@
     "candidates": [
       "6PsktPFR0UZptKdSqmlS5h"
     ],
-    "count": 10,
+    "count": 5,
     "id": "mom-jeans",
     "name": "Mom Jeans.",
     "status": "cached",
@@ -8934,7 +10136,7 @@
       "6LXZac7iBIZgnNrywTkQRw",
       "0nuqFYQ0p1TjLJ4MUyon0X"
     ],
-    "count": 10,
+    "count": 5,
     "id": "monophonics",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -8967,7 +10169,7 @@
     "candidates": [
       "5DK8eK7fjvRsziXzyr3sFA"
     ],
-    "count": 10,
+    "count": 5,
     "id": "moon-taxi",
     "name": "Moon Taxi",
     "status": "cached",
@@ -9015,6 +10217,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/63vaeIIBKIe9zT91EORVbr"
   },
+  "morreo": {
+    "candidate_errors": [],
+    "candidates": [
+      "3Xp3bobA8pIQerBzo8jW8d"
+    ],
+    "count": 5,
+    "id": "morreo",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Morreo",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3Xp3bobA8pIQerBzo8jW8d"
+  },
   "motherfolk": {
     "candidate_errors": [],
     "candidates": [
@@ -9038,6 +10252,13 @@
     "name": "Mothica",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1JhiIIXT9DWqEU3BYFZwGA"
+  },
+  "motion-potion": {
+    "candidates": [],
+    "id": "motion-potion",
+    "name": "Motion Potion",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "mount-kimbie": {
     "candidate_errors": [],
@@ -9075,11 +10296,55 @@
     "reason": "Multiple profiles match artist heading",
     "status": "ambiguous"
   },
+  "mphd": {
+    "candidates": [],
+    "id": "mphd",
+    "name": "MPHD",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "mr-shaw": {
+    "candidates": [],
+    "id": "mr-shaw",
+    "name": "Mr. Shaw",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "ms-boan": {
+    "candidate_errors": [
+      {
+        "reason": "Expected 1–10 ranked songs; found 0",
+        "url": "https://open.spotify.com/embed/artist/68IOz94wMB0FeeQquvofz5"
+      }
+    ],
+    "candidates": [
+      "68IOz94wMB0FeeQquvofz5"
+    ],
+    "credit_evidence": [
+      {
+        "ids": [],
+        "source_html_sha256": "fe33bd28ee24917b9fa5ecd7c88211e39bb8be527b3bf07c7c6e0b8bc75bd1f5",
+        "url": "https://open.spotify.com/track/2mdX8wW1dKm7VKC1gzFSht"
+      },
+      {
+        "ids": [
+          "68IOz94wMB0FeeQquvofz5"
+        ],
+        "source_html_sha256": "fc33d3558259b140b52b3a82fa3b80eca946e69bb0ee8fefe66d75c1e89c5682",
+        "url": "https://open.spotify.com/intl-de/track/7ymW5lueevpqz9hF3yRABp"
+      }
+    ],
+    "id": "ms-boan",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Ms. Boan",
+    "reason": "Matching public artist embed exposes no ranked tracks",
+    "status": "no_ranked_tracks"
+  },
   "mt-joy": {
     "candidates": [
       "69tiO1fG8VWduDl3ji2qhI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "mt-joy",
     "name": "Mt. Joy",
     "status": "cached",
@@ -9115,7 +10380,7 @@
       "5ZTABecutSrF6vvAHkl7Td",
       "2T0futm37dcvqck37tFxwn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "muse",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -9186,7 +10451,7 @@
     "candidates": [
       "43O3c6wewpzPKwVaGEEtBM"
     ],
-    "count": 10,
+    "count": 5,
     "id": "my-morning-jacket",
     "name": "My Morning Jacket",
     "status": "cached",
@@ -9219,20 +10484,29 @@
   "nala-sinephro": {
     "candidate_errors": [],
     "candidates": [
-      "2UPAGs8vFUpVcW0H6yx9AR",
       "2h5syT5XdsQgKLq8Yn1klO"
     ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "2h5syT5XdsQgKLq8Yn1klO"
+        ],
+        "source_html_sha256": "8bf988851a698a6b20bbfa86c04b2b4bd188368fa0011798a033aff5edbe29bf",
+        "url": "https://open.spotify.com/track/5xYR2G6YOEzX2X9asFUrOE"
+      }
+    ],
     "id": "nala-sinephro",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Nala Sinephro",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2h5syT5XdsQgKLq8Yn1klO"
   },
   "nancy-zhou": {
     "candidates": [
       "0IJyfbQ2fYZoAnuGmdamHw"
     ],
-    "count": 10,
+    "count": 5,
     "id": "nancy-zhou",
     "name": "Nancy Zhou",
     "status": "cached",
@@ -9242,11 +10516,18 @@
     "candidates": [
       "7jw9vF1hFRp1k8dDRNRiC5"
     ],
-    "count": 10,
+    "count": 5,
     "id": "nanowar-of-steel",
     "name": "Nanowar of Steel",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7jw9vF1hFRp1k8dDRNRiC5"
+  },
+  "napa-valley-youth-symphony": {
+    "candidates": [],
+    "id": "napa-valley-youth-symphony",
+    "name": "Napa Valley Youth Symphony",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "nazar": {
     "candidate_errors": [],
@@ -9284,7 +10565,7 @@
     "candidates": [
       "2TM0qnbJH4QPhGMCdPt7fH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "neck-deep",
     "name": "Neck Deep",
     "status": "cached",
@@ -9302,11 +10583,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/587PA35pRGL1JwQr6idJbb"
   },
+  "nelsonn": {
+    "candidates": [],
+    "id": "nelsonn",
+    "name": "Nelsonn",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "new-found-glory": {
     "candidates": [
       "4ghjRm4M2vChDfTUycx0Ce"
     ],
-    "count": 10,
+    "count": 5,
     "id": "new-found-glory",
     "name": "New Found Glory",
     "status": "cached",
@@ -9359,7 +10647,7 @@
     "candidates": [
       "5ybS5AnvB5SR3uFUs3lMuq"
     ],
-    "count": 8,
+    "count": 5,
     "id": "nia-ashleigh",
     "name": "Nia Ashleigh",
     "status": "cached",
@@ -9389,6 +10677,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3x8FbPjh2Qz55XMdE2Yalj"
   },
+  "nicole-aiff": {
+    "candidates": [],
+    "id": "nicole-aiff",
+    "name": "Nicole.Aiff",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "nicole-canaan": {
     "candidate_errors": [],
     "candidates": [
@@ -9400,6 +10695,18 @@
     "name": "Nicole Canaan",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7fkYG097ZRJfUekUFiu1Vm"
+  },
+  "nieve-ella": {
+    "candidate_errors": [],
+    "candidates": [
+      "14zhvja4OxwrmivOB3LHOn"
+    ],
+    "count": 5,
+    "id": "nieve-ella",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Nieve Ella",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/14zhvja4OxwrmivOB3LHOn"
   },
   "night-animals": {
     "candidates": [],
@@ -9423,7 +10730,7 @@
     "candidates": [
       "1Ha0Fz4i0d4gu5fZbhBCtH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "night-ranger",
     "name": "Night Ranger",
     "status": "cached",
@@ -9435,11 +10742,21 @@
       "5APEQlUaQ5K70LgPqAdTuU",
       "2PMTcjPjWi1ENYvJDiY7GI"
     ],
+    "count": 5,
     "id": "night-tapes",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "drifting",
+      "humans",
+      "swordsman",
+      "television"
+    ],
     "name": "Night Tapes",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/night-tapes/2026/golden-gate-park-san-francisco-ca-usa-2b49a4ba.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/5APEQlUaQ5K70LgPqAdTuU"
   },
   "nightly": {
     "candidate_errors": [],
@@ -9465,6 +10782,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2kxP07DLgs4xlWz8YHlvfh"
   },
+  "nilton": {
+    "candidates": [],
+    "id": "nilton",
+    "name": "Nilton",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "ninajirachi": {
     "candidate_errors": [],
     "candidates": [
@@ -9481,7 +10805,7 @@
     "candidates": [
       "0X380XXQSNBYuleKzav5UO"
     ],
-    "count": 10,
+    "count": 5,
     "id": "nine-inch-nails",
     "name": "Nine Inch Nails",
     "status": "cached",
@@ -9491,7 +10815,7 @@
     "candidates": [
       "6iPbI11utXY9CVhX6SPXEg"
     ],
-    "count": 10,
+    "count": 5,
     "id": "nitepunk",
     "name": "Nitepunk",
     "status": "cached",
@@ -9513,7 +10837,7 @@
     "candidates": [
       "6fU24B4K9kWmFt5WTwwsLF"
     ],
-    "count": 10,
+    "count": 5,
     "id": "noah-floersch",
     "name": "Noah Floersch",
     "status": "cached",
@@ -9526,8 +10850,16 @@
     ],
     "count": 5,
     "id": "noah-kahan",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Noah Kahan",
+    "official_identity_evidence": {
+      "profile_ids": [
+        "2RQXRUsr4IW1f3mKyKsy4B"
+      ],
+      "recording_urls": [],
+      "source_html_sha256": "f466aa6389d1ce53b0205c6c010b9807906254fd41b1bca0e74399c35083ddef",
+      "url": "https://noahkahan.com/collections/music"
+    },
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2RQXRUsr4IW1f3mKyKsy4B"
   },
@@ -9571,7 +10903,7 @@
     "candidates": [
       "2Kx7MNY7cI1ENniW7vT30N"
     ],
-    "count": 10,
+    "count": 5,
     "id": "norah-jones",
     "name": "Norah Jones",
     "status": "cached",
@@ -9593,7 +10925,7 @@
     "candidates": [
       "09Wl9YiRr5l1rChWktQD4o"
     ],
-    "count": 10,
+    "count": 5,
     "id": "noso",
     "name": "NoSo",
     "status": "cached",
@@ -9652,7 +10984,7 @@
       "6ZitSwtBSGqj00w11GvMU3",
       "5kpWKkzzMIDbHXpFjfU1Ow"
     ],
-    "count": 10,
+    "count": 5,
     "id": "now-now",
     "identity_basis": "Spotify credits this artist for AZ from Saved; duplicate name profile shares catalog",
     "identity_source": "https://open.spotify.com/track/0j5Ec2iQDooAPh5T5zHQsM",
@@ -9675,6 +11007,20 @@
     "name": "nusar3000",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2Mvgw0Sfyepmz6lgRAooex"
+  },
+  "oasis-dj-set-beverly-chills": {
+    "candidates": [],
+    "id": "oasis-dj-set-beverly-chills",
+    "name": "OASIS DJ Set: Beverly Chills",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "oasis-dj-set-dj-ion-the-prize": {
+    "candidates": [],
+    "id": "oasis-dj-set-dj-ion-the-prize",
+    "name": "OASIS DJ Set: DJ Ion The Prize",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "obongjayar": {
     "candidate_errors": [],
@@ -9699,6 +11045,13 @@
     "name": "Obsidian Son",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0WsIcPgjv3coHK6ydkMiki"
+  },
+  "odd-mob-omnom-present-hyperbeam": {
+    "candidates": [],
+    "id": "odd-mob-omnom-present-hyperbeam",
+    "name": "ODD MOB & OMNOM present HYPERBEAM",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "odesza": {
     "candidate_errors": [],
@@ -9736,11 +11089,37 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4dwdTW1Lfiq0cM8nBAqIIz"
   },
+  "ojoo": {
+    "candidate_errors": [],
+    "candidates": [
+      "6JOKfOTPCROdO6GPNzAZCY"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "6JOKfOTPCROdO6GPNzAZCY"
+        ],
+        "source_html_sha256": "f95179dc414a36ee7ee8e61158dd3ac2c445c31a3ee10209f17debc72f6d2e8a",
+        "url": "https://open.spotify.com/track/70gByCdisjjdCs2NiH5KmY"
+      },
+      {
+        "ids": [],
+        "source_html_sha256": "b92c82339d621c2bf2d7a4ba8b3ce816155d1b3ec16b2258586def5918c57ad6",
+        "url": "https://open.spotify.com/album/255PLwSU72DreJuiJP5Qqv"
+      }
+    ],
+    "id": "ojoo",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Ojoo",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6JOKfOTPCROdO6GPNzAZCY"
+  },
   "ok-go": {
     "candidates": [
       "3hozsZ9hqNq7CoBGYNlFTz"
     ],
-    "count": 10,
+    "count": 5,
     "id": "ok-go",
     "name": "OK Go",
     "status": "cached",
@@ -9759,18 +11138,50 @@
     "url": "https://open.spotify.com/embed/artist/5nki7yRhxgM509M5ADlN1p"
   },
   "oliver-herbert": {
-    "candidate_errors": [
-      {
-        "reason": "Expected 1–10 ranked songs; found 0",
-        "url": "https://open.spotify.com/embed/artist/6jkUJbQcuGCJdDJHs3lnHn"
-      }
-    ],
     "candidates": [
       "6jkUJbQcuGCJdDJHs3lnHn"
     ],
+    "credit_evidence": [
+      {
+        "ids": [
+          "6jkUJbQcuGCJdDJHs3lnHn"
+        ],
+        "source_html_sha256": "01826a3949cbdc0529fa8b3d238ccf4875a94b8df08a0827bde3a6e6b8f9da64",
+        "url": "https://open.spotify.com/intl-pt/track/7Lx8XUHoF1MFWoCJ4DrFmv"
+      }
+    ],
     "id": "oliver-herbert",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "identity_review_required": true,
     "name": "Oliver Herbert",
+    "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
     "status": "needs_review"
+  },
+  "oliver-riot": {
+    "candidate_errors": [],
+    "candidates": [
+      "28dDyPkw069ypiqC78dhRb"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "28dDyPkw069ypiqC78dhRb"
+        ],
+        "source_html_sha256": "b3e6caf9148fad16f66b1439a1f698054a24d5c8dca838a703e39dd88cd4f622",
+        "url": "https://open.spotify.com/track/7MqvTe4BDeufWNrQVbvMt7"
+      },
+      {
+        "ids": [],
+        "source_html_sha256": "a775042751d6c108ab606bf813d13e72e678206ff08edfc40624051398e4bcf3",
+        "url": "https://open.spotify.com/album/0jOSKYntYL45rMKHQbUast"
+      }
+    ],
+    "id": "oliver-riot",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Oliver Riot",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/28dDyPkw069ypiqC78dhRb"
   },
   "oliver-tree": {
     "candidate_errors": [],
@@ -9788,7 +11199,7 @@
     "candidates": [
       "00x1fYSGhdqScXBRpSj3DW"
     ],
-    "count": 10,
+    "count": 5,
     "id": "olivia-dean",
     "name": "Olivia Dean",
     "status": "cached",
@@ -9822,7 +11233,7 @@
     "candidates": [
       "1McMsnEElThX1knmY4oliG"
     ],
-    "count": 10,
+    "count": 5,
     "id": "olivia-rodrigo",
     "name": "Olivia Rodrigo",
     "status": "cached",
@@ -9839,6 +11250,34 @@
     "name": "Omar Apollo",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5FxD8fkQZ6KcsSYupDVoSO"
+  },
+  "oona-dahl": {
+    "candidate_errors": [],
+    "candidates": [
+      "0v3ixvE1BHMKZLdZC4s3kt"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "0v3ixvE1BHMKZLdZC4s3kt"
+        ],
+        "source_html_sha256": "5a03e4f01b37d95260fb0a39b2ccb067e2ea285f96a26b40f643948c84537c5b",
+        "url": "https://open.spotify.com/track/42swkx8xgLSTWwDNRaiSSD"
+      },
+      {
+        "ids": [
+          "0v3ixvE1BHMKZLdZC4s3kt"
+        ],
+        "source_html_sha256": "bebf9e65a22531e9faa6c08b976e2d1cceda9b635ce6fa16815d954cc2005c9d",
+        "url": "https://open.spotify.com/track/2eGZ4ScSGy72cc5ZHwJrT6"
+      }
+    ],
+    "id": "oona-dahl",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Öona Dahl",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0v3ixvE1BHMKZLdZC4s3kt"
   },
   "orion-sun": {
     "candidate_errors": [],
@@ -9868,7 +11307,7 @@
     "candidates": [
       "3qdSSvZYk0EluUMOCwTc8C"
     ],
-    "count": 10,
+    "count": 5,
     "id": "oscar-hernandez",
     "name": "Oscar Hernández",
     "status": "cached",
@@ -9890,7 +11329,7 @@
     "candidates": [
       "5NxOynAoF4PRKsFHH5LhGL"
     ],
-    "count": 8,
+    "count": 5,
     "id": "oteil-burbridge",
     "name": "Oteil Burbridge",
     "status": "cached",
@@ -9907,6 +11346,13 @@
     "name": "OTTTO",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4CZKVwqjjQpc8677Btlyjt"
+  },
+  "out-tonight-a-musical-singalong-feat-darcy-drollinger": {
+    "candidates": [],
+    "id": "out-tonight-a-musical-singalong-feat-darcy-drollinger",
+    "name": "OUT TONIGHT: A Musical Singalong feat. D’Arcy Drollinger",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "p-lo": {
     "candidate_errors": [],
@@ -9972,7 +11418,7 @@
     "candidates": [
       "74XFHRwlV6OrjEM0A2NCMF"
     ],
-    "count": 10,
+    "count": 5,
     "id": "paramore",
     "name": "Paramore",
     "status": "cached",
@@ -10018,7 +11464,7 @@
     "candidates": [
       "7gjAu1qr5C2grXeQFFOGeh"
     ],
-    "count": 10,
+    "count": 5,
     "id": "passion-pit",
     "name": "Passion Pit",
     "status": "cached",
@@ -10028,7 +11474,7 @@
     "candidates": [
       "2CvCyf1gEVhI0mX6aFXmVI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "paul-simon",
     "name": "Paul Simon",
     "status": "cached",
@@ -10136,11 +11582,34 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6W3mhj4lzJz425HqZzHltz"
   },
+  "peso-pluma": {
+    "candidate_errors": [
+      {
+        "reason": "Expected 1–10 ranked songs; found 0",
+        "url": "https://open.spotify.com/embed/artist/6s3k8BqipraGEJFclz2Prh"
+      },
+      {
+        "reason": "Expected 1–10 ranked songs; found 0",
+        "url": "https://open.spotify.com/embed/artist/1L8RFrXhTouyC55RDcpZro"
+      }
+    ],
+    "candidates": [
+      "6s3k8BqipraGEJFclz2Prh",
+      "12GqGscKJx3aE4t07u7eVZ",
+      "1L8RFrXhTouyC55RDcpZro"
+    ],
+    "count": 5,
+    "id": "peso-pluma",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Peso Pluma",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/12GqGscKJx3aE4t07u7eVZ"
+  },
   "peter-frampton": {
     "candidates": [
       "0543y7yrvny4KymoaneT4W"
     ],
-    "count": 10,
+    "count": 5,
     "id": "peter-frampton",
     "name": "Peter Frampton",
     "status": "cached",
@@ -10157,7 +11626,7 @@
       "0bZRX6g5a8oj5QsqA3XvaK",
       "3INiDYiQDN8IO9zaKWjGjD"
     ],
-    "count": 10,
+    "count": 5,
     "id": "peter-grunberg",
     "name": "Peter Grünberg",
     "status": "cached",
@@ -10184,26 +11653,31 @@
   "petey": {
     "candidate_errors": [],
     "candidates": [
-      "4TeKBLCqmYXzvcgYX4t4YA"
+      "53OVzzhCgqPTeQuqTc54tr"
     ],
+    "count": 5,
     "id": "petey",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Petey renamed Petey USA; public Apple Music artist/release records preserve the same Lean Into Life and USA catalog; original festival archive profile ID now carries the updated name",
+    "identity_evidence_urls": [
+      "https://music.apple.com/us/artist/petey/1489483537",
+      "https://music.apple.com/us/artist/petey-usa/1789154025"
+    ],
     "name": "Petey",
-    "reason": "Same-name profile needs stronger identity corroboration",
     "rejected_archive_candidates": [
       {
         "reason": "Artist mismatch: Petey USA",
         "url": "https://open.spotify.com/embed/artist/53OVzzhCgqPTeQuqTc54tr"
       }
     ],
-    "status": "needs_review",
-    "url": "https://open.spotify.com/embed/artist/4TeKBLCqmYXzvcgYX4t4YA"
+    "spotify_name": "Petey USA",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/53OVzzhCgqPTeQuqTc54tr"
   },
   "phantogram": {
     "candidates": [
       "1l9d7B8W0IHy3LqWsxP2SH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "phantogram",
     "name": "Phantogram",
     "status": "cached",
@@ -10212,14 +11686,23 @@
   "phem": {
     "candidate_errors": [],
     "candidates": [
-      "0BMnBygB6YAoapBQV8NayK"
+      "0MGJHTThvyAyqKuEAgPqDr"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "0MGJHTThvyAyqKuEAgPqDr"
+        ],
+        "source_html_sha256": "376c6814ad34599031a6b8728c40bce5d0b3fe15c7c1efa3e79b7128bb396678",
+        "url": "https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL"
+      }
     ],
     "id": "phem",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "phem",
-    "reason": "Same-name profile needs stronger identity corroboration",
-    "status": "needs_review",
-    "url": "https://open.spotify.com/embed/artist/0BMnBygB6YAoapBQV8NayK"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0MGJHTThvyAyqKuEAgPqDr"
   },
   "phew": {
     "candidate_errors": [],
@@ -10237,7 +11720,7 @@
     "candidates": [
       "5wbIWUzTPuTxTyG6ouQKqz"
     ],
-    "count": 10,
+    "count": 5,
     "id": "phish",
     "name": "Phish",
     "status": "cached",
@@ -10247,7 +11730,7 @@
     "candidates": [
       "1r1uxoy19fzMxunt3ONAkG"
     ],
-    "count": 10,
+    "count": 5,
     "id": "phoebe-bridgers",
     "name": "Phoebe Bridgers",
     "status": "cached",
@@ -10274,7 +11757,7 @@
       "00owJ8781Ym8bLW217ubrX",
       "1YzBKlmt2KQD3fNDlbRpWv"
     ],
-    "count": 10,
+    "count": 5,
     "id": "phoenix",
     "name": "Phoenix",
     "status": "cached",
@@ -10284,7 +11767,7 @@
     "candidates": [
       "57kIMCLPgkzQlXjblX7XXP"
     ],
-    "count": 10,
+    "count": 5,
     "id": "phosphorescent",
     "name": "Phosphorescent",
     "status": "cached",
@@ -10294,7 +11777,7 @@
     "candidates": [
       "52NOvMXEjgf8MQl0qop2dl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "pigeons-playing-ping-pong",
     "name": "Pigeons Playing Ping Pong",
     "status": "cached",
@@ -10329,7 +11812,7 @@
       "6zvul52xwTWzilBZl6BUbT",
       "7hFzNEpeyO98QltRkMtHNq"
     ],
-    "count": 10,
+    "count": 5,
     "id": "pixies",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -10411,16 +11894,25 @@
     "url": "https://open.spotify.com/embed/artist/6AgTAQt8XS6jRWi4sX7w49"
   },
   "pond": {
-    "candidate_errors": [],
-    "candidates": [
-      "4skJp5OKvcc9eKokiuhi2s",
-      "2C3d4ZcjA6BLPvl2uGZ7X6"
-    ],
+    "count": 5,
     "id": "pond",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official artist/label profile link",
+      "profile_id": "4skJp5OKvcc9eKokiuhi2s",
+      "sources": [
+        {
+          "profile_ids": [
+            "4skJp5OKvcc9eKokiuhi2s"
+          ],
+          "recording_urls": [],
+          "source_html_sha256": "e5600aa820147aa2a2c8ae8be8b8e3f90d4e3975550867c822c5a9cd35fd6f37",
+          "url": "https://linktr.ee/Pondband"
+        }
+      ]
+    },
     "name": "Pond",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4skJp5OKvcc9eKokiuhi2s"
   },
   "pony-bradshaw": {
     "candidate_errors": [],
@@ -10437,14 +11929,23 @@
   "poolside": {
     "candidate_errors": [],
     "candidates": [
-      "5mQqd4OFcSO9mLlIa8m0Nq"
+      "5szdY7KaSi7epwyffrbV8c"
     ],
-    "count": 3,
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "5szdY7KaSi7epwyffrbV8c"
+        ],
+        "source_html_sha256": "1bb78e37d4e9e26a3cd3d49a4183c8b357fb9ecb021678f77fa225a3e95d52b0",
+        "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      }
+    ],
     "id": "poolside",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "Poolside",
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/5mQqd4OFcSO9mLlIa8m0Nq"
+    "url": "https://open.spotify.com/embed/artist/5szdY7KaSi7epwyffrbV8c"
   },
   "porches": {
     "candidate_errors": [],
@@ -10462,7 +11963,7 @@
     "candidates": [
       "0pgrx1XlgU9Y4Uh7ds7nTI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "porterfield",
     "name": "Porterfield",
     "status": "cached",
@@ -10470,7 +11971,7 @@
   },
   "portugal-the-man": {
     "candidates": [],
-    "count": 10,
+    "count": 5,
     "id": "portugal-the-man",
     "identity_basis": "Official artist website links this profile",
     "identity_source": "https://portugaltheman.com/",
@@ -10526,17 +12027,35 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7JQn9DfFTtsFTg2dFc75jM"
   },
+  "princess-w-tito-soto-feat-lydia-b-kollins": {
+    "candidates": [],
+    "id": "princess-w-tito-soto-feat-lydia-b-kollins",
+    "name": "PRINCESS w/ Tito Soto feat. Lydia B Kollins",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "pulp": {
-    "candidate_errors": [],
-    "candidates": [
-      "36E7oYfz3LLRto6l2WmDcD",
-      "7tBj8S9GCDO3wNgWVQUgS8"
-    ],
+    "count": 5,
     "id": "pulp",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Multiple distinctive official discography titles match the public artist ranked list",
+      "corroborating_titles": [
+        "Babies",
+        "Disco 2000",
+        "Common People",
+        "Do You Remember"
+      ],
+      "profile_id": "36E7oYfz3LLRto6l2WmDcD",
+      "sources": [
+        {
+          "source_html_sha256": "5d649bcd4f05736b742b0934b883cecd015d799ec8415472114410e7311eb7a6",
+          "url": "https://www.universal-music.co.jp/pulp/products/00044006351322/"
+        }
+      ]
+    },
     "name": "Pulp",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/36E7oYfz3LLRto6l2WmDcD"
   },
   "pusha-t": {
     "candidate_errors": [],
@@ -10563,18 +12082,32 @@
     "url": "https://open.spotify.com/embed/artist/5M5tFag2uo1cKWxJ96Ye1x"
   },
   "quarters-of-change": {
-    "candidate_errors": [
-      {
-        "reason": "Artist mismatch: Quarters",
-        "url": "https://open.spotify.com/embed/artist/0mnruuV4CcKu7Ux7kBZ5sa"
-      }
-    ],
-    "candidates": [
-      "0mnruuV4CcKu7Ux7kBZ5sa"
-    ],
+    "count": 5,
     "id": "quarters-of-change",
+    "identity_review": {
+      "basis": "Official artist profile link plus primary promoter confirmation of rename to Quarters",
+      "profile_id": "0mnruuV4CcKu7Ux7kBZ5sa",
+      "sources": [
+        {
+          "profile_ids": [
+            "0mnruuV4CcKu7Ux7kBZ5sa"
+          ],
+          "recording_urls": [],
+          "source_html_sha256": "00bd1b17f22ba40970c94a9060ae4025907697c8d82bafd4735b12858ee1eb9e",
+          "url": "https://ffm.bio/quartersofchange"
+        },
+        {
+          "note": "Primary promoter explicitly documents Quarters (f/k/a Quarters of Change); profile ID comes only from artist official FFM page.",
+          "profile_ids": [],
+          "recording_urls": [],
+          "source_html_sha256": "1ecf6f361d96c413f2c7c5a7dc17d2d7a5d99a74a95861a1b9fcb903a0459b35",
+          "url": "https://first-avenue.com/event/2026-03-quarters/"
+        }
+      ]
+    },
     "name": "Quarters of Change",
-    "status": "needs_review"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0mnruuV4CcKu7Ux7kBZ5sa"
   },
   "questlove": {
     "candidates": [],
@@ -10621,14 +12154,30 @@
   "rachel-chinouriri": {
     "candidate_errors": [],
     "candidates": [
-      "4wrzxtBZw20ufDstKyTnnP",
-      "3kz66MhqaDM2OalvjWfSZv"
+      "4wrzxtBZw20ufDstKyTnnP"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4wrzxtBZw20ufDstKyTnnP"
+        ],
+        "source_html_sha256": "2912a348741a08d8ce5befae2b36170037fbef4df555365e992c3ca3eab0016f",
+        "url": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
+      }
     ],
     "id": "rachel-chinouriri",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Rachel Chinouriri",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4wrzxtBZw20ufDstKyTnnP"
+  },
+  "rachel-torro": {
+    "candidates": [],
+    "id": "rachel-torro",
+    "name": "Rachel Torro",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "racing-mount-pleasant": {
     "candidate_errors": [],
@@ -10658,7 +12207,7 @@
     "candidates": [
       "5qV8qZrppecEsKTWwCCtA7"
     ],
-    "count": 10,
+    "count": 5,
     "id": "rainbow-girls",
     "name": "Rainbow Girls",
     "status": "cached",
@@ -10728,7 +12277,7 @@
     "candidates": [
       "0L8ExT028jH3ddEcZwqJJ5"
     ],
-    "count": 10,
+    "count": 5,
     "id": "red-hot-chili-peppers",
     "name": "Red Hot Chili Peppers",
     "status": "cached",
@@ -10792,7 +12341,7 @@
     "candidates": [
       "0NB5HROxc8dDBXpkIi1v3d"
     ],
-    "count": 10,
+    "count": 5,
     "id": "remi-wolf",
     "name": "Remi Wolf",
     "status": "cached",
@@ -10825,14 +12374,22 @@
   "rence": {
     "candidate_errors": [],
     "candidates": [
-      "5swvsRRZiv75D5NmRffxlb"
+      "3VJTtTgub426X1NuzcyAOb"
     ],
     "count": 5,
     "id": "rence",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Rence",
+    "official_identity_evidence": {
+      "profile_ids": [
+        "3VJTtTgub426X1NuzcyAOb"
+      ],
+      "recording_urls": [],
+      "source_html_sha256": "797b3677b7f426253f3f4c8961566fe4a0c6a100191869eceaec4fc1b5e46f0e",
+      "url": "https://linktr.ee/rence"
+    },
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/5swvsRRZiv75D5NmRffxlb"
+    "url": "https://open.spotify.com/embed/artist/3VJTtTgub426X1NuzcyAOb"
   },
   "renee-rapp": {
     "candidate_errors": [],
@@ -10863,7 +12420,7 @@
       "0JJ5oLKRVeLVooTxasimX7",
       "2SIBY7Jwq1kYng12Zguo3C"
     ],
-    "count": 10,
+    "count": 5,
     "id": "reona",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://reona.lnk.to/ANIMA",
@@ -10874,6 +12431,20 @@
     "name": "ReoNa",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2SIBY7Jwq1kYng12Zguo3C"
+  },
+  "reparations-w-dj-newonce": {
+    "candidates": [],
+    "id": "reparations-w-dj-newonce",
+    "name": "REPARATIONS w/ DJ Newoncé",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "reparations-w-nicki-jizz-feat-kori-king": {
+    "candidates": [],
+    "id": "reparations-w-nicki-jizz-feat-kori-king",
+    "name": "REPARATIONS w/ Nicki Jizz feat. Kori King",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "rex-orange-county": {
     "candidate_errors": [],
@@ -10898,6 +12469,13 @@
     "name": "Reyko",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1asECxd7DPIjTLu8NTc3ZA"
+  },
+  "ricardo-cardoso": {
+    "candidates": [],
+    "id": "ricardo-cardoso",
+    "name": "Ricardo Cardoso",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "richy-mitch-the-coal-miners": {
     "candidate_errors": [],
@@ -10975,7 +12553,7 @@
     "candidates": [
       "19lQ2rJLlP71FOKESiMNJT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "ripe",
     "name": "Ripe",
     "status": "cached",
@@ -10985,7 +12563,7 @@
     "candidates": [
       "6Wr3hh341P84m3EI8qdn9O"
     ],
-    "count": 10,
+    "count": 5,
     "id": "rise-against",
     "name": "Rise Against",
     "status": "cached",
@@ -11039,11 +12617,39 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/0j1Pwmd6nuk0BXD1RqoHDw"
   },
+  "rob-garza": {
+    "candidate_errors": [],
+    "candidates": [
+      "2oOHsFHeYnIBTYY8bBL5wG"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "2oOHsFHeYnIBTYY8bBL5wG"
+        ],
+        "source_html_sha256": "c39f28132d445429d00843a81e90e2224c674e2aa588e3730e738f078663127d",
+        "url": "https://open.spotify.com/album/6Uw11xKlO2XVPZ483RfZCM"
+      },
+      {
+        "ids": [
+          "2oOHsFHeYnIBTYY8bBL5wG"
+        ],
+        "source_html_sha256": "d9ed763cae28a9c2e14bb5501147e08e438997a7088945fb53f8aa946701b48e",
+        "url": "https://open.spotify.com/track/6tDwlBbNL6pK0u6tEoXdAx"
+      }
+    ],
+    "id": "rob-garza",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Rob Garza",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2oOHsFHeYnIBTYY8bBL5wG"
+  },
   "robert-finley": {
     "candidates": [
       "29mRqqZ15WaYjEsKNzcRkv"
     ],
-    "count": 10,
+    "count": 5,
     "id": "robert-finley",
     "name": "Robert Finley",
     "status": "cached",
@@ -11054,7 +12660,7 @@
       "7vZ7qmfXiu114lY0qm7rOe",
       "5cM1PvItlR21WUyBnsdMcn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "robert-glasper",
     "identity_basis": "Spotify credit for Harlem Riots; duplicate artist profiles share catalog",
     "identity_source": "https://open.spotify.com/track/3Ue2RhJrwzveyTYMXiGQkC",
@@ -11196,17 +12802,45 @@
     "candidates": [
       "5b5bt4mZQpJMoCRbiQ7diH"
     ],
-    "count": 10,
+    "count": 5,
     "id": "royel-otis",
     "name": "Royel Otis",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5b5bt4mZQpJMoCRbiQ7diH"
   },
+  "rozi-plain": {
+    "candidate_errors": [],
+    "candidates": [
+      "2plHc7V92yXf40BD8lQl2x"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "2plHc7V92yXf40BD8lQl2x"
+        ],
+        "source_html_sha256": "0b169437b8d2c775d6d9a4666e57fbf2eeb650a68c4c2ee4769a455b4504af10",
+        "url": "https://open.spotify.com/track/1Lg05w5ZMnfx8ZBkC6txLU"
+      },
+      {
+        "ids": [
+          "2plHc7V92yXf40BD8lQl2x"
+        ],
+        "source_html_sha256": "d7610836a5b97520eb1ac5c55a6a2d3e56601eb598968662e3ce9385261f26c4",
+        "url": "https://open.spotify.com/album/5eKfitGegJfAMoRAKVY0Hz"
+      }
+    ],
+    "id": "rozi-plain",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Rozi Plain",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2plHc7V92yXf40BD8lQl2x"
+  },
   "ruby-waters": {
     "candidates": [
       "5ybU1P0ufoGH5CMclUKebd"
     ],
-    "count": 10,
+    "count": 5,
     "id": "ruby-waters",
     "name": "Ruby Waters",
     "status": "cached",
@@ -11228,7 +12862,7 @@
     "candidates": [
       "0INDB6Snts5NDbzh8jC3lk"
     ],
-    "count": 10,
+    "count": 5,
     "id": "run-river-north",
     "name": "Run River North",
     "status": "cached",
@@ -11250,7 +12884,7 @@
     "candidates": [
       "7adlRX57hqe6Pc4YHrSGG0"
     ],
-    "count": 10,
+    "count": 5,
     "id": "runnner",
     "name": "Runnner",
     "status": "cached",
@@ -11262,7 +12896,7 @@
       "2YdVFaIl6Ln0CazRe4DFsz",
       "15gbGOLCZcXmK6YsSp5Ziq"
     ],
-    "count": 10,
+    "count": 5,
     "id": "rush",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -11288,7 +12922,7 @@
     "candidates": [
       "60NNvDqsif0u40CXMV6jDQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "ryan-beatty",
     "name": "Ryan Beatty",
     "status": "cached",
@@ -11466,7 +13100,7 @@
     "candidates": [
       "3lFDsTyYNPQc8WzJExnQWn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sammy-rae-the-friends",
     "name": "Sammy Rae & The Friends",
     "status": "cached",
@@ -11476,7 +13110,7 @@
     "candidates": [
       "1qHStDLIc8uV7hvTG6FGRJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "san-francisco-symphony",
     "name": "San Francisco Symphony",
     "status": "cached",
@@ -11548,7 +13182,7 @@
     "candidates": [
       "2Sqr0DXoaYABbjBo9HaMkM"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sara-bareilles",
     "name": "Sara Bareilles",
     "status": "cached",
@@ -11578,6 +13212,25 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/34A8vV1MCxGpA14KspqQuC"
   },
+  "sasha-alex-sloan": {
+    "candidate_errors": [],
+    "candidates": [
+      "4xnihxcoXWK3UqryOSnbw5"
+    ],
+    "count": 5,
+    "id": "sasha-alex-sloan",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "Sasha Alex Sloan",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4xnihxcoXWK3UqryOSnbw5"
+  },
+  "sasha-marie": {
+    "candidates": [],
+    "id": "sasha-marie",
+    "name": "Sasha Marie",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "sawyer-hill": {
     "candidate_errors": [],
     "candidates": [
@@ -11602,17 +13255,38 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1PP0a3KRZiaqtahgtJ3bdv"
   },
+  "school-of-rock-brooklyn": {
+    "candidates": [],
+    "id": "school-of-rock-brooklyn",
+    "name": "School of Rock Brooklyn",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
+  "school-of-rock-queens": {
+    "candidates": [],
+    "id": "school-of-rock-queens",
+    "name": "School Of Rock Queens",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "scowl": {
     "candidate_errors": [],
     "candidates": [
-      "6hW33nVHPElaXuG2hQ0QOp",
-      "5uFyDfpVBzUUy9E7028lOZ"
+      "6hW33nVHPElaXuG2hQ0QOp"
     ],
+    "count": 5,
     "id": "scowl",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "Scowl",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "6hW33nVHPElaXuG2hQ0QOp"
+      ],
+      "source_html_sha256": "8368078a56f6b817f364141709aca41e4faeb0c4f7b39ecd7efccb9b7baefad8",
+      "url": "https://www.scowl40831.com/"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6hW33nVHPElaXuG2hQ0QOp"
   },
   "sculpture-club": {
     "candidate_errors": [],
@@ -11654,7 +13328,7 @@
     "candidates": [
       "6fcTRFpz0yH79qSKfof7lp"
     ],
-    "count": 10,
+    "count": 5,
     "id": "seven-lions",
     "name": "Seven Lions",
     "status": "cached",
@@ -11671,6 +13345,13 @@
     "name": "Sexyy Red",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3DbwFQlvLxRSi2uX8mf81A"
+  },
+  "sf-gay-mens-chorus": {
+    "candidates": [],
+    "id": "sf-gay-mens-chorus",
+    "name": "SF Gay Men’s Chorus",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "shabaka": {
     "candidate_errors": [
@@ -11760,7 +13441,7 @@
     "candidates": [
       "3oVcF3VdpMuvMvLLyHPT4t"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sierra-ferrell",
     "name": "Sierra Ferrell",
     "status": "cached",
@@ -11791,6 +13472,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/72VywtXEoONiBLNu3ibGI7"
   },
+  "silverado-pickups": {
+    "candidates": [],
+    "id": "silverado-pickups",
+    "name": "Silverado Pickups",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "silversun-pickups": {
     "candidate_errors": [],
     "candidates": [
@@ -11807,7 +13495,7 @@
     "candidates": [
       "2p4FqHnazRucYQHyDCdBrJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "simple-plan",
     "name": "Simple Plan",
     "status": "cached",
@@ -11841,7 +13529,7 @@
     "candidates": [
       "3DFoVPonoAAt4EZ1FEI8ue"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sir-sly",
     "name": "Sir Sly",
     "status": "cached",
@@ -11851,7 +13539,7 @@
     "candidates": [
       "1caoBfXJrbKCwIaTzGkyHn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "six60",
     "name": "SIX60",
     "status": "cached",
@@ -11861,7 +13549,7 @@
     "candidates": [
       "7CAWVNv92kzOn5HvsHzaxO"
     ],
-    "count": 10,
+    "count": 5,
     "id": "ski-team",
     "name": "Ski Team",
     "status": "cached",
@@ -11892,10 +13580,24 @@
     "url": "https://open.spotify.com/embed/artist/20DZAfCuP1TKZl5KcY7z3Q"
   },
   "slap-dragon": {
-    "candidates": [],
+    "candidates": [
+      "0CMEHUh3FRnPl3NyvwvcE7"
+    ],
+    "credit_evidence": [
+      {
+        "ids": [
+          "0CMEHUh3FRnPl3NyvwvcE7"
+        ],
+        "source_html_sha256": "82deed03d47376c45bf0b26b7709ac947ba45081e474663b140c215bb0b916c1",
+        "url": "https://open.spotify.com/intl-id/album/67UIdyz4QbQrBmonHB5cTU"
+      }
+    ],
     "id": "slap-dragon",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "identity_review_required": true,
     "name": "Slap Dragon",
-    "status": "no_spotify_match"
+    "reason": "Exact name insufficient: previously unverified tribute/local-act identity",
+    "status": "needs_review"
   },
   "slenderbodies": {
     "candidate_errors": [],
@@ -11925,7 +13627,7 @@
     "candidates": [
       "4iiQabGKtS2RtTKpVkrVTw"
     ],
-    "count": 10,
+    "count": 5,
     "id": "smallpools",
     "name": "Smallpools",
     "status": "cached",
@@ -11935,7 +13637,7 @@
     "candidates": [
       "4STJAAKdWRKeFMKjwoWxjj"
     ],
-    "count": 9,
+    "count": 5,
     "id": "smiile",
     "name": "SMiiLE",
     "status": "cached",
@@ -11975,7 +13677,7 @@
     "candidates": [
       "7ENzCHnmJUr20nUjoZ0zZ1"
     ],
-    "count": 10,
+    "count": 5,
     "id": "snarky-puppy",
     "name": "Snarky Puppy",
     "status": "cached",
@@ -12033,7 +13735,7 @@
     "candidates": [
       "4wXchxfTTggLtzkoUhO86Q"
     ],
-    "count": 10,
+    "count": 5,
     "id": "soccer-mommy",
     "name": "Soccer Mommy",
     "status": "cached",
@@ -12099,6 +13801,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4measzsPGppUmapFbJ9s1d"
   },
+  "soho-soho": {
+    "candidates": [],
+    "id": "soho-soho",
+    "name": "Soho Soho",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "solardo": {
     "candidate_errors": [],
     "candidates": [
@@ -12162,14 +13871,30 @@
   "sosocamo": {
     "candidate_errors": [],
     "candidates": [
-      "7q4UkwkrknrKMSPbYqH0tX",
       "6hpztnbgmaneFFGGnEOVjd"
     ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "6hpztnbgmaneFFGGnEOVjd"
+        ],
+        "source_html_sha256": "77eefb01bd81033b79a4710b0a139aa692a64f680377e1d02f69e1f47ed14c21",
+        "url": "https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k"
+      }
+    ],
     "id": "sosocamo",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "sosocamo",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6hpztnbgmaneFFGGnEOVjd"
+  },
+  "sound-it-out": {
+    "candidates": [],
+    "id": "sound-it-out",
+    "name": "Sound It Out!",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "spacey-jane": {
     "candidate_errors": [],
@@ -12187,7 +13912,7 @@
     "candidates": [
       "7fA0IDinGo27lmOeGy6oGV"
     ],
-    "count": 10,
+    "count": 5,
     "id": "spafford",
     "name": "Spafford",
     "status": "cached",
@@ -12197,7 +13922,7 @@
     "candidates": [
       "6cpzd2aRLmkE06P4lFFMlj"
     ],
-    "count": 10,
+    "count": 5,
     "id": "spiritual-cramp",
     "name": "Spiritual Cramp",
     "status": "cached",
@@ -12222,7 +13947,7 @@
     "candidates": [
       "3xrbKno8shx3H22Xz8omC8"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sqwerv",
     "name": "Sqwerv",
     "status": "cached",
@@ -12232,11 +13957,18 @@
     "candidates": [
       "5KDIH2gF0VpelTqyQS7udb"
     ],
-    "count": 10,
+    "count": 5,
     "id": "staind",
     "name": "Staind",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5KDIH2gF0VpelTqyQS7udb"
+  },
+  "stanley-frank-sensation": {
+    "candidates": [],
+    "id": "stanley-frank-sensation",
+    "name": "Stanley Frank Sensation",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "starfari": {
     "candidate_errors": [],
@@ -12303,7 +14035,7 @@
     "candidates": [
       "6QtGlUje9TIkLrgPZrESuk"
     ],
-    "count": 10,
+    "count": 5,
     "id": "steve-miller-band",
     "name": "Steve Miller Band",
     "status": "cached",
@@ -12325,7 +14057,7 @@
     "candidates": [
       "54ePTSLN5k7BMWG3SKEw1n"
     ],
-    "count": 10,
+    "count": 5,
     "id": "stickup-kid",
     "name": "Stickup Kid",
     "status": "cached",
@@ -12355,11 +14087,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/6sItBAb1Jl3KiNo6o3G0mG"
   },
+  "strawberry-launch": {
+    "candidates": [],
+    "id": "strawberry-launch",
+    "name": "Strawberry Launch",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "strfkr": {
     "candidates": [
       "2Tz1DTzVJ5Gyh8ZwVr6ekU"
     ],
-    "count": 10,
+    "count": 5,
     "id": "strfkr",
     "name": "STRFKR",
     "status": "cached",
@@ -12369,7 +14108,7 @@
     "candidates": [
       "3vDpQbGnzRbRVirXlfQagB"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sturgill-simpson",
     "name": "Sturgill Simpson",
     "status": "cached",
@@ -12379,7 +14118,7 @@
     "candidates": [
       "3XXrhkZKSGd3CUJQFnx5tQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sublime-with-rome",
     "name": "Sublime with Rome",
     "status": "cached",
@@ -12396,6 +14135,13 @@
     "name": "Subtronics",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3NJ94iuAmmMjbszODYT6pO"
+  },
+  "subtronics-and-griz-present-griztronics": {
+    "candidates": [],
+    "id": "subtronics-and-griz-present-griztronics",
+    "name": "Subtronics and GRiZ present GRIZTRONICS",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "sudan-archives": {
     "candidate_errors": [],
@@ -12461,7 +14207,7 @@
     "candidates": [
       "0qT79UgT5tY4yudH9VfsdT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sum-41",
     "name": "Sum 41",
     "status": "cached",
@@ -12483,7 +14229,7 @@
     "candidates": [
       "1IHjrY7ygKbmLVoUV1VcXc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "superheaven",
     "name": "Superheaven",
     "status": "cached",
@@ -12493,7 +14239,7 @@
     "candidates": [
       "1anAI9P9iSzc9qzLv6AtHZ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "sure-sure",
     "name": "Sure Sure",
     "status": "cached",
@@ -12535,6 +14281,27 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5k9qBHdkzsibPmFJp1XIAt"
   },
+  "sweet-plot": {
+    "candidate_errors": [],
+    "candidates": [
+      "3lmf0DJ6Fhx9NvHJrordP3"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "3lmf0DJ6Fhx9NvHJrordP3"
+        ],
+        "source_html_sha256": "faea86b931f8157dafd4bcb3a6058fe79de5a3e46d61f28a6933c130f4dc3657",
+        "url": "https://open.spotify.com/track/0jNMtSDCIggQwh3YwiFHbp"
+      }
+    ],
+    "id": "sweet-plot",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Sweet Plot",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3lmf0DJ6Fhx9NvHJrordP3"
+  },
   "sylvan-esso": {
     "candidate_errors": [],
     "candidates": [
@@ -12563,7 +14330,7 @@
     "candidates": [
       "5eAWCfyUhZtHHtBdNk56l1"
     ],
-    "count": 10,
+    "count": 5,
     "id": "system-of-a-down",
     "name": "System of a Down",
     "status": "cached",
@@ -12593,6 +14360,47 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3aQeKQSyrW4qWr35idm0cy"
   },
+  "t-sisters": {
+    "candidate_errors": [],
+    "candidates": [
+      "0ulqL4vgGZIwef3YOM0BBn"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "0ulqL4vgGZIwef3YOM0BBn"
+        ],
+        "source_html_sha256": "a127eef8c7c477048dfe073c9551dfe1a44eb3c85e53f956bd03fb16050b2a93",
+        "url": "https://open.spotify.com/album/5wwicNqxv8LNBQFtRnQxSZ"
+      },
+      {
+        "ids": [
+          "0ulqL4vgGZIwef3YOM0BBn"
+        ],
+        "source_html_sha256": "327e9f31d315c4e0a3a08b796cc38db29ed6f3ceefa51a45305c7784c64bab0e",
+        "url": "https://open.spotify.com/album/7re2v3rCWxUrosR8BFMzP3"
+      }
+    ],
+    "id": "t-sisters",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "T Sisters",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/0ulqL4vgGZIwef3YOM0BBn"
+  },
+  "tagabow": {
+    "id": "tagabow",
+    "identity_sources": [
+      {
+        "source_html_sha256": "58b86884056f416d0e42017ea2e5a4023aed4000b3f5c11afec0dc810e6a7814",
+        "url": "https://atorecords.com/artists/they-are-gutting-a-body-of-water/"
+      }
+    ],
+    "name": "TAGABOW",
+    "reason": "ATO confirms TAGABOW alias. Independent artist SoundCloud profile access encountered a challenge and was stopped; no new Spotify cache published.",
+    "spotify_name": "They Are Gutting a Body of Water",
+    "status": "needs_review"
+  },
   "tai-verdes": {
     "candidate_errors": [],
     "candidates": [
@@ -12609,7 +14417,7 @@
     "candidates": [
       "24XtlMhEMNdi822vi0MhY1"
     ],
-    "count": 10,
+    "count": 5,
     "id": "taking-back-sunday",
     "name": "Taking Back Sunday",
     "status": "cached",
@@ -12631,7 +14439,7 @@
     "candidates": [
       "6zVFRTB0Y1whWyH7ZNmywf"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tash-sultana",
     "name": "Tash Sultana",
     "status": "cached",
@@ -12678,7 +14486,7 @@
       "06HL4z0CvFAxyc27GXpf02",
       "5MwL9Z9TwSg7ZPZwHEu03J"
     ],
-    "count": 10,
+    "count": 5,
     "id": "taylor-swift",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://newsroom.spotify.com/2026-09-16/taylor-swift-music-videos-catalog-spotify/",
@@ -12706,7 +14514,7 @@
     "candidates": [
       "2gFsmDBM0hkoZPmrO5EdyO"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tedeschi-trucks-band",
     "name": "Tedeschi Trucks Band",
     "status": "cached",
@@ -12716,7 +14524,7 @@
     "candidates": [
       "2GE6MAdyGzeXpY9TwIYd3l"
     ],
-    "count": 10,
+    "count": 5,
     "id": "teen-daze",
     "name": "Teen Daze",
     "status": "cached",
@@ -12774,7 +14582,7 @@
     "candidates": [
       "1EoYANOJzjAhHD0ChMfn0G"
     ],
-    "count": 10,
+    "count": 5,
     "id": "telula",
     "name": "Telula",
     "status": "cached",
@@ -12796,11 +14604,18 @@
     "candidates": [
       "1XpDYCrUJnvCo9Ez6yeMWh"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tenacious-d",
     "name": "Tenacious D",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+  },
+  "tercer-sol": {
+    "candidates": [],
+    "id": "tercer-sol",
+    "name": "Tercer Sol",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "tessa-violet": {
     "candidate_errors": [],
@@ -12813,6 +14628,34 @@
     "name": "Tessa Violet",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/5DD5GZd4ElmQTy9NleMvKJ"
+  },
+  "th4ys": {
+    "candidate_errors": [],
+    "candidates": [
+      "3LGFpNOWNjpvlkUmj304V3"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "3LGFpNOWNjpvlkUmj304V3"
+        ],
+        "source_html_sha256": "65260ec23833faf2bb18e0c1d7be9ce28a6f29462da199a5d79196eace16ebe6",
+        "url": "https://open.spotify.com/track/1BxI5G8sxEWGZoO1t1ptx1"
+      },
+      {
+        "ids": [
+          "3LGFpNOWNjpvlkUmj304V3"
+        ],
+        "source_html_sha256": "b9026929b16f98a38ebb9b430df84a0453211e8ad62e0f9149811b23b7d633b1",
+        "url": "https://open.spotify.com/intl-id/track/1adosvKhRgMEHxtkKOm9EE"
+      }
+    ],
+    "id": "th4ys",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Th4ys",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/3LGFpNOWNjpvlkUmj304V3"
   },
   "the-1975": {
     "candidate_errors": [],
@@ -12854,11 +14697,23 @@
     "candidates": [
       "7xovAENFxmyEWhzbnHsB3Z"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-airborne-toxic-event",
     "name": "The Airborne Toxic Event",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/7xovAENFxmyEWhzbnHsB3Z"
+  },
+  "the-alive": {
+    "candidate_errors": [],
+    "candidates": [
+      "7dmbckQLtacSogGixbzrQp"
+    ],
+    "count": 5,
+    "id": "the-alive",
+    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "name": "The Alive",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7dmbckQLtacSogGixbzrQp"
   },
   "the-aquadolls": {
     "candidate_errors": [],
@@ -12888,7 +14743,7 @@
     "candidates": [
       "196lKsA13K3keVXMDFK66q"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-avett-brothers",
     "name": "The Avett Brothers",
     "status": "cached",
@@ -12910,7 +14765,7 @@
     "candidates": [
       "6d4jrmreCmsenscuieJERc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-band-camino",
     "name": "The Band Camino",
     "status": "cached",
@@ -12920,7 +14775,7 @@
     "candidates": [
       "6ws5XBA70XgeBpnLZhQBoy"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-beaches",
     "name": "The Beaches",
     "status": "cached",
@@ -12954,7 +14809,7 @@
     "candidates": [
       "1xgFexIwrf2QjbU0buCNnp"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-breeders",
     "name": "The Breeders",
     "status": "cached",
@@ -12964,7 +14819,7 @@
     "candidates": [
       "4s6JGYfrcfIYMvwY6oMMvY"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-bygones",
     "name": "The Bygones",
     "status": "cached",
@@ -12974,7 +14829,7 @@
     "candidates": [
       "21t0aavYGSGFkYYFhu6urk"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-california-honeydrops",
     "name": "The California Honeydrops",
     "status": "cached",
@@ -12992,11 +14847,19 @@
       "2MBlAQlgwNUADLJtc7G0a2",
       "5QdCWvXysWuJmhSWSxzg52"
     ],
+    "count": 5,
     "id": "the-chameleons",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "swampthing",
+      "upthedownescalator"
+    ],
     "name": "The Chameleons",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/the-chameleons/2024/sala-apolo-barcelona-spain-43a8eb2f.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4HLWX9kzfraiCsTvrxJEXm"
   },
   "the-chemical-brothers": {
     "candidate_errors": [
@@ -13032,17 +14895,24 @@
     "candidates": [
       "2qFOYqFxPaIwEnffVhJhEn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-dip",
     "name": "The Dip",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2qFOYqFxPaIwEnffVhJhEn"
   },
+  "the-emo-night-tour": {
+    "candidates": [],
+    "id": "the-emo-night-tour",
+    "name": "The Emo Night Tour",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "the-fratellis": {
     "candidates": [
       "3M4ThdJR28z9eSMcQHAZ5G"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-fratellis",
     "name": "The Fratellis",
     "status": "cached",
@@ -13052,7 +14922,7 @@
     "candidates": [
       "6Ri83BLqlgaqIc9jwSgAn1"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-fresh-onlys",
     "name": "The Fresh & Onlys",
     "status": "cached",
@@ -13097,14 +14967,23 @@
   "the-garden": {
     "candidate_errors": [],
     "candidates": [
-      "3E97A3nnlnYvm47G9uN6t4"
+      "4UVlSeEFDPmlkYKaRMRoOz"
     ],
-    "count": 2,
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4UVlSeEFDPmlkYKaRMRoOz"
+        ],
+        "source_html_sha256": "099d29e9f01bd517aca146a110a773a41f32cc9923be3909867ae82bb56361b7",
+        "url": "https://open.spotify.com/track/0n9jRRBE6RvYxdOiQ8Z7tq"
+      }
+    ],
     "id": "the-garden",
-    "identity_basis": "Festival archive artist-to-profile association and matching artist heading on public Spotify embed",
+    "identity_basis": "Official artist/label recording corroborated with public Spotify recording credits and artist heading",
     "name": "The Garden",
     "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/3E97A3nnlnYvm47G9uN6t4"
+    "url": "https://open.spotify.com/embed/artist/4UVlSeEFDPmlkYKaRMRoOz"
   },
   "the-gift": {
     "candidate_errors": [],
@@ -13130,6 +15009,34 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2RhgnQNC74QoBlaUvT4MEe"
   },
+  "the-haden-triplets": {
+    "candidate_errors": [],
+    "candidates": [
+      "1TC6x7p5Ey9cyuCxhUxMTN"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1TC6x7p5Ey9cyuCxhUxMTN"
+        ],
+        "source_html_sha256": "dc2a6fe4dec028d9081e8c56f5f5dbd4f36833449b91c0182240ffa9daa5782f",
+        "url": "https://open.spotify.com/album/3yPePOaDe14ioiyH9iDlol"
+      },
+      {
+        "ids": [
+          "1TC6x7p5Ey9cyuCxhUxMTN"
+        ],
+        "source_html_sha256": "92bf4587d64b1cad2d3d0119ca6b695a3d7ee284a0187773b0260113011cb4b4",
+        "url": "https://open.spotify.com/track/0ULdMWPPePNDSsjpcTRvAn"
+      }
+    ],
+    "id": "the-haden-triplets",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "The Haden Triplets",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1TC6x7p5Ey9cyuCxhUxMTN"
+  },
   "the-hails": {
     "candidate_errors": [],
     "candidates": [
@@ -13141,6 +15048,13 @@
     "name": "The Hails",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3g65HWtAf8uyVmpR4sRbrT"
+  },
+  "the-happiness-club": {
+    "candidates": [],
+    "id": "the-happiness-club",
+    "name": "The Happiness Club",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "the-happy-fits": {
     "candidate_errors": [],
@@ -13260,7 +15174,7 @@
     "candidates": [
       "13dTrWNNrnZ3AkgNyQNKP5"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-linda-lindas",
     "name": "The Linda Lindas",
     "status": "cached",
@@ -13282,7 +15196,7 @@
     "candidates": [
       "5I6ni4YWY0WJUs6rFqufxT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-main-squeeze",
     "name": "The Main Squeeze",
     "status": "cached",
@@ -13300,12 +15214,19 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2sSGPbdZJkaSE2AbcGOACx"
   },
+  "the-messthetics-james-brandon-lewis": {
+    "candidates": [],
+    "id": "the-messthetics-james-brandon-lewis",
+    "name": "The Messthetics & James Brandon Lewis",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "the-midnight": {
     "candidates": [
       "2NFrAuh8RQdQoS7iYFbckw",
       "2jKXHTh3ajM8CV2SRyPpTw"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-midnight",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -13341,7 +15262,7 @@
     "candidates": [
       "6AGUQK1EWK6nvN4pLIDQDQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-mowglis",
     "name": "The Mowgli’s",
     "status": "cached",
@@ -13375,7 +15296,7 @@
     "candidates": [
       "675mxFTZsBY5xQDHmRWHNc"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-new-york-pops",
     "name": "The New York Pops",
     "status": "cached",
@@ -13385,7 +15306,7 @@
     "candidates": [
       "5LfGQac0EIXyAN8aUwmNAQ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-offspring",
     "name": "The Offspring",
     "status": "cached",
@@ -13455,11 +15376,39 @@
     "candidates": [
       "3AQRLZ9PuTAozP28Skbq8V"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-script",
     "name": "The Script",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3AQRLZ9PuTAozP28Skbq8V"
+  },
+  "the-seshen": {
+    "candidate_errors": [],
+    "candidates": [
+      "2rkxM3pdssb12wllaVcYSC"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "2rkxM3pdssb12wllaVcYSC"
+        ],
+        "source_html_sha256": "08d8edbec7a5d420fecb9b95b7eb42d72e42710120ad50f06c5e4324f8700494",
+        "url": "https://open.spotify.com/track/1ZDWRSEacvd6kpzp6weuFR"
+      },
+      {
+        "ids": [
+          "2rkxM3pdssb12wllaVcYSC"
+        ],
+        "source_html_sha256": "12af8b39608e9749ca42e6d14aae4d173579a38b8137fe48c56f526b21b39c04",
+        "url": "https://open.spotify.com/album/6K6QYLPfIhwXqlC9qGlFtq"
+      }
+    ],
+    "id": "the-seshen",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "The Seshen",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2rkxM3pdssb12wllaVcYSC"
   },
   "the-smashing-pumpkins": {
     "candidate_errors": [],
@@ -13477,7 +15426,7 @@
     "candidates": [
       "6meTcQ79DrfkIuSLPZkpBg"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-story-so-far",
     "name": "The Story So Far",
     "status": "cached",
@@ -13487,7 +15436,7 @@
     "candidates": [
       "7N3JfLDzzjXdPbsyco7X0l"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-string-cheese-incident",
     "name": "The String Cheese Incident",
     "status": "cached",
@@ -13521,7 +15470,7 @@
     "candidates": [
       "2nTjd2lNo1GVEfXM3bCnsh"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-teskey-brothers",
     "name": "The Teskey Brothers",
     "status": "cached",
@@ -13530,20 +15479,27 @@
   "the-thing": {
     "candidate_errors": [],
     "candidates": [
-      "1y6pZKfx9YSeG5ToaZPBZq"
+      "7dQ8sxeaPMgVhWn2R1jd9L"
     ],
+    "count": 5,
     "id": "the-thing",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Official artist/label website directly links this Spotify profile; exact artist heading validated",
     "name": "The Thing",
-    "reason": "Same-name profile needs stronger identity corroboration",
-    "status": "needs_review",
-    "url": "https://open.spotify.com/embed/artist/1y6pZKfx9YSeG5ToaZPBZq"
+    "official_identity_evidence": {
+      "profile_ids": [
+        "7dQ8sxeaPMgVhWn2R1jd9L"
+      ],
+      "source_html_sha256": "60b2c72faf0517aec62ccc50af371f952e3b42e9f8eeb429986e63ce4f2add1b",
+      "url": "https://thingthething.bandcamp.com/"
+    },
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/7dQ8sxeaPMgVhWn2R1jd9L"
   },
   "the-veronicas": {
     "candidates": [
       "1dIdBZaaHRW2bDTkHNfWln"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-veronicas",
     "name": "The Veronicas",
     "status": "cached",
@@ -13553,7 +15509,7 @@
     "candidates": [
       "4nUBBtLtzqZGpdiynTJbYJ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "the-voidz",
     "name": "The Voidz",
     "status": "cached",
@@ -13599,7 +15555,7 @@
     "candidates": [
       "2a4lU7F8toqKpb5v6Ftqya"
     ],
-    "count": 10,
+    "count": 5,
     "id": "theo-katzman",
     "name": "Theo Katzman",
     "status": "cached",
@@ -13645,7 +15601,7 @@
     "candidates": [
       "2xiIXseIJcq3nG7C8fHeBj"
     ],
-    "count": 10,
+    "count": 5,
     "id": "three-days-grace",
     "name": "Three Days Grace",
     "status": "cached",
@@ -13727,7 +15683,7 @@
     "candidates": [
       "2QYdqWGgRorVkA8cJMMdrn"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tiny-habits",
     "name": "Tiny Habits",
     "status": "cached",
@@ -13737,7 +15693,7 @@
     "candidates": [
       "5w4jm6oj9XguE2zaCEfd3S"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tiron-ayomari",
     "name": "TiRon & Ayomari",
     "status": "cached",
@@ -13779,6 +15735,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4eHzBO6qaL2wt35kENSbTs"
   },
+  "toccororo": {
+    "candidates": [],
+    "id": "toccororo",
+    "name": "Toccororo",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "todd-edwards": {
     "candidate_errors": [],
     "candidates": [
@@ -13795,7 +15758,7 @@
     "candidates": [
       "3wyfo3svXNWnszGAEVey11"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tokyo-police-club",
     "name": "Tokyo Police Club",
     "status": "cached",
@@ -13825,11 +15788,18 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/2txHhyCwHjUEpJjWrEyqyX"
   },
+  "tom-ravenscroft-b2b-deb-grant": {
+    "candidates": [],
+    "id": "tom-ravenscroft-b2b-deb-grant",
+    "name": "Tom Ravenscroft b2b Deb Grant",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "tom-walker": {
     "candidates": [
       "7z2avKuuiMAT4XZJFv8Rvh"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tom-walker",
     "name": "Tom Walker",
     "status": "cached",
@@ -13839,7 +15809,7 @@
     "candidates": [
       "2LjdejTBfxl6fUEjWGjU4y"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tommy-crane",
     "name": "Tommy Crane",
     "status": "cached",
@@ -13882,17 +15852,25 @@
     "url": "https://open.spotify.com/embed/artist/6O4EGCCb6DoIiR6B1QCQgp"
   },
   "tourist": {
-    "candidate_errors": [],
-    "candidates": [
-      "3WCH1bF3qkUk71fODTkbBN",
-      "2ABBMkcUeM9hdpimo86mo6",
-      "1JtPrvkM0gCXSjsHCNgDoC"
-    ],
+    "count": 5,
     "id": "tourist",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_review": {
+      "basis": "Official artist/label profile link",
+      "profile_id": "2ABBMkcUeM9hdpimo86mo6",
+      "sources": [
+        {
+          "profile_ids": [
+            "2ABBMkcUeM9hdpimo86mo6"
+          ],
+          "recording_urls": [],
+          "source_html_sha256": "4141c2a131cffcc182c41e61ae93287cf0dfda278088d13558b1b4d88db0cbc9",
+          "url": "https://officialtourist.bandcamp.com/music"
+        }
+      ]
+    },
     "name": "Tourist",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/2ABBMkcUeM9hdpimo86mo6"
   },
   "trackstar-the-dj": {
     "candidate_errors": [],
@@ -13917,7 +15895,7 @@
       "1x04oTtghJUTMXY1Pgzao1",
       "6H0LnhDF6W7g2H234i6z3Q"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tragedy",
     "identity_basis": "Official disco-metal tribute band profile; original imported event explicitly says Bee Gees",
     "identity_source": "https://www.letsmaketragedyhappen.com/",
@@ -13948,6 +15926,13 @@
     "name": "Trashi",
     "reason": "Multiple profiles match artist heading",
     "status": "ambiguous"
+  },
+  "tratratrax-verraco-b2b-bitter-babe-b2b-nick-leon": {
+    "candidates": [],
+    "id": "tratratrax-verraco-b2b-bitter-babe-b2b-nick-leon",
+    "name": "TraTraTrax (Verraco b2b Bitter Babe b2b Nick León)",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "tre": {
     "candidate_errors": [],
@@ -13981,7 +15966,7 @@
     "candidates": [
       "3Felk6Y6jjU00yE1XTOqKZ"
     ],
-    "count": 10,
+    "count": 5,
     "id": "trey-anastasio",
     "name": "Trey Anastasio",
     "status": "cached",
@@ -14069,7 +16054,7 @@
     "candidates": [
       "2SGFnb6c73UJd1vT6aGBMl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "tropidelic",
     "name": "Tropidelic",
     "status": "cached",
@@ -14079,7 +16064,7 @@
     "candidates": [
       "26DvqLYszG0oIOeelTF5kE"
     ],
-    "count": 10,
+    "count": 5,
     "id": "trousdale",
     "name": "Trousdale",
     "status": "cached",
@@ -14096,6 +16081,13 @@
     "name": "Troye sivan",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3WGpXCj9YhhfX11TToZcXP"
+  },
+  "turkuaz-with-jerry-harrison-adrian-belew": {
+    "candidates": [],
+    "id": "turkuaz-with-jerry-harrison-adrian-belew",
+    "name": "Turkuaz with Jerry Harrison & Adrian Belew",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "turnstile": {
     "candidate_errors": [],
@@ -14133,11 +16125,39 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3YQKmKGau1PzlVlkL1iodx"
   },
+  "twin-xl": {
+    "candidate_errors": [],
+    "candidates": [
+      "4OkceeWNJehKqXINqtVeX1"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "4OkceeWNJehKqXINqtVeX1"
+        ],
+        "source_html_sha256": "ed20b9575e1b93fe703eefd5ae560fb4a7e9e6ce9931f92075b5fbe758a7bc45",
+        "url": "https://open.spotify.com/album/3aN3aHL1ihXN9hqXZQnUlM"
+      },
+      {
+        "ids": [
+          "4OkceeWNJehKqXINqtVeX1"
+        ],
+        "source_html_sha256": "ce809dc397cf49be02cf59382ff15f2f32906bb22d78f914f65eb2d357b8aa6e",
+        "url": "https://open.spotify.com/track/0QHJCjIb9T485tHdtUJ3rN"
+      }
+    ],
+    "id": "twin-xl",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Twin XL",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/4OkceeWNJehKqXINqtVeX1"
+  },
   "two-door-cinema-club": {
     "candidates": [
       "536BYVgOnRky0xjsPT96zl"
     ],
-    "count": 10,
+    "count": 5,
     "id": "two-door-cinema-club",
     "name": "Two Door Cinema Club",
     "status": "cached",
@@ -14191,7 +16211,8 @@
     ],
     "id": "tyler-christian",
     "name": "Tyler Christian",
-    "status": "needs_review"
+    "reason": "Matching public artist embed exposes no ranked tracks",
+    "status": "no_ranked_tracks"
   },
   "tyler-the-creator": {
     "candidate_errors": [],
@@ -14234,6 +16255,13 @@
     "name": "UMI",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4ClziihVpBeFXNyDH83Lde"
+  },
+  "uncle-blazer-dj-ango": {
+    "candidates": [],
+    "id": "uncle-blazer-dj-ango",
+    "name": "Uncle Blazer + DJ Ango",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "underscores": {
     "candidate_errors": [],
@@ -14319,11 +16347,18 @@
     "candidates": [
       "64CiuxRx160amGnl4YdAr2"
     ],
-    "count": 10,
+    "count": 5,
     "id": "vanfleet",
     "name": "Vanfleet",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/64CiuxRx160amGnl4YdAr2"
+  },
+  "variacoes": {
+    "candidates": [],
+    "id": "variacoes",
+    "name": "Variações",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "ven-nus": {
     "candidate_errors": [],
@@ -14358,11 +16393,20 @@
       "6J6yx1t3nwIDyPXk5xa7O8",
       "2HfVTWz1WoiwBnJhbqFzII"
     ],
+    "count": 5,
     "id": "vetusta-morla",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Exact artist name and multiple song titles matched independently saved festival/performance setlists; alternative candidates had zero overlap",
+    "matched_song_titles": [
+      "copenhague",
+      "malditadulzura",
+      "valiente"
+    ],
     "name": "Vetusta Morla",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "setlist_evidence_urls": [
+      "https://www.setlist.fm/setlist/vetusta-morla/2019/passeio-maritimo-de-alges-oeiras-portugal-b9efd52.html"
+    ],
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6J6yx1t3nwIDyPXk5xa7O8"
   },
   "viceroy": {
     "candidate_errors": [],
@@ -14380,7 +16424,7 @@
     "candidates": [
       "2STVYmc2T02GlvvWZl7umj"
     ],
-    "count": 10,
+    "count": 5,
     "id": "victor-wooten",
     "name": "Victor Wooten",
     "status": "cached",
@@ -14462,7 +16506,7 @@
     "candidates": [
       "7pXu47GoqSYRajmBCjxdD6"
     ],
-    "count": 10,
+    "count": 5,
     "id": "vulfpeck",
     "name": "Vulfpeck",
     "status": "cached",
@@ -14472,7 +16516,7 @@
     "candidates": [
       "1W4itxt3vwhmrgLEBuVHJ6"
     ],
-    "count": 10,
+    "count": 5,
     "id": "vundabar",
     "name": "Vundabar",
     "status": "cached",
@@ -14494,7 +16538,7 @@
     "candidates": [
       "6DIS6PRrLS3wbnZsf7vYic"
     ],
-    "count": 10,
+    "count": 5,
     "id": "walk-the-moon",
     "name": "WALK THE MOON",
     "status": "cached",
@@ -14530,7 +16574,7 @@
     "candidates": [
       "2B4ZHz4QDWJTXPFPgO5peE"
     ],
-    "count": 10,
+    "count": 5,
     "id": "warren-g",
     "name": "Warren G",
     "status": "cached",
@@ -14551,14 +16595,23 @@
   "watchhouse": {
     "candidate_errors": [],
     "candidates": [
-      "675tsBPpaZtqyiBwEf3ZEP",
-      "2WqEbbet6L2ndAbvhRVb2S"
+      "675tsBPpaZtqyiBwEf3ZEP"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "675tsBPpaZtqyiBwEf3ZEP"
+        ],
+        "source_html_sha256": "3a931b34043a164446b5f0784d4f14144478da1ad69a3c887a0c1b0ca687cf9b",
+        "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
+      }
     ],
     "id": "watchhouse",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
     "name": "Watchhouse",
-    "reason": "Multiple profiles match artist heading",
-    "status": "ambiguous"
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/675tsBPpaZtqyiBwEf3ZEP"
   },
   "water-from-your-eyes": {
     "candidate_errors": [],
@@ -14614,7 +16667,7 @@
       "46hQz73ArLED9chD48CwoS",
       "1ZxUfACpynyUHCjGWIG8ed"
     ],
-    "count": 10,
+    "count": 5,
     "id": "wednesday",
     "identity_basis": "Exact name and multiple song titles matched the saved performance setlists",
     "matched_song_titles": [
@@ -14637,7 +16690,7 @@
     "candidates": [
       "0bp9CvkjQYhUJvWRHjFRWI"
     ],
-    "count": 10,
+    "count": 5,
     "id": "wednesday-campanella",
     "name": "Wednesday Campanella",
     "status": "cached",
@@ -14647,7 +16700,7 @@
     "candidates": [
       "3jOstUTkEu2JkjvRdBA5Gu"
     ],
-    "count": 10,
+    "count": 5,
     "id": "weezer",
     "name": "Weezer",
     "status": "cached",
@@ -14803,7 +16856,7 @@
       "0rMMquwQGcfn04KmU2bKen",
       "7CNHvKYhPh69iIKxWkxs5S"
     ],
-    "count": 10,
+    "count": 5,
     "id": "wisp",
     "identity_basis": "Artist official website or artist/label-controlled release link",
     "identity_source": "https://www.wispmusic.com/",
@@ -14840,6 +16893,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/3534yWWzmxx8NbKVoNolsK"
   },
+  "woody92": {
+    "candidates": [],
+    "id": "woody92",
+    "name": "Woody92",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "wooli": {
     "candidate_errors": [],
     "candidates": [
@@ -14851,24 +16911,6 @@
     "name": "Wooli",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-  },
-  "wu-tang-clan": {
-    "candidate_errors": [
-      {
-        "reason": "Expected 1–10 ranked songs; found 0",
-        "url": "https://open.spotify.com/embed/artist/0H8YCcvC3MPLKnbDRasGiG"
-      }
-    ],
-    "candidates": [
-      "34EP7KEpOjXcM2TCat1ISk",
-      "0H8YCcvC3MPLKnbDRasGiG"
-    ],
-    "count": 5,
-    "id": "wu-tang-clan",
-    "identity_basis": "Matching exact-name public search result and artist heading on Spotify embed",
-    "name": "Wu-Tang Clan",
-    "status": "cached",
-    "url": "https://open.spotify.com/embed/artist/34EP7KEpOjXcM2TCat1ISk"
   },
   "wunderhorse": {
     "candidate_errors": [],
@@ -14893,6 +16935,27 @@
     "name": "X CLUB.",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4CYPaFp9yDrNduNptv0DPQ"
+  },
+  "xebi-sf": {
+    "candidate_errors": [],
+    "candidates": [
+      "1kRVTSRBerHQwmJ15aEfeE"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "1kRVTSRBerHQwmJ15aEfeE"
+        ],
+        "source_html_sha256": "f122c9db00056ac0fedfe4ab1fb907c03812847d9a62e0a4547a18d9f70b6b80",
+        "url": "https://open.spotify.com/intl-es/track/5cPNulsb1bRFXQSOCjP6ml"
+      }
+    ],
+    "id": "xebi-sf",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Xebi SF",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/1kRVTSRBerHQwmJ15aEfeE"
   },
   "xexa": {
     "candidate_errors": [],
@@ -14982,7 +17045,7 @@
     "candidates": [
       "7FU0xCgmSYQEiBeevUqQ4S"
     ],
-    "count": 10,
+    "count": 5,
     "id": "yoke-lore",
     "name": "Yoke Lore",
     "status": "cached",
@@ -14992,7 +17055,7 @@
     "candidates": [
       "6FugQjLquBF4JzATRN70bR"
     ],
-    "count": 10,
+    "count": 5,
     "id": "yot-club",
     "name": "Yot Club",
     "status": "cached",
@@ -15014,7 +17077,7 @@
     "candidates": [
       "4j56EQDQu5XnL7R3E9iFJT"
     ],
-    "count": 10,
+    "count": 5,
     "id": "young-the-giant",
     "name": "Young the Giant",
     "status": "cached",
@@ -15032,6 +17095,13 @@
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/50co4Is1HCEo8bhOyUWKpn"
   },
+  "yousuke-yukimatsu-ou-uk-uk1mat-u": {
+    "candidates": [],
+    "id": "yousuke-yukimatsu-ou-uk-uk1mat-u",
+    "name": "Yousuke Yukimatsu (¥ØU$UK€ ¥UK1MAT$U)",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
+  },
   "yovngchimi": {
     "candidate_errors": [],
     "candidates": [
@@ -15043,6 +17113,34 @@
     "name": "Yovngchimi",
     "status": "cached",
     "url": "https://open.spotify.com/embed/artist/4aSlfXDn9R60UlbZEboBUy"
+  },
+  "yozy": {
+    "candidate_errors": [],
+    "candidates": [
+      "6cDSzK72GxBOfXCeSdVlZV"
+    ],
+    "count": 5,
+    "credit_evidence": [
+      {
+        "ids": [
+          "6cDSzK72GxBOfXCeSdVlZV"
+        ],
+        "source_html_sha256": "dfad69d766f74f92820b1e6a7859b9dbbf5ceca0adff2ba12dc78c6340b509f7",
+        "url": "https://open.spotify.com/track/246BpHTXIaziTjtxsBoy78"
+      }
+    ],
+    "id": "yozy",
+    "identity_basis": "Artist name and profile ID verified in public Spotify recording credits and matching artist embed heading",
+    "name": "Yozy",
+    "status": "cached",
+    "url": "https://open.spotify.com/embed/artist/6cDSzK72GxBOfXCeSdVlZV"
+  },
+  "ypr": {
+    "candidates": [],
+    "id": "ypr",
+    "name": "YPR",
+    "reason": "No confidently matching artist profile located in public discovery/recording-credit pass; not proof of absence",
+    "status": "no_spotify_match"
   },
   "yung-gravy": {
     "candidate_errors": [],
@@ -15084,7 +17182,7 @@
     "candidates": [
       "6yJCxee7QumYr820xdIsjo"
     ],
-    "count": 10,
+    "count": 5,
     "id": "zac-brown-band",
     "name": "Zac Brown Band",
     "status": "cached",
@@ -15094,7 +17192,7 @@
     "candidates": [
       "40ZNYROS4zLfyyBSs2PGe2"
     ],
-    "count": 10,
+    "count": 5,
     "id": "zach-bryan",
     "name": "Zach Bryan",
     "status": "cached",
@@ -15123,7 +17221,7 @@
       "2qxJFvFYMEDqd7ui6kSAcq",
       "6YNW60JPM1JacKbn2hfKdL"
     ],
-    "count": 10,
+    "count": 5,
     "id": "zedd",
     "name": "Zedd",
     "status": "cached",

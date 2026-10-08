@@ -1,0 +1,27 @@
+{
+  "artist": "Poolside",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rhye, Poolside",
+      "name": "Feel Your Weight - Poolside Remix"
+    },
+    {
+      "artists": "Poolside",
+      "name": "Harvest Moon"
+    },
+    {
+      "artists": "Poolside, Amo Amo",
+      "name": "Around The Sun"
+    },
+    {
+      "artists": "Miami Horror, Poolside",
+      "name": "Leila - Poolside Remix"
+    },
+    {
+      "artists": "Poolside, LEISURE",
+      "name": "Ride It Out - Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5szdY7KaSi7epwyffrbV8c"
+}

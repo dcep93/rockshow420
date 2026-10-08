@@ -1,0 +1,28 @@
+{
+  "artist": "The Thing",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Thing",
+      "name": "Country Song II"
+    },
+    {
+      "artists": "The Thing",
+      "explicit": true,
+      "name": "Dixie Queen"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Dave's TV"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Beige Bouquet"
+    },
+    {
+      "artists": "The Thing",
+      "name": "Neptunne"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7dQ8sxeaPMgVhWn2R1jd9L"
+}

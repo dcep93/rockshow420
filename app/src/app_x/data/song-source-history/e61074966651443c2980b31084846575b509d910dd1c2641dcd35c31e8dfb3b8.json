@@ -1,0 +1,31 @@
+{
+  "artist": "HiTech",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "HiTech",
+      "name": "SPANK!"
+    },
+    {
+      "artists": "HiTech, George Riley",
+      "explicit": true,
+      "name": "TAKE YO PANTIES OFF (ft. George Riley)"
+    },
+    {
+      "artists": "HiTech, Ziggy Waters",
+      "explicit": true,
+      "name": "BIG PRISM [Feat. Ziggy Waters]"
+    },
+    {
+      "artists": "HiTech",
+      "explicit": true,
+      "name": "Henny n Runtz"
+    },
+    {
+      "artists": "HiTech",
+      "explicit": true,
+      "name": "NEW JAZZ SCHMELL"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2Au9zIICTEr0oeV1iQrJ6X"
+}

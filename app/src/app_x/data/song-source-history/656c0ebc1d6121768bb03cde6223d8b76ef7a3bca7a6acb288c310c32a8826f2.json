@@ -1,0 +1,27 @@
+{
+  "artist": "T Sisters",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "T Sisters",
+      "name": "The Road"
+    },
+    {
+      "artists": "T Sisters",
+      "name": "Come to Me - Live"
+    },
+    {
+      "artists": "T Sisters",
+      "name": "Come Back Down"
+    },
+    {
+      "artists": "T Sisters",
+      "name": "American Tune"
+    },
+    {
+      "artists": "T Sisters",
+      "name": "Make It Rain"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0ulqL4vgGZIwef3YOM0BBn"
+}

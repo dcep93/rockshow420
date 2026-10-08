@@ -1,0 +1,76 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Brought NYC Mayoral candidate Zohran Mamdani on stage to talk to the crowd. Dacus jokingly asked the crowd if they thought he would sing \"Bullseye\" with her. \"Most Wanted Man\" was cut for time.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Calliope Prelude"
+        },
+        {
+          "name": "Hot & Heavy"
+        },
+        {
+          "name": "Ankles"
+        },
+        {
+          "name": "First Time"
+        },
+        {
+          "name": "Modigliani"
+        },
+        {
+          "name": "VBS"
+        },
+        {
+          "name": "Talk"
+        },
+        {
+          "name": "Brando"
+        },
+        {
+          "name": "Best Guess",
+          "notes": "(Lucy officiates 9 couples' weddings on stage)"
+        },
+        {
+          "name": "Addictions"
+        },
+        {
+          "name": "Big Deal"
+        },
+        {
+          "name": "Limerence",
+          "notes": "(followed by a conversation with Zohran Mamdani)"
+        },
+        {
+          "name": "We’re In Love",
+          "notes": "(boygenius song) (solo; acoustic)"
+        },
+        {
+          "name": "I Don't Wanna Be Funny Anymore"
+        },
+        {
+          "name": "Lost Time",
+          "notes": "(debut of new extended outro)"
+        },
+        {
+          "name": "Forever Is a Feeling"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Chicago",
+          "notes": "(Sufjan Stevens cover)"
+        },
+        {
+          "name": "Night Shift"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/lucy-dacus/2025/forest-hills-stadium-queens-ny-usa-334264ed.html"
+}

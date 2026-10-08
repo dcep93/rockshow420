@@ -1,0 +1,32 @@
+{
+  "artist": "sosocamo",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "sosocamo",
+      "explicit": true,
+      "name": "keep steady"
+    },
+    {
+      "artists": "sosocamo",
+      "explicit": true,
+      "name": "soulless"
+    },
+    {
+      "artists": "sosocamo",
+      "explicit": true,
+      "name": "there he go"
+    },
+    {
+      "artists": "sosocamo",
+      "explicit": true,
+      "name": "favorite"
+    },
+    {
+      "artists": "M Huncho, sosocamo",
+      "explicit": true,
+      "name": "WILD 'N' FREE (ft. sosocamo)"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/6hpztnbgmaneFFGGnEOVjd"
+}

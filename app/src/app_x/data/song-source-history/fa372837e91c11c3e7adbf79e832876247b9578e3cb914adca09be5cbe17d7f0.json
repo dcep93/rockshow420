@@ -1,0 +1,29 @@
+{
+  "artist": "JADE",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "JADE",
+      "name": "Angel Of My Dreams"
+    },
+    {
+      "artists": "JADE",
+      "explicit": true,
+      "name": "FUFN (Fuck You For Now)"
+    },
+    {
+      "artists": "JADE",
+      "explicit": true,
+      "name": "Plastic Box"
+    },
+    {
+      "artists": "LE SSERAFIM, JADE",
+      "name": "HOT (English ver.) (feat. JADE)"
+    },
+    {
+      "artists": "PinkPantheress, JADE",
+      "name": "Tonight + JADE"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/24b0qNYNgeOfpP5rbljIB3"
+}

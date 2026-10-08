@@ -1,0 +1,27 @@
+{
+  "artist": "Blondie",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Blondie",
+      "name": "One Way Or Another"
+    },
+    {
+      "artists": "Blondie",
+      "name": "Call Me"
+    },
+    {
+      "artists": "Blondie",
+      "name": "Heart Of Glass"
+    },
+    {
+      "artists": "Blondie",
+      "name": "Maria - Radio Edit"
+    },
+    {
+      "artists": "Blondie",
+      "name": "Heart Of Glass - Special Mix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4tpUmLEVLCGFr93o8hFFIB"
+}

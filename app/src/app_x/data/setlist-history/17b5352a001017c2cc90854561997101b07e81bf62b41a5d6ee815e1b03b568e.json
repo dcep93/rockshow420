@@ -1,0 +1,46 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Peace Song was about to be played, but they realised they only had 5 minutes left. Skipped to Running instead.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Two Minute Warning",
+          "tape": true
+        },
+        {
+          "name": "Vigilante"
+        },
+        {
+          "name": "Show Me the Way"
+        },
+        {
+          "name": "All the Same"
+        },
+        {
+          "name": "King of the Slugs"
+        },
+        {
+          "name": "Wither"
+        },
+        {
+          "name": "Land Before Time"
+        },
+        {
+          "name": "Pray to That"
+        },
+        {
+          "name": "Closer to God"
+        },
+        {
+          "name": "Satisfaction",
+          "notes": "(Benny Benassi cover)"
+        },
+        {
+          "name": "Running"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/fat-dog/2024/sala-apolo-barcelona-spain-5ba8ebfc.html"
+}

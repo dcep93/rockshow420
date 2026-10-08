@@ -1,0 +1,29 @@
+{
+  "artist": "Night Tapes",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Night Tapes",
+      "explicit": true,
+      "name": "drifting"
+    },
+    {
+      "artists": "Night Tapes",
+      "explicit": true,
+      "name": "swordsman"
+    },
+    {
+      "artists": "Night Tapes",
+      "name": "Humans"
+    },
+    {
+      "artists": "Night Tapes",
+      "name": "every day is a game"
+    },
+    {
+      "artists": "Night Tapes",
+      "name": "television"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5APEQlUaQ5K70LgPqAdTuU"
+}

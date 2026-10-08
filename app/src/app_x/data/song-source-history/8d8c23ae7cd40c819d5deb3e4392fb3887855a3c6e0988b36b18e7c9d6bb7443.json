@@ -1,0 +1,27 @@
+{
+  "artist": "julia amor",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "julia amor",
+      "name": "heridas"
+    },
+    {
+      "artists": "julia amor",
+      "name": "algo para pasar los dias"
+    },
+    {
+      "artists": "julia amor",
+      "name": "armadura"
+    },
+    {
+      "artists": "julia amor",
+      "name": "buscando unos brazos"
+    },
+    {
+      "artists": "julia amor, cavinet",
+      "name": "quan et miro"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7xZqz9bsl0Zxf0g3mwnc9u"
+}

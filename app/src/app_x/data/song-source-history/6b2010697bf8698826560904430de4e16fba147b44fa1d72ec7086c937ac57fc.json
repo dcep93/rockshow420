@@ -1,0 +1,32 @@
+{
+  "artist": "Peso Pluma",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Peso Pluma, Tito Double P",
+      "explicit": true,
+      "name": "daño"
+    },
+    {
+      "artists": "Peso Pluma, Estevan Plazola",
+      "explicit": true,
+      "name": "HOLLYWOOD"
+    },
+    {
+      "artists": "Peso Pluma, Tito Double P",
+      "explicit": true,
+      "name": "dopamina"
+    },
+    {
+      "artists": "KAROL G, Peso Pluma",
+      "explicit": true,
+      "name": "QLONA"
+    },
+    {
+      "artists": "Peso Pluma, Jasiel Nuñez",
+      "explicit": true,
+      "name": "LAGUNAS"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/12GqGscKJx3aE4t07u7eVZ"
+}

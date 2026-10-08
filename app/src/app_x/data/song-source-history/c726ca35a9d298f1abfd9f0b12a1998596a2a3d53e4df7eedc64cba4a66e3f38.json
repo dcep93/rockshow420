@@ -1,0 +1,27 @@
+{
+  "artist": "billy woods",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Panchiko, billy woods",
+      "name": "Shandy in the Graveyard"
+    },
+    {
+      "artists": "Open Mike Eagle, Kenny Segal, billy woods",
+      "name": "She Swear I'm Colorblind (feat. billy woods)"
+    },
+    {
+      "artists": "billy woods, Kenny Segal",
+      "name": "Spongebob"
+    },
+    {
+      "artists": "billy woods, Kenny Segal",
+      "name": "Houthi"
+    },
+    {
+      "artists": "billy woods, Kenny Segal, Samuel T. Herring",
+      "name": "FaceTime"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/39vtb2iiz3079nqfL5nfFc"
+}

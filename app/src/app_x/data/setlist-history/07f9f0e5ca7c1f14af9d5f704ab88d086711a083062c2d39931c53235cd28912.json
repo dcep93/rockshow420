@@ -1,0 +1,39 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Incomplete - webcast live by Hulu",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Mama I Made It"
+        },
+        {
+          "name": "Aladdin"
+        },
+        {
+          "name": "Beep",
+          "notes": "(Followed by band intros)"
+        },
+        {
+          "name": "Pinky Promise"
+        },
+        {
+          "name": "Good 4 U"
+        },
+        {
+          "name": "Appreciation",
+          "notes": "(New song)"
+        },
+        {
+          "name": "This Ain't Love",
+          "notes": "(GIVĒON cover)"
+        },
+        {
+          "name": "Hit Different",
+          "notes": "(SZA cover)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/ant-clemons/2021/grant-park-chicago-il-usa-238f2447.html"
+}

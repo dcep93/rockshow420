@@ -1,0 +1,28 @@
+{
+  "artist": "Grace Ives",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Grace Ives",
+      "name": "Lullaby"
+    },
+    {
+      "artists": "Grace Ives",
+      "explicit": true,
+      "name": "Stupid Bitches"
+    },
+    {
+      "artists": "Grace Ives",
+      "name": "Babyyy"
+    },
+    {
+      "artists": "Grace Ives",
+      "name": "Fire 2"
+    },
+    {
+      "artists": "Grace Ives",
+      "name": "Avalanche"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4TZieE5978SbTInJswaay2"
+}

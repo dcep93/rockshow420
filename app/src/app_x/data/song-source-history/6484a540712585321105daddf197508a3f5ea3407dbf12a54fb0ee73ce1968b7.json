@@ -1,0 +1,27 @@
+{
+  "artist": "Magnus Ferrell",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Magnus Ferrell",
+      "name": "Asleep Talking"
+    },
+    {
+      "artists": "Magnus Ferrell, Jenevieve",
+      "name": "She’s Gonna Break My Heart"
+    },
+    {
+      "artists": "Magnus Ferrell",
+      "name": "Life Or Death"
+    },
+    {
+      "artists": "Magnus Ferrell",
+      "name": "Waste Your Heart"
+    },
+    {
+      "artists": "Magnus Ferrell",
+      "name": "Ain’t The Feeling"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5CljSCTqoS1Yu0tNJZJcKe"
+}

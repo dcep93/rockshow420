@@ -1,0 +1,5006 @@
+{
+  "version": 1,
+  "date": "2026-10-08",
+  "time_basis": "published_scheduled_start",
+  "source_type": "setlist.fm community-maintained public pages",
+  "patches": [
+    {
+      "id": "o38l4k",
+      "artist_id": "guns-n-roses",
+      "artist": "Guns N' Roses",
+      "concert_id": "c26k26",
+      "festival": "bottlerock-2021",
+      "day": "2021-09-04",
+      "stage": null,
+      "expected": {
+        "id": "o38l4k",
+        "day": "2021-09-04",
+        "artist_id": "guns-n-roses"
+      },
+      "set": {
+        "start": "2021-09-04T19:30:00-07:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Guns N' Roses",
+        "source_artists": [
+          "Guns N’ Roses"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Napa Valley Expo",
+        "source_venues": [
+          "Napa Valley Expo, Napa, CA, USA"
+        ],
+        "matching_record_key": "guns-n-roses:c26k26",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2021/bottlerock-napa-valley-2021-3bd49898.html",
+        "https://www.setlist.fm/setlist/guns-n-roses/2021/napa-valley-expo-napa-ca-usa-438cc74f.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/guns-n-roses/2021/napa-valley-expo-napa-ca-usa-438cc74f.html"
+      ]
+    },
+    {
+      "id": "jzg54h",
+      "artist_id": "lucy-dacus",
+      "artist": "Lucy Dacus",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "jzg54h",
+        "day": "2025-09-26",
+        "artist_id": "lucy-dacus"
+      },
+      "set": {
+        "start": "2025-09-26T20:30:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Lucy Dacus",
+        "source_artists": [
+          "Lucy Dacus"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "lucy-dacus:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/lucy-dacus/2025/forest-hills-stadium-queens-ny-usa-334264ed.html"
+      ]
+    },
+    {
+      "id": "xgx6ds",
+      "artist_id": "djo",
+      "artist": "Djo",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "xgx6ds",
+        "day": "2025-09-26",
+        "artist_id": "djo"
+      },
+      "set": {
+        "start": "2025-09-26T18:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Djo",
+        "source_artists": [
+          "Djo"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "djo:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/djo/2025/forest-hills-stadium-queens-ny-usa-234264e3.html"
+      ]
+    },
+    {
+      "id": "358rsg",
+      "artist_id": "gigi-perez",
+      "artist": "Gigi Perez",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "358rsg",
+        "day": "2025-09-26",
+        "artist_id": "gigi-perez"
+      },
+      "set": {
+        "start": "2025-09-26T17:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Gigi Perez",
+        "source_artists": [
+          "Gigi Perez"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "gigi-perez:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/gigi-perez/2025/forest-hills-stadium-queens-ny-usa-2b4264e2.html"
+      ]
+    },
+    {
+      "id": "sq2o7v",
+      "artist_id": "rachel-chinouriri",
+      "artist": "Rachel Chinouriri",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "sq2o7v",
+        "day": "2025-09-26",
+        "artist_id": "rachel-chinouriri"
+      },
+      "set": {
+        "start": "2025-09-26T15:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Rachel Chinouriri",
+        "source_artists": [
+          "Rachel Chinouriri"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "rachel-chinouriri:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/rachel-chinouriri/2025/forest-hills-stadium-queens-ny-usa-134229f5.html"
+      ]
+    },
+    {
+      "id": "i7tqkh",
+      "artist_id": "maude-latour",
+      "artist": "Maude Latour",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "i7tqkh",
+        "day": "2025-09-26",
+        "artist_id": "maude-latour"
+      },
+      "set": {
+        "start": "2025-09-26T14:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Maude Latour",
+        "source_artists": [
+          "Maude Latour"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "maude-latour:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/maude-latour/2025/forest-hills-stadium-queens-ny-usa-3b4264e0.html"
+      ]
+    },
+    {
+      "id": "frb173",
+      "artist_id": "the-aces",
+      "artist": "The Aces",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "frb173",
+        "day": "2025-09-26",
+        "artist_id": "the-aces"
+      },
+      "set": {
+        "start": "2025-09-26T13:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Aces",
+        "source_artists": [
+          "The Aces"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "the-aces:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-aces/2025/forest-hills-stadium-queens-ny-usa-2b4264ee.html"
+      ]
+    },
+    {
+      "id": "j2520u",
+      "artist_id": "sarah-kinsley",
+      "artist": "Sarah Kinsley",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "j2520u",
+        "day": "2025-09-26",
+        "artist_id": "sarah-kinsley"
+      },
+      "set": {
+        "start": "2025-09-26T12:50:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Sarah Kinsley",
+        "source_artists": [
+          "Sarah Kinsley"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "sarah-kinsley:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/sarah-kinsley/2025/forest-hills-stadium-queens-ny-usa-234264e7.html"
+      ]
+    },
+    {
+      "id": "zrbnsr",
+      "artist_id": "goldie-boutilier",
+      "artist": "Goldie Boutilier",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-26",
+      "stage": null,
+      "expected": {
+        "id": "zrbnsr",
+        "day": "2025-09-26",
+        "artist_id": "goldie-boutilier"
+      },
+      "set": {
+        "start": "2025-09-26T12:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Goldie Boutilier",
+        "source_artists": [
+          "Goldie Boutilier"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "goldie-boutilier:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/goldie-boutilier/2025/forest-hills-stadium-queens-ny-usa-2b4264e6.html"
+      ]
+    },
+    {
+      "id": "7cv1iz",
+      "artist_id": "doechii",
+      "artist": "Doechii",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "7cv1iz",
+        "day": "2025-09-27",
+        "artist_id": "doechii"
+      },
+      "set": {
+        "start": "2025-09-27T21:00:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Doechii",
+        "source_artists": [
+          "Doechii"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "doechii:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/doechii/2025/forest-hills-stadium-queens-ny-usa-334264e5.html"
+      ]
+    },
+    {
+      "id": "mwrgda",
+      "artist_id": "remi-wolf",
+      "artist": "Remi Wolf",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "mwrgda",
+        "day": "2025-09-27",
+        "artist_id": "remi-wolf"
+      },
+      "set": {
+        "start": "2025-09-27T19:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Remi Wolf",
+        "source_artists": [
+          "Remi Wolf"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "remi-wolf:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/remi-wolf/2025/forest-hills-stadium-queens-ny-usa-334264d9.html"
+      ]
+    },
+    {
+      "id": "52pz9g",
+      "artist_id": "lola-young",
+      "artist": "Lola Young",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "52pz9g",
+        "day": "2025-09-27",
+        "artist_id": "lola-young"
+      },
+      "set": {
+        "start": "2025-09-27T17:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Lola Young",
+        "source_artists": [
+          "Lola Young"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "lola-young:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/lola-young/2025/forest-hills-stadium-queens-ny-usa-234264df.html"
+      ]
+    },
+    {
+      "id": "tbdv4q",
+      "artist_id": "griff",
+      "artist": "Griff",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "tbdv4q",
+        "day": "2025-09-27",
+        "artist_id": "griff"
+      },
+      "set": {
+        "start": "2025-09-27T15:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Griff",
+        "source_artists": [
+          "Griff"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "griff:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/griff/2025/forest-hills-stadium-queens-ny-usa-334264dd.html"
+      ]
+    },
+    {
+      "id": "xxo69o",
+      "artist_id": "peach-prc",
+      "artist": "Peach PRC",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "xxo69o",
+        "day": "2025-09-27",
+        "artist_id": "peach-prc"
+      },
+      "set": {
+        "start": "2025-09-27T14:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Peach PRC",
+        "source_artists": [
+          "Peach PRC"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "peach-prc:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/peach-prc/2025/forest-hills-stadium-queens-ny-usa-3b4264dc.html"
+      ]
+    },
+    {
+      "id": "0mbecq",
+      "artist_id": "michelle",
+      "artist": "Michelle",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "0mbecq",
+        "day": "2025-09-27",
+        "artist_id": "michelle"
+      },
+      "set": {
+        "start": "2025-09-27T13:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Michelle",
+        "source_artists": [
+          "MICHELLE"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "michelle:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/michelle/2025/forest-hills-stadium-queens-ny-usa-234264d3.html"
+      ]
+    },
+    {
+      "id": "qxntio",
+      "artist_id": "alemeda",
+      "artist": "Alemeda",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "qxntio",
+        "day": "2025-09-27",
+        "artist_id": "alemeda"
+      },
+      "set": {
+        "start": "2025-09-27T12:50:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Alemeda",
+        "source_artists": [
+          "Alemeda"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "alemeda:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/alemeda/2025/forest-hills-stadium-queens-ny-usa-334264d1.html"
+      ]
+    },
+    {
+      "id": "x1xnck",
+      "artist_id": "sunday-1994",
+      "artist": "Sunday (1994)",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-27",
+      "stage": null,
+      "expected": {
+        "id": "x1xnck",
+        "day": "2025-09-27",
+        "artist_id": "sunday-1994"
+      },
+      "set": {
+        "start": "2025-09-27T12:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Sunday (1994)",
+        "source_artists": [
+          "Sunday (1994)"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "sunday-1994:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/sunday-1994/2025/forest-hills-stadium-queens-ny-usa-3b4264d0.html"
+      ]
+    },
+    {
+      "id": "pm7ybs",
+      "artist_id": "clairo",
+      "artist": "Clairo",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "pm7ybs",
+        "day": "2025-09-28",
+        "artist_id": "clairo"
+      },
+      "set": {
+        "start": "2025-09-28T20:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Clairo",
+        "source_artists": [
+          "Clairo"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "clairo:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/clairo/2025/forest-hills-stadium-queens-ny-usa-2b4264d6.html"
+      ]
+    },
+    {
+      "id": "zutpnw",
+      "artist_id": "the-marias",
+      "artist": "The Marías",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "zutpnw",
+        "day": "2025-09-28",
+        "artist_id": "the-marias"
+      },
+      "set": {
+        "start": "2025-09-28T18:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Marías",
+        "source_artists": [
+          "The Marías"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "the-marias:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-marias/2025/forest-hills-stadium-queens-ny-usa-3b4264d4.html"
+      ]
+    },
+    {
+      "id": "5sn85z",
+      "artist_id": "the-last-dinner-party",
+      "artist": "The Last Dinner Party",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "5sn85z",
+        "day": "2025-09-28",
+        "artist_id": "the-last-dinner-party"
+      },
+      "set": {
+        "start": "2025-09-28T17:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Last Dinner Party",
+        "source_artists": [
+          "The Last Dinner Party"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "the-last-dinner-party:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-last-dinner-party/2025/forest-hills-stadium-queens-ny-usa-234264cb.html"
+      ]
+    },
+    {
+      "id": "yy6fzx",
+      "artist_id": "paris-paloma",
+      "artist": "Paris Paloma",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "yy6fzx",
+        "day": "2025-09-28",
+        "artist_id": "paris-paloma"
+      },
+      "set": {
+        "start": "2025-09-28T15:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Paris Paloma",
+        "source_artists": [
+          "Paris Paloma"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "paris-paloma:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/paris-paloma/2025/forest-hills-stadium-queens-ny-usa-2b4264ca.html"
+      ]
+    },
+    {
+      "id": "xnxrbp",
+      "artist_id": "blondshell",
+      "artist": "Blondshell",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "xnxrbp",
+        "day": "2025-09-28",
+        "artist_id": "blondshell"
+      },
+      "set": {
+        "start": "2025-09-28T14:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Blondshell",
+        "source_artists": [
+          "Blondshell"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "blondshell:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/blondshell/2025/forest-hills-stadium-queens-ny-usa-334264c9.html"
+      ]
+    },
+    {
+      "id": "sbgynj",
+      "artist_id": "g-flip",
+      "artist": "G Flip",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "sbgynj",
+        "day": "2025-09-28",
+        "artist_id": "g-flip"
+      },
+      "set": {
+        "start": "2025-09-28T13:45:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "G Flip",
+        "source_artists": [
+          "G Flip"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "g-flip:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/g-flip/2025/forest-hills-stadium-queens-ny-usa-3b4264c8.html"
+      ]
+    },
+    {
+      "id": "ff3ppb",
+      "artist_id": "joy-oladokun",
+      "artist": "Joy Oladokun",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "ff3ppb",
+        "day": "2025-09-28",
+        "artist_id": "joy-oladokun"
+      },
+      "set": {
+        "start": "2025-09-28T12:50:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Joy Oladokun",
+        "source_artists": [
+          "Joy Oladokun"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "joy-oladokun:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/joy-oladokun/2025/forest-hills-stadium-queens-ny-usa-234264cf.html"
+      ]
+    },
+    {
+      "id": "41mf4o",
+      "artist_id": "hey-nothing",
+      "artist": "hey, nothing",
+      "concert_id": "65mer9",
+      "festival": "all-things-go-nyc-2025",
+      "day": "2025-09-28",
+      "stage": null,
+      "expected": {
+        "id": "41mf4o",
+        "day": "2025-09-28",
+        "artist_id": "hey-nothing"
+      },
+      "set": {
+        "start": "2025-09-28T12:15:00-04:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "hey, nothing",
+        "source_artists": [
+          "hey, nothing"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Forest Hills Stadium",
+        "source_venues": [
+          "Forest Hills Stadium, Queens, NY, USA"
+        ],
+        "matching_record_key": "hey-nothing:65mer9",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2025/all-things-go-nyc-2025-23d540d3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/hey-nothing/2025/forest-hills-stadium-queens-ny-usa-2b4264ce.html"
+      ]
+    },
+    {
+      "id": "krqtgb",
+      "artist_id": "vampire-weekend",
+      "artist": "Vampire Weekend",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "krqtgb",
+        "day": "2024-05-10",
+        "artist_id": "vampire-weekend"
+      },
+      "set": {
+        "start": "2024-05-10T20:40:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Vampire Weekend",
+        "source_artists": [
+          "Vampire Weekend"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "vampire-weekend:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/vampire-weekend/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff9.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/vampire-weekend/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff9.html"
+      ]
+    },
+    {
+      "id": "m5dlup",
+      "artist_id": "jai-paul",
+      "artist": "Jai Paul",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "m5dlup",
+        "day": "2024-05-10",
+        "artist_id": "jai-paul"
+      },
+      "set": {
+        "start": "2024-05-10T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Jai Paul",
+        "source_artists": [
+          "Jai Paul"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "jai-paul:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/jai-paul/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6cd1.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/jai-paul/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6cd1.html"
+      ]
+    },
+    {
+      "id": "4zadkj",
+      "artist_id": "alvvays",
+      "artist": "Alvvays",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "4zadkj",
+        "day": "2024-05-10",
+        "artist_id": "alvvays"
+      },
+      "set": {
+        "start": "2024-05-10T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Alvvays",
+        "source_artists": [
+          "Alvvays"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "alvvays:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/alvvays/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babeff6.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/alvvays/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babeff6.html"
+      ]
+    },
+    {
+      "id": "mppj8c",
+      "artist_id": "unknown-mortal-orchestra",
+      "artist": "Unknown Mortal Orchestra",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "mppj8c",
+        "day": "2024-05-10",
+        "artist_id": "unknown-mortal-orchestra"
+      },
+      "set": {
+        "start": "2024-05-10T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Unknown Mortal Orchestra",
+        "source_artists": [
+          "Unknown Mortal Orchestra"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "unknown-mortal-orchestra:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/unknown-mortal-orchestra/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6070.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/unknown-mortal-orchestra/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6070.html"
+      ]
+    },
+    {
+      "id": "jnghlg",
+      "artist_id": "andy-shauf",
+      "artist": "Andy Shauf",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "jnghlg",
+        "day": "2024-05-10",
+        "artist_id": "andy-shauf"
+      },
+      "set": {
+        "start": "2024-05-10T19:30:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Andy Shauf",
+        "source_artists": [
+          "Andy Shauf"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "andy-shauf:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/andy-shauf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba89040.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/andy-shauf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba89040.html"
+      ]
+    },
+    {
+      "id": "hyfath",
+      "artist_id": "joanna-newsom",
+      "artist": "Joanna Newsom",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "hyfath",
+        "day": "2024-05-10",
+        "artist_id": "joanna-newsom"
+      },
+      "set": {
+        "start": "2024-05-10T19:30:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Joanna Newsom",
+        "source_artists": [
+          "Joanna Newsom"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "joanna-newsom:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/joanna-newsom/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8903b.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/joanna-newsom/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8903b.html"
+      ]
+    },
+    {
+      "id": "335ya2",
+      "artist_id": "courtney-barnett",
+      "artist": "Courtney Barnett",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "335ya2",
+        "day": "2024-05-10",
+        "artist_id": "courtney-barnett"
+      },
+      "set": {
+        "start": "2024-05-10T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Courtney Barnett",
+        "source_artists": [
+          "Courtney Barnett"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "courtney-barnett:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/courtney-barnett/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff1.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/courtney-barnett/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abeff1.html"
+      ]
+    },
+    {
+      "id": "l2vojt",
+      "artist_id": "yoke-lore",
+      "artist": "Yoke Lore",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "l2vojt",
+        "day": "2024-05-10",
+        "artist_id": "yoke-lore"
+      },
+      "set": {
+        "start": "2024-05-10T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Yoke Lore",
+        "source_artists": [
+          "Yoke Lore"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "yoke-lore:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/yoke-lore/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89039.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/yoke-lore/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89039.html"
+      ]
+    },
+    {
+      "id": "omg3hy",
+      "artist_id": "hemlocke-springs",
+      "artist": "Hemlocke Springs",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "omg3hy",
+        "day": "2024-05-10",
+        "artist_id": "hemlocke-springs"
+      },
+      "set": {
+        "start": "2024-05-10T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Hemlocke Springs",
+        "source_artists": [
+          "hemlocke springs"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "hemlocke-springs:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/hemlocke-springs/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a89037.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/hemlocke-springs/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a89037.html"
+      ]
+    },
+    {
+      "id": "umz9ef",
+      "artist_id": "peach-pit",
+      "artist": "Peach Pit",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "umz9ef",
+        "day": "2024-05-10",
+        "artist_id": "peach-pit"
+      },
+      "set": {
+        "start": "2024-05-10T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Peach Pit",
+        "source_artists": [
+          "Peach Pit"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "peach-pit:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/peach-pit/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6071.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/peach-pit/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab6071.html"
+      ]
+    },
+    {
+      "id": "yevwxp",
+      "artist_id": "abby-sage",
+      "artist": "Abby Sage",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "yevwxp",
+        "day": "2024-05-10",
+        "artist_id": "abby-sage"
+      },
+      "set": {
+        "start": "2024-05-10T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Abby Sage",
+        "source_artists": [
+          "Abby Sage"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "abby-sage:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/abby-sage/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902a.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/abby-sage/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902a.html"
+      ]
+    },
+    {
+      "id": "1zhvr5",
+      "artist_id": "yot-club",
+      "artist": "Yot Club",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "1zhvr5",
+        "day": "2024-05-10",
+        "artist_id": "yot-club"
+      },
+      "set": {
+        "start": "2024-05-10T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Yot Club",
+        "source_artists": [
+          "Yot Club"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "yot-club:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/yot-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89035.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/yot-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89035.html"
+      ]
+    },
+    {
+      "id": "4e9p8w",
+      "artist_id": "horse-jumper-of-love",
+      "artist": "Horse Jumper of Love",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "4e9p8w",
+        "day": "2024-05-10",
+        "artist_id": "horse-jumper-of-love"
+      },
+      "set": {
+        "start": "2024-05-10T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Horse Jumper of Love",
+        "source_artists": [
+          "Horse Jumper of Love"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "horse-jumper-of-love:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/horse-jumper-of-love/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6076.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/horse-jumper-of-love/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6076.html"
+      ]
+    },
+    {
+      "id": "kh2s3b",
+      "artist_id": "annie-dirusso",
+      "artist": "Annie DiRusso",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "kh2s3b",
+        "day": "2024-05-10",
+        "artist_id": "annie-dirusso"
+      },
+      "set": {
+        "start": "2024-05-10T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Annie DiRusso",
+        "source_artists": [
+          "Annie DiRusso"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "annie-dirusso:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/annie-dirusso/2024/utah-state-fairpark-salt-lake-city-ut-usa-3a93dbb.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/annie-dirusso/2024/utah-state-fairpark-salt-lake-city-ut-usa-3a93dbb.html"
+      ]
+    },
+    {
+      "id": "4iabkk",
+      "artist_id": "kara-jackson",
+      "artist": "Kara Jackson",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "4iabkk",
+        "day": "2024-05-10",
+        "artist_id": "kara-jackson"
+      },
+      "set": {
+        "start": "2024-05-10T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Kara Jackson",
+        "source_artists": [
+          "Kara Jackson"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "kara-jackson:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/kara-jackson/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902e.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/kara-jackson/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba8902e.html"
+      ]
+    },
+    {
+      "id": "l3xm92",
+      "artist_id": "bobo",
+      "artist": "bobo_",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "l3xm92",
+        "day": "2024-05-10",
+        "artist_id": "bobo"
+      },
+      "set": {
+        "start": "2024-05-10T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "bobo_",
+        "source_artists": [
+          "Bobo_"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "bobo:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/bobo/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a93dc5.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/bobo/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a93dc5.html"
+      ]
+    },
+    {
+      "id": "nfszq8",
+      "artist_id": "gustaf",
+      "artist": "Gustaf",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "nfszq8",
+        "day": "2024-05-10",
+        "artist_id": "gustaf"
+      },
+      "set": {
+        "start": "2024-05-10T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Gustaf",
+        "source_artists": [
+          "Gustaf"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "gustaf:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/gustaf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6074.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/gustaf/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6074.html"
+      ]
+    },
+    {
+      "id": "o80g8s",
+      "artist_id": "drusky",
+      "artist": "Drusky",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "o80g8s",
+        "day": "2024-05-10",
+        "artist_id": "drusky"
+      },
+      "set": {
+        "start": "2024-05-10T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Drusky",
+        "source_artists": [
+          "Drusky"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "drusky:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/drusky/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89021.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/drusky/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a89021.html"
+      ]
+    },
+    {
+      "id": "t22cfq",
+      "artist_id": "ty-segall",
+      "artist": "Ty Segall",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "t22cfq",
+        "day": "2024-05-10",
+        "artist_id": "ty-segall"
+      },
+      "set": {
+        "start": "2024-05-10T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Ty Segall",
+        "source_artists": [
+          "Ty Segall"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "ty-segall:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/ty-segall/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab607c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/ty-segall/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab607c.html"
+      ]
+    },
+    {
+      "id": "yncjl3",
+      "artist_id": "luna-li",
+      "artist": "Luna Li",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "yncjl3",
+        "day": "2024-05-10",
+        "artist_id": "luna-li"
+      },
+      "set": {
+        "start": "2024-05-10T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Luna Li",
+        "source_artists": [
+          "Luna Li"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "luna-li:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/luna-li/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba8903c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/luna-li/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba8903c.html"
+      ]
+    },
+    {
+      "id": "mrihfu",
+      "artist_id": "blondshell",
+      "artist": "Blondshell",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "mrihfu",
+        "day": "2024-05-10",
+        "artist_id": "blondshell"
+      },
+      "set": {
+        "start": "2024-05-10T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Blondshell",
+        "source_artists": [
+          "Blondshell"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "blondshell:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/blondshell/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba89036.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/blondshell/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba89036.html"
+      ]
+    },
+    {
+      "id": "09jlmq",
+      "artist_id": "joanna-sternberg",
+      "artist": "Joanna Sternberg",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "09jlmq",
+        "day": "2024-05-10",
+        "artist_id": "joanna-sternberg"
+      },
+      "set": {
+        "start": "2024-05-10T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Joanna Sternberg",
+        "source_artists": [
+          "Joanna Sternberg"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "joanna-sternberg:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/joanna-sternberg/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8902f.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/joanna-sternberg/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a8902f.html"
+      ]
+    },
+    {
+      "id": "vn6e2s",
+      "artist_id": "daytime-lover",
+      "artist": "Daytime Lover",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-10",
+      "stage": null,
+      "expected": {
+        "id": "vn6e2s",
+        "day": "2024-05-10",
+        "artist_id": "daytime-lover"
+      },
+      "set": {
+        "start": "2024-05-10T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Daytime Lover",
+        "source_artists": [
+          "Daytime Lover"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Mountain Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "daytime-lover:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/daytime-lover/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba8902c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/daytime-lover/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba8902c.html"
+      ]
+    },
+    {
+      "id": "s8dde3",
+      "artist_id": "belle-and-sebastian",
+      "artist": "Belle and Sebastian",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "s8dde3",
+        "day": "2024-05-11",
+        "artist_id": "belle-and-sebastian"
+      },
+      "set": {
+        "start": "2024-05-11T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Belle and Sebastian",
+        "source_artists": [
+          "Belle and Sebastian"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "belle-and-sebastian:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/belle-and-sebastian/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abefed.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/belle-and-sebastian/2024/utah-state-fairpark-salt-lake-city-ut-usa-53abefed.html"
+      ]
+    },
+    {
+      "id": "26dhp6",
+      "artist_id": "current-joys",
+      "artist": "Current Joys",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "26dhp6",
+        "day": "2024-05-11",
+        "artist_id": "current-joys"
+      },
+      "set": {
+        "start": "2024-05-11T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Current Joys",
+        "source_artists": [
+          "Current Joys"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "current-joys:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/current-joys/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890ff.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/current-joys/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890ff.html"
+      ]
+    },
+    {
+      "id": "fll1ft",
+      "artist_id": "bombay-bicycle-club",
+      "artist": "Bombay Bicycle Club",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "fll1ft",
+        "day": "2024-05-11",
+        "artist_id": "bombay-bicycle-club"
+      },
+      "set": {
+        "start": "2024-05-11T19:30:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Bombay Bicycle Club",
+        "source_artists": [
+          "Bombay Bicycle Club"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "bombay-bicycle-club:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/bombay-bicycle-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab606b.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/bombay-bicycle-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab606b.html"
+      ]
+    },
+    {
+      "id": "zvx47a",
+      "artist_id": "beach-fossils",
+      "artist": "Beach Fossils",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "zvx47a",
+        "day": "2024-05-11",
+        "artist_id": "beach-fossils"
+      },
+      "set": {
+        "start": "2024-05-11T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Beach Fossils",
+        "source_artists": [
+          "Beach Fossils"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "beach-fossils:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/beach-fossils/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babefea.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/beach-fossils/2024/utah-state-fairpark-salt-lake-city-ut-usa-4babefea.html"
+      ]
+    },
+    {
+      "id": "073595",
+      "artist_id": "fazerdaze",
+      "artist": "Fazerdaze",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "073595",
+        "day": "2024-05-11",
+        "artist_id": "fazerdaze"
+      },
+      "set": {
+        "start": "2024-05-11T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Fazerdaze",
+        "source_artists": [
+          "Fazerdaze"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "fazerdaze:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/fazerdaze/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890f3.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/fazerdaze/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890f3.html"
+      ]
+    },
+    {
+      "id": "u461na",
+      "artist_id": "late-night-drive-home",
+      "artist": "late night drive home",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "u461na",
+        "day": "2024-05-11",
+        "artist_id": "late-night-drive-home"
+      },
+      "set": {
+        "start": "2024-05-11T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "late night drive home",
+        "source_artists": [
+          "late night drive home"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Kilby Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "late-night-drive-home:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/late-night-drive-home/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a891a9.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/late-night-drive-home/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a891a9.html"
+      ]
+    },
+    {
+      "id": "91txt0",
+      "artist_id": "dinosaur-jr",
+      "artist": "Dinosaur Jr.",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "91txt0",
+        "day": "2024-05-11",
+        "artist_id": "dinosaur-jr"
+      },
+      "set": {
+        "start": "2024-05-11T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Dinosaur Jr.",
+        "source_artists": [
+          "Dinosaur Jr."
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "dinosaur-jr:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/dinosaur-jr/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefef.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/dinosaur-jr/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefef.html"
+      ]
+    },
+    {
+      "id": "ghauye",
+      "artist_id": "slow-pulp",
+      "artist": "Slow Pulp",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "ghauye",
+        "day": "2024-05-11",
+        "artist_id": "slow-pulp"
+      },
+      "set": {
+        "start": "2024-05-11T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Slow Pulp",
+        "source_artists": [
+          "Slow Pulp"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "slow-pulp:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/slow-pulp/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab606c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/slow-pulp/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab606c.html"
+      ]
+    },
+    {
+      "id": "tgyumf",
+      "artist_id": "water-from-your-eyes",
+      "artist": "Water From Your Eyes",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "tgyumf",
+        "day": "2024-05-11",
+        "artist_id": "water-from-your-eyes"
+      },
+      "set": {
+        "start": "2024-05-11T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Water From Your Eyes",
+        "source_artists": [
+          "Water From Your Eyes"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "water-from-your-eyes:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6063.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6063.html"
+      ]
+    },
+    {
+      "id": "ieanmw",
+      "artist_id": "arcy-drive",
+      "artist": "Arcy Drive",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "ieanmw",
+        "day": "2024-05-11",
+        "artist_id": "arcy-drive"
+      },
+      "set": {
+        "start": "2024-05-11T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Arcy Drive",
+        "source_artists": [
+          "Arcy Drive"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "arcy-drive:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/arcy-drive/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890fb.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/arcy-drive/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890fb.html"
+      ]
+    },
+    {
+      "id": "wsy785",
+      "artist_id": "boyfriend-sushi-town",
+      "artist": "Boyfriend Sushi Town",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "wsy785",
+        "day": "2024-05-11",
+        "artist_id": "boyfriend-sushi-town"
+      },
+      "set": {
+        "start": "2024-05-11T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Boyfriend Sushi Town",
+        "source_artists": [
+          "Boyfriend Sushi Town"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Desert Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "boyfriend-sushi-town:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/boyfriend-sushi-town/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a8901d.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/boyfriend-sushi-town/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a8901d.html"
+      ]
+    },
+    {
+      "id": "yx5uhy",
+      "artist_id": "tv-girl",
+      "artist": "TV Girl",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "yx5uhy",
+        "day": "2024-05-11",
+        "artist_id": "tv-girl"
+      },
+      "set": {
+        "start": "2024-05-11T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "TV Girl",
+        "source_artists": [
+          "TV Girl"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "tv-girl:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/tv-girl/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab606e.html"
+      ]
+    },
+    {
+      "id": "vcn8lq",
+      "artist_id": "the-garden",
+      "artist": "The Garden",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "vcn8lq",
+        "day": "2024-05-11",
+        "artist_id": "the-garden"
+      },
+      "set": {
+        "start": "2024-05-11T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Garden",
+        "source_artists": [
+          "The Garden"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "the-garden:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-garden/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab606d.html"
+      ]
+    },
+    {
+      "id": "bif5c4",
+      "artist_id": "krooked-kings",
+      "artist": "Krooked Kings",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "bif5c4",
+        "day": "2024-05-11",
+        "artist_id": "krooked-kings"
+      },
+      "set": {
+        "start": "2024-05-11T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Krooked Kings",
+        "source_artists": [
+          "Krooked Kings"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "krooked-kings:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/krooked-kings/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890fa.html"
+      ]
+    },
+    {
+      "id": "ydv8wc",
+      "artist_id": "blue-rain-boots",
+      "artist": "Blue Rain Boots",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "ydv8wc",
+        "day": "2024-05-11",
+        "artist_id": "blue-rain-boots"
+      },
+      "set": {
+        "start": "2024-05-11T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Blue Rain Boots",
+        "source_artists": [
+          "Blue Rain Boots"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Lake Stage, Utah State Fairpark, Salt Lake City, UT, USA",
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "blue-rain-boots:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/blue-rain-boots/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a89013.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/blue-rain-boots/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a89013.html"
+      ]
+    },
+    {
+      "id": "t5q8h1",
+      "artist_id": "cautious-clay",
+      "artist": "Cautious Clay",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "t5q8h1",
+        "day": "2024-05-11",
+        "artist_id": "cautious-clay"
+      },
+      "set": {
+        "start": "2024-05-11T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Cautious Clay",
+        "source_artists": [
+          "Cautious Clay"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "cautious-clay:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/cautious-clay/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890fc.html"
+      ]
+    },
+    {
+      "id": "zqszqk",
+      "artist_id": "yellow-days",
+      "artist": "Yellow Days",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "zqszqk",
+        "day": "2024-05-11",
+        "artist_id": "yellow-days"
+      },
+      "set": {
+        "start": "2024-05-11T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Yellow Days",
+        "source_artists": [
+          "Yellow Days"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "yellow-days:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/yellow-days/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890fd.html"
+      ]
+    },
+    {
+      "id": "i3tu03",
+      "artist_id": "lomelda",
+      "artist": "Lomelda",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "i3tu03",
+        "day": "2024-05-11",
+        "artist_id": "lomelda"
+      },
+      "set": {
+        "start": "2024-05-11T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Lomelda",
+        "source_artists": [
+          "Lomelda"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "lomelda:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/lomelda/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890f8.html"
+      ]
+    },
+    {
+      "id": "j17yiy",
+      "artist_id": "malcolm-todd",
+      "artist": "Malcolm Todd",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "j17yiy",
+        "day": "2024-05-11",
+        "artist_id": "malcolm-todd"
+      },
+      "set": {
+        "start": "2024-05-11T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Malcolm Todd",
+        "source_artists": [
+          "Malcolm Todd"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "malcolm-todd:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/malcolm-todd/2024/utah-state-fairpark-salt-lake-city-ut-usa-13a93db9.html"
+      ]
+    },
+    {
+      "id": "lg3kc1",
+      "artist_id": "sculpture-club",
+      "artist": "Sculpture Club",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-11",
+      "stage": null,
+      "expected": {
+        "id": "lg3kc1",
+        "day": "2024-05-11",
+        "artist_id": "sculpture-club"
+      },
+      "set": {
+        "start": "2024-05-11T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Sculpture Club",
+        "source_artists": [
+          "Sculpture Club"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "sculpture-club:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/sculpture-club/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba89008.html"
+      ]
+    },
+    {
+      "id": "kqnv1u",
+      "artist_id": "lcd-soundsystem",
+      "artist": "LCD Soundsystem",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "kqnv1u",
+        "day": "2024-05-12",
+        "artist_id": "lcd-soundsystem"
+      },
+      "set": {
+        "start": "2024-05-12T20:40:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "LCD Soundsystem",
+        "source_artists": [
+          "LCD Soundsystem"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "lcd-soundsystem:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/lcd-soundsystem/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefff.html"
+      ]
+    },
+    {
+      "id": "upplnd",
+      "artist_id": "interpol",
+      "artist": "Interpol",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "upplnd",
+        "day": "2024-05-12",
+        "artist_id": "interpol"
+      },
+      "set": {
+        "start": "2024-05-12T19:30:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Interpol",
+        "source_artists": [
+          "Interpol"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "interpol:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/interpol/2024/utah-state-fairpark-salt-lake-city-ut-usa-5babefec.html"
+      ]
+    },
+    {
+      "id": "hm4c64",
+      "artist_id": "100-gecs",
+      "artist": "100 gecs",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "hm4c64",
+        "day": "2024-05-12",
+        "artist_id": "100-gecs"
+      },
+      "set": {
+        "start": "2024-05-12T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "100 gecs",
+        "source_artists": [
+          "100 gecs"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "100-gecs:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/100-gecs/2024/utah-state-fairpark-salt-lake-city-ut-usa-43abefe3.html"
+      ]
+    },
+    {
+      "id": "gv05l5",
+      "artist_id": "dayglow",
+      "artist": "Dayglow",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "gv05l5",
+        "day": "2024-05-12",
+        "artist_id": "dayglow"
+      },
+      "set": {
+        "start": "2024-05-12T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Dayglow",
+        "source_artists": [
+          "Dayglow"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "dayglow:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/dayglow/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890e1.html"
+      ]
+    },
+    {
+      "id": "a8ogao",
+      "artist_id": "guided-by-voices",
+      "artist": "Guided By Voices",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "a8ogao",
+        "day": "2024-05-12",
+        "artist_id": "guided-by-voices"
+      },
+      "set": {
+        "start": "2024-05-12T18:20:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Guided By Voices",
+        "source_artists": [
+          "Guided by Voices"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "guided-by-voices:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/guided-by-voices/2024/utah-state-fairpark-salt-lake-city-ut-usa-3bab6058.html"
+      ]
+    },
+    {
+      "id": "1u773s",
+      "artist_id": "yves-tumor",
+      "artist": "Yves Tumor",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "1u773s",
+        "day": "2024-05-12",
+        "artist_id": "yves-tumor"
+      },
+      "set": {
+        "start": "2024-05-12T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Yves Tumor",
+        "source_artists": [
+          "Yves Tumor"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "yves-tumor:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/yves-tumor/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6cc3.html"
+      ]
+    },
+    {
+      "id": "0vs1pr",
+      "artist_id": "panchiko",
+      "artist": "Panchiko",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "0vs1pr",
+        "day": "2024-05-12",
+        "artist_id": "panchiko"
+      },
+      "set": {
+        "start": "2024-05-12T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Panchiko",
+        "source_artists": [
+          "Panchiko"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "panchiko:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/panchiko/2024/utah-state-fairpark-salt-lake-city-ut-usa-33ab605d.html"
+      ]
+    },
+    {
+      "id": "4mo3ep",
+      "artist_id": "pond",
+      "artist": "Pond",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "4mo3ep",
+        "day": "2024-05-12",
+        "artist_id": "pond"
+      },
+      "set": {
+        "start": "2024-05-12T17:10:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Pond",
+        "source_artists": [
+          "Pond"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "pond:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/pond/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab605f.html"
+      ]
+    },
+    {
+      "id": "uwa3ds",
+      "artist_id": "css",
+      "artist": "CSS",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "uwa3ds",
+        "day": "2024-05-12",
+        "artist_id": "css"
+      },
+      "set": {
+        "start": "2024-05-12T15:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "CSS",
+        "source_artists": [
+          "CSS"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "css:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/css/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890ed.html"
+      ]
+    },
+    {
+      "id": "ay6ima",
+      "artist_id": "choir-boy",
+      "artist": "Choir Boy",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "ay6ima",
+        "day": "2024-05-12",
+        "artist_id": "choir-boy"
+      },
+      "set": {
+        "start": "2024-05-12T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Choir Boy",
+        "source_artists": [
+          "Choir Boy"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "choir-boy:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/choir-boy/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890ef.html"
+      ]
+    },
+    {
+      "id": "aej5va",
+      "artist_id": "royel-otis",
+      "artist": "Royel Otis",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "aej5va",
+        "day": "2024-05-12",
+        "artist_id": "royel-otis"
+      },
+      "set": {
+        "start": "2024-05-12T14:00:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Royel Otis",
+        "source_artists": [
+          "Royel Otis"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "royel-otis:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/royel-otis/2024/utah-state-fairpark-salt-lake-city-ut-usa-23ab6053.html"
+      ]
+    },
+    {
+      "id": "472754",
+      "artist_id": "odie-leigh",
+      "artist": "Odie Leigh",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "472754",
+        "day": "2024-05-12",
+        "artist_id": "odie-leigh"
+      },
+      "set": {
+        "start": "2024-05-12T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Odie Leigh",
+        "source_artists": [
+          "Odie Leigh"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "odie-leigh:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/odie-leigh/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890ea.html"
+      ]
+    },
+    {
+      "id": "1gdfrf",
+      "artist_id": "model-actriz",
+      "artist": "Model/Actriz",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "1gdfrf",
+        "day": "2024-05-12",
+        "artist_id": "model-actriz"
+      },
+      "set": {
+        "start": "2024-05-12T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Model/Actriz",
+        "source_artists": [
+          "Model/Actriz"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "model-actriz:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/modelactriz/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6052.html"
+      ]
+    },
+    {
+      "id": "q4dfuz",
+      "artist_id": "26fix",
+      "artist": "26fix",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "q4dfuz",
+        "day": "2024-05-12",
+        "artist_id": "26fix"
+      },
+      "set": {
+        "start": "2024-05-12T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "26fix",
+        "source_artists": [
+          "26fix"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "26fix:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/26fix/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890f6.html"
+      ]
+    },
+    {
+      "id": "ooykb4",
+      "artist_id": "little-moon",
+      "artist": "Little Moon",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "ooykb4",
+        "day": "2024-05-12",
+        "artist_id": "little-moon"
+      },
+      "set": {
+        "start": "2024-05-12T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Little Moon",
+        "source_artists": [
+          "Little Moon"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "little-moon:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/little-moon/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890eb.html"
+      ]
+    },
+    {
+      "id": "y93vmq",
+      "artist_id": "body-of-leaves",
+      "artist": "Body Of Leaves",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "y93vmq",
+        "day": "2024-05-12",
+        "artist_id": "body-of-leaves"
+      },
+      "set": {
+        "start": "2024-05-12T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Body Of Leaves",
+        "source_artists": [
+          "Body of Leaves"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "body-of-leaves:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/body-of-leaves/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890f0.html"
+      ]
+    },
+    {
+      "id": "1ud5f7",
+      "artist_id": "persona-749",
+      "artist": "Persona 749",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "1ud5f7",
+        "day": "2024-05-12",
+        "artist_id": "persona-749"
+      },
+      "set": {
+        "start": "2024-05-12T11:45:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Persona 749",
+        "source_artists": [
+          "Persona 749"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "persona-749:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/persona-749/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890f7.html"
+      ]
+    },
+    {
+      "id": "geh0lv",
+      "artist_id": "kevin-kaarl",
+      "artist": "Kevin Kaarl",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "geh0lv",
+        "day": "2024-05-12",
+        "artist_id": "kevin-kaarl"
+      },
+      "set": {
+        "start": "2024-05-12T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Kevin Kaarl",
+        "source_artists": [
+          "Kevin Kaarl"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "kevin-kaarl:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/kevin-kaarl/2024/utah-state-fairpark-salt-lake-city-ut-usa-3ba890ec.html"
+      ]
+    },
+    {
+      "id": "q8m1c1",
+      "artist_id": "ekkstacy",
+      "artist": "ekkstacy",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "q8m1c1",
+        "day": "2024-05-12",
+        "artist_id": "ekkstacy"
+      },
+      "set": {
+        "start": "2024-05-12T16:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "ekkstacy",
+        "source_artists": [
+          "EKKSTACY"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "ekkstacy:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/ekkstacy/2024/utah-state-fairpark-salt-lake-city-ut-usa-23a890e3.html"
+      ]
+    },
+    {
+      "id": "bx203f",
+      "artist_id": "hana-vu",
+      "artist": "Hana Vu",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "bx203f",
+        "day": "2024-05-12",
+        "artist_id": "hana-vu"
+      },
+      "set": {
+        "start": "2024-05-12T13:25:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Hana Vu",
+        "source_artists": [
+          "Hana Vu"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "hana-vu:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/hana-vu/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890e9.html"
+      ]
+    },
+    {
+      "id": "be5ipd",
+      "artist_id": "nicole-canaan",
+      "artist": "Nicole Canaan",
+      "concert_id": "fuaiif",
+      "festival": "kilby-block-party-2024",
+      "day": "2024-05-12",
+      "stage": null,
+      "expected": {
+        "id": "be5ipd",
+        "day": "2024-05-12",
+        "artist_id": "nicole-canaan"
+      },
+      "set": {
+        "start": "2024-05-12T12:15:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Nicole Canaan",
+        "source_artists": [
+          "Nicole Canaan"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Utah State Fairpark",
+        "source_venues": [
+          "Utah State Fairpark, Salt Lake City, UT, USA"
+        ],
+        "matching_record_key": "nicole-canaan:fuaiif",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/nicole-canaan/2024/utah-state-fairpark-salt-lake-city-ut-usa-33a890f5.html"
+      ]
+    },
+    {
+      "id": "i7qx7t",
+      "artist_id": "johnny-jewel",
+      "artist": "Johnny Jewel",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "i7qx7t",
+        "day": "2024-05-27",
+        "stage": "Sala Apolo",
+        "artist_id": "johnny-jewel"
+      },
+      "set": {
+        "start": "2024-05-27T22:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Johnny Jewel",
+        "source_artists": [
+          "Johnny Jewel"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "johnny-jewel:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/johnny-jewel/2024/sala-apolo-barcelona-spain-53a8eb2d.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/johnny-jewel/2024/sala-apolo-barcelona-spain-53a8eb2d.html"
+      ]
+    },
+    {
+      "id": "uo8q5s",
+      "artist_id": "the-chameleons",
+      "artist": "The Chameleons",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "uo8q5s",
+        "day": "2024-05-27",
+        "stage": "Sala Apolo",
+        "artist_id": "the-chameleons"
+      },
+      "set": {
+        "start": "2024-05-27T21:10:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Chameleons",
+        "source_artists": [
+          "The Chameleons"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-chameleons:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-chameleons/2024/sala-apolo-barcelona-spain-43a8eb2f.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-chameleons/2024/sala-apolo-barcelona-spain-43a8eb2f.html"
+      ]
+    },
+    {
+      "id": "k9eacj",
+      "artist_id": "cranes",
+      "artist": "Cranes",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "k9eacj",
+        "day": "2024-05-27",
+        "stage": "Sala Apolo",
+        "artist_id": "cranes"
+      },
+      "set": {
+        "start": "2024-05-27T20:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Cranes",
+        "source_artists": [
+          "Cranes"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "cranes:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/cranes/2024/sala-apolo-barcelona-spain-5ba8eb28.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/cranes/2024/sala-apolo-barcelona-spain-5ba8eb28.html"
+      ]
+    },
+    {
+      "id": "0dq42k",
+      "artist_id": "ariox",
+      "artist": "Ariox",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "0dq42k",
+        "day": "2024-05-27",
+        "stage": "Sala Apolo",
+        "artist_id": "ariox"
+      },
+      "set": {
+        "start": "2024-05-27T19:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Ariox",
+        "source_artists": [
+          "Ariox"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "ariox:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/ariox/2024/sala-apolo-barcelona-spain-3356f069.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/ariox/2024/sala-apolo-barcelona-spain-3356f069.html"
+      ]
+    },
+    {
+      "id": "2wcksw",
+      "artist_id": "yo-la-tengo",
+      "artist": "Yo La Tengo",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "2wcksw",
+        "day": "2024-05-28",
+        "stage": "Sala Apolo",
+        "artist_id": "yo-la-tengo"
+      },
+      "set": {
+        "start": "2024-05-28T21:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Yo La Tengo",
+        "source_artists": [
+          "Yo La Tengo"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "yo-la-tengo:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/yo-la-tengo/2024/sala-apolo-barcelona-spain-53a8eb05.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/yo-la-tengo/2024/sala-apolo-barcelona-spain-53a8eb05.html"
+      ]
+    },
+    {
+      "id": "yilmyl",
+      "artist_id": "the-lemon-twigs",
+      "artist": "The Lemon Twigs",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "yilmyl",
+        "day": "2024-06-02",
+        "stage": "Sala Apolo",
+        "artist_id": "the-lemon-twigs"
+      },
+      "set": {
+        "start": "2024-06-02T23:15:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Lemon Twigs",
+        "source_artists": [
+          "The Lemon Twigs"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-lemon-twigs:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-lemon-twigs/2024/sala-apolo-barcelona-spain-43a8ebaf.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-lemon-twigs/2024/sala-apolo-barcelona-spain-43a8ebaf.html"
+      ]
+    },
+    {
+      "id": "54mgmb",
+      "artist_id": "royel-otis",
+      "artist": "Royel Otis",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "54mgmb",
+        "day": "2024-06-02",
+        "stage": "Sala Apolo",
+        "artist_id": "royel-otis"
+      },
+      "set": {
+        "start": "2024-06-02T21:50:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Royel Otis",
+        "source_artists": [
+          "Royel Otis"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "royel-otis:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/royel-otis/2024/sala-apolo-barcelona-spain-43a8ebab.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/royel-otis/2024/sala-apolo-barcelona-spain-43a8ebab.html"
+      ]
+    },
+    {
+      "id": "pb9y90",
+      "artist_id": "mandy-indiana",
+      "artist": "Mandy, Indiana",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Sala Apolo",
+      "expected": {
+        "id": "pb9y90",
+        "day": "2024-06-02",
+        "stage": "Sala Apolo",
+        "artist_id": "mandy-indiana"
+      },
+      "set": {
+        "start": "2024-06-02T20:40:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Mandy, Indiana",
+        "source_artists": [
+          "Mandy, Indiana"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Sala Apolo",
+        "source_venues": [
+          "Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "mandy-indiana:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/mandy-indiana/2024/sala-apolo-barcelona-spain-43a8ebb7.html"
+      ]
+    },
+    {
+      "id": "7fa9s5",
+      "artist_id": "tiemei",
+      "artist": "TIEMEI",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "7fa9s5",
+        "day": "2024-05-27",
+        "stage": "La [2] de Apolo",
+        "artist_id": "tiemei"
+      },
+      "set": {
+        "start": "2024-05-27T22:10:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "TIEMEI",
+        "source_artists": [
+          "TIEMEI"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "tiemei:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/tiemei/2024/sala-apolo-barcelona-spain-3518dcb.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/tiemei/2024/sala-apolo-barcelona-spain-3518dcb.html"
+      ]
+    },
+    {
+      "id": "emf2za",
+      "artist_id": "maustetytot",
+      "artist": "Maustetytöt",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "emf2za",
+        "day": "2024-05-27",
+        "stage": "La [2] de Apolo",
+        "artist_id": "maustetytot"
+      },
+      "set": {
+        "start": "2024-05-27T21:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Maustetytöt",
+        "source_artists": [
+          "Maustetytöt"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "maustetytot:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/maustetytot/2024/sala-apolo-barcelona-spain-4ba8eb3a.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/maustetytot/2024/sala-apolo-barcelona-spain-4ba8eb3a.html"
+      ]
+    },
+    {
+      "id": "j274zu",
+      "artist_id": "john-francis-flynn",
+      "artist": "John Francis Flynn",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "j274zu",
+        "day": "2024-05-27",
+        "stage": "La [2] de Apolo",
+        "artist_id": "john-francis-flynn"
+      },
+      "set": {
+        "start": "2024-05-27T20:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "John Francis Flynn",
+        "source_artists": [
+          "John Francis Flynn"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "john-francis-flynn:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/john-francis-flynn/2024/sala-apolo-barcelona-spain-43a8eb3b.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/john-francis-flynn/2024/sala-apolo-barcelona-spain-43a8eb3b.html"
+      ]
+    },
+    {
+      "id": "qql1am",
+      "artist_id": "abstract-concrete",
+      "artist": "Abstract Concrete",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "qql1am",
+        "day": "2024-05-27",
+        "stage": "La [2] de Apolo",
+        "artist_id": "abstract-concrete"
+      },
+      "set": {
+        "start": "2024-05-27T19:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Abstract Concrete",
+        "source_artists": [
+          "Abstract Concrete"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "abstract-concrete:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/abstract-concrete/2024/sala-apolo-barcelona-spain-53a8eb45.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/abstract-concrete/2024/sala-apolo-barcelona-spain-53a8eb45.html"
+      ]
+    },
+    {
+      "id": "1xhg1h",
+      "artist_id": "armand-hammer",
+      "artist": "Armand Hammer",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "1xhg1h",
+        "day": "2024-05-28",
+        "stage": "La [2] de Apolo",
+        "artist_id": "armand-hammer"
+      },
+      "set": {
+        "start": "2024-05-28T22:40:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Armand Hammer",
+        "source_artists": [
+          "Armand Hammer"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "armand-hammer:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/armand-hammer/2024/sala-apolo-barcelona-spain-53a8eb25.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/armand-hammer/2024/sala-apolo-barcelona-spain-53a8eb25.html"
+      ]
+    },
+    {
+      "id": "fs7vph",
+      "artist_id": "irreversible-entanglements",
+      "artist": "Irreversible Entanglements",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "fs7vph",
+        "day": "2024-05-28",
+        "stage": "La [2] de Apolo",
+        "artist_id": "irreversible-entanglements"
+      },
+      "set": {
+        "start": "2024-05-28T21:20:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Irreversible Entanglements",
+        "source_artists": [
+          "Irreversible Entanglements"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "irreversible-entanglements:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/irreversible-entanglements/2024/sala-apolo-barcelona-spain-53a8eb21.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/irreversible-entanglements/2024/sala-apolo-barcelona-spain-53a8eb21.html"
+      ]
+    },
+    {
+      "id": "n9i1hu",
+      "artist_id": "the-messthetics-james-brandon-lewis",
+      "artist": "The Messthetics & James Brandon Lewis",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "n9i1hu",
+        "day": "2024-05-28",
+        "stage": "La [2] de Apolo",
+        "artist_id": "the-messthetics-james-brandon-lewis"
+      },
+      "set": {
+        "start": "2024-05-28T20:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Messthetics & James Brandon Lewis",
+        "source_artists": [
+          "The Messthetics and James Brandon Lewis"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-messthetics-james-brandon-lewis:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-messthetics-and-james-brandon-lewis/2024/sala-apolo-barcelona-spain-43a8eb23.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-messthetics-and-james-brandon-lewis/2024/sala-apolo-barcelona-spain-43a8eb23.html"
+      ]
+    },
+    {
+      "id": "m9tove",
+      "artist_id": "fat-dog",
+      "artist": "Fat Dog",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-29",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "m9tove",
+        "day": "2024-05-29",
+        "stage": "La [2] de Apolo",
+        "artist_id": "fat-dog"
+      },
+      "set": {
+        "start": "2024-05-29T23:45:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Fat Dog",
+        "source_artists": [
+          "Fat Dog"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "fat-dog:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/fat-dog/2024/sala-apolo-barcelona-spain-5ba8ebfc.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/fat-dog/2024/sala-apolo-barcelona-spain-5ba8ebfc.html"
+      ]
+    },
+    {
+      "id": "ozks03",
+      "artist_id": "dorian-electra",
+      "artist": "Dorian Electra",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "ozks03",
+        "day": "2024-06-02",
+        "stage": "La [2] de Apolo",
+        "artist_id": "dorian-electra"
+      },
+      "set": {
+        "start": "2024-06-02T23:45:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Dorian Electra",
+        "source_artists": [
+          "Dorian Electra"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "dorian-electra:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/dorian-electra/2024/sala-apolo-barcelona-spain-43a8ebcf.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/dorian-electra/2024/sala-apolo-barcelona-spain-43a8ebcf.html"
+      ]
+    },
+    {
+      "id": "psdvxx",
+      "artist_id": "water-from-your-eyes",
+      "artist": "Water From Your Eyes",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "psdvxx",
+        "day": "2024-06-02",
+        "stage": "La [2] de Apolo",
+        "artist_id": "water-from-your-eyes"
+      },
+      "set": {
+        "start": "2024-06-02T22:35:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Water From Your Eyes",
+        "source_artists": [
+          "Water From Your Eyes"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "water-from-your-eyes:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/sala-apolo-barcelona-spain-5ba8ebc8.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/water-from-your-eyes/2024/sala-apolo-barcelona-spain-5ba8ebc8.html"
+      ]
+    },
+    {
+      "id": "j98rig",
+      "artist_id": "crumb",
+      "artist": "Crumb",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "La [2] de Apolo",
+      "expected": {
+        "id": "j98rig",
+        "day": "2024-06-02",
+        "stage": "La [2] de Apolo",
+        "artist_id": "crumb"
+      },
+      "set": {
+        "start": "2024-06-02T21:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Crumb",
+        "source_artists": [
+          "Crumb"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La [2] de Apolo",
+        "source_venues": [
+          "La [2] de Apolo, Sala Apolo, Barcelona, Spain"
+        ],
+        "matching_record_key": "crumb:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/crumb/2024/sala-apolo-barcelona-spain-4ba8ebd6.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/crumb/2024/sala-apolo-barcelona-spain-4ba8ebd6.html"
+      ]
+    },
+    {
+      "id": "4r7bqx",
+      "artist_id": "el-mato-a-un-policia-motorizado",
+      "artist": "Él Mató a un Policía Motorizado",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "4r7bqx",
+        "day": "2024-05-27",
+        "stage": "Paral·lel 62",
+        "artist_id": "el-mato-a-un-policia-motorizado"
+      },
+      "set": {
+        "start": "2024-05-27T21:50:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Él Mató a un Policía Motorizado",
+        "source_artists": [
+          "El Mató a un Policía Motorizado"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "el-mato-a-un-policia-motorizado:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parallel-62-barcelona-spain-53a8eb61.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/el-mato-a-un-policia-motorizado/2024/parallel-62-barcelona-spain-53a8eb61.html"
+      ]
+    },
+    {
+      "id": "6jjjxg",
+      "artist_id": "angelica-garcia",
+      "artist": "Angélica Garcia",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "6jjjxg",
+        "day": "2024-05-27",
+        "stage": "Paral·lel 62",
+        "artist_id": "angelica-garcia"
+      },
+      "set": {
+        "start": "2024-05-27T20:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Angélica Garcia",
+        "source_artists": [
+          "Angélica Garcia"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "angelica-garcia:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/angelica-garcia/2024/parallel-62-barcelona-spain-53a8eb4d.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/angelica-garcia/2024/parallel-62-barcelona-spain-53a8eb4d.html"
+      ]
+    },
+    {
+      "id": "hjknwa",
+      "artist_id": "xebi-sf",
+      "artist": "Xebi SF",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "hjknwa",
+        "day": "2024-05-27",
+        "stage": "Paral·lel 62",
+        "artist_id": "xebi-sf"
+      },
+      "set": {
+        "start": "2024-05-27T19:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Xebi SF",
+        "source_artists": [
+          "XEBI SF"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "xebi-sf:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/xebi-sf/2024/parallel-62-barcelona-spain-53a8eb59.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/xebi-sf/2024/parallel-62-barcelona-spain-53a8eb59.html"
+      ]
+    },
+    {
+      "id": "0e2mmk",
+      "artist_id": "les-savy-fav",
+      "artist": "Les Savy Fav",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "0e2mmk",
+        "day": "2024-05-28",
+        "stage": "Paral·lel 62",
+        "artist_id": "les-savy-fav"
+      },
+      "set": {
+        "start": "2024-05-28T22:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Les Savy Fav",
+        "source_artists": [
+          "Les Savy Fav"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "les-savy-fav:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/les-savy-fav/2024/parallel-62-barcelona-spain-5ba8eb50.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/les-savy-fav/2024/parallel-62-barcelona-spain-5ba8eb50.html"
+      ]
+    },
+    {
+      "id": "wqtg3d",
+      "artist_id": "sweeping-promises",
+      "artist": "Sweeping Promises",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "wqtg3d",
+        "day": "2024-05-28",
+        "stage": "Paral·lel 62",
+        "artist_id": "sweeping-promises"
+      },
+      "set": {
+        "start": "2024-05-28T21:10:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Sweeping Promises",
+        "source_artists": [
+          "Sweeping Promises"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "sweeping-promises:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/sweeping-promises/2024/parallel-62-barcelona-spain-53a8eb11.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/sweeping-promises/2024/parallel-62-barcelona-spain-53a8eb11.html"
+      ]
+    },
+    {
+      "id": "dcksk5",
+      "artist_id": "balming-tiger",
+      "artist": "Balming Tiger",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "dcksk5",
+        "day": "2024-05-28",
+        "stage": "Paral·lel 62",
+        "artist_id": "balming-tiger"
+      },
+      "set": {
+        "start": "2024-05-28T19:50:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Balming Tiger",
+        "source_artists": [
+          "Balming Tiger"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "balming-tiger:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/balming-tiger/2024/parallel-62-barcelona-spain-43a8eb17.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/balming-tiger/2024/parallel-62-barcelona-spain-43a8eb17.html"
+      ]
+    },
+    {
+      "id": "0sle0l",
+      "artist_id": "sandra-monfort",
+      "artist": "Sandra Monfort",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "0sle0l",
+        "day": "2024-05-28",
+        "stage": "Paral·lel 62",
+        "artist_id": "sandra-monfort"
+      },
+      "set": {
+        "start": "2024-05-28T19:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Sandra Monfort",
+        "source_artists": [
+          "Sandra Monfort"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "sandra-monfort:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/sandra-monfort/2024/parallel-62-barcelona-spain-4ba8eb16.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/sandra-monfort/2024/parallel-62-barcelona-spain-4ba8eb16.html"
+      ]
+    },
+    {
+      "id": "2k6cms",
+      "artist_id": "american-football",
+      "artist": "American Football",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "2k6cms",
+        "day": "2024-06-02",
+        "stage": "Paral·lel 62",
+        "artist_id": "american-football"
+      },
+      "set": {
+        "start": "2024-06-02T23:35:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "American Football",
+        "source_artists": [
+          "American Football"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "american-football:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/american-football/2024/parallel-62-barcelona-spain-43a8ebbb.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/american-football/2024/parallel-62-barcelona-spain-43a8ebbb.html"
+      ]
+    },
+    {
+      "id": "0tmu7q",
+      "artist_id": "militarie-gun",
+      "artist": "Militarie Gun",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "0tmu7q",
+        "day": "2024-06-02",
+        "stage": "Paral·lel 62",
+        "artist_id": "militarie-gun"
+      },
+      "set": {
+        "start": "2024-06-02T22:05:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Militarie Gun",
+        "source_artists": [
+          "Militarie Gun"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "militarie-gun:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/militarie-gun/2024/parallel-62-barcelona-spain-5ba8ebc4.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/militarie-gun/2024/parallel-62-barcelona-spain-5ba8ebc4.html"
+      ]
+    },
+    {
+      "id": "5f8gsk",
+      "artist_id": "silica-gel",
+      "artist": "Silica Gel",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "5f8gsk",
+        "day": "2024-06-02",
+        "stage": "Paral·lel 62",
+        "artist_id": "silica-gel"
+      },
+      "set": {
+        "start": "2024-06-02T21:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Silica Gel",
+        "source_artists": [
+          "Silica Gel"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "silica-gel:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/silica-gel/2024/parallel-62-barcelona-spain-43a8ebc7.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/silica-gel/2024/parallel-62-barcelona-spain-43a8ebc7.html"
+      ]
+    },
+    {
+      "id": "lvl4lo",
+      "artist_id": "las-petunias",
+      "artist": "Las Petunias",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Paral·lel 62",
+      "expected": {
+        "id": "lvl4lo",
+        "day": "2024-06-02",
+        "stage": "Paral·lel 62",
+        "artist_id": "las-petunias"
+      },
+      "set": {
+        "start": "2024-06-02T20:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Las Petunias",
+        "source_artists": [
+          "Las Petunias"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Paral·lel 62",
+        "source_venues": [
+          "Paral·lel 62, Barcelona, Spain"
+        ],
+        "matching_record_key": "las-petunias:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/las-petunias/2024/parallel-62-barcelona-spain-b56f1b6.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/las-petunias/2024/parallel-62-barcelona-spain-b56f1b6.html"
+      ]
+    },
+    {
+      "id": "fsybcw",
+      "artist_id": "jjuujjuu",
+      "artist": "JJUUJJUU",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La Nau",
+      "expected": {
+        "id": "fsybcw",
+        "day": "2024-05-27",
+        "stage": "La Nau",
+        "artist_id": "jjuujjuu"
+      },
+      "set": {
+        "start": "2024-05-27T21:50:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "JJUUJJUU",
+        "source_artists": [
+          "JJUUJJUU"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La Nau",
+        "source_venues": [
+          "La Nau, Barcelona, Spain"
+        ],
+        "matching_record_key": "jjuujjuu:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/jjuujjuu/2024/la-nau-barcelona-spain-53a8eb31.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/jjuujjuu/2024/la-nau-barcelona-spain-53a8eb31.html"
+      ]
+    },
+    {
+      "id": "eg6lit",
+      "artist_id": "rozi-plain",
+      "artist": "Rozi Plain",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La Nau",
+      "expected": {
+        "id": "eg6lit",
+        "day": "2024-05-27",
+        "stage": "La Nau",
+        "artist_id": "rozi-plain"
+      },
+      "set": {
+        "start": "2024-05-27T20:40:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Rozi Plain",
+        "source_artists": [
+          "Rozi Plain"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La Nau",
+        "source_venues": [
+          "La Nau, Barcelona, Spain"
+        ],
+        "matching_record_key": "rozi-plain:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/rozi-plain/2024/la-nau-barcelona-spain-4ba8eb32.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/rozi-plain/2024/la-nau-barcelona-spain-4ba8eb32.html"
+      ]
+    },
+    {
+      "id": "xxmd09",
+      "artist_id": "kutso",
+      "artist": "KuTso",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-27",
+      "stage": "La Nau",
+      "expected": {
+        "id": "xxmd09",
+        "day": "2024-05-27",
+        "stage": "La Nau",
+        "artist_id": "kutso"
+      },
+      "set": {
+        "start": "2024-05-27T19:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "KuTso",
+        "source_artists": [
+          "kuTso"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La Nau",
+        "source_venues": [
+          "La Nau, Barcelona, Spain"
+        ],
+        "matching_record_key": "kutso:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/kutso/2024/la-nau-barcelona-spain-5ba8eb3c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/kutso/2024/la-nau-barcelona-spain-5ba8eb3c.html"
+      ]
+    },
+    {
+      "id": "9m3q8u",
+      "artist_id": "voxtrot",
+      "artist": "Voxtrot",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "La Nau",
+      "expected": {
+        "id": "9m3q8u",
+        "day": "2024-05-28",
+        "stage": "La Nau",
+        "artist_id": "voxtrot"
+      },
+      "set": {
+        "start": "2024-05-28T21:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Voxtrot",
+        "source_artists": [
+          "Voxtrot"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La Nau",
+        "source_venues": [
+          "La Nau, Barcelona, Spain"
+        ],
+        "matching_record_key": "voxtrot:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/voxtrot/2024/la-nau-barcelona-spain-4ba8eb1a.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/voxtrot/2024/la-nau-barcelona-spain-4ba8eb1a.html"
+      ]
+    },
+    {
+      "id": "lf87f4",
+      "artist_id": "the-mountain-goats",
+      "artist": "The Mountain Goats",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "La Nau",
+      "expected": {
+        "id": "lf87f4",
+        "day": "2024-05-28",
+        "stage": "La Nau",
+        "artist_id": "the-mountain-goats"
+      },
+      "set": {
+        "start": "2024-05-28T19:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Mountain Goats",
+        "source_artists": [
+          "The Mountain Goats"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "La Nau",
+        "source_venues": [
+          "La Nau, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-mountain-goats:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-mountain-goats/2024/la-nau-barcelona-spain-5ba8eb18.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-mountain-goats/2024/la-nau-barcelona-spain-5ba8eb18.html"
+      ]
+    },
+    {
+      "id": "owsxvr",
+      "artist_id": "mabe-fratti",
+      "artist": "Mabe Fratti",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "LAUT",
+      "expected": {
+        "id": "owsxvr",
+        "day": "2024-05-28",
+        "stage": "LAUT",
+        "artist_id": "mabe-fratti"
+      },
+      "set": {
+        "start": "2024-05-28T20:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Mabe Fratti",
+        "source_artists": [
+          "Mabe Fratti"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "LAUT",
+        "source_venues": [
+          "LAUT, Barcelona, Spain"
+        ],
+        "matching_record_key": "mabe-fratti:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/mabe-fratti/2024/laut-barcelona-spain-5ba8eb1c.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/mabe-fratti/2024/laut-barcelona-spain-5ba8eb1c.html"
+      ]
+    },
+    {
+      "id": "s6ugwk",
+      "artist_id": "daniela-pes",
+      "artist": "Daniela Pes",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-28",
+      "stage": "LAUT",
+      "expected": {
+        "id": "s6ugwk",
+        "day": "2024-05-28",
+        "stage": "LAUT",
+        "artist_id": "daniela-pes"
+      },
+      "set": {
+        "start": "2024-05-28T19:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Daniela Pes",
+        "source_artists": [
+          "Daniela Pes"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "LAUT",
+        "source_venues": [
+          "LAUT, Barcelona, Spain"
+        ],
+        "matching_record_key": "daniela-pes:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/daniela-pes/2024/laut-barcelona-spain-4ba8eb1e.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/daniela-pes/2024/laut-barcelona-spain-4ba8eb1e.html"
+      ]
+    },
+    {
+      "id": "v56u1w",
+      "artist_id": "mabel",
+      "artist": "Mabel",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-29",
+      "stage": "LAUT",
+      "expected": {
+        "id": "v56u1w",
+        "day": "2024-05-29",
+        "stage": "LAUT",
+        "artist_id": "mabel"
+      },
+      "set": {
+        "start": "2024-05-29T22:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Mabel",
+        "source_artists": [
+          "Mabel"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "LAUT",
+        "source_venues": [
+          "LAUT, Barcelona, Spain"
+        ],
+        "matching_record_key": "mabel:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/mabel/2024/laut-barcelona-spain-3b5698b0.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/mabel/2024/laut-barcelona-spain-3b5698b0.html"
+      ]
+    },
+    {
+      "id": "8wpy31",
+      "artist_id": "the-national",
+      "artist": "The National",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-05-29",
+      "stage": "Razzmatazz",
+      "expected": {
+        "id": "8wpy31",
+        "day": "2024-05-29",
+        "stage": "Razzmatazz",
+        "artist_id": "the-national"
+      },
+      "set": {
+        "start": "2024-05-29T19:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The National",
+        "source_artists": [
+          "The National"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Razzmatazz",
+        "source_venues": [
+          "Razzmatazz, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-national:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-national/2024/razzmatazz-barcelona-spain-33a8804d.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-national/2024/razzmatazz-barcelona-spain-33a8804d.html"
+      ]
+    },
+    {
+      "id": "7ypu0s",
+      "artist_id": "the-blessed-madonna",
+      "artist": "The Blessed Madonna",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Pull&Bear — Brunch on the Beach",
+      "expected": {
+        "id": "7ypu0s",
+        "day": "2024-06-02",
+        "stage": "Pull&Bear — Brunch on the Beach",
+        "artist_id": "the-blessed-madonna"
+      },
+      "set": {
+        "start": "2024-06-02T21:15:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "The Blessed Madonna",
+        "source_artists": [
+          "The Blessed Madonna"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Parc del Fòrum",
+        "source_venues": [
+          "Parc del Fòrum, Barcelona, Spain"
+        ],
+        "matching_record_key": "the-blessed-madonna:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/the-blessed-madonna/2024/parc-del-forum-barcelona-spain-43562b4b.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/the-blessed-madonna/2024/parc-del-forum-barcelona-spain-43562b4b.html"
+      ]
+    },
+    {
+      "id": "hwb2c4",
+      "artist_id": "anotr",
+      "artist": "ANOTR",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Pull&Bear — Brunch on the Beach",
+      "expected": {
+        "id": "hwb2c4",
+        "day": "2024-06-02",
+        "stage": "Pull&Bear — Brunch on the Beach",
+        "artist_id": "anotr"
+      },
+      "set": {
+        "start": "2024-06-02T19:30:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "ANOTR",
+        "source_artists": [
+          "ANOTR"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Parc del Fòrum",
+        "source_venues": [
+          "Parc del Fòrum, Barcelona, Spain"
+        ],
+        "matching_record_key": "anotr:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/anotr/2024/parc-del-forum-barcelona-spain-4b7f53da.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/anotr/2024/parc-del-forum-barcelona-spain-4b7f53da.html"
+      ]
+    },
+    {
+      "id": "y9buyk",
+      "artist_id": "mochakk",
+      "artist": "Mochakk",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Pull&Bear — Brunch on the Beach",
+      "expected": {
+        "id": "y9buyk",
+        "day": "2024-06-02",
+        "stage": "Pull&Bear — Brunch on the Beach",
+        "artist_id": "mochakk"
+      },
+      "set": {
+        "start": "2024-06-02T17:45:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Mochakk",
+        "source_artists": [
+          "Mochakk"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Parc del Fòrum",
+        "source_venues": [
+          "Parc del Fòrum, Barcelona, Spain"
+        ],
+        "matching_record_key": "mochakk:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/mochakk/2024/parc-del-forum-barcelona-spain-437f53db.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/mochakk/2024/parc-del-forum-barcelona-spain-437f53db.html"
+      ]
+    },
+    {
+      "id": "wh8q1r",
+      "artist_id": "chloe-caillet",
+      "artist": "Chloé Caillet",
+      "concert_id": "3s9mjj",
+      "festival": "Primavera Sound Barcelona 2024",
+      "day": "2024-06-02",
+      "stage": "Pull&Bear — Brunch on the Beach",
+      "expected": {
+        "id": "wh8q1r",
+        "day": "2024-06-02",
+        "stage": "Pull&Bear — Brunch on the Beach",
+        "artist_id": "chloe-caillet"
+      },
+      "set": {
+        "start": "2024-06-02T16:00:00+02:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_check": {
+        "manifest_artist": "Chloé Caillet",
+        "source_artists": [
+          "Chloé Caillet"
+        ],
+        "programme_day_matches_source_event_date": true,
+        "expected_venue": "Parc del Fòrum",
+        "source_venues": [
+          "Parc del Fòrum, Barcelona, Spain"
+        ],
+        "matching_record_key": "chloe-caillet:3s9mjj",
+        "ambiguous_same_day_appearance": false
+      },
+      "sources": [
+        "https://www.setlist.fm/setlist/chloe-caillet/2024/parc-del-forum-barcelona-spain-5b7f53e4.html"
+      ],
+      "performance_urls": [
+        "https://www.setlist.fm/setlist/chloe-caillet/2024/parc-del-forum-barcelona-spain-5b7f53e4.html"
+      ]
+    }
+  ]
+}

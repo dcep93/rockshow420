@@ -1,0 +1,27 @@
+{
+  "artist": "Oliver Riot",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Oliver Riot",
+      "name": "Alcatraz"
+    },
+    {
+      "artists": "Oliver Riot",
+      "name": "Hallucinate"
+    },
+    {
+      "artists": "Oliver Riot",
+      "name": "Ivory Black"
+    },
+    {
+      "artists": "Oliver Riot",
+      "name": "Tired and Awake"
+    },
+    {
+      "artists": "Oliver Riot",
+      "name": "Neurosis"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/28dDyPkw069ypiqC78dhRb"
+}

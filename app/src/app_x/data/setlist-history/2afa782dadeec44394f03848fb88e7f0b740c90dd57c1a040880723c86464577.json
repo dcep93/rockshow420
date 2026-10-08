@@ -1,0 +1,54 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Webcast live by Hulu",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Dramamine",
+          "notes": "(with \"Life Like Weeds\" outro)"
+        },
+        {
+          "name": "Fuck Your Acid Trip"
+        },
+        {
+          "name": "Missed the Boat"
+        },
+        {
+          "name": "Lampshades on Fire"
+        },
+        {
+          "name": "Float On"
+        },
+        {
+          "name": "The Sun Hasn't Left"
+        },
+        {
+          "name": "Satin in a Coffin"
+        },
+        {
+          "name": "King Rat"
+        },
+        {
+          "name": "We Are Between"
+        },
+        {
+          "name": "Dashboard"
+        },
+        {
+          "name": "Paper Thin Walls"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Wooden Soldiers"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/modest-mouse/2021/grant-park-chicago-il-usa-38f15cb.html"
+}

@@ -1,0 +1,27 @@
+{
+  "artist": "Dick Stusso",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Dick Stusso",
+      "name": "Well Acquainted"
+    },
+    {
+      "artists": "Dick Stusso",
+      "name": "In Heaven"
+    },
+    {
+      "artists": "Dick Stusso",
+      "name": "This Is What I'm Doing"
+    },
+    {
+      "artists": "Dick Stusso",
+      "name": "The Bullshit Century Pt. 1"
+    },
+    {
+      "artists": "Dick Stusso",
+      "name": "Modern Music"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7yUlwLhbOmjtsj4Uk5mviU"
+}

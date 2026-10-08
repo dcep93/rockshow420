@@ -1,0 +1,32 @@
+{
+  "artist": "th4ys",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "th4ys, DJ Caio Santos, Yuri Redicopa, NandaTsunami, Bia Soull, Hidvn",
+      "explicit": true,
+      "name": "CYPHER DA BOLHA 2"
+    },
+    {
+      "artists": "th4ys, Yuri Redicopa, DJ Caio Santos, Bia Soull, Cunha, Hidvn",
+      "explicit": true,
+      "name": "CYPHER DA BOLHA"
+    },
+    {
+      "artists": "th4ys, MC GIBIZINHA",
+      "explicit": true,
+      "name": "Acorda"
+    },
+    {
+      "artists": "th4ys, Bia Soull",
+      "explicit": true,
+      "name": "Amuleto"
+    },
+    {
+      "artists": "th4ys, MC Nerak, Mc Choros",
+      "explicit": true,
+      "name": "COLOCADA"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3LGFpNOWNjpvlkUmj304V3"
+}

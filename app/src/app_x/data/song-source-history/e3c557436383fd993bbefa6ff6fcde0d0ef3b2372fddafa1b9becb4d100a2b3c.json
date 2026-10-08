@@ -1,0 +1,27 @@
+{
+  "artist": "Interpol",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Interpol",
+      "name": "Evil"
+    },
+    {
+      "artists": "Interpol",
+      "name": "Obstacle 1"
+    },
+    {
+      "artists": "Interpol",
+      "name": "See Out Loud"
+    },
+    {
+      "artists": "Interpol",
+      "name": "This Mirror Weighs a Ton"
+    },
+    {
+      "artists": "Interpol",
+      "name": "Wings On Fire"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3WaJSfKnzc65VDgmj2zU8B"
+}

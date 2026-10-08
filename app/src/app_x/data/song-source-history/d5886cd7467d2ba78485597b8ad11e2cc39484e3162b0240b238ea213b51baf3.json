@@ -1,0 +1,27 @@
+{
+  "artist": "CSS",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "CSS",
+      "name": "Let's Make Love and Listen to Death From Above"
+    },
+    {
+      "artists": "CSS",
+      "name": "Music Is My Hot, Hot Sex"
+    },
+    {
+      "artists": "CSS, Bobby Gillespie",
+      "name": "Hits Me Like a Rock"
+    },
+    {
+      "artists": "CSS",
+      "name": "Alala"
+    },
+    {
+      "artists": "CSS, Spank Rock",
+      "name": "Let's Make Love And Listen To Death From Above - Spank Rock Remix"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2K13AVg3bFpHSxDM1vJ0qA"
+}

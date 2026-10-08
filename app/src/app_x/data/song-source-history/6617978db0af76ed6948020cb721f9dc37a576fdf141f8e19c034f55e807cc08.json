@@ -1,0 +1,27 @@
+{
+  "artist": "Pulp",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Pulp",
+      "name": "Common People - Full Length Version"
+    },
+    {
+      "artists": "Pulp",
+      "name": "Disco 2000"
+    },
+    {
+      "artists": "Pulp",
+      "name": "Babies"
+    },
+    {
+      "artists": "Pulp",
+      "name": "Do You Remember The First Time?"
+    },
+    {
+      "artists": "Pulp",
+      "name": "Common People - Single Version"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/36E7oYfz3LLRto6l2WmDcD"
+}

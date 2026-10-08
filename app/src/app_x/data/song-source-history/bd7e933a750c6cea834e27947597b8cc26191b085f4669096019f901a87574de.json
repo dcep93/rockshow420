@@ -1,0 +1,27 @@
+{
+  "artist": "Automatic",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Automatic",
+      "name": "Black Box"
+    },
+    {
+      "artists": "Automatic",
+      "name": "Too Much Money"
+    },
+    {
+      "artists": "Automatic",
+      "name": "mq9"
+    },
+    {
+      "artists": "Automatic",
+      "name": "New Beginning"
+    },
+    {
+      "artists": "Automatic",
+      "name": "Highway"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3uX1tstdmFJyxW9b5mSNlU"
+}

@@ -1,0 +1,72 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: \"Movement\" was on the printed setlist but was not played.",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Nobody's Soldier"
+        },
+        {
+          "name": "Jackie and Wilson"
+        },
+        {
+          "name": "Angel of Small Death and the Codeine Scene"
+        },
+        {
+          "name": "Dinner & Diatribes"
+        },
+        {
+          "name": "Francesca"
+        },
+        {
+          "name": "De Selby (Part 2)"
+        },
+        {
+          "name": "Someone New"
+        },
+        {
+          "name": "Like Real People Do"
+        }
+      ]
+    },
+    {
+      "name": "B-Stage",
+      "songs": [
+        {
+          "name": "Cherry Wine",
+          "notes": "(acoustic, solo)"
+        },
+        {
+          "name": "Unknown/Nth"
+        }
+      ]
+    },
+    {
+      "songs": [
+        {
+          "name": "Work Song"
+        },
+        {
+          "name": "Would That I"
+        },
+        {
+          "name": "Eat Your Young"
+        },
+        {
+          "name": "Nina Cried Power"
+        },
+        {
+          "name": "Too Sweet"
+        },
+        {
+          "name": "Almost (Sweet Music)"
+        },
+        {
+          "name": "Take Me to Church"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/hozier/2025/flushing-meadows-corona-park-queens-ny-usa-4b5ddf12.html"
+}

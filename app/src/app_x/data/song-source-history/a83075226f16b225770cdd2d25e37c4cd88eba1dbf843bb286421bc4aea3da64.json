@@ -1,0 +1,27 @@
+{
+  "artist": "The Haden Triplets",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "The Haden Triplets",
+      "name": "Single Girl"
+    },
+    {
+      "artists": "The Haden Triplets",
+      "name": "Wayfaring Stranger"
+    },
+    {
+      "artists": "The Haden Triplets",
+      "name": "Cuckoo Bird"
+    },
+    {
+      "artists": "The Haden Triplets",
+      "name": "Slowly"
+    },
+    {
+      "artists": "The Haden Triplets",
+      "name": "I'll Fly Away"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/1TC6x7p5Ey9cyuCxhUxMTN"
+}

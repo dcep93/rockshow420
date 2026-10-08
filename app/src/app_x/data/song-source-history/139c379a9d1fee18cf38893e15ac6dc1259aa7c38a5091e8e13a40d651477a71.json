@@ -1,0 +1,28 @@
+{
+  "artist": "Rence",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Rence",
+      "name": "Baby Blue"
+    },
+    {
+      "artists": "Rence",
+      "explicit": true,
+      "name": "Endless"
+    },
+    {
+      "artists": "Rence",
+      "name": "Track Shoes"
+    },
+    {
+      "artists": "Rence, Noah Cyrus",
+      "name": "Expensive (feat. Noah Cyrus)"
+    },
+    {
+      "artists": "Rence",
+      "name": "Space For You"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3VJTtTgub426X1NuzcyAOb"
+}

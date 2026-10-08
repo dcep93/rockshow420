@@ -1,0 +1,52 @@
+{
+  "kind": "setlist_fm",
+  "notes": "Note: Bud Light stage. Soundcheck: \"Kings and Queens\".",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Countdown Intro",
+          "notes": "(contains elements of 'This Is War,' 'Kings and Queens,' 'The Kill (Bury Me),' and 'Walk On Water')",
+          "tape": true
+        },
+        {
+          "name": "Walk on Water",
+          "notes": "(Jared started the performance on top on the stage rig, bungee jumping to the stage floor; w/ choir)"
+        },
+        {
+          "name": "Up in the Air",
+          "notes": "(extended bridge)"
+        },
+        {
+          "name": "Kings and Queens",
+          "notes": "(2015 ending)"
+        },
+        {
+          "name": "This Is War",
+          "notes": "(chant intro)"
+        },
+        {
+          "name": "Rescue Me",
+          "notes": "(extended intro; fans onstage)"
+        },
+        {
+          "name": "Hail to the Victor",
+          "notes": "(w/ Stevie guitar solo; w/ choir)"
+        },
+        {
+          "name": "The Kill (Bury Me)",
+          "notes": "(with Bryan Garris) (stripped last chorus)"
+        },
+        {
+          "name": "Stuck",
+          "notes": "(extended intro; extended bridge)"
+        },
+        {
+          "name": "Closer to the Edge",
+          "notes": "(extended intro; extended outro; Jared sang the song from the roof of a tent)"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/thirty-seconds-to-mars/2023/grant-park-chicago-il-usa-4ba41f26.html"
+}

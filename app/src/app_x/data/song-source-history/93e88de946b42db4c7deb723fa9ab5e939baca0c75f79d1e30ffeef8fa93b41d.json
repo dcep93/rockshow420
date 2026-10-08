@@ -1,0 +1,27 @@
+{
+  "artist": "Jupiter & Okwess",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Jupiter & Okwess",
+      "name": "Na Kozonga"
+    },
+    {
+      "artists": "Yuksek, Jupiter & Okwess",
+      "name": "Kwatamaja"
+    },
+    {
+      "artists": "Yuksek, Jupiter & Okwess, Pete Herbert",
+      "name": "Kwatamaja - Pete Herbert Remix"
+    },
+    {
+      "artists": "Jupiter & Okwess, Flavia Coelho",
+      "name": "Les bons comptes"
+    },
+    {
+      "artists": "Africa Express, Onipa, Jupiter & Okwess, Otim Alpha, Damon Albarn, Joan As Police Woman",
+      "name": "Invocation - feat. Onipa, Jupiter & Okwess, Otim Alpha, Damon Albarn & Joan as Police Woman"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/2tujJgEWPfR8gdqVw183dT"
+}

@@ -1,0 +1,28 @@
+{
+  "artist": "KuTso",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "KuTso",
+      "explicit": true,
+      "name": "Aiutatemi"
+    },
+    {
+      "artists": "KuTso",
+      "name": "Che effetto fa"
+    },
+    {
+      "artists": "KuTso",
+      "name": "Questa società"
+    },
+    {
+      "artists": "KuTso",
+      "name": "Marzia"
+    },
+    {
+      "artists": "KuTso",
+      "name": "Canzone dell'amor perduto"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/7mSKpboJAyXUfZjUkb4lcr"
+}

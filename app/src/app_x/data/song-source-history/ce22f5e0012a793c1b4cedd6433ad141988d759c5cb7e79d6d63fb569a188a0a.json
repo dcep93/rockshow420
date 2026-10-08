@@ -1,0 +1,29 @@
+{
+  "artist": "Jessica Pratt",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "A$AP Rocky, Jessica Pratt",
+      "explicit": true,
+      "name": "HIGHJACK"
+    },
+    {
+      "artists": "A$AP Rocky, will.i.am, Jessica Pratt",
+      "explicit": true,
+      "name": "THE END (feat. will.i.am & Jessica Pratt)"
+    },
+    {
+      "artists": "Jessica Pratt",
+      "name": "Back, Baby"
+    },
+    {
+      "artists": "Jessica Pratt",
+      "name": "Life Is"
+    },
+    {
+      "artists": "Jessica Pratt",
+      "name": "Mother Big River"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/5KTykbPcDB4GYS49jcHbWh"
+}

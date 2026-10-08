@@ -1,0 +1,27 @@
+{
+  "artist": "Glove",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Glove",
+      "name": "Behaviour"
+    },
+    {
+      "artists": "Glove",
+      "name": "Glass"
+    },
+    {
+      "artists": "Glove",
+      "name": "Mirror Image Blue"
+    },
+    {
+      "artists": "Glove",
+      "name": "Modern Toy"
+    },
+    {
+      "artists": "Glove",
+      "name": "Personality Change"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/4QbWweBoGYV4uFUQZeK1cy"
+}

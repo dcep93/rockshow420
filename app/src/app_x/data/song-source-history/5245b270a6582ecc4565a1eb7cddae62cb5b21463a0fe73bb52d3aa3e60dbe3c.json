@@ -1,0 +1,27 @@
+{
+  "artist": "Carlos Vidal",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Domingo Federico, Carlos Vidal",
+      "name": "Para Que Te Quiero Tanto"
+    },
+    {
+      "artists": "Carlos Vidal, Orquesta Domingo Federico",
+      "name": "Y Así Nació Este Tango"
+    },
+    {
+      "artists": "Braulio López, El Chato Arismendi, Numa Moraes, Claudio Taddei, El Zucara, Cacho Labandera, Emiliano Muñoz, Manuel Capella, Carlos Vidal, Pablo Estramín",
+      "name": "Milonga Para Una Niña"
+    },
+    {
+      "artists": "Carlos Vidal, Orquesta Domingo Federico",
+      "name": "Senda Florida"
+    },
+    {
+      "artists": "Los Olimareños, Rolando Paz, Pepe Guerra, Braulio López, Julio Cobelli, Cacho Labandera, Numa Moraes, Diego Berardi, Manuel Capella, El Chato Arismendi",
+      "name": "Doña Soledad"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/0KtUMWOqXKXGqwMdzWzqnm"
+}

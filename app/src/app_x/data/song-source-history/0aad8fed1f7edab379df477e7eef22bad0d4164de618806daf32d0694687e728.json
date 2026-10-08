@@ -1,0 +1,31 @@
+{
+  "artist": "Petey USA",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Petey USA",
+      "explicit": true,
+      "name": "DON'T TELL THE BOYS"
+    },
+    {
+      "artists": "Petey USA",
+      "explicit": true,
+      "name": "Lean Into Life"
+    },
+    {
+      "artists": "Petey USA",
+      "explicit": true,
+      "name": "We Go On Walks"
+    },
+    {
+      "artists": "Petey USA",
+      "name": "Kiss the City"
+    },
+    {
+      "artists": "Miya Folick, Petey USA",
+      "explicit": true,
+      "name": "Haircut"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/53OVzzhCgqPTeQuqTc54tr"
+}

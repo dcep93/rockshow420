@@ -1559,9 +1559,6 @@
     "boyfriend-sushi-town": {
       "name": "Boyfriend Sushi Town"
     },
-    "wu-tang-clan": {
-      "name": "Wu-Tang Clan"
-    },
     "krooked-kings": {
       "name": "Krooked Kings"
     },
@@ -7941,7 +7938,8 @@
         {
           "id": "o38l4k",
           "day": "2021-09-04",
-          "artist_id": "guns-n-roses"
+          "artist_id": "guns-n-roses",
+          "start": "2021-09-04T19:30:00-07:00"
         },
         {
           "id": "f29ch4",
@@ -8274,122 +8272,146 @@
         {
           "id": "jzg54h",
           "day": "2025-09-26",
-          "artist_id": "lucy-dacus"
+          "artist_id": "lucy-dacus",
+          "start": "2025-09-26T20:30:00-04:00"
         },
         {
           "id": "xgx6ds",
           "day": "2025-09-26",
-          "artist_id": "djo"
+          "artist_id": "djo",
+          "start": "2025-09-26T18:45:00-04:00"
         },
         {
           "id": "358rsg",
           "day": "2025-09-26",
-          "artist_id": "gigi-perez"
+          "artist_id": "gigi-perez",
+          "start": "2025-09-26T17:15:00-04:00"
         },
         {
           "id": "sq2o7v",
           "day": "2025-09-26",
-          "artist_id": "rachel-chinouriri"
+          "artist_id": "rachel-chinouriri",
+          "start": "2025-09-26T15:45:00-04:00"
         },
         {
           "id": "i7tqkh",
           "day": "2025-09-26",
-          "artist_id": "maude-latour"
+          "artist_id": "maude-latour",
+          "start": "2025-09-26T14:45:00-04:00"
         },
         {
           "id": "frb173",
           "day": "2025-09-26",
-          "artist_id": "the-aces"
+          "artist_id": "the-aces",
+          "start": "2025-09-26T13:45:00-04:00"
         },
         {
           "id": "j2520u",
           "day": "2025-09-26",
-          "artist_id": "sarah-kinsley"
+          "artist_id": "sarah-kinsley",
+          "start": "2025-09-26T12:50:00-04:00"
         },
         {
           "id": "zrbnsr",
           "day": "2025-09-26",
-          "artist_id": "goldie-boutilier"
+          "artist_id": "goldie-boutilier",
+          "start": "2025-09-26T12:15:00-04:00"
         },
         {
           "id": "7cv1iz",
           "day": "2025-09-27",
-          "artist_id": "doechii"
+          "artist_id": "doechii",
+          "start": "2025-09-27T21:00:00-04:00"
         },
         {
           "id": "mwrgda",
           "day": "2025-09-27",
-          "artist_id": "remi-wolf"
+          "artist_id": "remi-wolf",
+          "start": "2025-09-27T19:15:00-04:00"
         },
         {
           "id": "52pz9g",
           "day": "2025-09-27",
-          "artist_id": "lola-young"
+          "artist_id": "lola-young",
+          "start": "2025-09-27T17:45:00-04:00"
         },
         {
           "id": "tbdv4q",
           "day": "2025-09-27",
-          "artist_id": "griff"
+          "artist_id": "griff",
+          "start": "2025-09-27T15:45:00-04:00"
         },
         {
           "id": "xxo69o",
           "day": "2025-09-27",
-          "artist_id": "peach-prc"
+          "artist_id": "peach-prc",
+          "start": "2025-09-27T14:45:00-04:00"
         },
         {
           "id": "0mbecq",
           "day": "2025-09-27",
-          "artist_id": "michelle"
+          "artist_id": "michelle",
+          "start": "2025-09-27T13:45:00-04:00"
         },
         {
           "id": "qxntio",
           "day": "2025-09-27",
-          "artist_id": "alemeda"
+          "artist_id": "alemeda",
+          "start": "2025-09-27T12:50:00-04:00"
         },
         {
           "id": "x1xnck",
           "day": "2025-09-27",
-          "artist_id": "sunday-1994"
+          "artist_id": "sunday-1994",
+          "start": "2025-09-27T12:15:00-04:00"
         },
         {
           "id": "pm7ybs",
           "day": "2025-09-28",
-          "artist_id": "clairo"
+          "artist_id": "clairo",
+          "start": "2025-09-28T20:45:00-04:00"
         },
         {
           "id": "zutpnw",
           "day": "2025-09-28",
-          "artist_id": "the-marias"
+          "artist_id": "the-marias",
+          "start": "2025-09-28T18:45:00-04:00"
         },
         {
           "id": "5sn85z",
           "day": "2025-09-28",
-          "artist_id": "the-last-dinner-party"
+          "artist_id": "the-last-dinner-party",
+          "start": "2025-09-28T17:15:00-04:00"
         },
         {
           "id": "yy6fzx",
           "day": "2025-09-28",
-          "artist_id": "paris-paloma"
+          "artist_id": "paris-paloma",
+          "start": "2025-09-28T15:45:00-04:00"
         },
         {
           "id": "xnxrbp",
           "day": "2025-09-28",
-          "artist_id": "blondshell"
+          "artist_id": "blondshell",
+          "start": "2025-09-28T14:45:00-04:00"
         },
         {
           "id": "sbgynj",
           "day": "2025-09-28",
-          "artist_id": "g-flip"
+          "artist_id": "g-flip",
+          "start": "2025-09-28T13:45:00-04:00"
         },
         {
           "id": "ff3ppb",
           "day": "2025-09-28",
-          "artist_id": "joy-oladokun"
+          "artist_id": "joy-oladokun",
+          "start": "2025-09-28T12:50:00-04:00"
         },
         {
           "id": "41mf4o",
           "day": "2025-09-28",
-          "artist_id": "hey-nothing"
+          "artist_id": "hey-nothing",
+          "start": "2025-09-28T12:15:00-04:00"
         }
       ]
     },
@@ -8448,7 +8470,6 @@
           "water-from-your-eyes",
           "arcy-drive",
           "boyfriend-sushi-town",
-          "wu-tang-clan",
           "tv-girl",
           "the-garden",
           "krooked-kings",
@@ -8480,124 +8501,148 @@
           "petey",
           "ekkstacy",
           "hana-vu",
-          "nicole-canaan"
+          "nicole-canaan",
+          "santigold"
         ]
       },
       "sets": [
         {
           "id": "krqtgb",
           "day": "2024-05-10",
-          "artist_id": "vampire-weekend"
+          "artist_id": "vampire-weekend",
+          "start": "2024-05-10T20:40:00-06:00"
         },
         {
           "id": "m5dlup",
           "day": "2024-05-10",
-          "artist_id": "jai-paul"
+          "artist_id": "jai-paul",
+          "start": "2024-05-10T18:20:00-06:00"
         },
         {
           "id": "4zadkj",
           "day": "2024-05-10",
-          "artist_id": "alvvays"
+          "artist_id": "alvvays",
+          "start": "2024-05-10T16:15:00-06:00"
         },
         {
           "id": "mppj8c",
           "day": "2024-05-10",
-          "artist_id": "unknown-mortal-orchestra"
+          "artist_id": "unknown-mortal-orchestra",
+          "start": "2024-05-10T14:35:00-06:00"
         },
         {
           "id": "jnghlg",
           "day": "2024-05-10",
-          "artist_id": "andy-shauf"
+          "artist_id": "andy-shauf",
+          "start": "2024-05-10T19:30:00-06:00"
         },
         {
           "id": "hyfath",
           "day": "2024-05-10",
-          "artist_id": "joanna-newsom"
+          "artist_id": "joanna-newsom",
+          "start": "2024-05-10T19:30:00-06:00"
         },
         {
           "id": "335ya2",
           "day": "2024-05-10",
-          "artist_id": "courtney-barnett"
+          "artist_id": "courtney-barnett",
+          "start": "2024-05-10T17:10:00-06:00"
         },
         {
           "id": "l2vojt",
           "day": "2024-05-10",
-          "artist_id": "yoke-lore"
+          "artist_id": "yoke-lore",
+          "start": "2024-05-10T17:10:00-06:00"
         },
         {
           "id": "omg3hy",
           "day": "2024-05-10",
-          "artist_id": "hemlocke-springs"
+          "artist_id": "hemlocke-springs",
+          "start": "2024-05-10T15:25:00-06:00"
         },
         {
           "id": "umz9ef",
           "day": "2024-05-10",
-          "artist_id": "peach-pit"
+          "artist_id": "peach-pit",
+          "start": "2024-05-10T15:25:00-06:00"
         },
         {
           "id": "yevwxp",
           "day": "2024-05-10",
-          "artist_id": "abby-sage"
+          "artist_id": "abby-sage",
+          "start": "2024-05-10T14:00:00-06:00"
         },
         {
           "id": "1zhvr5",
           "day": "2024-05-10",
-          "artist_id": "yot-club"
+          "artist_id": "yot-club",
+          "start": "2024-05-10T14:00:00-06:00"
         },
         {
           "id": "4e9p8w",
           "day": "2024-05-10",
-          "artist_id": "horse-jumper-of-love"
+          "artist_id": "horse-jumper-of-love",
+          "start": "2024-05-10T13:25:00-06:00"
         },
         {
           "id": "kh2s3b",
           "day": "2024-05-10",
-          "artist_id": "annie-dirusso"
+          "artist_id": "annie-dirusso",
+          "start": "2024-05-10T12:15:00-06:00"
         },
         {
           "id": "4iabkk",
           "day": "2024-05-10",
-          "artist_id": "kara-jackson"
+          "artist_id": "kara-jackson",
+          "start": "2024-05-10T12:50:00-06:00"
         },
         {
           "id": "l3xm92",
           "day": "2024-05-10",
-          "artist_id": "bobo"
+          "artist_id": "bobo",
+          "start": "2024-05-10T11:45:00-06:00"
         },
         {
           "id": "nfszq8",
           "day": "2024-05-10",
-          "artist_id": "gustaf"
+          "artist_id": "gustaf",
+          "start": "2024-05-10T12:50:00-06:00"
         },
         {
           "id": "o80g8s",
           "day": "2024-05-10",
-          "artist_id": "drusky"
+          "artist_id": "drusky",
+          "start": "2024-05-10T11:45:00-06:00"
         },
         {
           "id": "t22cfq",
           "day": "2024-05-10",
-          "artist_id": "ty-segall"
+          "artist_id": "ty-segall",
+          "start": "2024-05-10T18:20:00-06:00"
         },
         {
           "id": "yncjl3",
           "day": "2024-05-10",
-          "artist_id": "luna-li"
+          "artist_id": "luna-li",
+          "start": "2024-05-10T16:15:00-06:00"
         },
         {
           "id": "mrihfu",
           "day": "2024-05-10",
-          "artist_id": "blondshell"
+          "artist_id": "blondshell",
+          "start": "2024-05-10T14:35:00-06:00"
         },
         {
           "id": "09jlmq",
           "day": "2024-05-10",
-          "artist_id": "joanna-sternberg"
+          "artist_id": "joanna-sternberg",
+          "start": "2024-05-10T13:25:00-06:00"
         },
         {
           "id": "vn6e2s",
           "day": "2024-05-10",
-          "artist_id": "daytime-lover"
+          "artist_id": "daytime-lover",
+          "start": "2024-05-10T12:15:00-06:00"
         },
         {
           "id": "127vrg",
@@ -8612,222 +8657,267 @@
         {
           "id": "s8dde3",
           "day": "2024-05-11",
-          "artist_id": "belle-and-sebastian"
+          "artist_id": "belle-and-sebastian",
+          "start": "2024-05-11T18:20:00-06:00"
         },
         {
           "id": "26dhp6",
           "day": "2024-05-11",
-          "artist_id": "current-joys"
+          "artist_id": "current-joys",
+          "start": "2024-05-11T16:15:00-06:00"
         },
         {
           "id": "fll1ft",
           "day": "2024-05-11",
-          "artist_id": "bombay-bicycle-club"
+          "artist_id": "bombay-bicycle-club",
+          "start": "2024-05-11T19:30:00-06:00"
         },
         {
           "id": "zvx47a",
           "day": "2024-05-11",
-          "artist_id": "beach-fossils"
+          "artist_id": "beach-fossils",
+          "start": "2024-05-11T14:35:00-06:00"
         },
         {
           "id": "073595",
           "day": "2024-05-11",
-          "artist_id": "fazerdaze"
+          "artist_id": "fazerdaze",
+          "start": "2024-05-11T13:25:00-06:00"
         },
         {
           "id": "u461na",
           "day": "2024-05-11",
-          "artist_id": "late-night-drive-home"
+          "artist_id": "late-night-drive-home",
+          "start": "2024-05-11T12:15:00-06:00"
         },
         {
           "id": "91txt0",
           "day": "2024-05-11",
-          "artist_id": "dinosaur-jr"
+          "artist_id": "dinosaur-jr",
+          "start": "2024-05-11T17:10:00-06:00"
         },
         {
           "id": "ghauye",
           "day": "2024-05-11",
-          "artist_id": "slow-pulp"
+          "artist_id": "slow-pulp",
+          "start": "2024-05-11T15:25:00-06:00"
         },
         {
           "id": "tgyumf",
           "day": "2024-05-11",
-          "artist_id": "water-from-your-eyes"
+          "artist_id": "water-from-your-eyes",
+          "start": "2024-05-11T14:00:00-06:00"
         },
         {
           "id": "ieanmw",
           "day": "2024-05-11",
-          "artist_id": "arcy-drive"
+          "artist_id": "arcy-drive",
+          "start": "2024-05-11T12:50:00-06:00"
         },
         {
           "id": "wsy785",
           "day": "2024-05-11",
-          "artist_id": "boyfriend-sushi-town"
-        },
-        {
-          "id": "e5psg7",
-          "day": "2024-05-11",
-          "artist_id": "wu-tang-clan"
+          "artist_id": "boyfriend-sushi-town",
+          "start": "2024-05-11T11:45:00-06:00"
         },
         {
           "id": "yx5uhy",
           "day": "2024-05-11",
-          "artist_id": "tv-girl"
+          "artist_id": "tv-girl",
+          "start": "2024-05-11T17:10:00-06:00"
         },
         {
           "id": "vcn8lq",
           "day": "2024-05-11",
-          "artist_id": "the-garden"
+          "artist_id": "the-garden",
+          "start": "2024-05-11T15:25:00-06:00"
         },
         {
           "id": "bif5c4",
           "day": "2024-05-11",
-          "artist_id": "krooked-kings"
+          "artist_id": "krooked-kings",
+          "start": "2024-05-11T14:00:00-06:00"
         },
         {
           "id": "e23b5a",
           "day": "2024-05-11",
-          "artist_id": "tagabow"
+          "artist_id": "tagabow",
+          "start": "2024-05-11T12:50:00-06:00"
         },
         {
           "id": "ydv8wc",
           "day": "2024-05-11",
-          "artist_id": "blue-rain-boots"
+          "artist_id": "blue-rain-boots",
+          "start": "2024-05-11T11:45:00-06:00"
         },
         {
           "id": "t5q8h1",
           "day": "2024-05-11",
-          "artist_id": "cautious-clay"
+          "artist_id": "cautious-clay",
+          "start": "2024-05-11T18:20:00-06:00"
         },
         {
           "id": "zqszqk",
           "day": "2024-05-11",
-          "artist_id": "yellow-days"
+          "artist_id": "yellow-days",
+          "start": "2024-05-11T16:15:00-06:00"
         },
         {
           "id": "i3tu03",
           "day": "2024-05-11",
-          "artist_id": "lomelda"
+          "artist_id": "lomelda",
+          "start": "2024-05-11T14:35:00-06:00"
         },
         {
           "id": "j17yiy",
           "day": "2024-05-11",
-          "artist_id": "malcolm-todd"
+          "artist_id": "malcolm-todd",
+          "start": "2024-05-11T13:25:00-06:00"
         },
         {
           "id": "lg3kc1",
           "day": "2024-05-11",
-          "artist_id": "sculpture-club"
+          "artist_id": "sculpture-club",
+          "start": "2024-05-11T12:15:00-06:00"
         },
         {
           "id": "kqnv1u",
           "day": "2024-05-12",
-          "artist_id": "lcd-soundsystem"
+          "artist_id": "lcd-soundsystem",
+          "start": "2024-05-12T20:40:00-06:00"
         },
         {
           "id": "upplnd",
           "day": "2024-05-12",
-          "artist_id": "interpol"
+          "artist_id": "interpol",
+          "start": "2024-05-12T19:30:00-06:00"
         },
         {
           "id": "hm4c64",
           "day": "2024-05-12",
-          "artist_id": "100-gecs"
+          "artist_id": "100-gecs",
+          "start": "2024-05-12T18:20:00-06:00"
         },
         {
           "id": "gv05l5",
           "day": "2024-05-12",
-          "artist_id": "dayglow"
+          "artist_id": "dayglow",
+          "start": "2024-05-12T17:10:00-06:00"
         },
         {
           "id": "a8ogao",
           "day": "2024-05-12",
-          "artist_id": "guided-by-voices"
+          "artist_id": "guided-by-voices",
+          "start": "2024-05-12T18:20:00-06:00"
         },
         {
           "id": "1u773s",
           "day": "2024-05-12",
-          "artist_id": "yves-tumor"
+          "artist_id": "yves-tumor",
+          "start": "2024-05-12T15:25:00-06:00"
         },
         {
           "id": "0vs1pr",
           "day": "2024-05-12",
-          "artist_id": "panchiko"
+          "artist_id": "panchiko",
+          "start": "2024-05-12T14:35:00-06:00"
         },
         {
           "id": "4mo3ep",
           "day": "2024-05-12",
-          "artist_id": "pond"
+          "artist_id": "pond",
+          "start": "2024-05-12T17:10:00-06:00"
         },
         {
           "id": "uwa3ds",
           "day": "2024-05-12",
-          "artist_id": "css"
+          "artist_id": "css",
+          "start": "2024-05-12T15:25:00-06:00"
         },
         {
           "id": "ay6ima",
           "day": "2024-05-12",
-          "artist_id": "choir-boy"
+          "artist_id": "choir-boy",
+          "start": "2024-05-12T14:00:00-06:00"
         },
         {
           "id": "aej5va",
           "day": "2024-05-12",
-          "artist_id": "royel-otis"
+          "artist_id": "royel-otis",
+          "start": "2024-05-12T14:00:00-06:00"
         },
         {
           "id": "472754",
           "day": "2024-05-12",
-          "artist_id": "odie-leigh"
+          "artist_id": "odie-leigh",
+          "start": "2024-05-12T12:50:00-06:00"
         },
         {
           "id": "1gdfrf",
           "day": "2024-05-12",
-          "artist_id": "model-actriz"
+          "artist_id": "model-actriz",
+          "start": "2024-05-12T13:25:00-06:00"
         },
         {
           "id": "q4dfuz",
           "day": "2024-05-12",
-          "artist_id": "26fix"
+          "artist_id": "26fix",
+          "start": "2024-05-12T12:15:00-06:00"
         },
         {
           "id": "ooykb4",
           "day": "2024-05-12",
-          "artist_id": "little-moon"
+          "artist_id": "little-moon",
+          "start": "2024-05-12T12:50:00-06:00"
         },
         {
           "id": "y93vmq",
           "day": "2024-05-12",
-          "artist_id": "body-of-leaves"
+          "artist_id": "body-of-leaves",
+          "start": "2024-05-12T11:45:00-06:00"
         },
         {
           "id": "1ud5f7",
           "day": "2024-05-12",
-          "artist_id": "persona-749"
+          "artist_id": "persona-749",
+          "start": "2024-05-12T11:45:00-06:00"
         },
         {
           "id": "geh0lv",
           "day": "2024-05-12",
-          "artist_id": "kevin-kaarl"
+          "artist_id": "kevin-kaarl",
+          "start": "2024-05-12T16:15:00-06:00"
         },
         {
           "id": "w016mm",
           "day": "2024-05-12",
-          "artist_id": "petey"
+          "artist_id": "petey",
+          "start": "2024-05-12T14:35:00-06:00"
         },
         {
           "id": "q8m1c1",
           "day": "2024-05-12",
-          "artist_id": "ekkstacy"
+          "artist_id": "ekkstacy",
+          "start": "2024-05-12T16:15:00-06:00"
         },
         {
           "id": "bx203f",
           "day": "2024-05-12",
-          "artist_id": "hana-vu"
+          "artist_id": "hana-vu",
+          "start": "2024-05-12T13:25:00-06:00"
         },
         {
           "id": "be5ipd",
           "day": "2024-05-12",
-          "artist_id": "nicole-canaan"
+          "artist_id": "nicole-canaan",
+          "start": "2024-05-12T12:15:00-06:00"
+        },
+        {
+          "id": "0sc5kr",
+          "artist_id": "santigold",
+          "day": "2024-05-11",
+          "stage": "Lake Stage",
+          "start": "2024-05-11T19:30:00-06:00"
         }
       ]
     },
@@ -14101,31 +14191,36 @@
           "id": "i7qx7t",
           "day": "2024-05-27",
           "stage": "Sala Apolo",
-          "artist_id": "johnny-jewel"
+          "artist_id": "johnny-jewel",
+          "start": "2024-05-27T22:30:00+02:00"
         },
         {
           "id": "uo8q5s",
           "day": "2024-05-27",
           "stage": "Sala Apolo",
-          "artist_id": "the-chameleons"
+          "artist_id": "the-chameleons",
+          "start": "2024-05-27T21:10:00+02:00"
         },
         {
           "id": "k9eacj",
           "day": "2024-05-27",
           "stage": "Sala Apolo",
-          "artist_id": "cranes"
+          "artist_id": "cranes",
+          "start": "2024-05-27T20:00:00+02:00"
         },
         {
           "id": "0dq42k",
           "day": "2024-05-27",
           "stage": "Sala Apolo",
-          "artist_id": "ariox"
+          "artist_id": "ariox",
+          "start": "2024-05-27T19:00:00+02:00"
         },
         {
           "id": "2wcksw",
           "day": "2024-05-28",
           "stage": "Sala Apolo",
-          "artist_id": "yo-la-tengo"
+          "artist_id": "yo-la-tengo",
+          "start": "2024-05-28T21:00:00+02:00"
         },
         {
           "id": "zff1xg",
@@ -14137,61 +14232,71 @@
           "id": "yilmyl",
           "day": "2024-06-02",
           "stage": "Sala Apolo",
-          "artist_id": "the-lemon-twigs"
+          "artist_id": "the-lemon-twigs",
+          "start": "2024-06-02T23:15:00+02:00"
         },
         {
           "id": "54mgmb",
           "day": "2024-06-02",
           "stage": "Sala Apolo",
-          "artist_id": "royel-otis"
+          "artist_id": "royel-otis",
+          "start": "2024-06-02T21:50:00+02:00"
         },
         {
           "id": "pb9y90",
           "day": "2024-06-02",
           "stage": "Sala Apolo",
-          "artist_id": "mandy-indiana"
+          "artist_id": "mandy-indiana",
+          "start": "2024-06-02T20:40:00+02:00"
         },
         {
           "id": "7fa9s5",
           "day": "2024-05-27",
           "stage": "La [2] de Apolo",
-          "artist_id": "tiemei"
+          "artist_id": "tiemei",
+          "start": "2024-05-27T22:10:00+02:00"
         },
         {
           "id": "emf2za",
           "day": "2024-05-27",
           "stage": "La [2] de Apolo",
-          "artist_id": "maustetytot"
+          "artist_id": "maustetytot",
+          "start": "2024-05-27T21:00:00+02:00"
         },
         {
           "id": "j274zu",
           "day": "2024-05-27",
           "stage": "La [2] de Apolo",
-          "artist_id": "john-francis-flynn"
+          "artist_id": "john-francis-flynn",
+          "start": "2024-05-27T20:00:00+02:00"
         },
         {
           "id": "qql1am",
           "day": "2024-05-27",
           "stage": "La [2] de Apolo",
-          "artist_id": "abstract-concrete"
+          "artist_id": "abstract-concrete",
+          "start": "2024-05-27T19:00:00+02:00"
         },
         {
           "id": "1xhg1h",
           "day": "2024-05-28",
           "stage": "La [2] de Apolo",
-          "artist_id": "armand-hammer"
+          "artist_id": "armand-hammer",
+          "start": "2024-05-28T22:40:00+02:00"
         },
         {
           "id": "fs7vph",
           "day": "2024-05-28",
           "stage": "La [2] de Apolo",
-          "artist_id": "irreversible-entanglements"
+          "artist_id": "irreversible-entanglements",
+          "start": "2024-05-28T21:20:00+02:00"
         },
         {
           "id": "n9i1hu",
           "day": "2024-05-28",
           "stage": "La [2] de Apolo",
-          "artist_id": "the-messthetics-james-brandon-lewis"
+          "artist_id": "the-messthetics-james-brandon-lewis",
+          "start": "2024-05-28T20:00:00+02:00"
         },
         {
           "id": "8vv0b9",
@@ -14215,7 +14320,8 @@
           "id": "m9tove",
           "day": "2024-05-29",
           "stage": "La [2] de Apolo",
-          "artist_id": "fat-dog"
+          "artist_id": "fat-dog",
+          "start": "2024-05-29T23:45:00+02:00"
         },
         {
           "id": "zvkfyb",
@@ -14239,163 +14345,190 @@
           "id": "ozks03",
           "day": "2024-06-02",
           "stage": "La [2] de Apolo",
-          "artist_id": "dorian-electra"
+          "artist_id": "dorian-electra",
+          "start": "2024-06-02T23:45:00+02:00"
         },
         {
           "id": "psdvxx",
           "day": "2024-06-02",
           "stage": "La [2] de Apolo",
-          "artist_id": "water-from-your-eyes"
+          "artist_id": "water-from-your-eyes",
+          "start": "2024-06-02T22:35:00+02:00"
         },
         {
           "id": "j98rig",
           "day": "2024-06-02",
           "stage": "La [2] de Apolo",
-          "artist_id": "crumb"
+          "artist_id": "crumb",
+          "start": "2024-06-02T21:30:00+02:00"
         },
         {
           "id": "4r7bqx",
           "day": "2024-05-27",
           "stage": "Paral·lel 62",
-          "artist_id": "el-mato-a-un-policia-motorizado"
+          "artist_id": "el-mato-a-un-policia-motorizado",
+          "start": "2024-05-27T21:50:00+02:00"
         },
         {
           "id": "6jjjxg",
           "day": "2024-05-27",
           "stage": "Paral·lel 62",
-          "artist_id": "angelica-garcia"
+          "artist_id": "angelica-garcia",
+          "start": "2024-05-27T20:30:00+02:00"
         },
         {
           "id": "hjknwa",
           "day": "2024-05-27",
           "stage": "Paral·lel 62",
-          "artist_id": "xebi-sf"
+          "artist_id": "xebi-sf",
+          "start": "2024-05-27T19:30:00+02:00"
         },
         {
           "id": "0e2mmk",
           "day": "2024-05-28",
           "stage": "Paral·lel 62",
-          "artist_id": "les-savy-fav"
+          "artist_id": "les-savy-fav",
+          "start": "2024-05-28T22:30:00+02:00"
         },
         {
           "id": "wqtg3d",
           "day": "2024-05-28",
           "stage": "Paral·lel 62",
-          "artist_id": "sweeping-promises"
+          "artist_id": "sweeping-promises",
+          "start": "2024-05-28T21:10:00+02:00"
         },
         {
           "id": "dcksk5",
           "day": "2024-05-28",
           "stage": "Paral·lel 62",
-          "artist_id": "balming-tiger"
+          "artist_id": "balming-tiger",
+          "start": "2024-05-28T19:50:00+02:00"
         },
         {
           "id": "0sle0l",
           "day": "2024-05-28",
           "stage": "Paral·lel 62",
-          "artist_id": "sandra-monfort"
+          "artist_id": "sandra-monfort",
+          "start": "2024-05-28T19:00:00+02:00"
         },
         {
           "id": "2k6cms",
           "day": "2024-06-02",
           "stage": "Paral·lel 62",
-          "artist_id": "american-football"
+          "artist_id": "american-football",
+          "start": "2024-06-02T23:35:00+02:00"
         },
         {
           "id": "0tmu7q",
           "day": "2024-06-02",
           "stage": "Paral·lel 62",
-          "artist_id": "militarie-gun"
+          "artist_id": "militarie-gun",
+          "start": "2024-06-02T22:05:00+02:00"
         },
         {
           "id": "5f8gsk",
           "day": "2024-06-02",
           "stage": "Paral·lel 62",
-          "artist_id": "silica-gel"
+          "artist_id": "silica-gel",
+          "start": "2024-06-02T21:00:00+02:00"
         },
         {
           "id": "lvl4lo",
           "day": "2024-06-02",
           "stage": "Paral·lel 62",
-          "artist_id": "las-petunias"
+          "artist_id": "las-petunias",
+          "start": "2024-06-02T20:00:00+02:00"
         },
         {
           "id": "fsybcw",
           "day": "2024-05-27",
           "stage": "La Nau",
-          "artist_id": "jjuujjuu"
+          "artist_id": "jjuujjuu",
+          "start": "2024-05-27T21:50:00+02:00"
         },
         {
           "id": "eg6lit",
           "day": "2024-05-27",
           "stage": "La Nau",
-          "artist_id": "rozi-plain"
+          "artist_id": "rozi-plain",
+          "start": "2024-05-27T20:40:00+02:00"
         },
         {
           "id": "xxmd09",
           "day": "2024-05-27",
           "stage": "La Nau",
-          "artist_id": "kutso"
+          "artist_id": "kutso",
+          "start": "2024-05-27T19:30:00+02:00"
         },
         {
           "id": "9m3q8u",
           "day": "2024-05-28",
           "stage": "La Nau",
-          "artist_id": "voxtrot"
+          "artist_id": "voxtrot",
+          "start": "2024-05-28T21:00:00+02:00"
         },
         {
           "id": "lf87f4",
           "day": "2024-05-28",
           "stage": "La Nau",
-          "artist_id": "the-mountain-goats"
+          "artist_id": "the-mountain-goats",
+          "start": "2024-05-28T19:30:00+02:00"
         },
         {
           "id": "owsxvr",
           "day": "2024-05-28",
           "stage": "LAUT",
-          "artist_id": "mabe-fratti"
+          "artist_id": "mabe-fratti",
+          "start": "2024-05-28T20:00:00+02:00"
         },
         {
           "id": "s6ugwk",
           "day": "2024-05-28",
           "stage": "LAUT",
-          "artist_id": "daniela-pes"
+          "artist_id": "daniela-pes",
+          "start": "2024-05-28T19:00:00+02:00"
         },
         {
           "id": "v56u1w",
           "day": "2024-05-29",
           "stage": "LAUT",
-          "artist_id": "mabel"
+          "artist_id": "mabel",
+          "start": "2024-05-29T22:00:00+02:00"
         },
         {
           "id": "8wpy31",
           "day": "2024-05-29",
           "stage": "Razzmatazz",
-          "artist_id": "the-national"
+          "artist_id": "the-national",
+          "start": "2024-05-29T19:00:00+02:00"
         },
         {
           "id": "7ypu0s",
           "day": "2024-06-02",
           "stage": "Pull&Bear — Brunch on the Beach",
-          "artist_id": "the-blessed-madonna"
+          "artist_id": "the-blessed-madonna",
+          "start": "2024-06-02T21:15:00+02:00"
         },
         {
           "id": "hwb2c4",
           "day": "2024-06-02",
           "stage": "Pull&Bear — Brunch on the Beach",
-          "artist_id": "anotr"
+          "artist_id": "anotr",
+          "start": "2024-06-02T19:30:00+02:00"
         },
         {
           "id": "y9buyk",
           "day": "2024-06-02",
           "stage": "Pull&Bear — Brunch on the Beach",
-          "artist_id": "mochakk"
+          "artist_id": "mochakk",
+          "start": "2024-06-02T17:45:00+02:00"
         },
         {
           "id": "wh8q1r",
           "day": "2024-06-02",
           "stage": "Pull&Bear — Brunch on the Beach",
-          "artist_id": "chloe-caillet"
+          "artist_id": "chloe-caillet",
+          "start": "2024-06-02T16:00:00+02:00"
         },
         {
           "id": "gkv7zw",
@@ -14420,6 +14553,8 @@
   ],
   "revised_on": "2026-10-08",
   "revision_notes": [
-    "Programme-day and time reconciliation from contemporary schedules; see festival-schedule-corrections-2026-10-08.json for per-set evidence."
+    "Programme-day and time reconciliation from contemporary schedules; see festival-schedule-corrections-2026-10-08.json for per-set evidence.",
+    "Added 132 exact-identity scheduled starts from captured setlist.fm pages; retained conflicts and midnight-date ambiguities as unknown. See festival-start-corrections-2026-10-08.json.",
+    "Kilby official final-lineup correction replaces withdrawn Wu-Tang Clan with Santigold; two official artist aliases recover TAGABOW and Petey scheduled starts. See festival-kilby-correction-2026-10-08.json."
   ]
 }

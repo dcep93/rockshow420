@@ -1,0 +1,95 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Seek & Destroy"
+        },
+        {
+          "name": "Love Galore"
+        },
+        {
+          "name": "Broken Clocks"
+        },
+        {
+          "name": "Forgiveless"
+        },
+        {
+          "name": "Ghost in the Machine"
+        },
+        {
+          "name": "Blind"
+        },
+        {
+          "name": "Shirt"
+        },
+        {
+          "name": "All the Stars",
+          "notes": "(Kendrick Lamar & SZA song)"
+        },
+        {
+          "name": "Garden (Say It Like Dat)"
+        },
+        {
+          "name": "F2F"
+        },
+        {
+          "name": "Drew Barrymore"
+        },
+        {
+          "name": "Low"
+        },
+        {
+          "name": "Supermodel / Special"
+        },
+        {
+          "name": "Open Arms"
+        },
+        {
+          "name": "Nobody Gets Me"
+        },
+        {
+          "name": "Saturn"
+        },
+        {
+          "name": "Normal Girl"
+        },
+        {
+          "name": "Kiss Me More",
+          "notes": "(Doja Cat cover)"
+        },
+        {
+          "name": "Snooze"
+        },
+        {
+          "name": "I Hate U"
+        },
+        {
+          "name": "Kill Bill"
+        },
+        {
+          "name": "The Weekend",
+          "notes": "(Funk Wav Remix Outro)"
+        },
+        {
+          "name": "Rich Baby Daddy",
+          "notes": "(Drake cover)"
+        },
+        {
+          "name": "Good Days"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "20 Something"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/sza/2024/parc-del-forum-barcelona-spain-3ab7943.html"
+}

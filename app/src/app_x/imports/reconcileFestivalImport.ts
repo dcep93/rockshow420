@@ -6,10 +6,13 @@ import { tableNames } from "../data/tables";
 import type { TableBackup } from "../data/migrateTables";
 import { decode, encode, records, type Raw, type FirestoreDocument } from "../scripts/firestoreRest";
 
-const apply = process.argv.includes("--apply");
-if (process.argv.slice(2).some(arg => arg !== "--apply")) throw new Error("Usage: tsx reconcileFestivalImport.ts [--apply]");
+const args = process.argv.slice(2);
+const apply = args.includes("--apply");
+const beforeIndex = args.indexOf("--before-manifest");
+const beforePath = beforeIndex >= 0 ? args[beforeIndex + 1] : undefined;
+if ((beforeIndex >= 0 && (!beforePath || beforePath.startsWith("--"))) || args.some((arg, index) => arg !== "--apply" && arg !== "--before-manifest" && !(beforeIndex >= 0 && index === beforeIndex + 1))) throw new Error("Usage: tsx reconcileFestivalImport.ts [--apply] [--before-manifest path]");
 const work = "/Users/danielcepeda/repos/_codex_output/rockshow420/festival-gap-review-2026-10-08";
-const before = JSON.parse(await readFile(`${work}/manifest-before-gap-corrections.json`, "utf8"));
+const before = JSON.parse(await readFile(beforePath || `${work}/manifest-before-gap-corrections.json`, "utf8"));
 const after = JSON.parse(await readFile(new URL("festival-lineups-2026-10-08.json", import.meta.url), "utf8"));
 const base = "http://127.0.0.1:8080/v1/projects/demo-rockshow420/databases/(default)/documents";
 async function request(path: string, body?: Raw) {

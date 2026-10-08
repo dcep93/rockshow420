@@ -1,0 +1,27 @@
+{
+  "artist": "Gavin James",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Gavin James",
+      "name": "Always"
+    },
+    {
+      "artists": "Alan Walker, Gavin James",
+      "name": "Tired"
+    },
+    {
+      "artists": "Alan Walker, Gavin James, Kygo",
+      "name": "Tired - Kygo Remix"
+    },
+    {
+      "artists": "Gavin James",
+      "name": "City Of Stars"
+    },
+    {
+      "artists": "Gavin James",
+      "name": "Nervous - Acoustic"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/25tMQOrIU4LlUo6Sv8v5SE"
+}

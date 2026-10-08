@@ -1,0 +1,27 @@
+{
+  "artist": "Sweet Plot",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "Sweet Plot",
+      "name": "The Gatsby Express"
+    },
+    {
+      "artists": "Sweet Plot",
+      "name": "Taste of Honey"
+    },
+    {
+      "artists": "Sweet Plot",
+      "name": "Jesse James"
+    },
+    {
+      "artists": "Sweet Plot",
+      "name": "Fields of Green"
+    },
+    {
+      "artists": "Sweet Plot",
+      "name": "In Bloom"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/3lmf0DJ6Fhx9NvHJrordP3"
+}

@@ -1,0 +1,31 @@
+{
+  "artist": "BabyJake",
+  "kind": "spotify_top_tracks",
+  "songs": [
+    {
+      "artists": "BabyJake",
+      "explicit": true,
+      "name": "Cigarettes On Patios"
+    },
+    {
+      "artists": "BabyJake",
+      "name": "Head In The Clouds"
+    },
+    {
+      "artists": "BabyJake",
+      "explicit": true,
+      "name": "Confidant"
+    },
+    {
+      "artists": "BabyJake",
+      "explicit": true,
+      "name": "239"
+    },
+    {
+      "artists": "BabyJake",
+      "explicit": true,
+      "name": "Do I Fit In Your Shoes?"
+    }
+  ],
+  "url": "https://open.spotify.com/embed/artist/07Asx51VtMw5kbNXKrpZlq"
+}

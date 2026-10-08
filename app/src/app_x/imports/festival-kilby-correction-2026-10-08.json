@@ -1,0 +1,127 @@
+{
+  "researched_on": "2026-10-08",
+  "patches": [
+    {
+      "id": "e23b5a",
+      "concert_id": "fuaiif",
+      "artist_id": "tagabow",
+      "expected": {
+        "id": "e23b5a",
+        "day": "2024-05-11",
+        "artist_id": "tagabow"
+      },
+      "set": {
+        "start": "2024-05-11T12:50:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_basis": "Official label explicitly identifies They Are Gutting a Body of Water (TAGABOW).",
+      "sources": [
+        "https://atorecords.com/artists/they-are-gutting-a-body-of-water/",
+        "https://images.squarespace-cdn.com/content/v1/629f79c7b1e86952661c33de/33e52ba2-6093-4b68-874d-ce46b3cc033d/KBP5AdmatFinal.jpg",
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/they-are-gutting-a-body-of-water/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6062.html"
+      ],
+      "observation": {
+        "url": "https://www.setlist.fm/setlist/they-are-gutting-a-body-of-water/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6062.html",
+        "artist": "They Are Gutting a Body of Water",
+        "event_date": "2024-05-11",
+        "venue": "Utah State Fairpark, Salt Lake City, UT, USA",
+        "stage": "Lake Stage",
+        "times": {
+          "scheduled": "12:50"
+        },
+        "source": "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "kind": "festival_directory_scheduled",
+        "capture": "/Users/danielcepeda/repos/_codex_output/rockshow420/festival-setlists-2026-10-08/pages/793c9c920e452b745c952f1269c9e5ee5099b18d7ac3d089c4061577152f1158.html"
+      }
+    },
+    {
+      "id": "w016mm",
+      "concert_id": "fuaiif",
+      "artist_id": "petey",
+      "expected": {
+        "id": "w016mm",
+        "day": "2024-05-12",
+        "artist_id": "petey"
+      },
+      "set": {
+        "start": "2024-05-12T14:35:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "identity_basis": "Official label press release uses Petey USA and Petey for the same performer and connects the Lean Into Life / USA catalog. This establishes identity; it does not establish a rename date.",
+      "sources": [
+        "https://www.universalmusic.ca/2025/06/13/petey-usa-drops-breathing-the-same-air-new-single-and-video-out-now/",
+        "https://images.squarespace-cdn.com/content/v1/629f79c7b1e86952661c33de/33e52ba2-6093-4b68-874d-ce46b3cc033d/KBP5AdmatFinal.jpg",
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/petey-usa/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890ee.html"
+      ],
+      "observation": {
+        "url": "https://www.setlist.fm/setlist/petey-usa/2024/utah-state-fairpark-salt-lake-city-ut-usa-2ba890ee.html",
+        "artist": "Petey USA",
+        "event_date": "2024-05-12",
+        "venue": "Utah State Fairpark, Salt Lake City, UT, USA",
+        "stage": "Mountain Stage",
+        "times": {
+          "scheduled": "14:35"
+        },
+        "source": "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "kind": "festival_directory_scheduled",
+        "capture": "/Users/danielcepeda/repos/_codex_output/rockshow420/festival-setlists-2026-10-08/pages/793c9c920e452b745c952f1269c9e5ee5099b18d7ac3d089c4061577152f1158.html"
+      }
+    }
+  ],
+  "lineup_correction": {
+    "exclude": {
+      "concert_id": "fuaiif",
+      "id": "e5psg7",
+      "artist_id": "wu-tang-clan",
+      "expected": {
+        "id": "e5psg7",
+        "day": "2024-05-11",
+        "artist_id": "wu-tang-clan"
+      },
+      "reason": "Withdrew from Kilby Block Party 2024; Santigold replaced the performance. Preserve exclusion provenance rather than presenting Wu-Tang as a performed set.",
+      "sources": [
+        "https://www.kilbyblockparty.com/about",
+        "https://images.squarespace-cdn.com/content/v1/629f79c7b1e86952661c33de/33e52ba2-6093-4b68-874d-ce46b3cc033d/KBP5AdmatFinal.jpg",
+        "https://www.slugmag.com/music/concert/music-festival-coverage/17-stand-out-performances-from-kilby-block-party-5/",
+        "https://undertheradarmag.com/reviews/kilby_block_party_salt_lake_city_us_may_10_12_2024"
+      ]
+    },
+    "add": {
+      "concert_id": "fuaiif",
+      "stable_id": "0sc5kr",
+      "set": {
+        "artist_id": "santigold",
+        "day": "2024-05-11",
+        "stage": "Lake Stage",
+        "start": "2024-05-11T19:30:00-06:00"
+      },
+      "time_basis": "scheduled_start",
+      "sources": [
+        "https://www.kilbyblockparty.com/about",
+        "https://images.squarespace-cdn.com/content/v1/629f79c7b1e86952661c33de/33e52ba2-6093-4b68-874d-ce46b3cc033d/KBP5AdmatFinal.jpg",
+        "https://www.slugmag.com/music/concert/music-festival-coverage/17-stand-out-performances-from-kilby-block-party-5/",
+        "https://undertheradarmag.com/reviews/kilby_block_party_salt_lake_city_us_may_10_12_2024",
+        "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "https://www.setlist.fm/setlist/santigold/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6cce.html"
+      ],
+      "observation": {
+        "url": "https://www.setlist.fm/setlist/santigold/2024/utah-state-fairpark-salt-lake-city-ut-usa-2bab6cce.html",
+        "artist": "Santigold",
+        "event_date": "2024-05-11",
+        "venue": "Utah State Fairpark, Salt Lake City, UT, USA",
+        "stage": "Lake Stage",
+        "times": {
+          "scheduled": "19:30"
+        },
+        "source": "https://www.setlist.fm/festival/2024/kilby-block-party-2024-23d44883.html",
+        "kind": "festival_directory_scheduled",
+        "capture": "/Users/danielcepeda/repos/_codex_output/rockshow420/festival-setlists-2026-10-08/pages/793c9c920e452b745c952f1269c9e5ee5099b18d7ac3d089c4061577152f1158.html"
+      }
+    },
+    "artist_index_note": "Pruned newly imported Wu-Tang global record after confirming no original production artist and no remaining concert, schedule or personal references. Immutable source history retained.",
+    "evidence_limit": "Official historical final poster lists Santigold and omits Wu-Tang. Two independent contemporary eyewitness reviews explicitly state the replacement. Original organizer cancellation announcement was not retrieved; no cancellation reason is claimed."
+  },
+  "supersedes": "The TAGABOW, Petey, and Wu-Tang unresolved entries in identity-and-lineup-issues.json are resolved by this supplement. Original 132-patch proposal remains immutable."
+}

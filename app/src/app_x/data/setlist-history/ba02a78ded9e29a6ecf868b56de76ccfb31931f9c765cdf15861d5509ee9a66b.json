@@ -1,0 +1,83 @@
+{
+  "kind": "setlist_fm",
+  "sets": [
+    {
+      "songs": [
+        {
+          "name": "Better Now",
+          "notes": "(with string quartet intro)"
+        },
+        {
+          "name": "Wow."
+        },
+        {
+          "name": "Zack and Codeine"
+        },
+        {
+          "name": "Psycho"
+        },
+        {
+          "name": "Goodbyes"
+        },
+        {
+          "name": "I Like You (A Happier Song)"
+        },
+        {
+          "name": "Jonestown (Interlude)"
+        },
+        {
+          "name": "Take What You Want"
+        },
+        {
+          "name": "Over Now"
+        },
+        {
+          "name": "rockstar"
+        },
+        {
+          "name": "Stay",
+          "notes": "(Two fans came on stage to sing & play guitar)"
+        },
+        {
+          "name": "I Fall Apart"
+        },
+        {
+          "name": "Wrapped Around Your Finger"
+        },
+        {
+          "name": "Circles"
+        },
+        {
+          "name": "Too Young"
+        },
+        {
+          "name": "White Iverson"
+        },
+        {
+          "name": "Congratulations"
+        }
+      ]
+    },
+    {
+      "encore": true,
+      "name": "Encore:",
+      "songs": [
+        {
+          "name": "Broken Whiskey Glass",
+          "notes": "(Instrumental)"
+        },
+        {
+          "name": "Sunflower",
+          "notes": "(Post Malone & Swae Lee song)"
+        },
+        {
+          "name": "I Had Some Help"
+        },
+        {
+          "name": "Chemical"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.setlist.fm/setlist/post-malone/2024/flushing-meadows-corona-park-queens-ny-usa-4babef96.html"
+}
