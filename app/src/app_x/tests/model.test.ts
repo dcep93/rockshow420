@@ -10,6 +10,7 @@ import {
   emptyCatalog,
   userConcertRows,
 } from "../data/model";
+import { isDefaultLog } from "../data/logChanges";
 import { formatConcertDate, isTimezone, localTimeOptions, toLocalInput } from "../data/time";
 
 test("normalizers tolerate omitted fields without inventing event dates", () => {
@@ -78,4 +79,14 @@ test("every concert appears by default; only that user's explicit removals hide 
   catalog.logs[2].removed = false;
   assert.deepEqual(userConcertRows(catalog, "me").map((row) => row.concert?.id), ["new", "future", "past"]);
   assert.equal(normalizeLog("legacy", {}).removed, false);
+});
+
+test("default log records can be removed without losing real or future overrides", () => {
+  const defaults = { user_id: "u", concert_id: "c", notes: "", supporting_artist_ids: [], removed: false };
+  assert.equal(isDefaultLog(defaults), true);
+  assert.equal(isDefaultLog({ user_id: "u", concert_id: "c" }), true);
+  for (const change of [
+    { notes: "My note" }, { supporting_artist_ids: ["artist"] }, { removed: true },
+    { future_rating: 5 }, { future_field: null }, { notes: null }, { supporting_artist_ids: "" },
+  ]) assert.equal(isDefaultLog({ ...defaults, ...change }), false);
 });

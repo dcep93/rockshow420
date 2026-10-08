@@ -4,6 +4,7 @@ import { db } from "./firebase";
 import { collections } from "./model";
 import type { Catalog, EntityKind } from "./model";
 import { isTimezone } from "./time";
+import { isDefaultLog } from "./logChanges";
 
 const allowedFields = {
   venue: ["name", "timezone", "location", "image"],
@@ -109,7 +110,6 @@ export async function saveLog(
   uid: string,
   concertId: string,
   fields: { notes: string; supporting_artist_ids: string[] },
-  expectedExisting = false,
   restore = false,
 ): Promise<void> {
   const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
@@ -117,15 +117,15 @@ export async function saveLog(
     const concert = await transaction.get(doc(db, "concerts", concertId));
     const existing = await transaction.get(ref);
     if (!concert.exists()) throw new Error("This concert no longer exists.");
-    if (expectedExisting && !existing.exists())
-      throw new Error("This saved concert has been removed. Refresh before editing.");
     if (existing.data()?.removed === true && !restore)
       throw new Error("This concert was removed from the log. Restore it before editing.");
     const lineup: string[] = concert.data().supporting_artist_ids ?? [];
     if (fields.supporting_artist_ids.some((artist) => !lineup.includes(artist)))
       throw new Error("Supporting artists must belong to the concert lineup.");
     const patch = { removed: false, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
-    if (existing.exists()) transaction.update(ref, patch);
+    if (isDefaultLog({ ...existing.data(), ...patch })) {
+      if (existing.exists()) transaction.delete(ref);
+    } else if (existing.exists()) transaction.update(ref, patch);
     else transaction.set(ref, { user_id: uid, concert_id: concertId, ...patch });
   });
 }

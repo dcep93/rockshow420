@@ -117,7 +117,8 @@ permissions must be verified after the project owner finishes the setup above.
 - Catalog editors patch known edited fields and preserve unknown fields.
   Missing optional fields remain supported. Every catalog concert appears in every user log by default. Removing a concert
   stores `removed: true` on that user's `user_concerts` record and preserves annotations.
-  Restoring it clears the flag. Existing records need no migration.
+  Restoring it clears the flag. Saving defaults deletes the override (or skips creating it),
+  unless unknown future fields need preserving. Existing records need no migration.
 - The app blocks catalog deletion when its loaded public catalog contains an
   incoming reference. Firestore rules cannot perform arbitrary reverse-reference
   queries, so console operations or concurrent administrative edits still need

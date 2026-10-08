@@ -36,7 +36,6 @@ export function LogEditor({
           uid,
           concert.id,
           { notes, supporting_artist_ids: selected.filter((id) => available.has(id)) },
-          Boolean(log),
           log?.removed === true,
         );
       onClose();
@@ -84,7 +83,7 @@ export function LogEditor({
           </Message>
         )}
         <div className="rs-field">
-          <label htmlFor={notesId}>Notes</label>
+          <label htmlFor={notesId}>Public Notes</label>
           <textarea
             id={notesId}
             value={notes}
@@ -93,7 +92,6 @@ export function LogEditor({
             maxLength={20000}
           />
         </div>
-        <p className="rs-help">Notes are public.</p>
         {error && <Message error>{error}</Message>}
         {confirmRemove && (
           <div className="rs-confirm">
