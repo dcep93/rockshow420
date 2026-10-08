@@ -1,15 +1,15 @@
 import { collection, deleteDoc, doc, runTransaction, Timestamp } from "firebase/firestore";
 import type { Transaction } from "firebase/firestore";
 import { db } from "./firebase";
-import { collections } from "./model";
-import type { Catalog, EntityKind } from "./model";
-import { isTimezone } from "./time";
+import { collections, isTicketStatus } from "./model";
+import type { Catalog, EntityKind, TicketStatus } from "./model";
+import { isCalendarDate, isTimezone } from "./time";
 import { isDefaultLog } from "./logChanges";
 
 const allowedFields = {
   venue: ["name", "timezone", "location", "image"],
   artist: ["name", "image"],
-  concert: ["date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url"],
+  concert: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url"],
   festival: ["name", "concert_ids"],
 };
 function requireText(value: unknown, field: string): asserts value is string {
@@ -56,13 +56,14 @@ export async function saveEntity(
     }
     if (kind === "venue" || kind === "artist") validateURL(data.image, "Image");
     if (kind === "concert") {
-      requireText(data.venue_id, "Venue");
-      requireText(data.artist_id, "Headliner");
+      if (!data.artist_id) requireText(data.name, "Name or headliner");
+      if (data.date_precision !== undefined && !["day", "time"].includes(String(data.date_precision))) throw new Error("Invalid date precision.");
+      if (data.date_precision !== "day") requireText(data.venue_id, "Venue for a timed concert");
       requireIDs(data.supporting_artist_ids ?? [], "Supporting artists");
       validateURL(data.setlist_fm_url, "Setlist", true);
       await Promise.all([
-        requireReference(transaction, "venues", data.venue_id),
-        requireReference(transaction, "artists", data.artist_id),
+        ...(data.venue_id ? [requireReference(transaction, "venues", String(data.venue_id))] : []),
+        ...(data.artist_id ? [requireReference(transaction, "artists", String(data.artist_id))] : []),
         ...((data.supporting_artist_ids as string[]) ?? []).map((artist) =>
           requireReference(transaction, "artists", artist),
         ),
@@ -74,6 +75,7 @@ export async function saveEntity(
             ? new Date(data.date)
             : new Date(NaN);
       if (!Number.isFinite(date.getTime())) throw new Error("Choose a valid concert date and time.");
+      if (data.end_date && (data.date_precision !== "day" || typeof data.end_date !== "string" || !isCalendarDate(data.end_date) || data.end_date < date.toISOString().slice(0, 10))) throw new Error("End date must be on or after the start date.");
       if ("date" in patch) patch.date = Timestamp.fromDate(date);
     }
     if (kind === "festival") {
@@ -109,9 +111,10 @@ export async function deleteEntity(kind: EntityKind, id: string, catalog: Catalo
 export async function saveLog(
   uid: string,
   concertId: string,
-  fields: { notes: string; supporting_artist_ids: string[]; removed?: boolean },
+  fields: { notes: string; supporting_artist_ids: string[]; removed?: boolean; ticket_status: TicketStatus },
   restore = false,
 ): Promise<void> {
+  if (!isTicketStatus(fields.ticket_status)) throw new Error("Choose a valid ticket status.");
   const ref = doc(db, "user_concerts", `${uid}_${concertId}`);
   await runTransaction(db, async (transaction) => {
     const concert = await transaction.get(doc(db, "concerts", concertId));
@@ -122,7 +125,7 @@ export async function saveLog(
     const lineup: string[] = concert.data().supporting_artist_ids ?? [];
     if (fields.supporting_artist_ids.some((artist) => !lineup.includes(artist)))
       throw new Error("Supporting artists must belong to the concert lineup.");
-    const patch = { removed: fields.removed === true, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)] };
+    const patch = { removed: fields.removed === true, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)], ticket_status: fields.ticket_status };
     if (isDefaultLog({ ...existing.data(), ...patch })) {
       if (existing.exists()) transaction.delete(ref);
     } else if (existing.exists()) transaction.update(ref, patch);

@@ -1,12 +1,33 @@
 import { DateTime, IANAZone } from "luxon";
+import type { Concert } from "./model";
 
 export const isTimezone = (value: string): boolean => IANAZone.isValidZone(value);
+
+export function concertPeriod(concert: Concert, timezone: string, now: number): "upcoming" | "past" | "unknown" {
+  if (concert.date_precision === "day" || concert.end_date) {
+    const lastDay = concert.end_date || concert.date.slice(0, 10);
+    if (!isCalendarDate(lastDay)) return "unknown";
+    const end = DateTime.fromISO(lastDay, { zone: isTimezone(timezone) ? timezone : "UTC" }).plus({ days: 1 });
+    return now < end.toMillis() ? "upcoming" : "past";
+  }
+  const start = Date.parse(concert.date);
+  return Number.isFinite(start) ? (now < start ? "upcoming" : "past") : "unknown";
+}
 function zoned(iso: string, timezone: string) {
   return iso && isTimezone(timezone) ? DateTime.fromISO(iso, { setZone: true }).setZone(timezone) : null;
 }
-export function formatConcertDate(iso: string, timezone: string): string {
+export function formatConcertDate(iso: string, timezone: string, precision?: string, endDate?: string): string {
+  if (precision === "day") {
+    const day = DateTime.fromISO(iso.slice(0, 10), { zone: "UTC" });
+    if (!day.isValid) return "Date unavailable";
+    const end = endDate ? DateTime.fromISO(endDate, { zone: "UTC" }) : null;
+    return day.toFormat("ccc, LLL d, yyyy") + (end?.isValid && endDate !== iso.slice(0, 10) ? ` – ${end.toFormat("ccc, LLL d, yyyy")}` : "");
+  }
   const value = zoned(iso, timezone);
   return value?.isValid ? value.toFormat("ccc, LLL d, yyyy · h:mm a ZZZZ") : "Date unavailable";
+}
+export function isCalendarDate(value: string): boolean {
+  return /^\d{4}-\d{2}-\d{2}$/.test(value) && DateTime.fromISO(value, { zone: "UTC" }).isValid;
 }
 export function toLocalInput(iso: string, timezone: string): string {
   const value = zoned(iso, timezone);

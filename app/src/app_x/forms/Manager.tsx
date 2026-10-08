@@ -1,19 +1,17 @@
 import { useState } from "react";
 import type { Catalog, EntityKind } from "../data/model";
-import { Modal, Empty } from "../components/ui";
+import { Empty } from "../components/ui";
+import { EntityEditor } from "./EntityEditor";
 import { concertName } from "../data/presentation";
 
 export function Manager({
   catalog,
-  onEdit,
-  onClose,
 }: {
   catalog: Catalog;
-  onEdit: (kind: EntityKind, id?: string) => void;
-  onClose: () => void;
 }) {
   const [kind, setKind] = useState<EntityKind>("concert");
   const [search, setSearch] = useState("");
+  const [editing, setEditing] = useState<{ id?: string } | null>(null);
   const labels: Record<EntityKind, string> = {
     concert: "Concerts",
     venue: "Venues",
@@ -30,7 +28,8 @@ export function Manager({
           : catalog.festivals;
   const visible = items.filter((item) => item.name.toLowerCase().includes(search.toLowerCase()));
   return (
-    <Modal title="Manage" onClose={onClose}>
+    <section className="rs-manager">
+      <div className="rs-page-heading"><h1>Manage</h1></div>
       <div className="rs-tabs" aria-label="Record type">
         {Object.entries(labels).map(([value, label]) => (
           <button
@@ -40,12 +39,17 @@ export function Manager({
             onClick={() => {
               setKind(value as EntityKind);
               setSearch("");
+              setEditing(null);
             }}
           >
             {label}
           </button>
         ))}
       </div>
+      {editing ? (
+        <EntityEditor key={`${kind}:${editing.id || "new"}`} inline kind={kind} id={editing.id} catalog={catalog}
+          onClose={() => setEditing(null)} onSaved={() => setEditing(null)} />
+      ) : <>
       <div className="rs-manager-toolbar">
         <input
           type="search"
@@ -54,7 +58,7 @@ export function Manager({
           value={search}
           onChange={(event) => setSearch(event.target.value)}
         />
-        <button type="button" className="rs-primary" onClick={() => onEdit(kind)}>
+        <button type="button" className="rs-primary" onClick={() => setEditing({})}>
           New
         </button>
       </div>
@@ -64,7 +68,7 @@ export function Manager({
             type="button"
             className="rs-picker-item"
             key={item.id}
-            onClick={() => onEdit(kind, item.id)}
+            onClick={() => setEditing({ id: item.id })}
           >
             <strong>{item.name}</strong>
             <span>Edit</span>
@@ -72,6 +76,7 @@ export function Manager({
         ))}
         {!visible.length && <Empty title={`No ${labels[kind].toLowerCase()} found`} />}
       </div>
-    </Modal>
+      </>}
+    </section>
   );
 }

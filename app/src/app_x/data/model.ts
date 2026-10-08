@@ -13,6 +13,9 @@ export interface Artist {
 export interface Concert {
   id: string;
   date: string;
+  name?: string;
+  date_precision?: "day" | "time";
+  end_date?: string;
   venue_id: string;
   artist_id: string;
   supporting_artist_ids: string[];
@@ -28,6 +31,11 @@ export interface Profile {
   user_id: string;
   username: string;
 }
+export type TicketStatus = "" | "purchased" | "sold_out";
+export const ticketStatusLabels: Record<TicketStatus, string> = { "": "", purchased: "Purchased", sold_out: "Sold out" };
+export function isTicketStatus(value: unknown): value is TicketStatus {
+  return value === "" || value === "purchased" || value === "sold_out";
+}
 export interface UserConcert {
   removed: boolean;
   id: string;
@@ -35,6 +43,7 @@ export interface UserConcert {
   concert_id: string;
   supporting_artist_ids: string[];
   notes: string;
+  ticket_status: TicketStatus;
 }
 export interface Catalog {
   venues: Venue[];
@@ -93,6 +102,9 @@ export const normalizeArtist = (id: string, raw: Raw): Artist => ({
 export const normalizeConcert = (id: string, raw: Raw): Concert => ({
   id,
   date: timestampISO(raw.date),
+  ...(string(raw.name) ? { name: string(raw.name) } : {}),
+  ...(raw.date_precision === "day" ? { date_precision: "day" as const } : {}),
+  ...(string(raw.end_date) ? { end_date: string(raw.end_date) } : {}),
   venue_id: string(raw.venue_id),
   artist_id: string(raw.artist_id),
   supporting_artist_ids: strings(raw.supporting_artist_ids),
@@ -115,6 +127,7 @@ export const normalizeLog = (id: string, raw: Raw): UserConcert => ({
   concert_id: string(raw.concert_id),
   supporting_artist_ids: strings(raw.supporting_artist_ids),
   notes: string(raw.notes),
+  ticket_status: isTicketStatus(raw.ticket_status) ? raw.ticket_status : "",
 });
 
 // Missing user data means the concert is included, with no personal annotations.

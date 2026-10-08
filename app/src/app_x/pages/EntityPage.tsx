@@ -1,6 +1,4 @@
-import { useState } from "react";
 import { ConcertEntries } from "../components/ConcertEntries";
-import { EntityEditor } from "../forms/EntityEditor";
 import { useApp } from "../data/store";
 import type { Concert, EntityKind } from "../data/model";
 import { formatConcertDate } from "../data/time";
@@ -12,13 +10,10 @@ import { Empty, Picture } from "../components/ui";
 export function EntityPage({
   kind,
   id,
-  onEdit,
 }: {
   kind: EntityKind;
   id: string;
-  onEdit: (kind: EntityKind, id: string) => void;
 }) {
-  const [editingConcert, setEditingConcert] = useState(false);
   const { catalog, viewer, isAdmin, loading } = useApp();
   const record =
     kind === "concert"
@@ -40,8 +35,8 @@ export function EntityPage({
         <section className="rs-detail-heading">
           <Picture src={artist?.image} name={artist?.name || ""} large />
           <div className="rs-detail-title">
-            <p className="rs-eyebrow">{formatConcertDate(concert.date, venue?.timezone || "UTC")}</p>
-            <h1>{artist?.name || "Unknown artist"}</h1>
+            <p className="rs-eyebrow">{formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date)}</p>
+            <h1>{concert.name || artist?.name || "Unknown artist"}</h1>
             <p className="rs-subtitle">
               {venue ? (
                 <Link href={entityPath("venue", venue.id, venue.name)}>{venue.name}</Link>
@@ -50,19 +45,11 @@ export function EntityPage({
               )}
               {venue?.location && <span> · {venue.location}</span>}
             </p>
-            <div className="rs-detail-actions">
-              {isAdmin && (
-                <button type="button" className="rs-text-button" onClick={() => setEditingConcert(!editingConcert)}>
-                  Edit concert
-                </button>
-              )}
-            </div>
           </div>
         </section>
-        {isAdmin && editingConcert && <EntityEditor inline kind="concert" id={id} catalog={catalog} onClose={() => setEditingConcert(false)} onSaved={() => setEditingConcert(false)} />}
         <div className="rs-detail-grid">
           <section className="rs-panel">
-            <h2>Lineup</h2>
+            {(artist || concert.supporting_artist_ids.length > 0) && <h2>Lineup</h2>}
             {artist && (
               <Link className="rs-lineup-item" href={entityPath("artist", artist.id, artist.name)}>
                 <Picture src={artist.image} name={artist.name} />
@@ -112,7 +99,7 @@ export function EntityPage({
       </>
     );
   }
-  const name = "name" in record ? record.name : "";
+  const name = "name" in record ? record.name || "" : "";
   const image = "image" in record ? record.image : "";
   const related = catalog.concerts
     .filter((concert) =>
@@ -135,11 +122,6 @@ export function EntityPage({
           )}
           {"timezone" in record && typeof record.timezone === "string" && (
             <p className="rs-help">{record.timezone.replaceAll("_", " ")}</p>
-          )}
-          {isAdmin && (
-            <button type="button" className="rs-secondary" onClick={() => onEdit(kind, id)}>
-              Edit {kind}
-            </button>
           )}
         </div>
       </section>

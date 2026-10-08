@@ -30,9 +30,9 @@
   font-size: 1.7rem;
   font-weight: 400;
 }
-:is(.rs-dialog, .rs-inline-editor) input:not([type="checkbox"]),
-:is(.rs-dialog, .rs-inline-editor) textarea,
-:is(.rs-dialog, .rs-inline-editor) select {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) input:not([type="checkbox"]),
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) textarea,
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) select {
   width: 100%;
   min-width: 0;
   padding: 0.75rem 0.9rem;
@@ -43,16 +43,16 @@
   min-height: 2.8rem;
   font-size: 0.875rem;
 }
-:is(.rs-dialog, .rs-inline-editor) select option {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) select option {
   background: #241c18;
   color: white;
 }
-:is(.rs-dialog, .rs-inline-editor) textarea {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) textarea {
   resize: vertical;
   line-height: 1.6;
 }
-:is(.rs-dialog, .rs-inline-editor) input::placeholder,
-:is(.rs-dialog, .rs-inline-editor) textarea::placeholder {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) input::placeholder,
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) textarea::placeholder {
   color: rgba(255, 255, 255, 0.32);
 }
 .rs-field {
@@ -76,12 +76,12 @@
   color: var(--rs-tan);
   margin-bottom: 1.25rem !important;
 }
-:is(.rs-dialog, .rs-inline-editor) fieldset {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) fieldset {
   border: 0;
   margin: 1.25rem 0;
   padding: 0;
 }
-:is(.rs-dialog, .rs-inline-editor) legend {
+:is(.rs-dialog, .rs-inline-editor, .rs-manager) legend {
   font-size: 0.8125rem;
   color: var(--rs-tan);
   margin-bottom: 0.6rem;
@@ -215,12 +215,14 @@
   .rs-dialog-inner {
     padding: 1.25rem;
   }
-  :is(.rs-dialog, .rs-inline-editor) input:not([type="checkbox"]),
-  :is(.rs-dialog, .rs-inline-editor) textarea,
-  :is(.rs-dialog, .rs-inline-editor) select {
+  :is(.rs-dialog, .rs-inline-editor, .rs-manager) input:not([type="checkbox"]),
+  :is(.rs-dialog, .rs-inline-editor, .rs-manager) textarea,
+  :is(.rs-dialog, .rs-inline-editor, .rs-manager) select {
     font-size: 1rem;
   }
 }
 
 .rs-inline-editor { min-width: 0; }
 .rs-inline-editor .rs-form-actions { margin-top: 0.75rem; padding-top: 0.75rem; }
+
+.rs-manager .rs-picker-list { max-height: none; overflow: visible; }

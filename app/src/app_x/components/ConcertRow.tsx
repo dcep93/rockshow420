@@ -25,10 +25,10 @@ export function ConcertRow({
       <Picture src={artist?.image} name={artist?.name || ""} />
       <div className="rs-concert-info">
         {log?.removed && <span className="rs-hidden-label">Hidden</span>}
-        <p className="rs-date">{formatConcertDate(concert.date, venue?.timezone || "UTC")}</p>
+        <p className="rs-date">{formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date)}</p>
         <h2>
           <Link href={entityPath("concert", concert.id, concertName(concert, catalog))}>
-            {artist?.name || "Unknown artist"}
+            {concert.name || artist?.name || "Unknown artist"}
           </Link>
         </h2>
         <p className="rs-venue-line">
@@ -40,7 +40,7 @@ export function ConcertRow({
           {venue?.location && <span> · {venue.location}</span>}
         </p>
         {!!support.length && <p className="rs-support">with {support.join(" · ")}</p>}
-        {festival && (
+        {festival && festival.name !== concert.name && (
           <Link className="rs-festival-tag" href={entityPath("festival", festival.id, festival.name)}>
             {festival.name}
           </Link>

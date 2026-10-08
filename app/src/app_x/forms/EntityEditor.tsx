@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import type { Catalog, EntityKind } from "../data/model";
 import { deleteEntity, saveEntity } from "../data/actions";
-import { isTimezone, localTimeOptions, toLocalInput } from "../data/time";
+import { isCalendarDate, isTimezone, localTimeOptions, toLocalInput } from "../data/time";
 import { Modal, Message } from "../components/ui";
 import { errorMessage } from "../components/errors";
 import { concertName } from "../data/presentation";
@@ -32,7 +32,7 @@ export function EntityEditor({
   const venue = catalog.venues.find(
     (value) => value.id === (item && "venue_id" in item ? item.venue_id : ""),
   );
-  const [name, setName] = useState(item && "name" in item ? item.name : "");
+  const [name, setName] = useState(item && "name" in item ? item.name || "" : "");
   const [image, setImage] = useState(item && "image" in item ? item.image : "");
   const [location, setLocation] = useState(catalog.venues.find((value) => value.id === id)?.location || "");
   const [timezone, setTimezone] = useState(
@@ -45,8 +45,10 @@ export function EntityEditor({
   );
   const [concertIds, setConcertIds] = useState(item && "concert_ids" in item ? item.concert_ids : []);
   const [setlist, setSetlist] = useState(item && "setlist_fm_url" in item ? item.setlist_fm_url : "");
+  const [dateOnly, setDateOnly] = useState(item && "date_precision" in item && item.date_precision === "day");
+  const [endDate, setEndDate] = useState(item && "end_date" in item ? item.end_date || "" : "");
   const [localDate, setLocalDate] = useState(
-    item && "date" in item ? toLocalInput(item.date, venue?.timezone || "UTC") : "",
+    item && "date" in item ? (item.date_precision === "day" ? item.date.slice(0, 10) : toLocalInput(item.date, venue?.timezone || "UTC")) : "",
   );
   const zone = catalog.venues.find((value) => value.id === venueId)?.timezone || "";
   const [offsetChoice, setOffsetChoice] = useState(
@@ -71,7 +73,7 @@ export function EntityEditor({
     setError("");
     let fields: Record<string, unknown>;
     if (kind === "concert") {
-      if (!dateOption) {
+      if (dateOnly ? !isCalendarDate(localDate) : !dateOption) {
         setError(
           options.length > 1
             ? "Choose which occurrence of this local time you mean."
@@ -80,10 +82,10 @@ export function EntityEditor({
         return;
       }
       if (
-        !catalog.artists.some((value) => value.id === artistId) ||
-        !catalog.venues.some((value) => value.id === venueId)
+        (artistId ? !catalog.artists.some((value) => value.id === artistId) : !name.trim()) ||
+        (venueId ? !catalog.venues.some((value) => value.id === venueId) : !dateOnly)
       ) {
-        setError("Select an existing headliner and venue.");
+        setError("Enter a name or select a headliner. A venue is required when a time is known.");
         return;
       }
       if (
@@ -97,7 +99,10 @@ export function EntityEditor({
         return;
       }
       fields = {
-        ...(dateEdited || !id ? { date: dateOption.iso } : {}),
+        name: name.trim(),
+        date_precision: dateOnly ? "day" : "time",
+        end_date: dateOnly ? endDate : "",
+        ...(dateEdited || !id ? { date: dateOnly ? `${localDate}T00:00:00.000Z` : dateOption!.iso } : {}),
         venue_id: venueId,
         artist_id: artistId,
         supporting_artist_ids: support,
@@ -165,11 +170,11 @@ export function EntityEditor({
           void submit();
         }}
       >
-        {kind !== "concert" && (
+        {(
           <label className="rs-field">
-            Name
+            Name {kind === "concert" && <span className="rs-optional">optional with a headliner</span>}
             <input
-              required
+              required={kind !== "concert" || !artistId}
               value={name}
               maxLength={200}
               onChange={(event) => setName(event.target.value)}
@@ -221,7 +226,6 @@ export function EntityEditor({
             <label className="rs-field">
               Headliner
               <select
-                required
                 value={artistId}
                 onChange={(event) => {
                   setArtistId(event.target.value);
@@ -239,11 +243,11 @@ export function EntityEditor({
             <label className="rs-field">
               Venue
               <select
-                required
+                required={!dateOnly}
                 value={venueId}
                 onChange={(event) => {
                   const nextZone = catalog.venues.find((value) => value.id === event.target.value)?.timezone;
-                  if (dateOption && nextZone) setLocalDate(toLocalInput(dateOption.iso, nextZone));
+                  if (!dateOnly && dateOption && nextZone) setLocalDate(toLocalInput(dateOption.iso, nextZone));
                   setVenueId(event.target.value);
                   setOffsetChoice("");
                 }}
@@ -259,11 +263,20 @@ export function EntityEditor({
             {(!catalog.artists.length || !catalog.venues.length) && (
               <Message>Create missing artists or venues in Manage.</Message>
             )}
+            <label className="rs-check">
+              <input type="checkbox" checked={dateOnly} onChange={(event) => {
+                setDateOnly(event.target.checked);
+                setLocalDate(localDate.slice(0, 10) + (event.target.checked || !localDate ? "" : "T"));
+                setDateEdited(true);
+                setOffsetChoice("");
+              }} />
+              Time unknown
+            </label>
             <label className="rs-field">
-              Date and time
+              {dateOnly ? "Date" : "Date and time"}
               <input
                 required
-                type="datetime-local"
+                type={dateOnly ? "date" : "datetime-local"}
                 value={localDate}
                 onChange={(event) => {
                   setLocalDate(event.target.value);
@@ -272,11 +285,12 @@ export function EntityEditor({
                 }}
               />
             </label>
-            <p className="rs-help">
+            {dateOnly && <label className="rs-field">End date <span className="rs-optional">optional</span><input type="date" min={localDate} value={endDate} onChange={(event) => setEndDate(event.target.value)} /></label>}
+            {!dateOnly && <p className="rs-help">
               {zone
                 ? `Local time in ${zone.replaceAll("_", " ")}`
                 : "Select a venue to determine the timezone."}
-            </p>
+            </p>}
             {options.length > 1 && (
               <label className="rs-field">
                 This time occurs twice

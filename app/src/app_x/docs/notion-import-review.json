@@ -1,0 +1,1889 @@
+{
+  "source": "https://app.notion.com/p/3aa8eae5e1bd811f98a0d3635e9dcad9",
+  "source_entries": 336,
+  "new_events": 352,
+  "already_present": 2,
+  "festival_ranges": 15,
+  "time_unverified": 241,
+  "setlist_links_added": 109,
+  "notes": [
+    "Trailing year headings apply to entries above them.",
+    "Sammy Rae February 18 is 2027, as confirmed by the user.",
+    "Preserved original dates wherever archives conflict.",
+    "Only the Corona separator was excluded.",
+    "Research links below are leads, not assertions that every detail on those pages matches."
+  ],
+  "needs_review": [
+    {
+      "row": 7,
+      "original": "\\$lawrence 10/29-31 paramount",
+      "year": 2026,
+      "name": "Lawrence",
+      "start": "2026-10-29",
+      "end": "2026-10-31",
+      "venue": "Brooklyn Paramount",
+      "records": [
+        "notion-3aa8eae5-7-2026-10-29",
+        "notion-3aa8eae5-7-2026-10-30",
+        "notion-3aa8eae5-7-2026-10-31"
+      ],
+      "review": "October 31 listings conflict (Ticketmaster 5 PM, earlier listing 6 PM); time left unverified.",
+      "time_verified": true,
+      "research_links": [
+        "https://www.ticketmaster.com/lawrence-staycation-3-day-pass-brooklyn-new-york-10-29-2026/event/000064410845ECF9?tt_scene=anchor_view",
+        "https://www.ticketmaster.com/lawrence-tickets/artist/2147764?msockid=0ec5050424346bc23aab13da256f6a96&tt_scene=anchor_view",
+        "https://www.ticketmaster.co.uk/lawrence-tickets/artist/2147764"
+      ]
+    },
+    {
+      "row": 9,
+      "original": "Robert Glasper x Questlove w/ Bilal 10/21 Blue Note",
+      "year": 2026,
+      "name": "Robert Glasper",
+      "start": "2026-10-21",
+      "end": "2026-10-21",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-9-2026-10-21"
+      ],
+      "review": "Blue Note may have multiple performances; source line does not identify which.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.livenation.com/venue/KovZpZAkJtvA/blue-note-jazz-club-events/pg/2",
+        "https://www.bluenotejazz.com/jazz-festival-nyc/tm-event/robert-glasper-x-questlove-special-guest-bilal/",
+        "https://www.ticketmaster.com/questlove-tickets/artist/1004930?tt_scene=anchor_view"
+      ]
+    },
+    {
+      "row": 39,
+      "original": "Marcus King 3/18 Blue Note",
+      "year": 2026,
+      "name": "Marcus King",
+      "start": "2026-03-18",
+      "end": "2026-03-18",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-39-2026-03-18"
+      ],
+      "review": "Two Blue Note show times found (8 PM and 10:30 PM); attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.jambase.com/show/marcus-king-the-blue-note-20260318",
+        "https://www.frederickhotelnyc.com/events/manhattan/marcus-king-11180985",
+        "https://www.shazam.com/event/1adca2c8-037f-43cf-b1ce-bf4067b39964"
+      ]
+    },
+    {
+      "row": 40,
+      "original": "Marcus King 3/14 Blue Note",
+      "year": 2026,
+      "name": "Marcus King",
+      "start": "2026-03-14",
+      "end": "2026-03-14",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-40-2026-03-14"
+      ],
+      "review": "Two Blue Note show times (8 PM and 10:30 PM); attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.ticketmaster.com/marcus-king-band-tickets/artist/2224262?page=6",
+        "https://www.nycjazz.guide/events/3646",
+        "https://concerts.consequence.net/events/marcus-king-at-blue-note-jazz-club-on-2026-03-14-20-00"
+      ]
+    },
+    {
+      "row": 60,
+      "original": "Not-porterfield nublu 9/17",
+      "year": 2025,
+      "name": "Not-Porterfield",
+      "start": "2025-09-17",
+      "end": "2025-09-17",
+      "venue": "Nublu",
+      "records": [
+        "notion-3aa8eae5-60-2025-09-17"
+      ],
+      "review": "Performer identity could not yet be verified.",
+      "time_verified": false,
+      "research_links": [
+        "https://theark.org/event/abigail-lapell-250917/",
+        "https://www.concertarchives.org/venues/nublu-classic",
+        "https://www.setlist.fm/setlist/low-phase/2025/cobra-lounge-chicago-il-63403aff.html"
+      ]
+    },
+    {
+      "row": 66,
+      "original": "bushwick's dead 7/21 brooklyn bowl",
+      "year": 2025,
+      "name": "Bushwick’s Dead",
+      "start": "2025-07-21",
+      "end": "2025-07-21",
+      "venue": "Brooklyn Bowl",
+      "records": [
+        "notion-3aa8eae5-66-2025-07-21"
+      ],
+      "review": "Notion says July 21; venue archive found July 19. Preserve Notion date pending clarification.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.brooklynbowl.com/brooklyn/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
+        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbm1lbxtq",
+        "https://www.brooklynbowl.com/events/detail/bushwick-s-dead-k7vgfbwewcneq"
+      ]
+    },
+    {
+      "row": 68,
+      "original": "Warren G 6/16 blue note",
+      "year": 2025,
+      "name": "Warren G",
+      "start": "2025-06-16",
+      "end": "2025-06-16",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-68-2025-06-16"
+      ],
+      "review": "Blue Note may have multiple performances; attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.bluenotejazz.com/nyc/shows/?search=ron+miles+concert+latest",
+        "https://www.axs.com/events/892546/the-reverence-project-john-patitucci-darryl-jones-nate-smith-and-james-tickets",
+        "https://sonyhall.com/events/gabzy/?id=17882"
+      ]
+    },
+    {
+      "row": 78,
+      "original": "hiromi 4/7 blue note",
+      "year": 2025,
+      "name": "Hiromi",
+      "start": "2025-04-07",
+      "end": "2025-04-07",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-78-2025-04-07"
+      ],
+      "review": "Blue Note may have multiple performances; attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.shazam.com/event/3d0af932-1675-4418-8c69-f4d394878fe8",
+        "https://www.bluenotejazz.com/hawaii/tm-event/hiromi-the-trio-project/",
+        "https://concordjazz.com/blogs/news/grammy-winning-pianist-and-composer-hiromi-releases-out-there-today"
+      ]
+    },
+    {
+      "row": 83,
+      "original": "Porterfield 3/8",
+      "year": 2025,
+      "name": "Porterfield",
+      "start": "2025-03-08",
+      "end": "2025-03-08",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-83-2025-03-08"
+      ],
+      "review": "Venue and performer match not verified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.setlist.fm/setlist/porter-robinson/2025/3olympia-theatre-dublin-ireland-73a802a5.html",
+        "https://www.visitstaugustine.com/event/beach-boys",
+        "https://en.wikipedia.org/wiki/Chris_Stapleton%27s_All-American_Road_Show_Tour"
+      ]
+    },
+    {
+      "row": 88,
+      "original": "Lawrence 12/31 city winery",
+      "year": 2024,
+      "name": "Lawrence",
+      "start": "2024-12-31",
+      "end": "2024-12-31",
+      "venue": "City Winery New York",
+      "records": [
+        "notion-3aa8eae5-88-2024-12-31"
+      ],
+      "review": "Two NYE shows may exist; verify attendance time.",
+      "time_verified": false,
+      "research_links": [
+        "https://lawrencetheband.com/nye-city-winery",
+        "https://www.setlist.fm/setlist/lawrence/2024/mgm-music-hall-at-fenway-boston-ma-2b56a006.html",
+        "https://www.broadwayworld.com/article/City-Winery-NYC-To-Present-A-New-Years-Eve-Bash-with-Clyde-and-Gracie-Lawrence-20241213"
+      ]
+    },
+    {
+      "row": 90,
+      "original": "Life in trust 12/27",
+      "year": 2024,
+      "name": "Life and Trust",
+      "start": "2024-12-27",
+      "end": "2024-12-27",
+      "venue": "Conwell Tower",
+      "records": [
+        "notion-3aa8eae5-90-2024-12-27"
+      ],
+      "review": "Notion spells this Life in trust; venue/time to verify.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.tixr.com/groups/skyslc/events/midnight-tyrannosaurus-life-of-a-street-rat-at-sky-111245",
+        "https://jazzshiryokan.net/jazzDB/live_detail.php?query=fromDate%3D12%252F27%252F2024%26tillDate%3D12%252F27%252F2024%26lop%3Dand%26skip%3D0&recordID=L387143",
+        "https://eventguide.com/newyork/days/2024/12/27.htm"
+      ]
+    },
+    {
+      "row": 97,
+      "original": "The dip 11/2 Webster hall",
+      "year": 2024,
+      "name": "The Dip",
+      "start": "2024-11-02",
+      "end": "2024-11-02",
+      "venue": "Webster Hall",
+      "records": [
+        "notion-3aa8eae5-97-2024-11-02"
+      ],
+      "review": "Venue lists November 3; Notion says November 2. Preserve listed date.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.setlist.fm/setlist/the-dip/2024/webster-hall-new-york-ny-53517b05.html",
+        "https://www.websterhall.com/events/detail/?event_id=1178408",
+        "https://www.websterhall.com/events/detail?event_id=1187878"
+      ]
+    },
+    {
+      "row": 128,
+      "original": "primavera barcelona 5/27-6/3",
+      "year": 2024,
+      "name": "Primavera Sound Barcelona",
+      "start": "2024-05-27",
+      "end": "2024-06-03",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-128-2024-05-27"
+      ],
+      "review": "Festival has multiple Barcelona venues; preserve listed May 27–June 3 range.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.sala-apolo.com/en/event/primavera-a-la-ciutat-2024-abstract-concrete-maustetytot-john-francis-flynn-tiemei-5351",
+        "https://www.sala-apolo.com/en/event/primavera-a-la-ciutat-2024-johnny-jewel-the-chameleons-cranes-ariox-5348",
+        "https://www.setlist.fm/festival/2024/primavera-sound-2024-73d4465d.html"
+      ]
+    },
+    {
+      "row": 139,
+      "original": "hiromi 3/26",
+      "year": 2024,
+      "name": "Hiromi",
+      "start": "2024-03-26",
+      "end": "2024-03-26",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-139-2024-03-26"
+      ],
+      "review": "Multiple performances; attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.setlist.fm/setlist/hiromi/2024/blue-note-jazz-club-new-york-ny-63abb22b.html",
+        "https://www.reddit.com/r/Jazz/comments/1bogr6x",
+        "https://www.setlist.fm/setlists/hiromi-7bd5bae8.html?page=3"
+      ]
+    },
+    {
+      "row": 154,
+      "original": "vulfpeck 11/12 avant gardner",
+      "year": 2023,
+      "name": "Vulfpeck",
+      "start": "2023-11-12",
+      "end": "2023-11-12",
+      "venue": "Avant Gardner – Great Hall",
+      "records": [
+        "notion-3aa8eae5-154-2023-11-12"
+      ],
+      "review": "Early and late performances; attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.reddit.com/r/Vulfpeck/comments/17s4x06",
+        "https://www.concertarchives.org/bands/vulfpeck?date=past&page=2",
+        "https://www.reddit.com/r/Vulfpeck/comments/17tnzdg"
+      ]
+    },
+    {
+      "row": 164,
+      "original": "7 lions 9/23 Brooklyn Mirage",
+      "year": 2023,
+      "name": "Seven Lions",
+      "start": "2023-09-23",
+      "end": "2023-09-23",
+      "venue": "Avant Gardner – Great Hall",
+      "records": [
+        "notion-3aa8eae5-164-2023-09-23"
+      ],
+      "review": "Venue listing says Great Hall; Notion says Brooklyn Mirage at same complex.",
+      "time_verified": false,
+      "research_links": [
+        "https://app.discotech.me/events/37511532-ophelia-records-showcase-seven-lions-full-moon-party-at-avant-gardner-great-hall",
+        "https://www.reddit.com/r/prettylights/comments/16qj9p5",
+        "https://www.reddit.com/r/SevenLions/comments/13t7yb4"
+      ]
+    },
+    {
+      "row": 168,
+      "original": "Recital 9/9 57th st",
+      "year": 2023,
+      "name": "Recital",
+      "start": "2023-09-09",
+      "end": "2023-09-09",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-168-2023-09-09"
+      ],
+      "review": "Source venue: 57th St; exact venue and performers unverified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.mccawhall.com/events/detail/patti-lupone",
+        "https://www.sebastians.org/event/the-five-concerti/",
+        "https://www.broadwayleague.com/press/press-releases/melissa-etheridge-to-make-an-appearance-as-a-presenter-at-curtain-up-live-from-broadway-finale-concert-live-in-times-square-and-to-be-aired-live-on-wabc-tv-on-sunday-september-10th-at-110/"
+      ]
+    },
+    {
+      "row": 185,
+      "original": "high life 6/9 brooklyn bowl",
+      "year": 2023,
+      "name": "High Time",
+      "start": "2023-06-09",
+      "end": "2023-06-09",
+      "venue": "Brooklyn Bowl",
+      "records": [
+        "notion-3aa8eae5-185-2023-06-09"
+      ],
+      "review": "Notion says High Life; venue archive identifies High Time.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.brooklynbowl.com/brooklyn/events/detail/high-time-13158738",
+        "https://en.wikipedia.org/wiki/The_Spinnin_Tour",
+        "https://www.brooklynbowl.com/events/detail/king-krule-space-heavy-tour-g5viz9tmotkoo"
+      ]
+    },
+    {
+      "row": 197,
+      "original": "hiromi 2/28 blue note",
+      "year": 2023,
+      "name": "Hiromi",
+      "start": "2023-02-28",
+      "end": "2023-02-28",
+      "venue": "Blue Note Jazz Club",
+      "records": [
+        "notion-3aa8eae5-197-2023-02-28"
+      ],
+      "review": "Blue Note may have multiple performances; attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.setlist.fm/setlist/hiromi/2023/blue-note-jazz-club-new-york-ny-4bba13d6.html",
+        "https://reserve.bluenote.co.jp/reserve/schedule/move/202311",
+        "https://www.bluenote.co.jp/jp/artists/hiromi-uehara-solo/"
+      ]
+    },
+    {
+      "row": 211,
+      "original": "Dan Bar-Hava 4/8",
+      "year": 2022,
+      "name": "Dan Bar-Hava",
+      "start": "2022-04-08",
+      "end": "2022-04-08",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-211-2022-04-08"
+      ],
+      "review": "",
+      "time_verified": false,
+      "research_links": [
+        "https://idanraichelproject.com/en/on-tour/",
+        "https://en.wikipedia.org/wiki/Take_My_Hand_World_Tour",
+        "https://en.wikipedia.org/wiki/Happier_Than_Ever%2C_The_World_Tour"
+      ]
+    },
+    {
+      "row": 216,
+      "original": "Beau Beau Honeydrops 3/24",
+      "year": 2022,
+      "name": "Beau Beau Honeydrops",
+      "start": "2022-03-24",
+      "end": "2022-03-24",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-216-2022-03-24"
+      ],
+      "review": "",
+      "time_verified": false,
+      "research_links": [
+        "https://bea-net.com/liveinformation/archive/2022/2208helloproject.html",
+        "https://www.bea-net.com/liveinformation/archive/2022/2205helloproject.html",
+        "https://www.setlist.fm/setlists/beabadoobee-6bc8be2e.html?page=15"
+      ]
+    },
+    {
+      "row": 218,
+      "original": "Nancy Zhou 3/12",
+      "year": 2022,
+      "name": "Nancy Zhou",
+      "start": "2022-03-12",
+      "end": "2022-03-12",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-218-2022-03-12"
+      ],
+      "review": "",
+      "time_verified": false,
+      "research_links": [
+        "https://en.wikipedia.org/wiki/JoJo_Tour_2022",
+        "https://www.ososhow.com/topics/lishangan/2022",
+        "https://en.wikipedia.org/wiki/Mercury_World_Tour"
+      ]
+    },
+    {
+      "row": 231,
+      "original": "Lollapalooza 7/28 Chicago",
+      "year": 2021,
+      "name": "Lollapalooza",
+      "start": "2021-07-28",
+      "end": "2021-07-28",
+      "venue": "Grant Park",
+      "records": [
+        "notion-3aa8eae5-231-2021-07-28"
+      ],
+      "review": "Notion lists July 28; festival ran July 29–August 1. Preserve source date pending review.",
+      "time_verified": false,
+      "research_links": [
+        "https://qromag.com/lollapalooza-2021-preview/",
+        "https://en.as.com/en/2021/07/28/latest_news/1627501278_675093.html",
+        "https://lollapalooza.frontgatetickets.com/event/82c4g1kgpskdp4ip"
+      ]
+    },
+    {
+      "row": 232,
+      "original": "(California Honeydrops) 6/23 RiverWonderGrass",
+      "year": 2021,
+      "name": "The California Honeydrops",
+      "start": "2021-06-23",
+      "end": "2021-06-23",
+      "venue": "Gates of Lodore",
+      "records": [
+        "notion-3aa8eae5-232-2021-06-23"
+      ],
+      "review": "RiverWonderGrass venue needs identification.",
+      "time_verified": false,
+      "research_links": [
+        "https://cahoneydrops.com/tour-dates/",
+        "https://www.gratefulweb.com/test.php/articles/winterwondergrass-announces-2021-riverwondergrass-expedition-lineup",
+        "https://www.jambase.com/band/the-california-honeydrops/setlists/2021"
+      ]
+    },
+    {
+      "row": 236,
+      "original": "Disturbed 9/4 Shoreline",
+      "year": 2020,
+      "name": "Disturbed",
+      "start": "2020-09-04",
+      "end": "2020-09-04",
+      "venue": "Shoreline Amphitheatre",
+      "records": [
+        "notion-3aa8eae5-236-2020-09-04"
+      ],
+      "review": "Event was cancelled/rescheduled during COVID; preserve original listed date.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.mountainviewamphitheater.com/events/disturbed-staind-bad-wolves/",
+        "https://disturbed1.com/disturbed-announces-the-sickness-20th-anniversary-tour/",
+        "https://blabbermouth.net/news/disturbed-announces-the-sickness-20th-anniversary-tour-with-staind"
+      ]
+    },
+    {
+      "row": 240,
+      "original": "Bottlerock 5/22-5/24",
+      "year": 2020,
+      "name": "BottleRock Napa Valley",
+      "start": "2020-05-22",
+      "end": "2020-05-24",
+      "venue": "Napa Valley Expo",
+      "records": [
+        "notion-3aa8eae5-240-2020-05-22"
+      ],
+      "review": "2020 festival was cancelled; preserve original listed dates.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.averagesocialite.com/events/2020/5/22/8th-annual-bottlerock-napa-valley-napa-valley",
+        "https://en.wikipedia.org/wiki/Everything_Not_Saved_Will_Be_Lost_World_Tour",
+        "https://www.grammy.com/news/bottlerock-napa-valley-2020-postponed-fall-due-coronavirus-pandemic/"
+      ]
+    },
+    {
+      "row": 253,
+      "original": "Johnson and Johnson 1/17",
+      "year": 2020,
+      "name": "Johnson and Johnson",
+      "start": "2020-01-17",
+      "end": "2020-01-17",
+      "venue": "",
+      "records": [
+        "notion-3aa8eae5-253-2020-01-17"
+      ],
+      "review": "",
+      "time_verified": false,
+      "research_links": [
+        "https://en.wikipedia.org/wiki/Wildcard_Tour",
+        "https://en.wikipedia.org/wiki/D.R.E.A.M._The_Tour",
+        "https://www.setlist.fm/setlist/ajr/2020/byline-bank-aragon-ballroom-chicago-il-6b9b622a.html"
+      ]
+    },
+    {
+      "row": 301,
+      "original": "phantom of the opera 9/9 orpheum",
+      "year": 2018,
+      "name": "The Phantom of the Opera",
+      "start": "2018-09-09",
+      "end": "2018-09-09",
+      "venue": "Orpheum Theatre",
+      "records": [
+        "notion-3aa8eae5-301-2018-09-09"
+      ],
+      "review": "Two performances (2 PM and 7:30 PM); attendance time unspecified.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.sfstation.com/theater-performance-arts/calendar/fishermans-wharf/san-francisco/09-09-2018",
+        "https://www.broadwayworld.com/shows/The-Phantom-of-the-Opera-330656.html",
+        "https://www.ibdb.com/tour-production/the-phantom-of-the-opera--500558"
+      ]
+    },
+    {
+      "row": 316,
+      "original": "alt j 4/17 bill graham",
+      "year": 2018,
+      "name": "alt-J",
+      "start": "2018-04-17",
+      "end": "2018-04-17",
+      "venue": "Bill Graham Civic Auditorium",
+      "records": [
+        "notion-3aa8eae5-316-2018-04-17"
+      ],
+      "review": "Archive found April 18; source says April 17. Source date preserved.",
+      "time_verified": false,
+      "research_links": [
+        "https://www.altjtourdates.com/",
+        "https://www.setlist.fm/setlist/altj/2018/santa-barbara-bowl-santa-barbara-ca-2bece4c6.html",
+        "https://www.antimusic.com/news/18/February/06alt-J_Announce_North_American_Tour_Including_Special_Stadium_Show.shtml"
+      ]
+    }
+  ],
+  "unverified_times": [
+    {
+      "id": "notion-3aa8eae5-7-2026-10-31",
+      "source": "\\$lawrence 10/29-31 paramount",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-9-2026-10-21",
+      "source": "Robert Glasper x Questlove w/ Bilal 10/21 Blue Note",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-16-2026-09-24",
+      "source": "Phoebe Bridgers 9/24-9/26 Barclays",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-16-2026-09-25",
+      "source": "Phoebe Bridgers 9/24-9/26 Barclays",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-16-2026-09-26",
+      "source": "Phoebe Bridgers 9/24-9/26 Barclays",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-17-2026-09-19",
+      "source": "Sara Bareilles 9/19 Radio City",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-20-2026-08-21",
+      "source": "king gizzard 8/20-22 forest hills",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-20-2026-08-22",
+      "source": "king gizzard 8/20-22 forest hills",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-21-2026-08-18",
+      "source": "Olivia Dean 8/18 msg",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-22-2026-08-07",
+      "source": "outside lands 8/7-9",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-31-2026-06-19",
+      "source": "goose 6/19-20 msg",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-31-2026-06-20",
+      "source": "goose 6/19-20 msg",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-37-2026-04-04",
+      "source": "Daniel Donato 4/4 beacon",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-38-2026-03-25",
+      "source": "Tedeschi trucks 3/25 beacon",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-39-2026-03-18",
+      "source": "Marcus King 3/18 Blue Note",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-40-2026-03-14",
+      "source": "Marcus King 3/14 Blue Note",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-43-2026-01-31",
+      "source": "Meet me at the altar 1/31 mercury lounge",
+      "year": 2026
+    },
+    {
+      "id": "notion-3aa8eae5-47-2025-11-29",
+      "source": "TAB 11/29 beacon",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-48-2025-11-21",
+      "source": "jesse welles 11/21 webster",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-50-2025-11-13",
+      "source": "Couch 11/13 Brooklyn steel",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-55-2025-10-08",
+      "source": "California honeydrops 10/8 Webster hall",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-56-2025-10-05",
+      "source": "theo katzman 10/5 white eagle hall",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-58-2025-09-26",
+      "source": "all things go 9/26-28 forest hills",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-60-2025-09-17",
+      "source": "Not-porterfield nublu 9/17",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-61-2025-09-13",
+      "source": "vulfpeck 9/13 msg",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-62-2025-09-03",
+      "source": "Nine inch nails 9/3 barclays",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-63-2025-08-15",
+      "source": "zach bryan 8/15 ggp",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-65-2025-08-01",
+      "source": "ca honeydrops 8/1 rockaway hotel",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-66-2025-07-21",
+      "source": "bushwick's dead 7/21 brooklyn bowl",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-67-2025-06-28",
+      "source": "goose 6/28 msg",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-68-2025-06-16",
+      "source": "Warren G 6/16 blue note",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-69-2025-06-06",
+      "source": "gov ball 6/6-8",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-70-2025-05-25",
+      "source": "beyonce 5/25 metlife 336",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-71-2025-05-20",
+      "source": "Glengarry glen ross 5/20",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-72-2025-05-18",
+      "source": "borns, american authors 5/18 brooklyn paramount",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-73-2025-05-17",
+      "source": "Trousdale 5/17 Irving plaza",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-75-2025-04-17",
+      "source": "dead and co 4/17-19",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-75-2025-04-18",
+      "source": "dead and co 4/17-19",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-75-2025-04-19",
+      "source": "dead and co 4/17-19",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-76-2025-04-11",
+      "source": "Vundabar 4/11 white eagle hall",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-78-2025-04-07",
+      "source": "hiromi 4/7 blue note",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-79-2025-03-21",
+      "source": "disturbed + three days grace 3/21 msg",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-82-2025-03-11",
+      "source": "goose 3/11 the shed",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-83-2025-03-08",
+      "source": "Porterfield 3/8",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-84-2025-02-25",
+      "source": "Foster the people 2/25 paramount",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-87-2025-02-04",
+      "source": "hippo campus 2/4 paramount",
+      "year": 2025
+    },
+    {
+      "id": "notion-3aa8eae5-88-2024-12-31",
+      "source": "Lawrence 12/31 city winery",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-90-2024-12-27",
+      "source": "Life in trust 12/27",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-91-2024-11-29",
+      "source": "story so far 11/29 paramount",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-92-2024-11-20",
+      "source": "tokyo police club 11/20 irving plaza",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-94-2024-11-15",
+      "source": "assembly of dust 11/15 mercury lounge",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-97-2024-11-02",
+      "source": "The dip 11/2 Webster hall",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-99-2024-10-31",
+      "source": "Misterwives 10/31 paramount",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-100-2024-10-30",
+      "source": "string cheese 10/30 paramount",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-101-2024-10-20",
+      "source": "maggie rogers 10/20 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-104-2024-10-10",
+      "source": "California honeydrops 10/10 Webster hall",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-105-2024-10-04",
+      "source": "chromeo + midnight 10/4 terminal 5",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-106-2024-10-03",
+      "source": "noah floersch 10/3 mercury lounge",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-107-2024-09-30",
+      "source": "remi wolf 9/30 king's theater",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-108-2024-09-28",
+      "source": "Mt Joy 9/28 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-110-2024-09-21",
+      "source": "khruangbin 9/21 forest hills",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-112-2024-09-14",
+      "source": "lake street dive 9/14 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-113-2024-09-07",
+      "source": "JRAD 9/7 pier 17",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-114-2024-08-30",
+      "source": "jacob aviner 8/30 Sleepwalk",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-116-2024-08-17",
+      "source": "King gizzard and the lizard wizard 8/16-17 forest hills",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-117-2024-08-13",
+      "source": "glass animals 8/13 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-118-2024-08-11",
+      "source": "dark star orchestra 8/11 pier 17",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-119-2024-08-10",
+      "source": "illioise 8/10",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-120-2024-08-01",
+      "source": "gencon 8/1-8/4 indianapolis",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-121-2024-07-27",
+      "source": "tattoo convention 7/27 terminal 5",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-122-2024-07-11",
+      "source": "moe 7/11 pier 17",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-124-2024-06-13",
+      "source": "dead and co 6/13-6/15",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-124-2024-06-14",
+      "source": "dead and co 6/13-6/15",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-124-2024-06-15",
+      "source": "dead and co 6/13-6/15",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-126-2024-06-07",
+      "source": "gov ball 6/7-6/9",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-127-2024-06-05",
+      "source": "hozier 6/5 forest hills",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-128-2024-05-27",
+      "source": "primavera barcelona 5/27-6/3",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-129-2024-05-17",
+      "source": "avett brothers 5/17 forest hills",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-130-2024-05-10",
+      "source": "kilby 5/10-5/12",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-132-2024-04-28",
+      "source": "live dead & brothers 4/28 sony hall",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-133-2024-04-26",
+      "source": "jacob collier 4/26 radio city",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-134-2024-04-22",
+      "source": "Veronicas 4/22 Irving plaza",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-137-2024-04-05",
+      "source": "olivia rodrigo 4/5-6 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-137-2024-04-06",
+      "source": "olivia rodrigo 4/5-6 msg",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-138-2024-03-28",
+      "source": "bygones 3/28 sultan room",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-139-2024-03-26",
+      "source": "hiromi 3/26",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-140-2024-03-22",
+      "source": "Fall Out Boy 3/22 MSG",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-142-2024-03-07",
+      "source": "The Beaches 3/7 MHW",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-145-2024-02-18",
+      "source": "neck deep 2/18 brooklyn steel",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-146-2024-02-17",
+      "source": "Brittany Howard 2/17 Webster hall",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-150-2024-01-18",
+      "source": "Jacob aviner 1/18 pinkfrog",
+      "year": 2024
+    },
+    {
+      "id": "notion-3aa8eae5-153-2023-11-19",
+      "source": "hightime 11/19 brooklyn bowl",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-154-2023-11-12",
+      "source": "vulfpeck 11/12 avant gardner",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-159-2023-10-25",
+      "source": "honeydrops 10/25 webster hall",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-160-2023-10-04",
+      "source": "john mayer 10/4 msg",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-161-2023-10-02",
+      "source": "Joy oladokun 10/2 Irving plaza",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-162-2023-09-30",
+      "source": "hozier 9/30 msg",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-163-2023-09-29",
+      "source": "tedeschi trucks 9/29 msg",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-164-2023-09-23",
+      "source": "7 lions 9/23 Brooklyn Mirage",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-166-2023-09-17",
+      "source": "Wolf bros 9/17 forest hills",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-167-2023-09-15",
+      "source": "Misterwives/bishop Briggs 9/15 pier 17",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-168-2023-09-09",
+      "source": "Recital 9/9 57th st",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-169-2023-08-29",
+      "source": "local natives 8/29 pier 17",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-170-2023-08-24",
+      "source": "yoke lore 8/24 music hall of Williamsburg",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-171-2023-08-19",
+      "source": "high time 8/19 brooklyn bowl",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-173-2023-08-11",
+      "source": "masie peters 8/11 radio city",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-174-2023-08-03",
+      "source": "lollapalooza 8/3-6",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-176-2023-07-29",
+      "source": "look what you made me do 7/29 grammercy",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-179-2023-07-21",
+      "source": "taylor swift rave 7/21 webster hall",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-181-2023-07-01",
+      "source": "Walrus Beatles jam 7/1 Brooklyn bowl",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-182-2023-06-17",
+      "source": "boygenius+clairo 6/17 forest hills stadium",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-183-2023-06-16",
+      "source": "lcd soundsystem+jamie xx 6/16 forest hills",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-184-2023-06-15",
+      "source": "charlie puth 6/15 radio city",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-185-2023-06-09",
+      "source": "high life 6/9 brooklyn bowl",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-187-2023-05-02",
+      "source": "Lizzy McAlpine 5/2 terminal 5",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-188-2023-04-29",
+      "source": "theo katzman 4/29 terminal 5",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-189-2023-04-22",
+      "source": "aly & aj 4/22 hammerstein ballroom",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-191-2023-04-15",
+      "source": "ripe 4/15 terminal 5",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-192-2023-04-13",
+      "source": "Snarky puppy 4/13 beacon",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-193-2023-03-28",
+      "source": "Chris thile  3/28 65th street",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-195-2023-03-15",
+      "source": "john mayer 3/15 madison square garden",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-197-2023-02-28",
+      "source": "hiromi 2/28 blue note",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-198-2023-02-23",
+      "source": "Cory Wong + Victor Wooten 2/23 beacon theater",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-199-2023-02-15",
+      "source": "Maggie Rogers 2/15 Radio City",
+      "year": 2023
+    },
+    {
+      "id": "notion-3aa8eae5-203-2022-11-03",
+      "source": "Lawrence 11/3-11/5 brooklyn steel",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-203-2022-11-04",
+      "source": "Lawrence 11/3-11/5 brooklyn steel",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-203-2022-11-05",
+      "source": "Lawrence 11/3-11/5 brooklyn steel",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-204-2022-10-12",
+      "source": "Remi Wolf 10/12 Terminal 5",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-207-2022-07-16",
+      "source": "Airborne toxic event 7/16 San Francisco symphony",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-208-2022-05-26",
+      "source": "Chvrches 5/26 Fillmore",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-209-2022-05-08",
+      "source": "The Story So Far 5/8 Warfield",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-210-2022-04-08",
+      "source": "Jacob Collier 4/8 Warfield",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-211-2022-04-08",
+      "source": "Dan Bar-Hava 4/8",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-213-2022-03-31",
+      "source": "The Script 3/31 Warfield",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-216-2022-03-24",
+      "source": "Beau Beau Honeydrops 3/24",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-218-2022-03-12",
+      "source": "Nancy Zhou 3/12",
+      "year": 2022
+    },
+    {
+      "id": "notion-3aa8eae5-220-2021-12-16",
+      "source": "Chvrches 12/16 Bill Graham",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-221-2021-11-23",
+      "source": "Misterwives 11/23 Regency Ballroom",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-224-2021-09-24",
+      "source": "California Honeydrops 9/24 Fox",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-225-2021-09-05",
+      "source": "Lawrence 9/5 UC Theater",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-226-2021-09-03",
+      "source": "Bottlerock 9/3-9/5 Napa",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-227-2021-08-27",
+      "source": "Green Day/Fall Out Boy/Weezer 8/27 Oracle Park",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-228-2021-08-22",
+      "source": "Rise Against 8/22 Bill Graham",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-229-2021-08-21",
+      "source": "Goat Rodeo Sessions 8/21 Greek",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-230-2021-08-06",
+      "source": "Zedd 8/6 Bill Graham",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-231-2021-07-28",
+      "source": "Lollapalooza 7/28 Chicago",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-232-2021-06-23",
+      "source": "(California Honeydrops) 6/23 RiverWonderGrass",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-233-2021-06-11",
+      "source": "(California Honeydrops/Lawrence) 6/11 Terry Bison Ranch",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-234-2021-06-04",
+      "source": "California Honeydrops 6/4 New Parish",
+      "year": 2021
+    },
+    {
+      "id": "notion-3aa8eae5-235-2020-09-12",
+      "source": "California Honeydrops 9/12 Solano County Fairgrounds",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-236-2020-09-04",
+      "source": "Disturbed 9/4 Shoreline",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-237-2020-06-21",
+      "source": "Simple plan 6/21 UC theatre",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-238-2020-06-17",
+      "source": "lovelytheband 6/17 Fillmore",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-239-2020-06-05",
+      "source": "Fratellis 6/5 Fillmore",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-240-2020-05-22",
+      "source": "Bottlerock 5/22-5/24",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-241-2020-05-21",
+      "source": "Cherry Glazer 5/21 Starline Social Club",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-242-2020-05-01",
+      "source": "Phosphorescent 5/1 August Hall",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-243-2020-04-13",
+      "source": "Mika 4/13 Masonic",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-244-2020-04-12",
+      "source": "Carly Rae Jepsen 4/12 Fox",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-245-2020-03-12",
+      "source": "Glass Animals 3/12 Independent",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-247-2020-02-21",
+      "source": "Badfish 2/21 Cornerstone",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-248-2020-02-16",
+      "source": "Gatz 2/16 Berkeley Rep",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-249-2020-02-13",
+      "source": "Run River North 2/13 Independent",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-250-2020-02-09",
+      "source": "Whateverglades 2/9 Chapel",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-251-2020-02-06",
+      "source": "Lucky Chops 2/6 Independent",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-252-2020-01-23",
+      "source": "ZOLA 1/23 Swedish American Music Hall",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-253-2020-01-17",
+      "source": "Johnson and Johnson 1/17",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-254-2020-01-11",
+      "source": "Collectivity and Night Animals 1/11 Boom Boom Room",
+      "year": 2020
+    },
+    {
+      "id": "notion-3aa8eae5-255-2019-12-30",
+      "source": "Portugal The Man 12/30 Fox",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-256-2019-12-04",
+      "source": "California Honeydrops 12/4 Independent",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-257-2019-11-24",
+      "source": "Misterwives 11/24 Independent",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-258-2019-11-04",
+      "source": "Two Door Cinema Club 11/4 Fox",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-259-2019-11-02",
+      "source": "Last Dinosaurs 11/2 Fillmore",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-260-2019-10-27",
+      "source": "Gordon Goodwin 10/27 Yoshi's",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-261-2019-10-22",
+      "source": "Hozier 10/22 Greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-262-2019-10-11",
+      "source": "Bastille 10/11 Greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-263-2019-10-02",
+      "source": "All That Remains 10/2 UC Theater",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-264-2019-09-29",
+      "source": "Tash Sultana 9/29 Greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-266-2019-09-24",
+      "source": "greta van fleet 9/24 red rocks",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-267-2019-09-21",
+      "source": "sonoma harvest festival 9/21-22",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-268-2019-09-18",
+      "source": "Mika 9/18 fillmore",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-269-2019-09-16",
+      "source": "John Mayer 9/16 Chase",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-270-2019-09-13",
+      "source": "Elton John 9/13 Chase",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-271-2019-09-12",
+      "source": "Bon Iver 9/12 Chase",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-272-2019-09-11",
+      "source": "Hamilton 9/11 Orpheum",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-273-2019-08-16",
+      "source": "Avett Brothers Lake Street Dive 8/16 Greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-274-2019-08-15",
+      "source": "Young the Giant Fitz and the Tantrums 8/15 Greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-275-2019-08-10",
+      "source": "Aurora 8/10 independent",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-276-2019-08-09",
+      "source": "outside lands 8/9-8/11 ggp",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-277-2019-07-13",
+      "source": "Nos Alive 7/13 Lisbon",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-279-2019-06-21",
+      "source": "Local natives 6/21 fox",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-280-2019-06-12",
+      "source": "bishop briggs 6/12 great american",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-281-2019-06-08",
+      "source": "father john misty 6/8 greek",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-282-2019-05-31",
+      "source": "Dead and Company 5/31 Shoreline",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-285-2019-02-07",
+      "source": "Night Animals 2/7 black hammer",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-287-2019-02-02",
+      "source": "hippo campus 2/2 the fox",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-288-2019-01-26",
+      "source": "The main squeeze 1/26 Fillmore",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-289-2019-01-17",
+      "source": "chromeo 1/17 1015 folsom",
+      "year": 2019
+    },
+    {
+      "id": "notion-3aa8eae5-290-2018-12-17",
+      "source": "tenacious d 12/17 the fox",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-291-2018-11-12",
+      "source": "Sir sly/joywave 11/12 Fillmore",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-292-2018-11-09",
+      "source": "reel rock 11/9 castro theatre",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-293-2018-11-05",
+      "source": "tokyo police club 11/5 bottom of the hill",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-294-2018-10-21",
+      "source": "Arctic monkeys 10/21 bill Graham",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-295-2018-10-17",
+      "source": "lykke li 10/17 fillmore",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-296-2018-09-28",
+      "source": "Lovelytheband 9/28 rickshaw stop",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-297-2018-09-27",
+      "source": "Flogging Molly dropkick Murphy's 9/27 bill graham",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-298-2018-09-18",
+      "source": "lake st dive 9/18 fllmore",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-299-2018-09-15",
+      "source": "strfkr 9/15 independent",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-300-2018-09-13",
+      "source": "jason mraz 9/13 greek",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-301-2018-09-09",
+      "source": "phantom of the opera 9/9 orpheum",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-302-2018-09-08",
+      "source": "phoenix 9/8 greek",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-303-2018-08-29",
+      "source": "Madi sipes 8/29 rickshaw stop",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-304-2018-08-10",
+      "source": "Outside lands 8/10-8-12",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-305-2018-08-09",
+      "source": "coheed and cambria taking back sunday the story so far 8/9 greek",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-306-2018-08-07",
+      "source": "weezer pixies 8/7 shoreline",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-307-2018-08-02",
+      "source": "voidz 8/2 chapel",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-308-2018-07-29",
+      "source": "mowglis 7/29 cornerstone",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-309-2018-07-21",
+      "source": "paramore foster the people 7/21 shoreline",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-310-2018-07-09",
+      "source": "hippo campus 7/9 the independent",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-311-2018-07-03",
+      "source": "dead and company 7/3 shoreline",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-312-2018-05-25",
+      "source": "lynyrd skynyrd 5/25 shoreline",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-313-2018-05-22",
+      "source": "smallpools 5/22 august hall",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-315-2018-04-27",
+      "source": "sum41 4/27 warfield",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-316-2018-04-17",
+      "source": "alt j 4/17 bill graham",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-319-2018-01-29",
+      "source": "Passion pit 1/29 fox",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-320-2018-01-23",
+      "source": "hippo campus 1/23 fillmore",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-321-2018-01-17",
+      "source": "Børns 1/17 fox",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-322-2018-01-12",
+      "source": "victor wooten 1/12 regency",
+      "year": 2018
+    },
+    {
+      "id": "notion-3aa8eae5-323-2017-12-22",
+      "source": "The story so far 12/22 uc theatre",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-324-2017-12-14",
+      "source": "Rhcp 12/14 bill graham",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-325-2017-12-08",
+      "source": "fresh and onlys 12/8 rickshaw stop",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-326-2017-12-01",
+      "source": "gordon goodwin 12/1 yoshis",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-327-2017-11-21",
+      "source": "Baio 11/21 rickshaw stop",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-328-2017-11-02",
+      "source": "ok go 11/2 filmore",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-329-2017-10-27",
+      "source": "zac brown 10/27 shoreline",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-330-2017-10-07",
+      "source": "fjm 10/7 greek",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-332-2017-09-27",
+      "source": "sublime 9/27 shoreline",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-333-2017-09-02",
+      "source": "foreigner 9/2 shoreline",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-334-2017-08-21",
+      "source": "billy joel 8/21 madison square garden",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-335-2017-08-12",
+      "source": "steve miller 8/12 shoreline",
+      "year": 2017
+    },
+    {
+      "id": "notion-3aa8eae5-336-2017-08-05",
+      "source": "green day 8/5 oakland",
+      "year": 2017
+    }
+  ],
+  "matched_setlists": {
+    "notion-3aa8eae5-16-2026-09-24": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-5375770d.html",
+    "notion-3aa8eae5-16-2026-09-26": "https://www.setlist.fm/setlist/phoebe-bridgers/2026/barclays-center-brooklyn-ny-237518c3.html",
+    "notion-3aa8eae5-17-2026-09-19": "https://www.setlist.fm/setlist/sara-bareilles/2026/radio-city-music-hall-new-york-ny-4b7fafb6.html",
+    "notion-3aa8eae5-18-2026-09-17": "https://www.setlist.fm/setlist/mt-joy/2026/madison-square-garden-new-york-ny-7b4c3a08.html",
+    "notion-3aa8eae5-20-2026-08-20": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-34c3503.html",
+    "notion-3aa8eae5-20-2026-08-21": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-134c350d.html",
+    "notion-3aa8eae5-20-2026-08-22": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2026/forest-hills-stadium-queens-ny-b4c350a.html",
+    "notion-3aa8eae5-21-2026-08-18": "https://www.setlist.fm/setlist/olivia-dean/2026/madison-square-garden-new-york-ny-434c8f03.html",
+    "notion-3aa8eae5-24-2026-07-28": "https://www.setlist.fm/setlist/rush/2026/madison-square-garden-new-york-ny-13414959.html",
+    "notion-3aa8eae5-25-2026-07-25": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-4b4b573e.html",
+    "notion-3aa8eae5-27-2026-07-22": "https://www.setlist.fm/setlist/phish/2026/madison-square-garden-new-york-ny-5b4b5738.html",
+    "notion-3aa8eae5-28-2026-07-11": "https://www.setlist.fm/setlist/jack-white/2026/brooklyn-paramount-brooklyn-ny-337628a5.html",
+    "notion-3aa8eae5-29-2026-07-09": "https://www.setlist.fm/setlist/paul-simon/2026/forest-hills-stadium-queens-ny-734812e9.html",
+    "notion-3aa8eae5-30-2026-06-23": "https://www.setlist.fm/setlist/bleachers/2026/madison-square-garden-new-york-ny-34989b3.html",
+    "notion-3aa8eae5-31-2026-06-19": "https://www.setlist.fm/setlist/goose/2026/madison-square-garden-new-york-ny-7b4a8af8.html",
+    "notion-3aa8eae5-32-2026-06-10": "https://www.setlist.fm/setlist/dave-matthews-band/2026/forest-hills-stadium-queens-ny-434a63df.html",
+    "notion-3aa8eae5-33-2026-06-07": "https://www.setlist.fm/setlist/tash-sultana/2026/the-rooftop-at-pier-17-new-york-ny-37535af.html",
+    "notion-3aa8eae5-36-2026-04-16": "https://www.setlist.fm/setlist/royel-otis/2026/william-randolph-hearst-greek-theatre-berkeley-ca-4b484f06.html",
+    "notion-3aa8eae5-37-2026-04-04": "https://www.setlist.fm/setlist/daniel-donatos-cosmic-country/2026/beacon-theatre-new-york-ny-5b76835c.html",
+    "notion-3aa8eae5-38-2026-03-25": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2026/beacon-theatre-new-york-ny-2349b05f.html",
+    "notion-3aa8eae5-43-2026-01-31": "https://www.setlist.fm/setlist/meet-me-the-altar/2026/mercury-lounge-new-york-ny-434c7347.html",
+    "notion-3aa8eae5-46-2025-12-30": "https://www.setlist.fm/setlist/phish/2025/madison-square-garden-new-york-ny-4b41bf16.html",
+    "notion-3aa8eae5-47-2025-11-29": "https://www.setlist.fm/setlist/trey-anastasio-band/2025/beacon-theatre-new-york-ny-2b4360ae.html",
+    "notion-3aa8eae5-48-2025-11-21": "https://www.setlist.fm/setlist/jesse-welles/2025/webster-hall-new-york-ny-6b47f21a.html",
+    "notion-3aa8eae5-49-2025-11-20": "https://www.setlist.fm/setlist/geese/2025/brooklyn-paramount-brooklyn-ny-7b4e2a18.html",
+    "notion-3aa8eae5-54-2025-10-17": "https://www.setlist.fm/setlist/my-morning-jacket/2025/brooklyn-paramount-brooklyn-ny-1b5b2908.html",
+    "notion-3aa8eae5-57-2025-10-02": "https://www.setlist.fm/setlist/bertha/2025/brooklyn-bowl-brooklyn-ny-b4175c2.html",
+    "notion-3aa8eae5-59-2025-09-19": "https://www.setlist.fm/setlist/mt-joy/2025/forest-hills-stadium-queens-ny-1b43a590.html",
+    "notion-3aa8eae5-61-2025-09-13": "https://www.setlist.fm/setlist/vulfpeck/2025/madison-square-garden-new-york-ny-7b5daebc.html",
+    "notion-3aa8eae5-62-2025-09-03": "https://www.setlist.fm/setlist/nine-inch-nails/2025/barclays-center-brooklyn-ny-2b5acc32.html",
+    "notion-3aa8eae5-63-2025-08-15": "https://www.setlist.fm/setlist/zach-bryan/2025/golden-gate-park-polo-field-san-francisco-ca-435f37cf.html",
+    "notion-3aa8eae5-64-2025-08-02": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2025/forest-hills-stadium-queens-ny-6b51caf6.html",
+    "notion-3aa8eae5-70-2025-05-25": "https://www.setlist.fm/setlist/beyonce/2025/metlife-stadium-east-rutherford-nj-5b5ae334.html",
+    "notion-3aa8eae5-75-2025-04-17": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-4b5fdfce.html",
+    "notion-3aa8eae5-75-2025-04-18": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-5b5fdfac.html",
+    "notion-3aa8eae5-75-2025-04-19": "https://www.setlist.fm/setlist/dead-and-company/2025/sphere-at-the-venetian-resort-las-vegas-nv-435fdfa3.html",
+    "notion-3aa8eae5-77-2025-04-10": "https://www.setlist.fm/setlist/franz-ferdinand/2025/brooklyn-paramount-brooklyn-ny-635d8ebf.html",
+    "notion-3aa8eae5-79-2025-03-21": "https://www.setlist.fm/setlist/disturbed/2025/madison-square-garden-new-york-ny-3b50e864.html",
+    "notion-3aa8eae5-80-2025-03-14": "https://www.setlist.fm/setlist/the-main-squeeze/2025/irving-plaza-new-york-ny-358f5f3.html",
+    "notion-3aa8eae5-82-2025-03-11": "https://www.setlist.fm/setlist/goose/2025/the-shed-new-york-ny-3b589888.html",
+    "notion-3aa8eae5-85-2025-02-23": "https://www.setlist.fm/setlist/finneas/2025/brooklyn-paramount-brooklyn-ny-b5bd906.html",
+    "notion-3aa8eae5-86-2025-02-06": "https://www.setlist.fm/setlist/phantogram/2025/brooklyn-paramount-brooklyn-ny-5b5effa4.html",
+    "notion-3aa8eae5-87-2025-02-04": "https://www.setlist.fm/setlist/hippo-campus/2025/brooklyn-paramount-brooklyn-ny-1b517144.html",
+    "notion-3aa8eae5-93-2024-11-17": "https://www.setlist.fm/setlist/animals-as-leaders/2024/brooklyn-steel-brooklyn-ny-53a843ed.html",
+    "notion-3aa8eae5-98-2024-11-01": "https://www.setlist.fm/setlist/grateful-shred/2024/brooklyn-bowl-brooklyn-ny-53511fcd.html",
+    "notion-3aa8eae5-100-2024-10-30": "https://www.setlist.fm/setlist/the-string-cheese-incident/2024/brooklyn-paramount-brooklyn-ny-2351ccb3.html",
+    "notion-3aa8eae5-101-2024-10-20": "https://www.setlist.fm/setlist/maggie-rogers/2024/madison-square-garden-new-york-ny-ba97d62.html",
+    "notion-3aa8eae5-108-2024-09-28": "https://www.setlist.fm/setlist/mt-joy/2024/madison-square-garden-new-york-ny-b547dd6.html",
+    "notion-3aa8eae5-110-2024-09-21": "https://www.setlist.fm/setlist/khruangbin/2024/forest-hills-stadium-queens-ny-3539df7.html",
+    "notion-3aa8eae5-111-2024-09-19": "https://www.setlist.fm/setlist/lawrence/2024/radio-city-music-hall-new-york-ny-6353f657.html",
+    "notion-3aa8eae5-112-2024-09-14": "https://www.setlist.fm/setlist/lake-street-dive/2024/madison-square-garden-new-york-ny-3b54fcf4.html",
+    "notion-3aa8eae5-115-2024-08-26": "https://www.setlist.fm/setlist/childish-gambino/2024/barclays-center-brooklyn-ny-6ba91292.html",
+    "notion-3aa8eae5-116-2024-08-16": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2024/forest-hills-stadium-queens-ny-7babbe04.html",
+    "notion-3aa8eae5-116-2024-08-17": "https://www.setlist.fm/setlist/king-gizzard-and-the-lizard-wizard/2024/forest-hills-stadium-queens-ny-7babbef0.html",
+    "notion-3aa8eae5-117-2024-08-13": "https://www.setlist.fm/setlist/glass-animals/2024/madison-square-garden-new-york-ny-3b541460.html",
+    "notion-3aa8eae5-118-2024-08-11": "https://www.setlist.fm/setlist/dark-star-orchestra/2024/the-rooftop-at-pier-17-new-york-ny-7b57e678.html",
+    "notion-3aa8eae5-122-2024-07-11": "https://www.setlist.fm/setlist/moe/2024/the-rooftop-at-pier-17-new-york-ny-1bab8184.html",
+    "notion-3aa8eae5-123-2024-06-29": "https://www.setlist.fm/setlist/goose/2024/forest-hills-stadium-queens-ny-2b560c2e.html",
+    "notion-3aa8eae5-124-2024-06-13": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-23abb8ef.html",
+    "notion-3aa8eae5-124-2024-06-15": "https://www.setlist.fm/setlist/dead-and-company/2024/sphere-at-the-venetian-resort-las-vegas-nv-33abb8ed.html",
+    "notion-3aa8eae5-127-2024-06-05": "https://www.setlist.fm/setlist/hozier/2024/forest-hills-stadium-queens-ny-3560def.html",
+    "notion-3aa8eae5-129-2024-05-17": "https://www.setlist.fm/setlist/the-avett-brothers/2024/forest-hills-stadium-queens-ny-3abb9db.html",
+    "notion-3aa8eae5-137-2024-04-05": "https://www.setlist.fm/setlist/olivia-rodrigo/2024/madison-square-garden-new-york-ny-3babe43c.html",
+    "notion-3aa8eae5-140-2024-03-22": "https://www.setlist.fm/setlist/fall-out-boy/2024/madison-square-garden-new-york-ny-4baa1302.html",
+    "notion-3aa8eae5-143-2024-03-02": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2024/beacon-theatre-new-york-ny-13ad5de5.html",
+    "notion-3aa8eae5-144-2024-02-29": "https://www.setlist.fm/setlist/two-door-cinema-club/2024/terminal-5-new-york-ny-53ad03d9.html",
+    "notion-3aa8eae5-145-2024-02-18": "https://www.setlist.fm/setlist/neck-deep/2024/brooklyn-steel-brooklyn-ny-33ad8071.html",
+    "notion-3aa8eae5-160-2023-10-04": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-63a33e73.html",
+    "notion-3aa8eae5-162-2023-09-30": "https://www.setlist.fm/setlist/hozier/2023/madison-square-garden-new-york-ny-4ba3d742.html",
+    "notion-3aa8eae5-163-2023-09-29": "https://www.setlist.fm/setlist/tedeschi-trucks-band/2023/madison-square-garden-new-york-ny-23a3e8ef.html",
+    "notion-3aa8eae5-165-2023-09-18": "https://www.setlist.fm/setlist/the-band-camino/2023/hammerstein-ballroom-new-york-ny-63a24e83.html",
+    "notion-3aa8eae5-167-2023-09-15": "https://www.setlist.fm/setlist/misterwives/2023/the-rooftop-at-pier-17-new-york-ny-53a26fad.html",
+    "notion-3aa8eae5-169-2023-08-29": "https://www.setlist.fm/setlist/local-natives/2023/the-rooftop-at-pier-17-new-york-ny-73a5427d.html",
+    "notion-3aa8eae5-172-2023-08-17": "https://www.setlist.fm/setlist/jason-mraz/2023/forest-hills-stadium-queens-ny-3a591bb.html",
+    "notion-3aa8eae5-173-2023-08-11": "https://www.setlist.fm/setlist/maisie-peters/2023/mercury-lounge-new-york-ny-3b4e3868.html",
+    "notion-3aa8eae5-175-2023-08-01": "https://www.setlist.fm/setlist/phish/2023/madison-square-garden-new-york-ny-13a43d55.html",
+    "notion-3aa8eae5-180-2023-07-14": "https://www.setlist.fm/setlist/dead-and-company/2023/oracle-park-san-francisco-ca-ba70542.html",
+    "notion-3aa8eae5-192-2023-04-13": "https://www.setlist.fm/setlist/snarky-puppy/2023/beacon-theatre-new-york-ny-5bb8a714.html",
+    "notion-3aa8eae5-193-2023-03-28": "https://www.setlist.fm/setlist/chris-thile/2023/david-geffen-hall-new-york-ny-63bb1e57.html",
+    "notion-3aa8eae5-194-2023-03-17": "https://www.setlist.fm/setlist/muse/2023/madison-square-garden-new-york-ny-5bbbb3d4.html",
+    "notion-3aa8eae5-195-2023-03-15": "https://www.setlist.fm/setlist/john-mayer/2023/madison-square-garden-new-york-ny-53ba433d.html",
+    "notion-3aa8eae5-196-2023-03-13": "https://www.setlist.fm/setlist/altj/2023/kings-theatre-brooklyn-ny-73ba5601.html",
+    "notion-3aa8eae5-197-2023-02-28": "https://www.setlist.fm/setlist/hiromi/2023/blue-note-jazz-club-new-york-ny-4bba13d6.html",
+    "notion-3aa8eae5-198-2023-02-23": "https://www.setlist.fm/setlist/cory-wong/2023/beacon-theatre-new-york-ny-bbae146.html",
+    "notion-3aa8eae5-200-2022-11-13": "https://www.setlist.fm/setlist/walk-the-moon/2022/irving-plaza-new-york-ny-bbe51be.html",
+    "notion-3aa8eae5-203-2022-11-03": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-73be26c1.html",
+    "notion-3aa8eae5-203-2022-11-04": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-bbe19e2.html",
+    "notion-3aa8eae5-203-2022-11-05": "https://www.setlist.fm/setlist/lawrence/2022/brooklyn-steel-brooklyn-ny-4bbe0f7e.html",
+    "notion-3aa8eae5-227-2021-08-27": "https://www.setlist.fm/setlist/green-day/2021/oracle-park-san-francisco-ca-b8cfd82.html",
+    "notion-3aa8eae5-255-2019-12-30": "https://www.setlist.fm/setlist/portugal-the-man/2019/fox-theater-oakland-ca-539bd30d.html",
+    "notion-3aa8eae5-269-2019-09-16": "https://www.setlist.fm/setlist/john-mayer/2019/chase-center-san-francisco-ca-b9ced3e.html",
+    "notion-3aa8eae5-270-2019-09-13": "https://www.setlist.fm/setlist/elton-john/2019/chase-center-san-francisco-ca-6b9c8a72.html",
+    "notion-3aa8eae5-271-2019-09-12": "https://www.setlist.fm/setlist/bon-iver/2019/chase-center-san-francisco-ca-5b9c939c.html",
+    "notion-3aa8eae5-273-2019-08-16": "https://www.setlist.fm/setlist/the-avett-brothers/2019/william-randolph-hearst-greek-theatre-berkeley-ca-739fc66d.html",
+    "notion-3aa8eae5-278-2019-06-28": "https://www.setlist.fm/setlist/carly-rae-jepsen/2019/bill-graham-civic-auditorium-san-francisco-ca-1b917940.html",
+    "notion-3aa8eae5-279-2019-06-21": "https://www.setlist.fm/setlist/local-natives/2019/fox-theater-oakland-ca-4391236b.html",
+    "notion-3aa8eae5-282-2019-05-31": "https://www.setlist.fm/setlist/dead-and-company/2019/shoreline-amphitheatre-mountain-view-ca-63904ed3.html",
+    "notion-3aa8eae5-294-2018-10-21": "https://www.setlist.fm/setlist/arctic-monkeys/2018/bill-graham-civic-auditorium-san-francisco-ca-7b96d260.html",
+    "notion-3aa8eae5-299-2018-09-15": "https://www.setlist.fm/setlist/strfkr/2018/the-independent-san-francisco-ca-3be9f4bc.html",
+    "notion-3aa8eae5-300-2018-09-13": "https://www.setlist.fm/setlist/jason-mraz/2018/william-randolph-hearst-greek-theatre-berkeley-ca-be98d76.html",
+    "notion-3aa8eae5-306-2018-08-07": "https://www.setlist.fm/setlist/weezer/2018/shoreline-amphitheatre-mountain-view-ca-73eb56e1.html",
+    "notion-3aa8eae5-309-2018-07-21": "https://www.setlist.fm/setlist/paramore/2018/shoreline-amphitheatre-mountain-view-ca-bebe5ee.html",
+    "notion-3aa8eae5-311-2018-07-03": "https://www.setlist.fm/setlist/dead-and-company/2018/shoreline-amphitheatre-mountain-view-ca-5bea7b1c.html",
+    "notion-3aa8eae5-312-2018-05-25": "https://www.setlist.fm/setlist/lynyrd-skynyrd/2018/shoreline-amphitheatre-mountain-view-ca-1bed2980.html",
+    "notion-3aa8eae5-315-2018-04-27": "https://www.setlist.fm/setlist/sum-41/2018/the-warfield-san-francisco-ca-7bec0280.html",
+    "notion-3aa8eae5-324-2017-12-14": "https://www.setlist.fm/setlist/red-hot-chili-peppers/2017/bill-graham-civic-auditorium-san-francisco-ca-13e1a5c1.html",
+    "notion-3aa8eae5-330-2017-10-07": "https://www.setlist.fm/setlist/father-john-misty/2017/william-randolph-hearst-greek-theatre-berkeley-ca-2be380e6.html",
+    "notion-3aa8eae5-334-2017-08-21": "https://www.setlist.fm/setlist/billy-joel/2017/madison-square-garden-new-york-ny-7be54a88.html",
+    "notion-3aa8eae5-336-2017-08-05": "https://www.setlist.fm/setlist/green-day/2017/oakland-coliseum-oakland-ca-13e53da5.html"
+  }
+}

@@ -36,6 +36,8 @@ export function readRoute(path: string) {
   try {
     const parts = path.split("/").filter(Boolean).map(decodeURIComponent);
     if (!parts.length) return { kind: "home", id: "" };
+    if (parts.length === 2 && parts[0] === "admin" && parts[1] === "manage")
+      return { kind: "manage", id: "" };
     if (parts[0] === "user" && parts.length === 2) return { kind: "user", id: parts[1].toLowerCase() };
     if (
       ["venue", "artist", "festival", "concert"].includes(parts[0]) &&

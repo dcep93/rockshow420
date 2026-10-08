@@ -52,7 +52,7 @@ test("public pages: complete logs, detail-only notes, stale slugs and mobile lay
   await page.goto("/user/dcep93");
   await expect(page.getByRole("heading", { name: "@dcep93", exact: true })).toBeVisible();
   await expect(page.locator(".rs-concert-row")).toHaveCount(4);
-  await expect(page.locator(".rs-concert-row").first()).toContainText("Slowdive");
+  await expect(page.getByRole("region", { name: "Upcoming concerts", exact: true }).locator(".rs-concert-row").first()).toContainText("Radiohead");
   await expect(page.getByText("Public note from Alice.")).toHaveCount(0);
   await expect(page.getByText("Taking the train out. Cannot wait.")).toHaveCount(0);
   await expect(page.getByRole("button", { name: /upcoming|past|browse/i })).toHaveCount(0);
@@ -125,7 +125,7 @@ test("admin creates records, repairs references and preserves exact timestamps a
 }) => {
   await login(page, "dcep93@gmail.com", true);
   await page.getByRole("button", { name: "@dcep93", exact: true }).click();
-  await expect(page.getByRole("button", { name: "Manage", exact: true })).toBeVisible();
+  await expect(page.getByRole("button", { name: "admin: Manage", exact: true })).toBeVisible();
   await page.getByRole("button", { name: "@dcep93", exact: true }).press("Escape");
   await put("concerts/exact", {
     date: new Date("2026-10-07T20:30:45.123Z"),
@@ -135,7 +135,9 @@ test("admin creates records, repairs references and preserves exact timestamps a
     supporting_artist_ids: ["gone"],
   });
   await page.goto("/concert/exact/old");
-  await page.getByRole("button", { name: "Edit concert", exact: true }).click();
+  await expect(page.getByRole("button", { name: /admin: Edit/ })).toHaveCount(0);
+  await page.goto("/admin/manage");
+  await page.getByRole("button", { name: "Radiohead at Bowery Ballroom Edit", exact: true }).click();
   await page.getByLabel(/Unavailable artist/).click();
   await page
     .getByLabel("Setlist.fm URL optional", { exact: true })
@@ -147,19 +149,22 @@ test("admin creates records, repairs references and preserves exact timestamps a
   expect(record.fields.future_field.stringValue).toBe("keep me");
   await put("festivals/repair", { name: "Repair me", concert_ids: ["gone-concert"] });
   await page.goto("/festival/repair/old");
-  await page.getByRole("button", { name: "Edit festival", exact: true }).click();
+  await expect(page.getByRole("button", { name: /admin: Edit/ })).toHaveCount(0);
+  await page.goto("/admin/manage");
+  await page.getByRole("button", { name: "Festivals", exact: true }).click();
+  await page.getByRole("button", { name: "Repair me Edit", exact: true }).click();
   await page.getByLabel(/Unavailable concert/).click();
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "@dcep93", exact: true }).click();
-  await page.getByRole("button", { name: "Manage", exact: true }).click();
+  await page.getByRole("button", { name: "admin: Manage", exact: true }).click();
   await page.getByRole("button", { name: "Artists", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
   await page.getByLabel("Name", { exact: true }).fill("New artist");
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "@dcep93", exact: true }).click();
-  await page.getByRole("button", { name: "Manage", exact: true }).click();
+  await page.getByRole("button", { name: "admin: Manage", exact: true }).click();
   await page.getByRole("button", { name: "Venues", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
   await page.getByLabel("Name", { exact: true }).fill("Test Hall");
@@ -167,7 +172,10 @@ test("admin creates records, repairs references and preserves exact timestamps a
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
   await page.getByRole("button", { name: "@dcep93", exact: true }).click();
-  await page.getByRole("button", { name: "Manage", exact: true }).click();
+  await page.getByRole("button", { name: "admin: Manage", exact: true }).click();
+  await expect(page).toHaveURL(/\/admin\/manage$/);
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "Concerts", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
   await page.getByRole("combobox", { name: "Headliner", exact: true }).selectOption({ label: "New artist" });
   await page.getByRole("combobox", { name: "Venue", exact: true }).selectOption({ label: "Test Hall" });
@@ -186,18 +194,16 @@ test("admin creates records, repairs references and preserves exact timestamps a
   );
   await page.goto("/concert/c1/radiohead");
   const alice = page.getByRole("article", { name: "@alice entry" });
-  await alice.getByRole("button", { name: "Edit entry", exact: true }).click();
-  await expect(page.getByRole("dialog")).toHaveCount(0);
-  await alice.getByLabel("Public Notes", { exact: true }).fill("Edited by admin");
-  await alice.getByRole("button", { name: "Save changes", exact: true }).click();
-  await expect.poll(async () => (await doc("user_concerts/alice-seed_c1"))?.fields.notes.stringValue).toBe("Edited by admin");
+  await expect(alice.getByRole("button", { name: /admin: Edit/ })).toHaveCount(0);
+  await expect(alice.getByLabel("Public Notes")).toHaveCount(0);
+  await expect(page.getByRole("form", { name: "Concert entry" })).toHaveCount(1);
 });
 
 test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
   await login(page, "person@example.com");
   await expect(page.getByRole("alert")).toContainText("verified Google Gmail account");
   await expect(page).toHaveURL("http://127.0.0.1:5173/");
-  await expect(page.getByRole("button", { name: "Manage", exact: true })).toHaveCount(0);
+  await expect(page.getByRole("button", { name: "admin: Manage", exact: true })).toHaveCount(0);
 });
 
 test("saving defaults leaves no override and resetting inline edits deletes the override", async ({ page }) => {

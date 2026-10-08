@@ -13,6 +13,7 @@ import {
   setDoc,
   Timestamp,
   updateDoc,
+  writeBatch,
 } from "firebase/firestore";
 
 let env: RulesTestEnvironment;
@@ -47,7 +48,7 @@ before(async () => {
     throw new Error("Run through firebase emulators:exec; production tests are forbidden.");
   const [host, port] = process.env.FIRESTORE_EMULATOR_HOST.split(":");
   env = await initializeTestEnvironment({
-    projectId: "demo-rockshow420",
+    projectId: "demo-rockshow420-rules",
     firestore: {
       host,
       port: Number(port),
@@ -160,6 +161,28 @@ test("another owner cannot mutate someone else’s logs", async () => {
   await assertFails(setDoc(doc(db, "user_concerts/owner_other"), { user_id: "owner", concert_id: "other" }));
 });
 
+test("ticket status allows missing or empty, purchased, and sold_out for owners and admins only", async () => {
+  for (const db of [account(), admin()]) {
+    const ref = doc(db, "user_concerts/owner_other");
+    const identity = { user_id: "owner", concert_id: "other" };
+    await assertSucceeds(setDoc(ref, identity));
+    for (const ticket_status of ["", "purchased", "sold_out"]) {
+      await assertSucceeds(setDoc(ref, { ...identity, ticket_status }));
+      await assertSucceeds(updateDoc(ref, { notes: "Keep my ticket", removed: true }));
+      assert.equal((await getDoc(ref)).data()?.ticket_status, ticket_status);
+      await assertSucceeds(updateDoc(ref, { notes: "", removed: false }));
+    }
+    for (const ticket_status of ["empty", "Purchased", "sold out", null, false, 0, []]) {
+      await assertFails(updateDoc(ref, { ticket_status }));
+      await assertFails(setDoc(ref, { ...identity, ticket_status }));
+    }
+    await assertSucceeds(updateDoc(ref, { ticket_status: "" }));
+    await assertSucceeds(deleteDoc(ref));
+  }
+  await assertFails(updateDoc(doc(account("other", "other@gmail.com"), "user_concerts/owner_concert"), { ticket_status: "purchased" }));
+  await assertFails(updateDoc(doc(env.unauthenticatedContext().firestore(), "user_concerts/owner_concert"), { ticket_status: "sold_out" }));
+});
+
 test("only the sole admin email plus console registry record grants catalog privileges", async () => {
   const ordinary = account();
   await assertSucceeds(updateDoc(doc(ordinary, "users/owner"), { isAdmin: true, role: "admin" }));
@@ -227,6 +250,41 @@ test("catalog validation accepts optional omissions and rejects missing essentia
   await assertFails(setDoc(doc(db, "concerts/bad"), { ...concert, date: "2026-10-07" }));
   await assertFails(setDoc(doc(db, "concerts/bad"), { ...concert, venue_id: "missing" }));
   await assertFails(setDoc(doc(db, "festivals/bad"), { name: "Bad", concert_ids: "concert" }));
+});
+
+test("named date-only events allow unknown performers and venues without widening write access", async () => {
+  const event = { name: "Festival", date: concert.date, date_precision: "day", end_date: "2026-10-09" };
+  await assertSucceeds(setDoc(doc(admin(), "concerts/date-only"), event));
+  for (const db of [account(), env.unauthenticatedContext().firestore()])
+    await assertFails(setDoc(doc(db, "concerts/forbidden"), event));
+  await assertFails(setDoc(doc(admin(), "concerts/bad"), { ...event, name: "" }));
+  await assertFails(setDoc(doc(admin(), "concerts/bad"), { ...event, date_precision: "time" }));
+  await assertFails(setDoc(doc(admin(), "concerts/bad"), { ...event, artist_id: "missing" }));
+  await assertFails(setDoc(doc(admin(), "concerts/bad"), { ...event, venue_id: "missing" }));
+});
+
+test("the complete Notion import respects deployed validation and document access limits", async () => {
+  const manifest = JSON.parse(readFileSync(new URL("../data/imports/notion-concerts.json", import.meta.url), "utf8"));
+  assert.equal(manifest.source_entries, 336);
+  assert.equal(manifest.concerts.length + manifest.existing_concerts.length, 354);
+  const db = admin();
+  const sourceRows = new Set(manifest.existing_concerts.map((item: { row: number }) => item.row));
+  for (const group of ["venues", "artists", "concerts", "festivals"]) {
+    const records = manifest[group];
+    assert.equal(new Set(records.map((record: { id: string }) => record.id)).size, records.length);
+    for (let offset = 0; offset < records.length; offset += 5) {
+      const batch = writeBatch(db);
+      for (const record of records.slice(offset, offset + 5)) {
+        const { id, ...fields } = record;
+        if (fields.date) fields.date = Timestamp.fromDate(new Date(fields.date));
+        if (group === "concerts") sourceRows.add(fields.import_source.row);
+        batch.set(doc(db, group, id), fields);
+      }
+      await assertSucceeds(batch.commit());
+    }
+  }
+  assert.equal(sourceRows.size, 336);
+  assert.equal((await getDocs(collection(db, "user_concerts"))).size, 1);
 });
 
 test("owners hide default concerts, restore entries and cannot hide another user's concerts", async () => {
