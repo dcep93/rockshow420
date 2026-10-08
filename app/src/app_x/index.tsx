@@ -13,6 +13,7 @@ import { ConcertPicker } from "./forms/ConcertPicker";
 import { LogEditor } from "./forms/LogEditor";
 import { EntityEditor } from "./forms/EntityEditor";
 import { Manager } from "./forms/Manager";
+import { UserOptions } from "./components/UserOptions";
 import "./styles/theme.css";
 import "./styles/layout.css";
 import "./styles/forms.css";
@@ -58,45 +59,29 @@ function Shell() {
             rockshow420
           </Link>
           <nav aria-label="Main" aria-busy={!ready}>
-            {ready && (
-              <>
-                {isAdmin && (
-                  <button type="button" className="rs-text-button" onClick={() => setOverlay({ type: "manager" })}>
-                    Manage
-                  </button>
-                )}
-                {viewer ? (
-                  <>
-                    <span className="rs-username">
-                      @{viewer.username}
-                    </span>
-                    <button
-                      type="button"
-                      className="rs-text-button"
-                      disabled={signingOut}
-                      onClick={async () => {
-                        setSigningOut(true);
-                        try {
-                          await signOut();
-                          close();
-                          navigate("/");
-                        } catch (caught) {
-                          setActionError(errorMessage(caught));
-                        } finally {
-                          setSigningOut(false);
-                        }
-                      }}
-                    >
-                      {signingOut ? "Signing out…" : "Sign out"}
-                    </button>
-                  </>
-                ) : (
-                  <Link className="rs-account" href="/">
-                    Sign in
-                  </Link>
-                )}
-              </>
-            )}
+            {ready && (viewer ? (
+              <UserOptions
+                key={`${viewer.uid}:${path}`}
+                username={viewer.username}
+                isAdmin={isAdmin}
+                busy={signingOut}
+                onManage={() => setOverlay({ type: "manager" })}
+                onSignOut={async () => {
+                  setSigningOut(true);
+                  try {
+                    await signOut();
+                    close();
+                    navigate("/");
+                  } catch (caught) {
+                    setActionError(errorMessage(caught));
+                  } finally {
+                    setSigningOut(false);
+                  }
+                }}
+              />
+            ) : (
+              <Link className="rs-account" href="/">Sign in</Link>
+            ))}
           </nav>
         </header>
       )}

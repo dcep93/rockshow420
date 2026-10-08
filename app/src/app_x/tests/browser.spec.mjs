@@ -120,7 +120,9 @@ test("admin creates records, repairs references and preserves exact timestamps a
   page,
 }) => {
   await login(page, "dcep93@gmail.com", true);
+  await page.getByRole("button", { name: "@dcep93", exact: true }).click();
   await expect(page.getByRole("button", { name: "Manage", exact: true })).toBeVisible();
+  await page.getByRole("button", { name: "@dcep93", exact: true }).press("Escape");
   await put("concerts/exact", {
     date: new Date("2026-10-07T20:30:45.123Z"),
     venue_id: "bowery",
@@ -145,12 +147,14 @@ test("admin creates records, repairs references and preserves exact timestamps a
   await page.getByLabel(/Unavailable concert/).click();
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "@dcep93", exact: true }).click();
   await page.getByRole("button", { name: "Manage", exact: true }).click();
   await page.getByRole("button", { name: "Artists", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
   await page.getByLabel("Name", { exact: true }).fill("New artist");
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "@dcep93", exact: true }).click();
   await page.getByRole("button", { name: "Manage", exact: true }).click();
   await page.getByRole("button", { name: "Venues", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
@@ -158,6 +162,7 @@ test("admin creates records, repairs references and preserves exact timestamps a
   await page.getByLabel("Timezone", { exact: true }).fill("America/New_York");
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "@dcep93", exact: true }).click();
   await page.getByRole("button", { name: "Manage", exact: true }).click();
   await page.getByRole("button", { name: "New", exact: true }).click();
   await page.getByRole("combobox", { name: "Headliner", exact: true }).selectOption({ label: "New artist" });

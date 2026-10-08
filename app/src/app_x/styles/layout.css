@@ -35,6 +35,27 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.rs-user-options {
+  position: relative;
+}
+.rs-user-options-panel {
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 0.25rem);
+  right: 0;
+  min-width: 8rem;
+  padding: 0.25rem;
+  border: 0.0625rem solid var(--rs-border);
+  border-radius: 0.5rem;
+  background: var(--rs-panel-strong);
+}
+.rs-user-options-panel .rs-text-button {
+  display: block;
+  width: 100%;
+  min-height: 2.75rem;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
 .rs-account {
   font-size: 0.8125rem;
   border: 0.0625rem solid var(--rs-border);

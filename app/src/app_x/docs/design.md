@@ -48,7 +48,7 @@ Keep visible text functional. No slogans, marketing copy, decorative music notes
 
 The minimalism audit also removes decorative image initials, redundant link arrows and plus icons beside text labels, oversized empty states, all-caps eyebrow styling, conversational placeholders, and helper text that repeats available controls. Actual supplied images and user-written notes remain data. Use short factual labels (“User logs”, “No entries”). Keep only guidance needed to make a decision: public notes, venue timezones, ambiguous dates, validation errors, and concise deletion confirmation.
 
-Auth and catalog loading render blank space, without status copy or spinners. The header waits for the initial verified identity and admin result, then renders account controls together. Token refreshes preserve that confirmed session; only an actual account change clears it. The upper-right username is plain text, not a link or button. The brand remains the home link.
+Auth and catalog loading render blank space, without status copy or spinners. The header waits for the initial verified identity and admin result, then renders account controls together. Token refreshes preserve that confirmed session; only an actual account change clears it. The upper-right username opens a small user-options dropdown. It contains Manage for admins and Sign out for every signed-in user. These actions stay out of the header until opened. Click outside, Escape, focus leaving the dropdown, or navigation closes it. The brand remains the home link.
 
 ## Automatic log implementation (2026-10-07)
 
