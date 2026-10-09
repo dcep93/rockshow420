@@ -302,8 +302,9 @@
 .rs-lineup-check { display: flex; align-items: center; justify-content: center; flex: 0 0 2.75rem; min-height: 2.75rem; cursor: pointer; }
 .rs-lineup-check input { accent-color: var(--rs-amber); width: 1rem; height: 1rem; margin: 0; cursor: pointer; }
 .rs-lineup-check input:disabled { cursor: not-allowed; }
-.rs-log-toolbar { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1rem; padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 0.0625rem solid var(--rs-border); }
-.rs-ticket-control { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; color: var(--rs-muted); font-size: 0.75rem; }
+.rs-log-toolbar { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; align-items: end; gap: 0.75rem; padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 0.0625rem solid var(--rs-border); }
+.rs-log-toolbar > h2 { display: flex; align-items: center; min-height: 2.75rem; }
+.rs-ticket-control { display: flex; flex-direction: column; align-items: stretch; gap: 0.3rem; color: var(--rs-muted); font-size: 0.75rem; }
 .rs-ticket-control select { min-height: 2.75rem; max-width: 100%; padding: 0.4rem 0.6rem; border: 0.0625rem solid var(--rs-border); border-radius: 0.5rem; background: var(--rs-panel-soft); color: var(--rs-text); font: inherit; }
 .rs-public-notes textarea { display: block; font-family: inherit; }
 .rs-public-notes > h2 { margin-bottom: 0.75rem; }

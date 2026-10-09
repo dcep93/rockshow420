@@ -43,8 +43,10 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     </div>;
   };
   return <section className="rs-panel rs-lineup">
-    {editor && <div className="rs-log-toolbar">
-      <label className="rs-ticket-control">Ticket status
+    {(editor || schedule?.sets.length || ids.length > 0) && <div className="rs-log-toolbar">
+      <h2>{schedule?.sets.length ? "Schedule" : "Lineup"}</h2>
+      {editor && <>
+      <label className="rs-ticket-control"><span>Ticket status</span>
         <select value={editor.ticketStatus} disabled={editor.busy} onChange={event => {
           if (isTicketStatus(event.target.value)) void editor.persist({ ticket_status: event.target.value }, "controls");
         }}>
@@ -54,9 +56,9 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
       <button type="button" className="rs-text-button" disabled={editor.busy} onClick={() => void editor.persist({ removed: !editor.hidden }, "controls")}>
         {editor.hidden ? "Unhide" : "Hide"}
       </button>
+      </>}
     </div>}
     {!!schedule?.sets.length && <>
-      <h2>Schedule</h2>
       {groupScheduleDays(schedule.sets, timezone).map(group => <section className="rs-schedule-day" key={group.day}>
         {group.day && <h3>{DateTime.fromISO(group.day, { zone: "UTC" }).toFormat("ccc, LLL d")}</h3>}
         {group.sets.map(set => row(set.artist_id, [
@@ -65,7 +67,6 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
         ].filter(Boolean).join(" · "), set.id))}
       </section>)}
     </>}
-    {!schedule?.sets.length && ids.length > 0 && <h2>Lineup</h2>}
     {ids.filter(id => !scheduled.has(id)).map(id => row(id, id === concert.artist_id ? "Headliner" : concert.artist_id ? "Supporting" : ""))}
     {program?.sets.some(set => set.songs.length) && <ConcertSetlists entries={[{ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program }]} />}
     {!schedule?.sets.length && /^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">Setlist.fm</a>}
