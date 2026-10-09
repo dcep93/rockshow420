@@ -1,0 +1,1956 @@
+{
+  "id": "outside-lands-2021-2026-10-09",
+  "artists": {
+    "fxv7tj": {
+      "name": "The Soul Rebels"
+    },
+    "oir0ip": {
+      "name": "SG Lewis"
+    },
+    "3hi3vm": {
+      "name": "Moses Sumney"
+    },
+    "a33mqh": {
+      "name": "Q Marsden"
+    },
+    "789s8m": {
+      "name": "Buscabulla"
+    },
+    "my0vk2": {
+      "name": "Yung Bae"
+    },
+    "yuirii": {
+      "name": "Sharon Van Etten"
+    },
+    "h99683": {
+      "name": "The HU"
+    },
+    "q15hvz": {
+      "name": "Salami Rose Joe Louis"
+    },
+    "4pyfen": {
+      "name": "Amy Allen"
+    },
+    "xcz6hk": {
+      "name": "Shilan"
+    },
+    "b2xzv1": {
+      "name": "Madeline Kenney"
+    },
+    "duw640": {
+      "name": "Lord Huron"
+    },
+    "0zlajk": {
+      "name": "ZHU"
+    },
+    "7q8ivl": {
+      "name": "Reggie Watts"
+    },
+    "jd0fha": {
+      "name": "24kGoldn"
+    },
+    "30o73n": {
+      "name": "Aminé"
+    },
+    "efpbpy": {
+      "name": "Shiba San"
+    },
+    "rkkcd2": {
+      "name": "Angel Olsen"
+    },
+    "og21wn": {
+      "name": "Dr. Dog"
+    },
+    "gchz4e": {
+      "name": "Marc E. Bassy"
+    },
+    "lpsu2f": {
+      "name": "Brijean"
+    },
+    "grniev": {
+      "name": "Andrew McMahon in the Wilderness"
+    },
+    "jppq1o": {
+      "name": "Melanie Martinez"
+    },
+    "w58tie": {
+      "name": "A R I Z O N A"
+    },
+    "rtj2oh": {
+      "name": "Hinds"
+    },
+    "pj1y9w": {
+      "name": "Nap Eyes"
+    },
+    "w9vd24": {
+      "name": "Boy Scouts"
+    },
+    "f9y7i7": {
+      "name": "Rexx Life Raj"
+    },
+    "okwpkv": {
+      "name": "Tame Impala"
+    },
+    "tdj7yo": {
+      "name": "Kehlani"
+    },
+    "ea512k": {
+      "name": "J Balvin"
+    },
+    "do8ydi": {
+      "name": "Nicola Cruz"
+    },
+    "8amr3g": {
+      "name": "J. Phlip"
+    },
+    "2rft5j": {
+      "name": "Burna Boy"
+    },
+    "6e6my7": {
+      "name": "TroyBoi"
+    },
+    "j7mt8g": {
+      "name": "Green Velvet"
+    },
+    "62a2ig": {
+      "name": "Nelly"
+    },
+    "zwizkm": {
+      "name": "Caroline Polachek"
+    },
+    "ihekkf": {
+      "name": "Evann McIntosh"
+    },
+    "oh6c02": {
+      "name": "Resistance Revival Chorus"
+    },
+    "415237": {
+      "name": "Claud"
+    },
+    "f8pp24": {
+      "name": "Atish"
+    },
+    "crs01m": {
+      "name": "Waajeed"
+    },
+    "w7y5tu": {
+      "name": "SOHMI"
+    },
+    "vzwlgr": {
+      "name": "Mathame"
+    },
+    "j919j0": {
+      "name": "Nancy Whang"
+    },
+    "fq0s0l": {
+      "name": "Kyle Walker"
+    },
+    "izpgn2": {
+      "name": "Cloonee"
+    },
+    "gnzcqz": {
+      "name": "Walker & Royce"
+    },
+    "x42f8w": {
+      "name": "Hot Since 82"
+    },
+    "l18p7u": {
+      "name": "Bad Girl Bailey B2B CM-4"
+    },
+    "xkpybt": {
+      "name": "Ash Lauryn"
+    },
+    "2gt981": {
+      "name": "Anja Schneider"
+    },
+    "3kg9wp": {
+      "name": "Maya Jane Coles"
+    },
+    "kooqr5": {
+      "name": "LIRL.79"
+    },
+    "ku614u": {
+      "name": "Banksia"
+    },
+    "i5xs47": {
+      "name": "Miramar"
+    },
+    "0u7whj": {
+      "name": "Aaron Axelsen"
+    },
+    "7n9w8x": {
+      "name": "Sango"
+    },
+    "6hllgn": {
+      "name": "All Good Funk Alliance"
+    },
+    "674c9x": {
+      "name": "Geo Star"
+    },
+    "8074i3": {
+      "name": "Kelis"
+    },
+    "9a5cpy": {
+      "name": "Fort Knox Five"
+    },
+    "0kh5c1": {
+      "name": "Michael Milano"
+    },
+    "jmj720": {
+      "name": "Bender"
+    },
+    "ypv6b9": {
+      "name": "The Egyptian Lover"
+    },
+    "7t2wwi": {
+      "name": "Vandelux"
+    },
+    "0y8bo5": {
+      "name": "Jazz Mafia"
+    },
+    "marxow": {
+      "name": "Zebuel"
+    }
+  },
+  "concert_additions": [
+    {
+      "id": "f3ysgl",
+      "concert": {
+        "name": "Outside Lands",
+        "date": "2021-10-29T19:00:00Z",
+        "date_precision": "time",
+        "end_date": "2021-10-31",
+        "venue_id": "golden-gate-park",
+        "artist_id": "",
+        "supporting_artist_ids": [
+          "kaytranada",
+          "tyler-the-creator",
+          "the-strokes",
+          "jpegmafia",
+          "fxv7tj",
+          "glass-animals",
+          "oir0ip",
+          "earthgang",
+          "khruangbin",
+          "drama",
+          "flo-milli",
+          "3hi3vm",
+          "a33mqh",
+          "789s8m",
+          "my0vk2",
+          "yuirii",
+          "070-shake",
+          "trevor-daniel",
+          "remi-wolf",
+          "h99683",
+          "q15hvz",
+          "bartees-strange",
+          "4pyfen",
+          "xcz6hk",
+          "b2xzv1",
+          "sofia-valdes",
+          "lizzo",
+          "duw640",
+          "0zlajk",
+          "7q8ivl",
+          "the-midnight",
+          "bakar",
+          "vampire-weekend",
+          "jd0fha",
+          "30o73n",
+          "efpbpy",
+          "rkkcd2",
+          "og21wn",
+          "gchz4e",
+          "lpsu2f",
+          "grniev",
+          "jppq1o",
+          "rico-nasty",
+          "dijon",
+          "w58tie",
+          "rtj2oh",
+          "pj1y9w",
+          "noga-erez",
+          "jessia",
+          "w9vd24",
+          "post-animal",
+          "f9y7i7",
+          "okwpkv",
+          "tdj7yo",
+          "ea512k",
+          "sofi-tukker",
+          "do8ydi",
+          "rufus-du-sol",
+          "8amr3g",
+          "2rft5j",
+          "6e6my7",
+          "boy-pablo",
+          "j7mt8g",
+          "mxmtoon",
+          "brittany-howard",
+          "62a2ig",
+          "goth-babe",
+          "yves-tumor",
+          "zwizkm",
+          "ihekkf",
+          "neil-frances",
+          "cannons",
+          "cam",
+          "neal-francis",
+          "oh6c02",
+          "415237",
+          "petey",
+          "rachel-torro",
+          "f8pp24",
+          "crs01m",
+          "w7y5tu",
+          "boys-noize",
+          "vzwlgr",
+          "amorphous",
+          "j919j0",
+          "fq0s0l",
+          "izpgn2",
+          "gnzcqz",
+          "x42f8w",
+          "l18p7u",
+          "xkpybt",
+          "lp-giobbi",
+          "2gt981",
+          "3kg9wp",
+          "kooqr5",
+          "ku614u",
+          "i5xs47",
+          "0u7whj",
+          "7n9w8x",
+          "motion-potion",
+          "6hllgn",
+          "674c9x",
+          "8074i3",
+          "9a5cpy",
+          "0kh5c1",
+          "jmj720",
+          "equal",
+          "ypv6b9",
+          "7t2wwi",
+          "0y8bo5",
+          "marxow"
+        ]
+      },
+      "schedule": {
+        "sets": {
+          "rwsa3m": {
+            "artist_id": "kaytranada",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T20:00:00-07:00",
+            "end": "2021-10-29T21:10:00-07:00"
+          },
+          "c247tv": {
+            "artist_id": "tyler-the-creator",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T20:25:00-07:00",
+            "end": "2021-10-29T21:40:00-07:00"
+          },
+          "xft6fc": {
+            "artist_id": "the-strokes",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T20:25:00-07:00",
+            "end": "2021-10-29T21:55:00-07:00"
+          },
+          "fyxch4": {
+            "artist_id": "jpegmafia",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T19:40:00-07:00",
+            "end": "2021-10-29T20:20:00-07:00"
+          },
+          "0ynn5j": {
+            "artist_id": "fxv7tj",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T18:05:00-07:00",
+            "end": "2021-10-29T18:45:00-07:00"
+          },
+          "m3gs7k": {
+            "artist_id": "glass-animals",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T18:30:00-07:00",
+            "end": "2021-10-29T19:40:00-07:00"
+          },
+          "v0lw9w": {
+            "artist_id": "oir0ip",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T18:40:00-07:00",
+            "end": "2021-10-29T19:30:00-07:00"
+          },
+          "f0uq8i": {
+            "artist_id": "earthgang",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T18:50:00-07:00",
+            "end": "2021-10-29T19:40:00-07:00"
+          },
+          "5qq7g7": {
+            "artist_id": "khruangbin",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T17:10:00-07:00",
+            "end": "2021-10-29T18:00:00-07:00"
+          },
+          "vq6tlw": {
+            "artist_id": "drama",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T17:20:00-07:00",
+            "end": "2021-10-29T18:10:00-07:00"
+          },
+          "pv4s2d": {
+            "artist_id": "flo-milli",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T17:20:00-07:00",
+            "end": "2021-10-29T18:05:00-07:00"
+          },
+          "mnvktx": {
+            "artist_id": "3hi3vm",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T16:00:00-07:00",
+            "end": "2021-10-29T16:50:00-07:00"
+          },
+          "spm1c2": {
+            "artist_id": "a33mqh",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T16:35:00-07:00",
+            "end": "2021-10-29T17:15:00-07:00"
+          },
+          "5rv47l": {
+            "artist_id": "789s8m",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T15:00:00-07:00",
+            "end": "2021-10-29T15:40:00-07:00"
+          },
+          "fh32j0": {
+            "artist_id": "my0vk2",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T15:45:00-07:00",
+            "end": "2021-10-29T16:35:00-07:00"
+          },
+          "uxmxki": {
+            "artist_id": "yuirii",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T15:50:00-07:00",
+            "end": "2021-10-29T16:40:00-07:00"
+          },
+          "z4y29m": {
+            "artist_id": "070-shake",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T14:10:00-07:00",
+            "end": "2021-10-29T14:55:00-07:00"
+          },
+          "tejs6u": {
+            "artist_id": "trevor-daniel",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T14:35:00-07:00",
+            "end": "2021-10-29T15:20:00-07:00"
+          },
+          "9iw4gt": {
+            "artist_id": "remi-wolf",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T14:40:00-07:00",
+            "end": "2021-10-29T15:30:00-07:00"
+          },
+          "0zcuq6": {
+            "artist_id": "h99683",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T13:15:00-07:00",
+            "end": "2021-10-29T14:05:00-07:00"
+          },
+          "88cttk": {
+            "artist_id": "q15hvz",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T13:25:00-07:00",
+            "end": "2021-10-29T14:05:00-07:00"
+          },
+          "kf1jby": {
+            "artist_id": "bartees-strange",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T13:25:00-07:00",
+            "end": "2021-10-29T14:10:00-07:00"
+          },
+          "8pkmqn": {
+            "artist_id": "4pyfen",
+            "day": "2021-10-29",
+            "stage": "Lands End",
+            "start": "2021-10-29T12:00:00-07:00",
+            "end": "2021-10-29T12:45:00-07:00"
+          },
+          "jo8y3k": {
+            "artist_id": "xcz6hk",
+            "day": "2021-10-29",
+            "stage": "Panhandle",
+            "start": "2021-10-29T12:00:00-07:00",
+            "end": "2021-10-29T12:40:00-07:00"
+          },
+          "yeb11z": {
+            "artist_id": "b2xzv1",
+            "day": "2021-10-29",
+            "stage": "Sutro",
+            "start": "2021-10-29T12:10:00-07:00",
+            "end": "2021-10-29T12:55:00-07:00"
+          },
+          "p6nl8m": {
+            "artist_id": "sofia-valdes",
+            "day": "2021-10-29",
+            "stage": "Twin Peaks",
+            "start": "2021-10-29T12:45:00-07:00",
+            "end": "2021-10-29T13:25:00-07:00"
+          },
+          "x800ye": {
+            "artist_id": "lizzo",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T20:25:00-07:00",
+            "end": "2021-10-30T21:55:00-07:00"
+          },
+          "3rw0wl": {
+            "artist_id": "duw640",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T20:30:00-07:00",
+            "end": "2021-10-30T21:40:00-07:00"
+          },
+          "wnqgjk": {
+            "artist_id": "0zlajk",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T20:35:00-07:00",
+            "end": "2021-10-30T21:50:00-07:00"
+          },
+          "pahrwo": {
+            "artist_id": "7q8ivl",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T19:10:00-07:00",
+            "end": "2021-10-30T20:00:00-07:00"
+          },
+          "whuhli": {
+            "artist_id": "the-midnight",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T19:45:00-07:00",
+            "end": "2021-10-30T20:30:00-07:00"
+          },
+          "pg4u0u": {
+            "artist_id": "bakar",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T18:10:00-07:00",
+            "end": "2021-10-30T18:50:00-07:00"
+          },
+          "9tvk1b": {
+            "artist_id": "vampire-weekend",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T18:30:00-07:00",
+            "end": "2021-10-30T19:40:00-07:00"
+          },
+          "ma9asq": {
+            "artist_id": "jd0fha",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T18:55:00-07:00",
+            "end": "2021-10-30T19:45:00-07:00"
+          },
+          "36noi8": {
+            "artist_id": "30o73n",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T17:00:00-07:00"
+          },
+          "w4gfxp": {
+            "artist_id": "efpbpy",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T17:20:00-07:00",
+            "end": "2021-10-30T18:10:00-07:00"
+          },
+          "fbbkwz": {
+            "artist_id": "rkkcd2",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T17:50:00-07:00",
+            "end": "2021-10-30T18:40:00-07:00"
+          },
+          "u7rxbx": {
+            "artist_id": "og21wn",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T16:30:00-07:00",
+            "end": "2021-10-30T17:20:00-07:00"
+          },
+          "9o986t": {
+            "artist_id": "gchz4e",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T16:35:00-07:00",
+            "end": "2021-10-30T17:15:00-07:00"
+          },
+          "ohdxuh": {
+            "artist_id": "lpsu2f",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T15:00:00-07:00",
+            "end": "2021-10-30T15:40:00-07:00"
+          },
+          "gzd6u1": {
+            "artist_id": "grniev",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T15:10:00-07:00",
+            "end": "2021-10-30T16:00:00-07:00"
+          },
+          "k1ov2w": {
+            "artist_id": "jppq1o",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T15:40:00-07:00",
+            "end": "2021-10-30T16:30:00-07:00"
+          },
+          "f1ptqy": {
+            "artist_id": "rico-nasty",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T15:45:00-07:00",
+            "end": "2021-10-30T16:35:00-07:00"
+          },
+          "125541": {
+            "artist_id": "dijon",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T14:15:00-07:00",
+            "end": "2021-10-30T15:00:00-07:00"
+          },
+          "oolvi7": {
+            "artist_id": "w58tie",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T14:25:00-07:00",
+            "end": "2021-10-30T15:10:00-07:00"
+          },
+          "3rdz9p": {
+            "artist_id": "rtj2oh",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T13:10:00-07:00",
+            "end": "2021-10-30T13:55:00-07:00"
+          },
+          "t2bnmw": {
+            "artist_id": "pj1y9w",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T13:30:00-07:00",
+            "end": "2021-10-30T14:10:00-07:00"
+          },
+          "fe7vch": {
+            "artist_id": "noga-erez",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T13:55:00-07:00",
+            "end": "2021-10-30T14:40:00-07:00"
+          },
+          "fyo5zi": {
+            "artist_id": "jessia",
+            "day": "2021-10-30",
+            "stage": "Lands End",
+            "start": "2021-10-30T12:00:00-07:00",
+            "end": "2021-10-30T12:40:00-07:00"
+          },
+          "1k0yfs": {
+            "artist_id": "w9vd24",
+            "day": "2021-10-30",
+            "stage": "Panhandle",
+            "start": "2021-10-30T12:00:00-07:00",
+            "end": "2021-10-30T12:40:00-07:00"
+          },
+          "tff3ax": {
+            "artist_id": "post-animal",
+            "day": "2021-10-30",
+            "stage": "Sutro",
+            "start": "2021-10-30T12:40:00-07:00",
+            "end": "2021-10-30T13:25:00-07:00"
+          },
+          "gbixxv": {
+            "artist_id": "f9y7i7",
+            "day": "2021-10-30",
+            "stage": "Twin Peaks",
+            "start": "2021-10-30T12:45:00-07:00",
+            "end": "2021-10-30T13:30:00-07:00"
+          },
+          "o17zna": {
+            "artist_id": "okwpkv",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T20:00:00-07:00",
+            "end": "2021-10-31T21:35:00-07:00"
+          },
+          "vl71ac": {
+            "artist_id": "tdj7yo",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T20:20:00-07:00",
+            "end": "2021-10-31T21:20:00-07:00"
+          },
+          "hdqaqv": {
+            "artist_id": "ea512k",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T20:25:00-07:00",
+            "end": "2021-10-31T21:35:00-07:00"
+          },
+          "oqj9bz": {
+            "artist_id": "sofi-tukker",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T19:00:00-07:00",
+            "end": "2021-10-31T19:50:00-07:00"
+          },
+          "ob4rtm": {
+            "artist_id": "do8ydi",
+            "day": "2021-10-31",
+            "stage": "Panhandle",
+            "start": "2021-10-31T19:35:00-07:00",
+            "end": "2021-10-31T20:20:00-07:00"
+          },
+          "yjnh5h": {
+            "artist_id": "rufus-du-sol",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T18:00:00-07:00",
+            "end": "2021-10-31T19:10:00-07:00"
+          },
+          "c0t8hf": {
+            "artist_id": "8amr3g",
+            "day": "2021-10-31",
+            "stage": "Panhandle",
+            "start": "2021-10-31T18:00:00-07:00",
+            "end": "2021-10-31T18:40:00-07:00"
+          },
+          "a9xkwo": {
+            "artist_id": "2rft5j",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T18:45:00-07:00",
+            "end": "2021-10-31T19:35:00-07:00"
+          },
+          "03k2jm": {
+            "artist_id": "6e6my7",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T17:10:00-07:00",
+            "end": "2021-10-31T18:00:00-07:00"
+          },
+          "co6mpa": {
+            "artist_id": "boy-pablo",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T17:40:00-07:00",
+            "end": "2021-10-31T18:30:00-07:00"
+          },
+          "grc5gk": {
+            "artist_id": "j7mt8g",
+            "day": "2021-10-31",
+            "stage": "Panhandle"
+          },
+          "9pxcpx": {
+            "artist_id": "mxmtoon",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T16:25:00-07:00",
+            "end": "2021-10-31T17:10:00-07:00"
+          },
+          "v9pfgb": {
+            "artist_id": "brittany-howard",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T16:30:00-07:00",
+            "end": "2021-10-31T17:30:00-07:00"
+          },
+          "5jbf61": {
+            "artist_id": "62a2ig",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T15:10:00-07:00",
+            "end": "2021-10-31T16:00:00-07:00"
+          },
+          "iu3hi9": {
+            "artist_id": "goth-babe",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T15:10:00-07:00",
+            "end": "2021-10-31T15:55:00-07:00"
+          },
+          "aeed66": {
+            "artist_id": "yves-tumor",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T15:40:00-07:00",
+            "end": "2021-10-31T16:25:00-07:00"
+          },
+          "s00kcr": {
+            "artist_id": "zwizkm",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T14:10:00-07:00",
+            "end": "2021-10-31T14:55:00-07:00"
+          },
+          "mbirmh": {
+            "artist_id": "ihekkf",
+            "day": "2021-10-31",
+            "stage": "Panhandle",
+            "start": "2021-10-31T14:55:00-07:00",
+            "end": "2021-10-31T15:35:00-07:00"
+          },
+          "t5ulq5": {
+            "artist_id": "neil-frances",
+            "day": "2021-10-31",
+            "stage": "Panhandle",
+            "start": "2021-10-31T13:25:00-07:00",
+            "end": "2021-10-31T14:05:00-07:00"
+          },
+          "ekt57m": {
+            "artist_id": "cannons",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T13:55:00-07:00",
+            "end": "2021-10-31T14:40:00-07:00"
+          },
+          "vhaosx": {
+            "artist_id": "cam",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T13:55:00-07:00",
+            "end": "2021-10-31T14:40:00-07:00"
+          },
+          "h8rt7i": {
+            "artist_id": "neal-francis",
+            "day": "2021-10-31",
+            "stage": "Panhandle",
+            "start": "2021-10-31T12:00:00-07:00",
+            "end": "2021-10-31T12:40:00-07:00"
+          },
+          "tm162d": {
+            "artist_id": "oh6c02",
+            "day": "2021-10-31",
+            "stage": "Lands End",
+            "start": "2021-10-31T12:40:00-07:00",
+            "end": "2021-10-31T13:25:00-07:00"
+          },
+          "50omu6": {
+            "artist_id": "415237",
+            "day": "2021-10-31",
+            "stage": "Sutro",
+            "start": "2021-10-31T12:40:00-07:00",
+            "end": "2021-10-31T13:25:00-07:00"
+          },
+          "g7t8m1": {
+            "artist_id": "petey",
+            "day": "2021-10-31",
+            "stage": "Twin Peaks",
+            "start": "2021-10-31T12:45:00-07:00",
+            "end": "2021-10-31T13:25:00-07:00"
+          },
+          "5lfxzr": {
+            "artist_id": "rachel-torro",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T12:30:00-07:00",
+            "end": "2021-10-29T14:15:00-07:00"
+          },
+          "7r6bji": {
+            "artist_id": "f8pp24",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T14:15:00-07:00",
+            "end": "2021-10-29T15:45:00-07:00"
+          },
+          "gpqnq2": {
+            "artist_id": "crs01m",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T15:45:00-07:00",
+            "end": "2021-10-29T17:15:00-07:00"
+          },
+          "5levd3": {
+            "artist_id": "w7y5tu",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T17:15:00-07:00",
+            "end": "2021-10-29T18:45:00-07:00"
+          },
+          "goim03": {
+            "artist_id": "boys-noize",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T18:45:00-07:00",
+            "end": "2021-10-29T20:15:00-07:00"
+          },
+          "x8enp5": {
+            "artist_id": "vzwlgr",
+            "day": "2021-10-29",
+            "stage": "SOMA",
+            "start": "2021-10-29T20:15:00-07:00",
+            "end": "2021-10-29T21:55:00-07:00"
+          },
+          "ot2nk3": {
+            "artist_id": "amorphous",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T12:45:00-07:00",
+            "end": "2021-10-30T14:15:00-07:00"
+          },
+          "rlszx6": {
+            "artist_id": "j919j0",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T14:15:00-07:00",
+            "end": "2021-10-30T15:45:00-07:00"
+          },
+          "szyt6l": {
+            "artist_id": "fq0s0l",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T15:45:00-07:00",
+            "end": "2021-10-30T17:15:00-07:00"
+          },
+          "36vn75": {
+            "artist_id": "izpgn2",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T17:15:00-07:00",
+            "end": "2021-10-30T18:45:00-07:00"
+          },
+          "rq483o": {
+            "artist_id": "gnzcqz",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T18:45:00-07:00",
+            "end": "2021-10-30T20:15:00-07:00"
+          },
+          "r68lx6": {
+            "artist_id": "x42f8w",
+            "day": "2021-10-30",
+            "stage": "SOMA",
+            "start": "2021-10-30T20:15:00-07:00",
+            "end": "2021-10-30T21:55:00-07:00"
+          },
+          "wxgg2i": {
+            "artist_id": "l18p7u",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T12:30:00-07:00",
+            "end": "2021-10-31T14:00:00-07:00"
+          },
+          "2z97oo": {
+            "artist_id": "xkpybt",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T14:00:00-07:00",
+            "end": "2021-10-31T15:30:00-07:00"
+          },
+          "atb6tw": {
+            "artist_id": "lp-giobbi",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T15:30:00-07:00",
+            "end": "2021-10-31T17:00:00-07:00"
+          },
+          "nap3fx": {
+            "artist_id": "2gt981",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T17:00:00-07:00",
+            "end": "2021-10-31T18:30:00-07:00"
+          },
+          "t96tnn": {
+            "artist_id": "j7mt8g",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T18:30:00-07:00",
+            "end": "2021-10-31T20:00:00-07:00"
+          },
+          "izfz2g": {
+            "artist_id": "3kg9wp",
+            "day": "2021-10-31",
+            "stage": "SOMA",
+            "start": "2021-10-31T20:00:00-07:00",
+            "end": "2021-10-31T21:30:00-07:00"
+          },
+          "ltwqbc": {
+            "artist_id": "kooqr5",
+            "day": "2021-10-29",
+            "stage": "The House by Heineken",
+            "start": "2021-10-29T12:00:00-07:00",
+            "end": "2021-10-29T13:30:00-07:00"
+          },
+          "mur7s0": {
+            "artist_id": "ku614u",
+            "day": "2021-10-29",
+            "stage": "The House by Heineken",
+            "start": "2021-10-29T13:30:00-07:00",
+            "end": "2021-10-29T15:00:00-07:00"
+          },
+          "penpro": {
+            "artist_id": "i5xs47",
+            "day": "2021-10-29",
+            "stage": "The House by Heineken",
+            "start": "2021-10-29T15:00:00-07:00",
+            "end": "2021-10-29T17:00:00-07:00"
+          },
+          "a9jrk2": {
+            "artist_id": "0u7whj",
+            "day": "2021-10-29",
+            "stage": "The House by Heineken",
+            "start": "2021-10-29T17:00:00-07:00",
+            "end": "2021-10-29T19:00:00-07:00"
+          },
+          "ujn4cz": {
+            "artist_id": "7n9w8x",
+            "day": "2021-10-29",
+            "stage": "The House by Heineken",
+            "start": "2021-10-29T19:00:00-07:00",
+            "end": "2021-10-29T20:25:00-07:00"
+          },
+          "fvm1zy": {
+            "artist_id": "motion-potion",
+            "day": "2021-10-30",
+            "stage": "The House by Heineken",
+            "start": "2021-10-30T12:00:00-07:00",
+            "end": "2021-10-30T13:45:00-07:00"
+          },
+          "jk453y": {
+            "artist_id": "6hllgn",
+            "day": "2021-10-30",
+            "stage": "The House by Heineken",
+            "start": "2021-10-30T13:45:00-07:00",
+            "end": "2021-10-30T15:30:00-07:00"
+          },
+          "d8dlwx": {
+            "artist_id": "674c9x",
+            "day": "2021-10-30",
+            "stage": "The House by Heineken",
+            "start": "2021-10-30T15:30:00-07:00",
+            "end": "2021-10-30T17:20:00-07:00"
+          },
+          "ekscm9": {
+            "artist_id": "8074i3",
+            "day": "2021-10-30",
+            "stage": "The House by Heineken",
+            "start": "2021-10-30T17:20:00-07:00",
+            "end": "2021-10-30T19:00:00-07:00"
+          },
+          "0thws6": {
+            "artist_id": "9a5cpy",
+            "day": "2021-10-30",
+            "stage": "The House by Heineken",
+            "start": "2021-10-30T19:00:00-07:00",
+            "end": "2021-10-30T20:25:00-07:00"
+          },
+          "hhityc": {
+            "artist_id": "0kh5c1",
+            "day": "2021-10-31",
+            "stage": "The House by Heineken",
+            "start": "2021-10-31T12:00:00-07:00",
+            "end": "2021-10-31T14:00:00-07:00"
+          },
+          "kay678": {
+            "artist_id": "jmj720",
+            "day": "2021-10-31",
+            "stage": "The House by Heineken",
+            "start": "2021-10-31T14:00:00-07:00",
+            "end": "2021-10-31T16:00:00-07:00"
+          },
+          "lu6lkr": {
+            "artist_id": "equal",
+            "day": "2021-10-31",
+            "stage": "The House by Heineken",
+            "start": "2021-10-31T16:00:00-07:00",
+            "end": "2021-10-31T18:00:00-07:00"
+          },
+          "za7n8x": {
+            "artist_id": "ypv6b9",
+            "day": "2021-10-31",
+            "stage": "The House by Heineken",
+            "start": "2021-10-31T18:00:00-07:00",
+            "end": "2021-10-31T20:00:00-07:00"
+          },
+          "atcetx": {
+            "artist_id": "fxv7tj",
+            "day": "2021-10-29",
+            "stage": "Grass Lands",
+            "start": "2021-10-29T14:05:00-07:00",
+            "end": "2021-10-29T14:35:00-07:00"
+          },
+          "230std": {
+            "artist_id": "q15hvz",
+            "day": "2021-10-29",
+            "stage": "Grass Lands",
+            "start": "2021-10-29T18:00:00-07:00",
+            "end": "2021-10-29T18:30:00-07:00"
+          },
+          "iwxb4q": {
+            "artist_id": "bartees-strange",
+            "day": "2021-10-29",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-29T16:25:00-07:00",
+            "end": "2021-10-29T16:55:00-07:00"
+          },
+          "6sz0uz": {
+            "artist_id": "7t2wwi",
+            "day": "2021-10-29",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-29T19:25:00-07:00",
+            "end": "2021-10-29T20:25:00-07:00"
+          },
+          "nx7qrh": {
+            "artist_id": "ku614u",
+            "day": "2021-10-30",
+            "stage": "Grass Lands",
+            "start": "2021-10-30T12:40:00-07:00",
+            "end": "2021-10-30T13:10:00-07:00"
+          },
+          "xumetc": {
+            "artist_id": "0y8bo5",
+            "day": "2021-10-30",
+            "stage": "Grass Lands",
+            "start": "2021-10-30T13:55:00-07:00",
+            "end": "2021-10-30T14:25:00-07:00"
+          },
+          "gy1m79": {
+            "artist_id": "j919j0",
+            "day": "2021-10-30",
+            "stage": "Grass Lands",
+            "start": "2021-10-30T17:50:00-07:00",
+            "end": "2021-10-30T18:30:00-07:00"
+          },
+          "r9aoc4": {
+            "artist_id": "amorphous",
+            "day": "2021-10-30",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-30T16:20:00-07:00",
+            "end": "2021-10-30T17:05:00-07:00"
+          },
+          "stmmgc": {
+            "artist_id": "marxow",
+            "day": "2021-10-30",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-30T19:30:00-07:00",
+            "end": "2021-10-30T20:25:00-07:00"
+          },
+          "r28fwp": {
+            "artist_id": "0y8bo5",
+            "day": "2021-10-31",
+            "stage": "Grass Lands",
+            "start": "2021-10-31T13:30:00-07:00",
+            "end": "2021-10-31T14:00:00-07:00"
+          },
+          "4xggvp": {
+            "artist_id": "oh6c02",
+            "day": "2021-10-31",
+            "stage": "Grass Lands",
+            "start": "2021-10-31T16:05:00-07:00",
+            "end": "2021-10-31T16:35:00-07:00"
+          },
+          "y3dlhc": {
+            "artist_id": "neal-francis",
+            "day": "2021-10-31",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-31T15:45:00-07:00",
+            "end": "2021-10-31T16:15:00-07:00"
+          },
+          "bfq85q": {
+            "artist_id": "marxow",
+            "day": "2021-10-31",
+            "stage": "Cocktail Magic",
+            "start": "2021-10-31T18:25:00-07:00",
+            "end": "2021-10-31T19:25:00-07:00"
+          }
+        }
+      },
+      "sources": [
+        "https://apeconcerts.com/events/outside-lands-211029/",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg",
+        "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+      ]
+    }
+  ],
+  "lineup_additions": [],
+  "concert_updates": [],
+  "research": {
+    "reviewed_on": "2026-10-09",
+    "scheduled_times": true,
+    "notes": [
+      "Festival admission is not an assertion of attendance at individual performances. All sets remain unseen by default.",
+      "Times are published schedule times, not measured actual start/end times.",
+      "Music and DJ performances from eight stages included. Food demos, comedy, magic, and food collaborations excluded.",
+      "DJ Equal reuses existing Equal artist; spelling normalization reuses other exact artist identities. New artists have random six-character IDs.",
+      "Main-stage official posters correct the older Humble archive: Petey Sunday, Marc E. Bassy Saturday, Reggie Watts Saturday, Friday Tyler 20:25, Soul Rebels 18:05, Madeline Kenney ends 12:55.",
+      "Green Velvet and Amine late substitutions reviewed against contemporary reporting. No retired performers retained."
+    ],
+    "set_evidence": {
+      "rwsa3m": {
+        "artist": "KAYTRANADA",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "c247tv": {
+        "artist": "Tyler, The Creator",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "xft6fc": {
+        "artist": "The Strokes",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "fyxch4": {
+        "artist": "JPEGMAFIA",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "0ynn5j": {
+        "artist": "The Soul Rebels",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "m3gs7k": {
+        "artist": "Glass Animals",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "v0lw9w": {
+        "artist": "SG Lewis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "f0uq8i": {
+        "artist": "EARTHGANG",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "5qq7g7": {
+        "artist": "Khruangbin",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "vq6tlw": {
+        "artist": "DRAMA",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "pv4s2d": {
+        "artist": "Flo Milli",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "mnvktx": {
+        "artist": "Moses Sumney",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "spm1c2": {
+        "artist": "Q Marsden",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "5rv47l": {
+        "artist": "Buscabulla",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "fh32j0": {
+        "artist": "Yung Bae",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "uxmxki": {
+        "artist": "Sharon Van Etten",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "z4y29m": {
+        "artist": "070 Shake",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "tejs6u": {
+        "artist": "Trevor Daniel",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "9iw4gt": {
+        "artist": "Remi Wolf",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "0zcuq6": {
+        "artist": "The HU",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "88cttk": {
+        "artist": "Salami Rose Joe Louis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "kf1jby": {
+        "artist": "Bartees Strange",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "8pkmqn": {
+        "artist": "Amy Allen",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "jo8y3k": {
+        "artist": "Shilan",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "yeb11z": {
+        "artist": "Madeline Kenney",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "p6nl8m": {
+        "artist": "Sofía Valdés",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_1_da84bd360a.jpg"
+        ]
+      },
+      "x800ye": {
+        "artist": "Lizzo",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "3rw0wl": {
+        "artist": "Lord Huron",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "wnqgjk": {
+        "artist": "ZHU",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "pahrwo": {
+        "artist": "Reggie Watts",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "whuhli": {
+        "artist": "The Midnight",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "pg4u0u": {
+        "artist": "Bakar",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "9tvk1b": {
+        "artist": "Vampire Weekend",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "ma9asq": {
+        "artist": "24kGoldn",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "36noi8": {
+        "artist": "Aminé",
+        "sources": [
+          "https://www.sfchronicle.com/entertainment/article/young-thug-and-marc-rebillet-cancel-outside-lands-21175108.php"
+        ],
+        "note": "Official replacement announcement confirms Lands End at 17:00. Ending time not confirmed; omitted."
+      },
+      "w4gfxp": {
+        "artist": "Shiba San",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "fbbkwz": {
+        "artist": "Angel Olsen",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "u7rxbx": {
+        "artist": "Dr. Dog",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "9o986t": {
+        "artist": "Marc E. Bassy",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "ohdxuh": {
+        "artist": "Brijean",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "gzd6u1": {
+        "artist": "Andrew McMahon in the Wilderness",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "k1ov2w": {
+        "artist": "Melanie Martinez",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "f1ptqy": {
+        "artist": "Rico Nasty",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "125541": {
+        "artist": "Dijon",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "oolvi7": {
+        "artist": "A R I Z O N A",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "3rdz9p": {
+        "artist": "Hinds",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "t2bnmw": {
+        "artist": "Nap Eyes",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "fe7vch": {
+        "artist": "Noga Erez",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "fyo5zi": {
+        "artist": "JESSIA",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "1k0yfs": {
+        "artist": "Boy Scouts",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "tff3ax": {
+        "artist": "Post Animal",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "gbixxv": {
+        "artist": "Rexx Life Raj",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_1_1687678aad.jpg"
+        ]
+      },
+      "o17zna": {
+        "artist": "Tame Impala",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "vl71ac": {
+        "artist": "Kehlani",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "hdqaqv": {
+        "artist": "J Balvin",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "oqj9bz": {
+        "artist": "Sofi Tukker",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "ob4rtm": {
+        "artist": "Nicola Cruz",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "yjnh5h": {
+        "artist": "RÜFÜS DU SOL",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "c0t8hf": {
+        "artist": "J. Phlip",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "a9xkwo": {
+        "artist": "Burna Boy",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "03k2jm": {
+        "artist": "TroyBoi",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "co6mpa": {
+        "artist": "boy pablo",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "grc5gk": {
+        "artist": "Green Velvet",
+        "sources": [
+          "https://topshelfmusicmag.com/news/outside-lands-2021-an-extra-special-halloween/",
+          "https://www.reddit.com/r/OutsideLands/comments/qjspse"
+        ],
+        "note": "Replaced Scarypoolparty on Sunday Panhandle. Preserve day/stage; do not assume the cancelled act's times. SOMA is a distinct additional performance."
+      },
+      "9pxcpx": {
+        "artist": "mxmtoon",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "v9pfgb": {
+        "artist": "Brittany Howard",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "5jbf61": {
+        "artist": "Nelly",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "iu3hi9": {
+        "artist": "Goth Babe",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "aeed66": {
+        "artist": "Yves Tumor",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "s00kcr": {
+        "artist": "Caroline Polachek",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "mbirmh": {
+        "artist": "Evann McIntosh",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "t5ulq5": {
+        "artist": "NEIL FRANCES",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "ekt57m": {
+        "artist": "Cannons",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "vhaosx": {
+        "artist": "Cam",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "h8rt7i": {
+        "artist": "Neal Francis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "tm162d": {
+        "artist": "Resistance Revival Chorus",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "50omu6": {
+        "artist": "Claud",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "g7t8m1": {
+        "artist": "Petey",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_1_c70d685130.jpg"
+        ]
+      },
+      "5lfxzr": {
+        "artist": "Rachel Torro",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "7r6bji": {
+        "artist": "Atish",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "gpqnq2": {
+        "artist": "Waajeed",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "5levd3": {
+        "artist": "SOHMI",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "goim03": {
+        "artist": "Boys Noize",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "x8enp5": {
+        "artist": "Mathame",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "ot2nk3": {
+        "artist": "Amorphous",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "rlszx6": {
+        "artist": "Nancy Whang",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "szyt6l": {
+        "artist": "Kyle Walker",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "36vn75": {
+        "artist": "Cloonee",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "rq483o": {
+        "artist": "Walker & Royce",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "r68lx6": {
+        "artist": "Hot Since 82",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "wxgg2i": {
+        "artist": "Bad Girl Bailey B2B CM-4",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "2z97oo": {
+        "artist": "Ash Lauryn",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "atb6tw": {
+        "artist": "LP Giobbi",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "nap3fx": {
+        "artist": "Anja Schneider",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "t96tnn": {
+        "artist": "Green Velvet",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "izfz2g": {
+        "artist": "Maya Jane Coles",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "ltwqbc": {
+        "artist": "LIRL.79",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "mur7s0": {
+        "artist": "Banksia",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "penpro": {
+        "artist": "Miramar",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "a9jrk2": {
+        "artist": "Aaron Axelsen",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "ujn4cz": {
+        "artist": "Sango",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "fvm1zy": {
+        "artist": "Motion Potion",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "jk453y": {
+        "artist": "All Good Funk Alliance",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "d8dlwx": {
+        "artist": "Geo Star",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "ekscm9": {
+        "artist": "Kelis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "0thws6": {
+        "artist": "Fort Knox Five",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "hhityc": {
+        "artist": "Michael Milano",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "kay678": {
+        "artist": "Bender",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "lu6lkr": {
+        "artist": "DJ Equal",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "za7n8x": {
+        "artist": "The Egyptian Lover",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "atcetx": {
+        "artist": "The Soul Rebels",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "230std": {
+        "artist": "Salami Rose Joe Louis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "iwxb4q": {
+        "artist": "Bartees Strange",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "6sz0uz": {
+        "artist": "Vandelux",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_1_Friday_2_b38ec9d511.jpg"
+        ]
+      },
+      "nx7qrh": {
+        "artist": "Banksia",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "xumetc": {
+        "artist": "Jazz Mafia",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "gy1m79": {
+        "artist": "Nancy Whang",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "r9aoc4": {
+        "artist": "Amorphous",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "stmmgc": {
+        "artist": "Zebuel",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_2_Saturday_2_6438f1cf63.jpg"
+        ]
+      },
+      "r28fwp": {
+        "artist": "Jazz Mafia",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "4xggvp": {
+        "artist": "Resistance Revival Chorus",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "y3dlhc": {
+        "artist": "Neal Francis",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      },
+      "bfq85q": {
+        "artist": "Zebuel",
+        "sources": [
+          "https://cms.thatfestivalsite.com/uploads/Outside_Lands_2021_Set_Times_3_Sunday_2_34fe8be17b.jpg"
+        ]
+      }
+    }
+  }
+}

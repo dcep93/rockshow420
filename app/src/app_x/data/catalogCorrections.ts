@@ -10,6 +10,7 @@ type Row = Record<string, any>;
 export type CatalogCorrections = {
   id: string;
   artists: Record<string, Row>;
+  concert_additions?: { id: string; concert: Row; schedule?: Row; sources: string[] }[];
   lineup_additions: { concert_id: string; artist_id: string; set_id: string; set: Row; sources: string[] }[];
   concert_updates: { id: string; expected: Row; changes: Row; sources: string[] }[];
 };
@@ -19,6 +20,20 @@ export function projectCorrections(current: TableBackup, patch: CatalogCorrectio
   for (const [id, value] of Object.entries(patch.artists)) {
     if (next.artists[id] && !Object.entries(value).every(([key, field]) => equal(next.artists[id][key], field))) throw new Error(`Conflicting artist ${id}`);
     next.artists[id] ||= value;
+  }
+  for (const { id, concert, schedule, sources } of patch.concert_additions || []) {
+    if (!/^[a-z0-9]{6}$/.test(id) || !sources.length || !concert.date) throw new Error(`Invalid concert addition ${id}`);
+    const value: Row = { ...concert, date: Timestamp.fromDate(new Date(concert.date)) };
+    if (next.concerts[id]) {
+      if (!equal(next.concerts[id], value) || !equal(next.schedules[id], schedule)) throw new Error(`Conflicting concert ${id}`);
+      continue;
+    }
+    if (next.schedules[id]) throw new Error(`Orphan schedule ${id}`);
+    if (Object.values(next.concerts).some(row => row.name === value.name && row.artist_id === value.artist_id
+      && row.venue_id === value.venue_id && Date.parse(timestampISO(row.date)) === value.date.toMillis()))
+      throw new Error(`Concert already exists: ${id}`);
+    next.concerts[id] = value;
+    if (schedule) next.schedules[id] = schedule;
   }
   for (const addition of patch.lineup_additions) {
     const { concert_id: id, artist_id: artist, set_id: setId, set } = addition;
@@ -43,4 +58,27 @@ export function projectCorrections(current: TableBackup, patch: CatalogCorrectio
   if (!equal(cleanSchema(next), next)) throw new Error("Catalog correction violates clean schema");
   for (const name of tableNames) validateTableSize(next[name]);
   return next;
+}
+
+export type CatalogRevision = { patch: CatalogCorrections; hash: string };
+
+/** Skip receipts before projecting: subsequent edits must survive redeployments. */
+export function projectRevisions(current: TableBackup, revisions: CatalogRevision[], applied: Record<string, string>) {
+  let prepared = current;
+  const receipts = { ...applied };
+  const pending: CatalogRevision[] = [];
+  const ids = new Set<string>();
+  for (const revision of revisions) {
+    const { patch, hash } = revision;
+    if (!patch.id || ids.has(patch.id)) throw new Error(`Duplicate or empty catalog revision: ${patch.id}`);
+    ids.add(patch.id);
+    if (Object.hasOwn(applied, patch.id)) {
+      if (applied[patch.id] !== hash) throw new Error("Previously applied patch changed; create a new reviewed revision");
+      continue;
+    }
+    prepared = projectCorrections(prepared, patch);
+    receipts[patch.id] = hash;
+    pending.push(revision);
+  }
+  return { prepared, receipts, pending };
 }
