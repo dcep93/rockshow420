@@ -4,14 +4,14 @@ import type { Concert } from "./model";
 export const isTimezone = (value: string): boolean => IANAZone.isValidZone(value);
 
 export function concertPeriod(concert: Concert, timezone: string, now: number): "upcoming" | "past" | "unknown" {
-  if (concert.date_precision === "day" || concert.end_date) {
-    const lastDay = concert.end_date || concert.date.slice(0, 10);
-    if (!isCalendarDate(lastDay)) return "unknown";
-    const end = DateTime.fromISO(lastDay, { zone: isTimezone(timezone) ? timezone : "UTC" }).plus({ days: 1 });
-    return now < end.toMillis() ? "upcoming" : "past";
-  }
-  const start = Date.parse(concert.date);
-  return Number.isFinite(start) ? (now < start ? "upcoming" : "past") : "unknown";
+  const zone = isTimezone(timezone) ? timezone : "UTC";
+  const lastDay = concert.end_date || (concert.date_precision === "day"
+    ? concert.date.slice(0, 10)
+    : DateTime.fromISO(concert.date, { zone }).toISODate());
+  if (!lastDay || !isCalendarDate(lastDay)) return "unknown";
+  // Calendar arithmetic keeps the cutoff at local 06:00 across DST changes.
+  const cutoff = DateTime.fromISO(lastDay, { zone }).plus({ days: 1 }).set({ hour: 6 });
+  return now < cutoff.toMillis() ? "upcoming" : "past";
 }
 function zoned(iso: string, timezone: string) {
   return iso && isTimezone(timezone) ? DateTime.fromISO(iso, { setZone: true }).setZone(timezone) : null;

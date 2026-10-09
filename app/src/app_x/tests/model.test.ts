@@ -98,26 +98,36 @@ test("date-only imports keep their calendar day in every timezone and preserve f
   assert.equal(concert.artist_id, "");
 });
 
-test("upcoming and past use the show instant or final venue-local day", () => {
-  const show = normalizeConcert("show", { date: "2026-10-08T00:00:00Z" });
-  assert.equal(concertPeriod(show, "America/New_York", Date.parse("2026-10-07T23:59:59Z")), "upcoming");
-  assert.equal(concertPeriod(show, "America/New_York", Date.parse("2026-10-08T00:00:00Z")), "past");
-  const day = normalizeConcert("day", { date: "2026-10-07", date_precision: "day" });
-  const sameInstant = Date.parse("2026-10-08T02:00:00Z");
-  assert.equal(concertPeriod(day, "America/New_York", sameInstant), "upcoming");
-  assert.equal(concertPeriod(day, "Asia/Tokyo", sameInstant), "past");
-  const festival = normalizeConcert("festival", { date: "2026-10-30", date_precision: "day", end_date: "2026-11-01" });
-  assert.equal(concertPeriod(festival, "America/New_York", Date.parse("2026-11-02T04:59:59Z")), "upcoming");
-  assert.equal(concertPeriod(festival, "America/New_York", Date.parse("2026-11-02T05:00:00Z")), "past");
-  assert.equal(concertPeriod(normalizeConcert("missing", {}), "UTC", sameInstant), "unknown");
+test("events become past at six AM after their final venue-local day", () => {
+  const cases = [
+    // This timestamp is October 7 in New York, despite its UTC date.
+    { raw: { date: "2026-10-08T00:00:00Z" }, zone: "America/New_York", cutoff: "2026-10-08T10:00:00Z" },
+    { raw: { date: "2026-10-07", date_precision: "day" }, zone: "America/New_York", cutoff: "2026-10-08T10:00:00Z" },
+    { raw: { date: "2026-10-07", date_precision: "day" }, zone: "Asia/Tokyo", cutoff: "2026-10-07T21:00:00Z" },
+    { raw: { date: "2026-10-30", date_precision: "day", end_date: "2026-11-01" }, zone: "America/New_York", cutoff: "2026-11-02T11:00:00Z" },
+    // Six AM remains six AM when the overnight interval changes length.
+    { raw: { date: "2026-03-07T20:00:00-05:00" }, zone: "America/New_York", cutoff: "2026-03-08T10:00:00Z" },
+    { raw: { date: "2026-10-31T20:00:00-04:00" }, zone: "America/New_York", cutoff: "2026-11-01T11:00:00Z" },
+    { raw: { date: "2026-10-07T20:00:00Z" }, zone: "invalid", cutoff: "2026-10-08T06:00:00Z" },
+  ];
+  for (const { raw, zone, cutoff } of cases) {
+    const concert = normalizeConcert("show", raw);
+    const instant = Date.parse(cutoff);
+    assert.equal(concertPeriod(concert, zone, instant - 1), "upcoming", `${zone} before ${cutoff}`);
+    assert.equal(concertPeriod(concert, zone, instant), "past", `${zone} at ${cutoff}`);
+  }
+  const now = Date.parse("2026-10-08T00:00:00Z");
+  for (const raw of [{}, { date: "invalid" }, { date: "2026-13-30", date_precision: "day" }, { date: "2026-10-07", end_date: "invalid" }]) {
+    assert.equal(concertPeriod(normalizeConcert("missing", raw), "UTC", now), "unknown");
+  }
 });
 
 test("adding a festival start time preserves its final day in labels, grouping, and exports", () => {
   const festival = normalizeConcert("festival", { name: "Outside Lands", venue_id: "v", date: "2019-08-09T19:00:00Z", date_precision: "time", end_date: "2019-08-11" });
   const zone = "America/Los_Angeles";
   assert.equal(formatConcertDate(festival.date, zone, festival.date_precision, festival.end_date), "Fri, Aug 9, 2019 · 12:00 PM PDT – Sun, Aug 11, 2019");
-  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T06:59:59Z")), "upcoming");
-  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T07:00:00Z")), "past");
+  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T12:59:59Z")), "upcoming");
+  assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T13:00:00Z")), "past");
   const catalog = { ...emptyCatalog, concerts: [festival], venues: [normalizeVenue("v", { timezone: zone })] };
   assert.equal(exportUserLog(catalog, "me"), "Outside Lands 8/9-11\n2019");
 });
