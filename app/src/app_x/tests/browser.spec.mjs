@@ -96,7 +96,7 @@ test("the hidden toggle shows only hidden concerts, edited inline on their conce
   expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
   await page.getByRole("link", { name: "Radiohead", exact: true }).click();
   await expect(page.getByRole("dialog")).toHaveCount(0);
-  await page.getByLabel("Slowdive", { exact: true }).check();
+  await page.getByRole("checkbox", { name: "Seen Slowdive", exact: true }).check();
   await page.getByLabel("Public Notes", { exact: true }).fill("Keep this note");
   await page.getByRole("button", { name: "Hide", exact: true }).click();
   await expect(page.getByRole("button", { name: "Unhide", exact: true })).toBeVisible();
@@ -126,7 +126,7 @@ test("the hidden toggle shows only hidden concerts, edited inline on their conce
   await hidden.check();
   await radiohead.getByRole("link", { name: "Radiohead", exact: true }).click();
   await expect(page.getByLabel("Public Notes", { exact: true })).toHaveValue("Keep this note");
-  await expect(page.getByLabel("Slowdive", { exact: true })).toBeChecked();
+  await expect(page.getByRole("checkbox", { name: "Seen Slowdive", exact: true })).toBeChecked();
   await page.getByRole("button", { name: "Unhide", exact: true }).click();
   await expect(page.getByRole("button", { name: "Hide", exact: true })).toBeVisible();
   expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(false);
@@ -199,7 +199,7 @@ test("admin creates records, repairs references and preserves exact timestamps a
   const alice = page.getByRole("article", { name: "@alice entry" });
   await expect(alice.getByRole("button", { name: /admin: Edit/ })).toHaveCount(0);
   await expect(alice.getByLabel("Public Notes")).toHaveCount(0);
-  await expect(page.getByRole("form", { name: "Concert entry" })).toHaveCount(1);
+  await expect(page.getByRole("form", { name: "Public notes editor" })).toHaveCount(1);
 });
 
 test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
@@ -219,7 +219,7 @@ test("saving defaults leaves no override and resetting inline edits deletes the 
   await expect(save).toBeDisabled();
   expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
   await page.getByLabel("Public Notes", { exact: true }).fill("Temporary note");
-  await page.getByLabel("Slowdive", { exact: true }).check();
+  await page.getByRole("checkbox", { name: "Seen Slowdive", exact: true }).check();
   await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.supporting_artist_ids.arrayValue.values).toEqual([{ stringValue: "slowdive" }]);
   expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("");
   await page.getByRole("combobox", { name: "Ticket status", exact: true }).selectOption("purchased");
@@ -229,7 +229,7 @@ test("saving defaults leaves no override and resetting inline edits deletes the 
   await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Temporary note");
   await expect(save).toBeDisabled();
   await page.getByLabel("Public Notes", { exact: true }).fill("");
-  await page.getByLabel("Slowdive", { exact: true }).uncheck();
+  await page.getByRole("checkbox", { name: "Seen Slowdive", exact: true }).uncheck();
   await page.getByRole("combobox", { name: "Ticket status", exact: true }).selectOption("");
   await save.click();
   await expect.poll(() => doc(`user_concerts/${uid}_c1`)).toBeNull();
@@ -252,8 +252,7 @@ test("festival sets default unseen, repeated artists stay independent, and reset
   } });
   await page.goto("/festival/jucc7j/stale-slug");
   await expect(page).toHaveURL(/\/concert\/yyea3y\/stale-slug$/);
-  const entry = page.getByRole("form", { name: "Concert entry" });
-  const choices = entry.getByRole("checkbox");
+  const choices = page.locator(".rs-lineup").getByRole("checkbox");
   await expect(choices).toHaveCount(3);
   for (const choice of await choices.all()) await expect(choice).not.toBeChecked();
   expect(await doc(`user_concerts/${uid}_yyea3y`)).toBeNull();

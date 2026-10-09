@@ -1,5 +1,4 @@
-import { ConcertEntries } from "../components/ConcertEntries";
-import { ConcertLineup } from "../components/ConcertLineup";
+import { ConcertDetails } from "../components/ConcertDetails";
 import { useApp } from "../data/store";
 import type { Concert, EntityKind } from "../data/model";
 import { canonicalId } from "../data/ids";
@@ -48,10 +47,7 @@ export function EntityPage({
             </p>
           </div>
         </section>
-        <div className="rs-detail-grid">
-          <ConcertLineup catalog={catalog} concert={concert} />
-          <ConcertEntries catalog={catalog} concert={concert} viewerUid={viewer?.uid} isAdmin={isAdmin} />
-        </div>
+        <ConcertDetails key={`${concert.id}:${viewer?.uid || "guest"}`} catalog={catalog} concert={concert} viewerUid={viewer?.uid} isAdmin={isAdmin} />
       </>
     );
   }

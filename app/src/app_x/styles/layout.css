@@ -285,28 +285,29 @@
 .rs-section-heading h2 {
   font-size: 1rem;
 }
-.rs-entry {
-  padding: 0.8rem 0 1.25rem;
-  border-bottom: 0.0625rem solid var(--rs-border);
-}
-.rs-entry:last-child {
-  border: 0;
-  padding-bottom: 0;
-}
-.rs-entry-heading a {
-  color: var(--rs-tan);
-  font-size: 0.8125rem;
-}
-.rs-entry-heading .rs-text-button {
-  font-size: 0.7rem;
-}
-.rs-notes {
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
-  margin-top: 0.6rem !important;
-  font-size: 0.875rem;
-  line-height: 1.75;
-}
+/* Personal notes and read-only public logs share a compact column. */
+.rs-concert-logs { min-width: 0; display: grid; gap: 1.5rem; }
+.rs-public-entries > h2 { color: var(--rs-muted); font-size: 0.8125rem; font-weight: 400; margin-bottom: 0.25rem; }
+.rs-entry { padding: 0.75rem 0; border-bottom: 0.0625rem solid var(--rs-border); }
+.rs-entry:last-child { border-bottom: 0; }
+.rs-entry-heading { justify-content: flex-start; flex-wrap: wrap; gap: 0.25rem 0.75rem; font-size: 0.75rem; color: var(--rs-muted); }
+.rs-entry-heading a { color: var(--rs-tan); font-size: 0.8125rem; }
+.rs-entry-artists, .rs-entry-sets { color: var(--rs-muted); font-size: 0.75rem; margin-top: 0.25rem !important; overflow-wrap: anywhere; }
+.rs-entry-sets summary { cursor: pointer; width: fit-content; padding: 0.25rem 0; }
+.rs-entry-sets ul { padding-left: 1.25rem; margin: 0.25rem 0; }
+.rs-entry-sets li + li { margin-top: 0.25rem; }
+.rs-notes { white-space: pre-wrap; overflow-wrap: anywhere; margin-top: 0.4rem !important; font-size: 0.8125rem; line-height: 1.6; }
+.rs-performance-heading { display: flex; align-items: center; gap: 0.25rem; }
+.rs-performance-heading .rs-lineup-item { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.rs-lineup-check { display: flex; align-items: center; justify-content: center; flex: 0 0 2.75rem; min-height: 2.75rem; cursor: pointer; }
+.rs-lineup-check input { accent-color: var(--rs-amber); width: 1rem; height: 1rem; margin: 0; cursor: pointer; }
+.rs-lineup-check input:disabled { cursor: not-allowed; }
+.rs-log-toolbar { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem 1rem; padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 0.0625rem solid var(--rs-border); }
+.rs-ticket-control { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; color: var(--rs-muted); font-size: 0.75rem; }
+.rs-ticket-control select { min-height: 2.75rem; max-width: 100%; padding: 0.4rem 0.6rem; border: 0.0625rem solid var(--rs-border); border-radius: 0.5rem; background: var(--rs-panel-soft); color: var(--rs-text); font: inherit; }
+.rs-public-notes textarea { display: block; font-family: inherit; }
+.rs-public-notes > h2 { margin-bottom: 0.75rem; }
+.rs-notes-actions { display: flex; justify-content: flex-end; margin-top: 0.75rem; }
 @media (max-width: 42rem) {
   .rs-header,
   .rs-main {
