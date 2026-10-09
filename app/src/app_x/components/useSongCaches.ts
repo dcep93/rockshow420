@@ -1,14 +1,11 @@
 import { useEffect, useState } from "react";
 import type { SongCaches } from "../data/songLists";
+import { setlistCaches } from "../data/setlistCaches";
 
 let cacheRequest: Promise<SongCaches> | undefined;
 function loadSongCaches(): Promise<SongCaches> {
-  cacheRequest ??= Promise.all([
-    import("../data/cached.setlist.fm.json"),
-    import("../data/cached.musicals.json"),
-    import("../data/cached.spotify.json"),
-  ]).then(([setlists, musicals, spotify]) => ({
-    setlists: setlists.default, musicals: musicals.default, spotify: spotify.default,
+  cacheRequest ??= import("../data/cached.spotify.json").then(spotify => ({
+    ...setlistCaches, spotify: spotify.default,
   }) as SongCaches).catch(error => { cacheRequest = undefined; throw error; });
   return cacheRequest;
 }
@@ -22,4 +19,3 @@ export function useSongCaches() {
   }, []);
   return caches;
 }
-

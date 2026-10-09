@@ -2,6 +2,8 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { artistSongLists, concertSongLists, groupScheduleDays } from "../data/songLists";
 import type { PerformanceSetlist, SongCaches, SpotifyTopTracks } from "../data/songLists";
+import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
+import { normalizeArtist, normalizeConcert, normalizeSchedule } from "../data/model";
 
 const top: SpotifyTopTracks = { kind: "spotify_top_tracks", artist: "A", url: "https://open.spotify.com/embed/artist/example", songs: [{ name: "Popular" }] };
 const performance: PerformanceSetlist = { kind: "setlist_fm", url: "https://www.setlist.fm/setlist/example", sets: [{ songs: [{ name: "Played" }] }] };
@@ -61,4 +63,53 @@ test("festival schedule groups by programme day and sorts start times, preservin
     ["2026-07-01", ["first", "inferred", "later", "unknown"]], ["2026-07-02", ["next"]],
   ]);
   assert.equal(input[0].id, "later", "grouping must not reorder source schedule");
+});
+
+test("search ignores case and special characters while preserving word spaces", () => {
+  assert.equal(normalizeSearch("  AC/DC — R.E.M. & Beyoncé!  "), "acdc rem beyonce");
+  assert.equal(normalizeSearch("Don't Stop"), normalizeSearch("DON’T STOP"));
+  assert.notEqual(normalizeSearch("Big Thief"), normalizeSearch("BigThief"));
+  assert.equal(normalizeSearch("!?%_"), "");
+});
+
+test("concert search includes the full lineup, independent of attendance, but never Spotify or metadata", () => {
+  const artists = [normalizeArtist("a", { name: "AC/DC" }), normalizeArtist("b", { name: "Beyoncé" })];
+  const concerts = [normalizeConcert("c", { artist_id: "a", supporting_artist_ids: ["b"], name: "Not an artist" })];
+  const withNotes: SongCaches = { ...caches, setlists: { ...caches.setlists,
+    "a:c": [{ ...performance, notes: "Metadata only", sets: [{ name: "Encore", songs: [{ name: "Don't Stop", notes: "Song annotation" }] }] }],
+  } };
+  const before = JSON.stringify({ artists, concerts, withNotes });
+  const entry = buildConcertSearch(concerts, artists, [], withNotes).get("c");
+  for (const query of ["acdc", "AC/DC", "beyonce", "YONCÉ"]) assert(matchesConcertSearch(entry, query));
+  assert(!matchesConcertSearch(entry, "DONT STOP"));
+  assert(matchesConcertSearch(entry, "DON’T STOP", true));
+  assert(matchesConcertSearch(entry, "played", true), "supporting artist songs are searchable");
+  for (const query of ["Popular", "Metadata only", "Song annotation", "Encore", "https", "Not an artist"]) {
+    assert(!matchesConcertSearch(entry, query, true), query);
+  }
+  assert.equal(JSON.stringify({ artists, concerts, withNotes }), before);
+  assert(matchesConcertSearch(undefined, "  "));
+  assert(matchesConcertSearch(undefined, "$%!?"));
+  assert(!matchesConcertSearch(undefined, "anything", true));
+});
+
+test("setlist search respects encoded concert identities, all scheduled sets, and musical programs", () => {
+  const makePerformance = (name: string, set_id?: string): PerformanceSetlist => ({ ...performance, ...(set_id ? { set_id } : {}), sets: [{ songs: [{ name }] }] });
+  const input: SongCaches = { ...caches, setlists: {
+    "a%2Fb:fest%3Aone": [makePerformance("First night", "first1"), makePerformance("Second night", "second"), makePerformance("Unassigned"), makePerformance("Stale set", "stale1")],
+    "a%2Fb:other": [makePerformance("Other concert", "first1")],
+    "removed:fest%3Aone": [makePerformance("Removed artist", "first1")],
+  } };
+  const concerts = [normalizeConcert("fest:one", { supporting_artist_ids: ["a/b"] }), normalizeConcert("musical", {})];
+  const schedules = [normalizeSchedule("fest:one", { sets: { first1: { artist_id: "a/b" }, second: { artist_id: "a/b" } } })];
+  const index = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, input);
+  const entry = index.get("fest:one");
+  assert(matchesConcertSearch(entry, "a b"));
+  assert(matchesConcertSearch(entry, "first night", true));
+  assert(matchesConcertSearch(entry, "second night", true));
+  for (const query of ["Unassigned", "Stale set", "Other concert", "Removed artist"]) assert(!matchesConcertSearch(entry, query, true), query);
+  assert(!matchesConcertSearch(index.get("musical"), "Number"));
+  assert(matchesConcertSearch(index.get("musical"), "Number", true));
+  const noSongs = buildConcertSearch(concerts, [normalizeArtist("a/b", { name: "A / B" })], schedules, { setlists: {}, musicals: {} });
+  assert(matchesConcertSearch(noSongs.get("fest:one"), "a b", true));
 });

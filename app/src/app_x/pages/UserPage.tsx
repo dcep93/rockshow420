@@ -1,12 +1,16 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { useApp } from "../data/store";
 import { userConcertRows } from "../data/model";
 import { concertPeriod } from "../data/time";
 import { ConcertRow } from "../components/ConcertRow";
 import { Empty } from "../components/ui";
+import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
+import { setlistCaches } from "../data/setlistCaches";
 
 export function UserPage({ username }: { username: string }) {
   const [showHidden, setShowHidden] = useState(false);
+  const [query, setQuery] = useState("");
+  const [searchSetlists, setSearchSetlists] = useState(false);
   const [now, setNow] = useState(Date.now);
   useEffect(() => {
     const refresh = () => setNow(Date.now());
@@ -18,10 +22,13 @@ export function UserPage({ username }: { username: string }) {
     };
   }, []);
   const { catalog, loading } = useApp();
+  const search = useMemo(() => buildConcertSearch(catalog.concerts, catalog.artists, catalog.schedules, setlistCaches),
+    [catalog.concerts, catalog.artists, catalog.schedules]);
   const profile = catalog.profiles.find((item) => item.username === username || item.id === username);
   if (loading) return null;
   if (!profile) return <Empty title="User not found" />;
-  const allRows = userConcertRows(catalog, profile.user_id, true);
+  const allRows = userConcertRows(catalog, profile.user_id, true).filter(({ concert }) =>
+    matchesConcertSearch(concert ? search.get(concert.id) : undefined, query, searchSetlists));
   const hiddenCount = allRows.filter(({ log }) => log?.removed).length;
   const count = allRows.length - hiddenCount;
   const rows = allRows.filter(({ log }) => showHidden ? log?.removed === true : !log?.removed);
@@ -51,6 +58,14 @@ export function UserPage({ username }: { username: string }) {
             </label>
           </div>
       </section>
+      <div className="rs-log-search" role="search" aria-label="Concerts">
+        <input type="search" aria-label="Search concerts" placeholder="Search" value={query}
+          onChange={event => setQuery(event.target.value)} autoComplete="off" />
+        <label className="rs-check">
+          <input type="checkbox" checked={searchSetlists} onChange={event => setSearchSetlists(event.target.checked)} />
+          Search setlists
+        </label>
+      </div>
       <section aria-label={`${username}’s concerts`}>
         {!!rows.length && <div className="rs-log-columns">
           {(["upcoming", "past"] as const).map((period) => (
@@ -61,7 +76,7 @@ export function UserPage({ username }: { username: string }) {
           ))}
         </div>}
         {!!groups.unknown.length && <div className="rs-concert-list">{groups.unknown.map(renderRow)}</div>}
-        {!rows.length && <Empty title={showHidden ? "No hidden concerts" : "No concerts"} />}
+        {!rows.length && <Empty title={normalizeSearch(query) ? "No matches" : showHidden ? "No hidden concerts" : "No concerts"} />}
       </section>
     </>
   );
