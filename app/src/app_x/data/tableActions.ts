@@ -14,6 +14,7 @@ const allowedFields = {
   artist: ["name", "image"],
   concert: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url"],
 };
+export type LogPatch = Partial<{ notes: string; supporting_artist_ids: string[]; removed: boolean; ticket_status: TicketStatus; seen_set_ids: string[] }>;
 function requireText(value: unknown, field: string): asserts value is string {
   if (typeof value !== "string" || !value.trim()) throw new Error(`${field} is required.`);
 }
@@ -130,26 +131,35 @@ async function deleteEntity(kind: EntityKind, id: string, catalog: Catalog): Pro
 async function saveLog(
   uid: string,
   concertId: string,
-  fields: { notes: string; supporting_artist_ids: string[]; removed?: boolean; ticket_status: TicketStatus; seen_set_ids?: string[] },
+  fields: LogPatch,
   restore = false,
 ): Promise<void> {
-  if (!isTicketStatus(fields.ticket_status)) throw new Error("Choose a valid ticket status.");
+  if (fields.ticket_status !== undefined && !isTicketStatus(fields.ticket_status)) throw new Error("Choose a valid ticket status.");
+  if (fields.notes !== undefined && typeof fields.notes !== "string") throw new Error("Notes must be text.");
   const id = `${uid}_${concertId}`;
   await runTransaction(db, async (transaction) => {
     const tables = transactionTables(db, transaction);
     const concert = record(await tables.read("concerts"), concertId);
     const existing = record(await tables.read("user_concerts"), id);
     if (!concert) throw new Error("This concert no longer exists.");
-    if (existing?.removed === true && !restore && !fields.removed)
+    if (existing?.removed === true && !restore && fields.removed === false)
       throw new Error("This concert is hidden. Unhide it before saving a visible entry.");
     const lineup: string[] = concert.supporting_artist_ids ?? [];
-    if (fields.supporting_artist_ids.some((artist) => !lineup.includes(artist)))
+    const support = fields.supporting_artist_ids ?? (existing?.supporting_artist_ids ?? []).filter((id: string) => lineup.includes(id));
+    requireIDs(support, "Supporting artists");
+    if (support.some((artist: string) => !lineup.includes(artist)))
       throw new Error("Supporting artists must belong to the concert lineup.");
     const schedule = record(await tables.read("schedules"), concertId);
-    const seen = fields.seen_set_ids ?? existing?.seen_set_ids ?? [];
+    const seen = fields.seen_set_ids ?? (existing?.seen_set_ids ?? []).filter((id: string) => Object.hasOwn(schedule?.sets || {}, id));
     requireIDs(seen, "Seen sets");
     if (seen.some((set: string) => !Object.hasOwn(schedule?.sets || {}, set))) throw new Error("Selected sets must belong to this concert schedule.");
-    const patch = { seen_set_ids: [...new Set(seen)], removed: fields.removed === true, notes: fields.notes, supporting_artist_ids: [...new Set(fields.supporting_artist_ids)], ticket_status: fields.ticket_status };
+    const patch = {
+      seen_set_ids: [...new Set(seen)],
+      removed: fields.removed ?? existing?.removed ?? false,
+      notes: fields.notes ?? existing?.notes ?? "",
+      supporting_artist_ids: [...new Set(support)],
+      ticket_status: fields.ticket_status ?? existing?.ticket_status ?? "",
+    };
     if (isDefaultLog({ ...existing, ...patch })) {
       if (existing) tables.put("user_concerts", id, null);
     } else tables.put("user_concerts", id, { ...existing, user_id: uid, concert_id: concertId, ...patch });

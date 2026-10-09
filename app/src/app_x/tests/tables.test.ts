@@ -133,8 +133,36 @@ test("log validation and default cleanup survive the new layout", async () => {
   await actions.saveLog("owner", "concert", defaults);
   assert.deepEqual(record(await records(db, "user_concerts"), "owner_concert")?.future_field, { version: 9 });
   await actions.saveLog("owner", "other", { ...defaults, removed: true });
-  await assert.rejects(() => actions.saveLog("owner", "other", defaults), /hidden/);
-  await actions.saveLog("owner", "other", defaults, true);
+  await assert.rejects(() => actions.saveLog("owner", "other", { ...defaults, removed: false }), /hidden/);
+  await actions.saveLog("owner", "other", { ...defaults, removed: false }, true);
+  assert.equal(record(await records(db, "user_concerts"), "owner_other"), undefined);
+});
+
+test("partial log writes isolate notes, preserve concurrent controls and clean default resets", async () => {
+  const db = user();
+  const actions = createTableActions(db);
+  await Promise.all([
+    actions.saveLog("owner", "concert", { notes: "Explicitly saved" }),
+    actions.saveLog("owner", "concert", { ticket_status: "sold_out" }),
+  ]);
+  let saved = record(await records(db, "user_concerts"), "owner_concert")!;
+  assert.equal(saved.notes, "Explicitly saved");
+  assert.equal(saved.ticket_status, "sold_out");
+  assert.deepEqual(saved.supporting_artist_ids, ["support"]);
+  assert.deepEqual(saved.future_field, { version: 9 });
+  await actions.saveLog("owner", "concert", { supporting_artist_ids: [], removed: true });
+  await actions.saveLog("owner", "concert", { ticket_status: "cancelled" });
+  await actions.saveLog("owner", "concert", { notes: "Saved while hidden" });
+  saved = record(await records(db, "user_concerts"), "owner_concert")!;
+  assert.equal(saved.removed, true);
+  assert.equal(saved.ticket_status, "cancelled");
+  assert.equal(saved.notes, "Saved while hidden");
+  await assert.rejects(() => actions.saveLog("owner", "concert", { removed: false }), /hidden/);
+  await actions.saveLog("owner", "other", { ticket_status: "purchased" });
+  await actions.saveLog("owner", "other", { ticket_status: "" });
+  assert.equal(record(await records(db, "user_concerts"), "owner_other"), undefined);
+  await actions.saveLog("owner", "other", { removed: true });
+  await actions.saveLog("owner", "other", { removed: false }, true);
   assert.equal(record(await records(db, "user_concerts"), "owner_other"), undefined);
 });
 

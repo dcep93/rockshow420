@@ -100,6 +100,10 @@ test("the hidden toggle shows only hidden concerts, edited inline on their conce
   await page.getByLabel("Public Notes", { exact: true }).fill("Keep this note");
   await page.getByRole("button", { name: "Hide", exact: true }).click();
   await expect(page.getByRole("button", { name: "Unhide", exact: true })).toBeVisible();
+  await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.removed.booleanValue).toBe(true);
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("");
+  await expect(page.getByLabel("Public Notes", { exact: true })).toHaveValue("Keep this note");
+  await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Keep this note");
   expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(true);
   await page.getByRole("link", { name: "rockshow420", exact: true }).click();
@@ -208,7 +212,7 @@ test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
 test("saving defaults leaves no override and resetting inline edits deletes the override", async ({ page }) => {
   const uid = await login(page, "defaults@gmail.com");
   await page.getByRole("link", { name: "Radiohead", exact: true }).click();
-  const save = page.getByRole("button", { name: "Save changes", exact: true });
+  const save = page.getByRole("button", { name: "Save", exact: true });
   await expect(page.getByLabel("Public Notes", { exact: true })).toBeVisible();
   await expect(page.getByText("Notes are public.", { exact: true })).toHaveCount(0);
   await expect(page.getByRole("dialog")).toHaveCount(0);
@@ -216,11 +220,17 @@ test("saving defaults leaves no override and resetting inline edits deletes the 
   expect(await doc(`user_concerts/${uid}_c1`)).toBeNull();
   await page.getByLabel("Public Notes", { exact: true }).fill("Temporary note");
   await page.getByLabel("Slowdive", { exact: true }).check();
+  await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.supporting_artist_ids.arrayValue.values).toEqual([{ stringValue: "slowdive" }]);
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("");
+  await page.getByRole("combobox", { name: "Ticket status", exact: true }).selectOption("purchased");
+  await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.ticket_status.stringValue).toBe("purchased");
+  expect((await doc(`user_concerts/${uid}_c1`)).fields.notes.stringValue).toBe("");
   await save.click();
   await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Temporary note");
   await expect(save).toBeDisabled();
   await page.getByLabel("Public Notes", { exact: true }).fill("");
   await page.getByLabel("Slowdive", { exact: true }).uncheck();
+  await page.getByRole("combobox", { name: "Ticket status", exact: true }).selectOption("");
   await save.click();
   await expect.poll(() => doc(`user_concerts/${uid}_c1`)).toBeNull();
   await expect(save).toBeDisabled();
@@ -248,7 +258,6 @@ test("festival sets default unseen, repeated artists stay independent, and reset
   for (const choice of await choices.all()) await expect(choice).not.toBeChecked();
   expect(await doc(`user_concerts/${uid}_yyea3y`)).toBeNull();
   await choices.nth(1).check();
-  await entry.getByRole("button", { name: "Save changes" }).click();
   await expect.poll(async () => (await doc(`user_concerts/${uid}_yyea3y`))?.fields.seen_set_ids.arrayValue.values).toEqual([{ stringValue: "second" }]);
   await page.reload();
   await expect(choices.nth(0)).not.toBeChecked();
@@ -257,7 +266,6 @@ test("festival sets default unseen, repeated artists stay independent, and reset
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
   await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks/festival-mobile.png", fullPage: true });
   await choices.nth(1).uncheck();
-  await entry.getByRole("button", { name: "Save changes" }).click();
   await expect.poll(() => doc(`user_concerts/${uid}_yyea3y`)).toBeNull();
 });
 
