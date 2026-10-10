@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import type { TableBackup } from "../data/migrateTables";
 import { cleanSchema } from "../data/cleanSchema";
 import { projectCorrections, projectRevisions, type CatalogCorrections } from "../data/catalogCorrections";
 
@@ -109,4 +110,31 @@ test("purchase-link imports preserve data and refuse newly added links", () => {
   assert.throws(() => projectCorrections(before, links), /edited since research/);
   const replay = projectRevisions(before, [{ patch: links, hash: "hash" }], { "purchase-links": "hash" });
   assert.equal(replay.prepared.concerts.ordinary.purchase_link, "");
+});
+
+test("artist and venue image revisions preserve other fields and guard concurrent edits", () => {
+  const before: TableBackup = sample();
+  before.venues.v.image = "";
+  const images: CatalogCorrections = {
+    id: "images", artists: {}, lineup_additions: [], concert_updates: [],
+    artist_updates: [{ id: "a", expected: { name: "A" }, expected_absent: ["image"], changes: { image: "https://example.org/artist.jpg" }, sources: ["https://example.org/artist"] }],
+    venue_updates: [{ id: "v", expected: { name: "Venue", image: "" }, changes: { image: "https://example.org/venue.jpg" }, sources: ["https://example.org/venue"] }],
+  };
+  const result = projectCorrections(before, images);
+  assert.deepEqual(result.artists.a, { ...before.artists.a, image: images.artist_updates![0].changes.image });
+  assert.deepEqual(result.venues.v, { ...before.venues.v, image: images.venue_updates![0].changes.image });
+  assert.deepEqual(before.artists.a, { name: "A" });
+  assert.equal(before.venues.v.image, "");
+  for (const name of ["concerts", "schedules", "users", "user_concerts"] as const) assert.deepEqual(result[name], before[name]);
+  assert.deepEqual(projectCorrections(result, images), result);
+  before.venues.v.image = "https://example.org/admin-changed.jpg";
+  assert.throws(() => projectCorrections(before, images), /edited since research/);
+  before.venues.v.image = "";
+  before.artists.a = { ...before.artists.a, image: "https://example.org/admin-changed.jpg" };
+  assert.throws(() => projectCorrections(before, images), /edited since research/);
+  assert.equal(projectRevisions(before, [{ patch: images, hash: "same" }], { images: "same" }).prepared.artists.a.image, before.artists.a.image);
+  const invalid = structuredClone(images); invalid.artist_updates![0].id = "missing";
+  assert.throws(() => projectCorrections(sample(), invalid), /Missing artists record/);
+  invalid.artist_updates![0].id = "a"; invalid.artist_updates![0].sources = [];
+  assert.throws(() => projectCorrections(sample(), invalid), /Missing artists record or source/);
 });

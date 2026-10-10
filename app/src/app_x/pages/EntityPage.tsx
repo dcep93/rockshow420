@@ -33,7 +33,7 @@ export function EntityPage({
     return (
       <>
         <section className="rs-detail-heading">
-          <Picture src={artist?.image} name={artist?.name || ""} large />
+          <Picture key={concert.id} src={artist?.image} name={artist?.name || ""} fallbackSrc={venue?.image} fallbackName={venue?.name} large />
           <div className="rs-detail-title">
             <p className="rs-eyebrow">{formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date)}</p>
             <h1>{concert.name || artist?.name || "Unknown artist"}</h1>

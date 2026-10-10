@@ -7,16 +7,19 @@ import { validateTableSize, type TableBackup } from "./migrateTables";
 import { tableNames } from "./tables";
 
 type Row = Record<string, any>;
+type CatalogUpdate = { id: string; expected: Row; expected_absent?: string[]; changes: Row; sources: string[] };
 export type CatalogCorrections = {
   id: string;
   artists: Record<string, Row>;
   concert_additions?: { id: string; concert: Row; schedule?: Row; sources: string[] }[];
   lineup_additions: { concert_id: string; artist_id: string; set_id: string; set: Row; sources: string[] }[];
-  concert_updates: { id: string; expected: Row; expected_absent?: string[]; changes: Row; sources: string[] }[];
+  concert_updates: CatalogUpdate[];
+  artist_updates?: CatalogUpdate[];
+  venue_updates?: CatalogUpdate[];
 };
 
 export function projectCorrections(current: TableBackup, patch: CatalogCorrections): TableBackup {
-  const next: TableBackup = { ...current, artists: { ...current.artists }, concerts: { ...current.concerts }, schedules: { ...current.schedules } };
+  const next: TableBackup = { ...current, artists: { ...current.artists }, venues: { ...current.venues }, concerts: { ...current.concerts }, schedules: { ...current.schedules } };
   for (const [id, value] of Object.entries(patch.artists)) {
     if (next.artists[id] && !Object.entries(value).every(([key, field]) => equal(next.artists[id][key], field))) throw new Error(`Conflicting artist ${id}`);
     next.artists[id] ||= value;
@@ -45,16 +48,18 @@ export function projectCorrections(current: TableBackup, patch: CatalogCorrectio
     next.concerts[id] = { ...concert, supporting_artist_ids: [...new Set([...(concert.supporting_artist_ids || []), artist])] };
     next.schedules[id] = { ...schedule, sets: { ...schedule.sets, [setId]: set } };
   }
-  for (const update of patch.concert_updates) {
-    const row = next.concerts[update.id];
-    if (!row || !update.sources.length) throw new Error(`Missing concert or source: ${update.id}`);
-    const same = (key: string, value: unknown) => key === "date" ? Date.parse(timestampISO(row.date)) === Date.parse(value as string) : equal(row[key], value);
+  for (const [table, updates] of [
+    ["concerts", patch.concert_updates], ["artists", patch.artist_updates || []], ["venues", patch.venue_updates || []],
+  ] as const) for (const update of updates) {
+    const row = next[table][update.id];
+    if (!row || !update.sources.length) throw new Error(`Missing ${table} record or source: ${update.id}`);
+    const same = (key: string, value: unknown) => table === "concerts" && key === "date" ? Date.parse(timestampISO(row.date)) === Date.parse(value as string) : equal(row[key], value);
     if (Object.entries(update.changes).every(([key, value]) => same(key, value))) continue;
-    if (update.expected_absent?.some(key => Object.hasOwn(row, key))) throw new Error(`Concert edited since research: ${update.id}`);
-    if (!Object.entries(update.expected).every(([key, value]) => same(key, value))) throw new Error(`Concert edited since research: ${update.id}`);
+    if (update.expected_absent?.some(key => Object.hasOwn(row, key))) throw new Error(`${table} record edited since research: ${update.id}`);
+    if (!Object.entries(update.expected).every(([key, value]) => same(key, value))) throw new Error(`${table} record edited since research: ${update.id}`);
     const changes = { ...update.changes };
-    if (typeof changes.date === "string") changes.date = Timestamp.fromDate(new Date(changes.date));
-    next.concerts[update.id] = { ...row, ...changes };
+    if (table === "concerts" && typeof changes.date === "string") changes.date = Timestamp.fromDate(new Date(changes.date));
+    next[table][update.id] = { ...row, ...changes };
   }
   if (!equal(cleanSchema(next), next)) throw new Error("Catalog correction violates clean schema");
   for (const name of tableNames) validateTableSize(next[name]);

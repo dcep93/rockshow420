@@ -44,6 +44,6 @@ for (const name of changed) if (!equal(verified[name].records, prepared[name])) 
 if (!equal(verified.concerts.applied_revisions, receipts)) throw new Error("Missing catalog revision receipt");
 const summaries = pending.map(({ patch, hash }) => ({ id: patch.id, hash, added_concerts: patch.concert_additions?.length || 0,
   added_sets: patch.lineup_additions.length + (patch.concert_additions || []).reduce((count, item) => count + Object.keys(item.schedule?.sets || {}).length, 0),
-  updated_concerts: patch.concert_updates.length }));
+  updated_concerts: patch.concert_updates.length, updated_artists: patch.artist_updates?.length || 0, updated_venues: patch.venue_updates?.length || 0 }));
 await writeFile(`${work}/catalog-corrections-verified.json`, JSON.stringify({ revisions: summaries, changed, verified_at: new Date().toISOString() }, null, 2));
 console.log(`Verified catalog revisions: ${JSON.stringify(summaries)}`);

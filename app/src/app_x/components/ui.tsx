@@ -87,12 +87,22 @@ export function Empty({ title, children }: { title: string; children?: ReactNode
   );
 }
 
-export function Picture({ src, name, large = false }: { src?: string; name: string; large?: boolean }) {
-  const [failedSrc, setFailedSrc] = useState<string>();
-  if (!src || !/^https?:\/\//i.test(src) || failedSrc === src) return null;
+export function Picture({ src, name, fallbackSrc, fallbackName, large = false }: {
+  src?: string;
+  name: string;
+  fallbackSrc?: string;
+  fallbackName?: string;
+  large?: boolean;
+}) {
+  const [failedSources, setFailedSources] = useState<string[]>([]);
+  const picture = [{ src, name }, { src: fallbackSrc, name: fallbackName || name }]
+    .find((candidate) => candidate.src && /^https?:\/\//i.test(candidate.src) && !failedSources.includes(candidate.src));
+  if (!picture?.src) return null;
+  const source = picture.src;
   return (
     <div className={`rs-picture${large ? " rs-picture-large" : ""}`}>
-      <img src={src} alt={name} loading="lazy" referrerPolicy="no-referrer" onError={() => setFailedSrc(src)} />
+      <img key={source} src={source} alt={picture.name} loading="lazy" referrerPolicy="no-referrer"
+        onError={() => setFailedSources((failed) => failed.includes(source) ? failed : [...failed, source])} />
     </div>
   );
 }
