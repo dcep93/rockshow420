@@ -1,5 +1,6 @@
 import type { Catalog, Concert, UserConcert } from "../data/model";
-import { formatConcertDate } from "../data/time";
+import { ticketStatusLabels, ticketStatusSymbols } from "../data/model";
+import { concertPeriod, formatConcertDate } from "../data/time";
 import { Link } from "./navigation";
 import { entityPath } from "./routing";
 import { concertName } from "../data/presentation";
@@ -10,10 +11,12 @@ export function ConcertRow({
   concert,
   catalog,
   log,
+  now,
 }: {
   concert: Concert;
   catalog: Catalog;
   log?: UserConcert | null;
+  now?: number;
 }) {
   const artist = catalog.artists.find((item) => item.id === concert.artist_id);
   const venue = catalog.venues.find((item) => item.id === concert.venue_id);
@@ -21,12 +24,17 @@ export function ConcertRow({
     (id) => catalog.artists.find((item) => item.id === id)?.name || "Unavailable artist",
   );
   const date = formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date);
+  const status = log?.ticket_status || "";
+  const symbol = now !== undefined && concertPeriod(concert, venue?.timezone || "UTC", now) === "upcoming" ? ticketStatusSymbols[status] : "";
   return (
     <article className={`rs-concert-row${log?.removed ? " rs-concert-hidden" : ""}`}>
       <Picture src={artist?.image} name={artist?.name || ""} fallbackSrc={venue?.image} fallbackName={venue?.name} />
       <div className="rs-concert-info">
         {log?.removed && <span className="rs-hidden-label">Hidden</span>}
-        <p className="rs-date">{log?.ticket_status === "cancelled" ? `[${date}]` : date}</p>
+        <p className="rs-date">
+          {status === "cancelled" ? `[${date}]` : date}
+          {symbol && <> <span title={ticketStatusLabels[status]} aria-label={ticketStatusLabels[status]}>{symbol}</span></>}
+        </p>
         <h2>
           <Link href={entityPath("concert", concert.id, concertName(concert, catalog))}>
             {concert.name || artist?.name || "Unknown artist"}

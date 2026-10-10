@@ -1,10 +1,9 @@
 import { DateTime } from "luxon";
-import type { Catalog, Concert, TicketStatus } from "./model";
+import type { Catalog, Concert } from "./model";
 import { selectedArtistIds } from "./schedules";
-import { userConcertRows } from "./model";
+import { ticketStatusSymbols, userConcertRows } from "./model";
 import { isCalendarDate, isTimezone } from "./time";
 
-const prefixes: Record<TicketStatus, string> = { "": "", purchased: "$", sold_out: "%", cancelled: "!" };
 const compare = (a: string, b: string) => a < b ? -1 : a > b ? 1 : 0;
 const oneLine = (value: string) => value.replace(/\s+/gu, " ").trim();
 type Entry = { id: string; start: string; end: string; title: string; venue: string; prefix: string; key: string };
@@ -49,7 +48,7 @@ export function exportUserLog(catalog: Catalog, uid: string): string {
     const start = calendarDay(concert, venue?.timezone);
     const end = concert.end_date || start;
     if (!isCalendarDate(end) || end < start) throw new Error("Cannot export an invalid date range.");
-    const prefix = prefixes[log?.ticket_status || ""];
+    const prefix = ticketStatusSymbols[log?.ticket_status || ""];
     const key = JSON.stringify([concert.name || concert.artist_id, concert.venue_id, support, prefix, start.slice(0, 4)]);
     const entry: Entry = { id: concert.id, start, end, title, venue: oneLine(venue?.name || ""), prefix, key };
     const group = groups.get(key) || [];

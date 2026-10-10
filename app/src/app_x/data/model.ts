@@ -38,6 +38,7 @@ export interface Profile {
 }
 export type TicketStatus = "" | "purchased" | "sold_out" | "cancelled";
 export const ticketStatusLabels: Record<TicketStatus, string> = { "": "", purchased: "Purchased", sold_out: "Sold out", cancelled: "Cancelled" };
+export const ticketStatusSymbols: Record<TicketStatus, string> = { "": "", purchased: "$", sold_out: "%", cancelled: "!" };
 export function isTicketStatus(value: unknown): value is TicketStatus {
   return value === "" || value === "purchased" || value === "sold_out" || value === "cancelled";
 }

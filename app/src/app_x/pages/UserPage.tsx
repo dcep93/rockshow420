@@ -40,7 +40,7 @@ export function UserPage({ username }: { username: string }) {
   }
   groups.upcoming.reverse();
   const renderRow = ({ log, concert }: typeof rows[number]) => concert ? (
-    <ConcertRow key={concert.id} catalog={catalog} concert={concert} log={log ?? null} />
+    <ConcertRow key={concert.id} catalog={catalog} concert={concert} log={log ?? null} now={now} />
   ) : log ? (
     <div key={log.id} className={`rs-message${log.removed ? " rs-concert-hidden" : ""}`}>
       Concert unavailable{log.removed && <span className="rs-hidden-label">Hidden</span>}
