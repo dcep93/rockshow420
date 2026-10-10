@@ -2,6 +2,7 @@ import { Component, useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import type { EntityKind } from "./data/model";
 import { exportUserLog } from "./data/exportLog";
+import { exportUserNotes } from "./data/exportNotes";
 import { AppProvider, useApp } from "./data/store";
 import { Link } from "./components/navigation";
 import { canonicalPath, navigate, readRoute, usePath } from "./components/routing";
@@ -67,6 +68,15 @@ function Shell() {
                   setActionError("");
                   try {
                     await navigator.clipboard.writeText(exportUserLog(catalog, viewer.uid));
+                  } catch (caught) {
+                    setActionError(errorMessage(caught));
+                    throw caught;
+                  }
+                }}
+                onExportNotes={async () => {
+                  setActionError("");
+                  try {
+                    await navigator.clipboard.writeText(exportUserNotes(catalog, viewer.uid));
                   } catch (caught) {
                     setActionError(errorMessage(caught));
                     throw caught;

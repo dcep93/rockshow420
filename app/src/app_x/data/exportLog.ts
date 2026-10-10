@@ -2,11 +2,11 @@ import { DateTime } from "luxon";
 import type { Catalog, Concert } from "./model";
 import { selectedArtistIds } from "./schedules";
 import { ticketStatusSymbols, userConcertRows } from "./model";
-import { isCalendarDate, isTimezone } from "./time";
+import { concertPeriod, isCalendarDate, isTimezone } from "./time";
 
 const compare = (a: string, b: string) => a < b ? -1 : a > b ? 1 : 0;
 const oneLine = (value: string) => value.replace(/\s+/gu, " ").trim();
-type Entry = { id: string; start: string; end: string; title: string; venue: string; prefix: string; key: string };
+type Entry = { id: string; start: string; end: string; title: string; venue: string; prefix: string; key: string; upcoming: boolean };
 
 function calendarDay(concert: Concert, timezone?: string): string {
   if (concert.date_precision === "day") {
@@ -28,8 +28,8 @@ function dateRange(start: string, end: string): string {
 }
 
 // Only current catalog data and this user's overrides determine the output.
-// Imported source wording, IDs, today's date and browser locale play no role.
-export function exportUserLog(catalog: Catalog, uid: string): string {
+// The clock only determines the blank line separating upcoming and past runs.
+export function exportUserLog(catalog: Catalog, uid: string, now = Date.now()): string {
   const artists = new Map(catalog.artists.map((artist) => [artist.id, artist.name]));
   const venues = new Map(catalog.venues.map((venue) => [venue.id, venue]));
   const artistName = (id: string) => {
@@ -50,7 +50,8 @@ export function exportUserLog(catalog: Catalog, uid: string): string {
     if (!isCalendarDate(end) || end < start) throw new Error("Cannot export an invalid date range.");
     const prefix = ticketStatusSymbols[log?.ticket_status || ""];
     const key = JSON.stringify([concert.name || concert.artist_id, concert.venue_id, support, prefix, start.slice(0, 4)]);
-    const entry: Entry = { id: concert.id, start, end, title, venue: oneLine(venue?.name || ""), prefix, key };
+    const upcoming = concertPeriod(concert, venue?.timezone || "UTC", now) === "upcoming";
+    const entry: Entry = { id: concert.id, start, end, title, venue: oneLine(venue?.name || ""), prefix, key, upcoming };
     const group = groups.get(key) || [];
     group.push(entry);
     groups.set(key, group);
@@ -64,14 +65,17 @@ export function exportUserLog(catalog: Catalog, uid: string): string {
       const adjacent = previous && DateTime.fromISO(previous.end, { zone: "UTC" }).plus({ days: 1 }).toISODate() === entry.start;
       if (previous?.key === entry.key && adjacent && previous.end.slice(0, 4) === entry.end.slice(0, 4)) {
         previous.end = entry.end;
+        previous.upcoming = entry.upcoming;
       } else runs.push({ ...entry });
     }
   }
   runs.sort((a, b) => compare(b.start, a.start) || compare(b.end, a.end) || compare(a.title, b.title) || compare(a.venue, b.venue) || compare(a.prefix, b.prefix) || compare(a.id, b.id));
   const years = new Map<string, string[]>();
+  const firstPast = runs.findIndex(entry => !entry.upcoming);
   for (const entry of runs) {
     const year = entry.start.slice(0, 4);
     const lines = years.get(year) || [];
+    if (lines.length && firstPast > 0 && entry === runs[firstPast]) lines.push("");
     lines.push(`${entry.prefix}${entry.title} ${dateRange(entry.start, entry.end)}${entry.venue ? ` ${entry.venue}` : ""}`);
     years.set(year, lines);
   }

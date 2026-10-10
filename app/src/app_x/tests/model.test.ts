@@ -129,7 +129,7 @@ test("adding a festival start time preserves its final day in labels, grouping, 
   assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T12:59:59Z")), "upcoming");
   assert.equal(concertPeriod(festival, zone, Date.parse("2019-08-12T13:00:00Z")), "past");
   const catalog = { ...emptyCatalog, concerts: [festival], venues: [normalizeVenue("v", { timezone: zone })] };
-  assert.equal(exportUserLog(catalog, "me"), "Outside Lands 8/9-11\n2019");
+  assert.equal(exportUserLog(catalog, "me", 0), "Outside Lands 8/9-11\n2019");
 });
 
 test("every concert appears by default; only that user's explicit removals hide it", () => {
@@ -199,9 +199,9 @@ test("clipboard export uses personal status, local dates, trailing years and mat
     ],
   };
   const expected = "$Band + Opener 11/5 Hall\n%Band 10/29-31 Hall\n2026\n\n\nFestival 12/31/2025-1/2/2026\n2025";
-  assert.equal(exportUserLog(catalog, "u"), expected);
-  assert.equal(exportUserLog({ ...catalog, concerts: [...catalog.concerts].reverse(), logs: [...catalog.logs].reverse() }, "u"), expected);
-  assert.equal(exportUserLog(emptyCatalog, "u"), "");
+  assert.equal(exportUserLog(catalog, "u", 0), expected);
+  assert.equal(exportUserLog({ ...catalog, concerts: [...catalog.concerts].reverse(), logs: [...catalog.logs].reverse() }, "u", 0), expected);
+  assert.equal(exportUserLog(emptyCatalog, "u", 0), "");
 });
 
 test("export never merges across hidden dates, differing statuses, venues or year boundaries", () => {
@@ -212,9 +212,9 @@ test("export never merges across hidden dates, differing statuses, venues or yea
     concerts: [concert("1", "2026-10-29"), concert("2", "2026-10-30"), concert("3", "2026-10-31"), concert("4", "2026-11-01", "w"), concert("5", "2026-12-31"), concert("6", "2027-01-01")],
     logs: [normalizeLog("hidden", { user_id: "u", concert_id: "2", removed: true })],
   };
-  assert.equal(exportUserLog(catalog, "u"), "Show 1/1 Hall\n2027\n\n\nShow 12/31 Hall\nShow 11/1 Elsewhere\nShow 10/31 Hall\nShow 10/29 Hall\n2026");
+  assert.equal(exportUserLog(catalog, "u", 0), "Show 1/1 Hall\n2027\n\n\nShow 12/31 Hall\nShow 11/1 Elsewhere\nShow 10/31 Hall\nShow 10/29 Hall\n2026");
   catalog.logs = [normalizeLog("sold", { user_id: "u", concert_id: "2", ticket_status: "sold_out" })];
-  assert.match(exportUserLog(catalog, "u"), /Show 10\/31 Hall\n%Show 10\/30 Hall\nShow 10\/29 Hall/);
+  assert.match(exportUserLog(catalog, "u", 0), /Show 10\/31 Hall\n%Show 10\/30 Hall\nShow 10\/29 Hall/);
 });
 
 test("cancelled tickets export with ! and stay separate from default tickets", () => {
@@ -223,14 +223,14 @@ test("cancelled tickets export with ! and stay separate from default tickets", (
     concerts: [1, 2].map((day) => normalizeConcert(String(day), { name: "Show", date: `2026-10-0${day}`, date_precision: "day" })),
     logs: [normalizeLog("cancelled", { user_id: "u", concert_id: "1", ticket_status: "cancelled" })],
   };
-  assert.equal(exportUserLog(catalog, "u"), "Show 10/2\n!Show 10/1\n2026");
+  assert.equal(exportUserLog(catalog, "u", 0), "Show 10/2\n!Show 10/1\n2026");
 });
 
 test("export handles month-spanning ranges and rejects incomplete data instead of silently dropping it", () => {
   const catalog = { ...emptyCatalog, concerts: [normalizeConcert("f", { name: "Festival", date: "2024-02-28", date_precision: "day", end_date: "2024-03-02" })] };
-  assert.equal(exportUserLog(catalog, "u"), "Festival 2/28-3/2\n2024");
-  assert.throws(() => exportUserLog({ ...catalog, concerts: [normalizeConcert("bad", {})] }, "u"));
-  assert.throws(() => exportUserLog({ ...emptyCatalog, logs: [normalizeLog("orphan", { user_id: "u", concert_id: "missing" })] }, "u"));
+  assert.equal(exportUserLog(catalog, "u", 0), "Festival 2/28-3/2\n2024");
+  assert.throws(() => exportUserLog({ ...catalog, concerts: [normalizeConcert("bad", {})] }, "u", 0));
+  assert.throws(() => exportUserLog({ ...emptyCatalog, logs: [normalizeLog("orphan", { user_id: "u", concert_id: "missing" })] }, "u", 0));
 });
 
 
