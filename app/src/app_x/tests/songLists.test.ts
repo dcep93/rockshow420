@@ -72,7 +72,7 @@ test("search ignores case and special characters while preserving word spaces", 
   assert.equal(normalizeSearch("!?%_"), "");
 });
 
-test("concert search includes the full lineup, independent of attendance, but never Spotify or metadata", () => {
+test("concert search includes the title and full lineup, independent of attendance, but never Spotify or song metadata", () => {
   const artists = [normalizeArtist("a", { name: "AC/DC" }), normalizeArtist("b", { name: "Beyoncé" })];
   const concerts = [normalizeConcert("c", { artist_id: "a", supporting_artist_ids: ["b"], name: "Not an artist" })];
   const withNotes: SongCaches = { ...caches, setlists: { ...caches.setlists,
@@ -80,17 +80,30 @@ test("concert search includes the full lineup, independent of attendance, but ne
   } };
   const before = JSON.stringify({ artists, concerts, withNotes });
   const entry = buildConcertSearch(concerts, artists, [], withNotes).get("c");
-  for (const query of ["acdc", "AC/DC", "beyonce", "YONCÉ"]) assert(matchesConcertSearch(entry, query));
+  for (const query of ["acdc", "AC/DC", "beyonce", "YONCÉ", "Not an artist"]) assert(matchesConcertSearch(entry, query));
   assert(!matchesConcertSearch(entry, "DONT STOP"));
   assert(matchesConcertSearch(entry, "DON’T STOP", true));
   assert(matchesConcertSearch(entry, "played", true), "supporting artist songs are searchable");
-  for (const query of ["Popular", "Metadata only", "Song annotation", "Encore", "https", "Not an artist"]) {
+  for (const query of ["Popular", "Metadata only", "Song annotation", "Encore", "https"]) {
     assert(!matchesConcertSearch(entry, query, true), query);
   }
   assert.equal(JSON.stringify({ artists, concerts, withNotes }), before);
   assert(matchesConcertSearch(undefined, "  "));
   assert(matchesConcertSearch(undefined, "$%!?"));
   assert(!matchesConcertSearch(undefined, "anything", true));
+});
+
+test("festival search matches partial titles and schedule artists without inventing absent performers", () => {
+  const artists = [normalizeArtist("highwomen", { name: "The Highwomen" }), normalizeArtist("stapleton", { name: "Chris Stapleton" })];
+  const concert = normalizeConcert("bottlerock", { name: "BottleRock Napa Valley" });
+  const schedule = normalizeSchedule(concert.id, { sets: { friday: { artist_id: "highwomen" } } });
+  const input: SongCaches = { setlists: { "highwomen:bottlerock": [{ ...performance, set_id: "friday" }] }, musicals: {}, spotify: { highwomen: top } };
+  const entry = buildConcertSearch([concert], artists, [schedule], input).get(concert.id);
+  for (const query of ["bottle", "BOTTLE", "Bottle-Rock", "highwomen"]) assert(matchesConcertSearch(entry, query), query);
+  assert(!matchesConcertSearch(entry, "stapleton", true));
+  assert(!matchesConcertSearch(entry, "Popular", true));
+  assert(!matchesConcertSearch(entry, "Played"));
+  assert(matchesConcertSearch(entry, "Played", true));
 });
 
 test("setlist search respects encoded concert identities, all scheduled sets, and musical programs", () => {

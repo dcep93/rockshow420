@@ -49,7 +49,6 @@ export function UserPage({ username }: { username: string }) {
   return (
     <>
       <section className="rs-user-heading">
-          <h1>@{username}</h1>
           <div className="rs-log-controls">
             <span className="rs-count">{count} {count === 1 ? "concert" : "concerts"}</span>
             <label className="rs-check">

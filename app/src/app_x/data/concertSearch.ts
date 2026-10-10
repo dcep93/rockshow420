@@ -1,7 +1,7 @@
 import type { Artist, Concert, Schedule } from "./model";
 import type { SongCaches, SongSet } from "./songLists";
 
-export type ConcertSearchEntry = { artists: string[]; songs: string[] };
+export type ConcertSearchEntry = { title: string; artists: string[]; songs: string[] };
 export type SetlistCaches = Pick<SongCaches, "setlists" | "musicals">;
 
 export function normalizeSearch(value: string): string {
@@ -13,8 +13,8 @@ export function buildConcertSearch(concerts: Concert[], artists: Artist[], sched
   const names = new Map(artists.map(artist => [artist.id, normalizeSearch(artist.name)]));
   const performances = new Map(schedules.map(schedule => [schedule.id, schedule.sets]));
   return new Map(concerts.map(concert => {
-    const ids = [...new Set([concert.artist_id, ...concert.supporting_artist_ids].filter(Boolean))];
     const scheduled = performances.get(concert.id) || [];
+    const ids = [...new Set([concert.artist_id, ...concert.supporting_artist_ids, ...scheduled.map(set => set.artist_id)].filter(Boolean))];
     const songs = new Set<string>();
     const addSongs = (sets: SongSet[]) => {
       for (const set of sets) for (const song of set.songs) {
@@ -34,12 +34,12 @@ export function buildConcertSearch(concerts: Concert[], artists: Artist[], sched
     }
     const program = caches.musicals[concert.id];
     if (program?.kind === "musical_program") addSongs(program.sets);
-    return [concert.id, { artists: ids.map(id => names.get(id) || "").filter(Boolean), songs: [...songs] }];
+    return [concert.id, { title: normalizeSearch(concert.name || ""), artists: ids.map(id => names.get(id) || "").filter(Boolean), songs: [...songs] }];
   }));
 }
 
 export function matchesConcertSearch(entry: ConcertSearchEntry | undefined, query: string, searchSetlists = false): boolean {
   const term = normalizeSearch(query);
-  return !term || !!entry && (entry.artists.some(name => name.includes(term))
+  return !term || !!entry && (entry.title.includes(term) || entry.artists.some(name => name.includes(term))
     || searchSetlists && entry.songs.some(name => name.includes(term)));
 }

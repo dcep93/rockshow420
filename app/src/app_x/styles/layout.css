@@ -402,11 +402,6 @@
   gap: 0.125rem 1.5rem;
   margin-bottom: 0.75rem;
 }
-.rs-user-heading h1 {
-  font-size: 1.75rem;
-  line-height: 1.25;
-  margin: 0;
-}
 .rs-log-controls {
   display: flex;
   align-items: center;
