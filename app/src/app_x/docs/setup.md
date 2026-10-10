@@ -1,53 +1,42 @@
 # Firebase setup and local verification
 
-The app uses the existing `rockshow420` Firebase project. Its public Firebase web
-configuration comes from the project's Hosting initialization endpoint and is
+The app uses the `concertboxd` Firebase project. Its public Firebase web
+configuration comes from its registered Concertboxd web app and is
 checked into `data/firebase.ts`; these values are client identifiers, not a
 service account key. No production database creation, rule deployment, seed, or
 real Google sign-in is performed by automated tests.
 
 ## One-time production setup
 
-1. Open [Firestore for rockshow420](https://console.firebase.google.com/project/rockshow420/firestore),
+1. Open [Firestore for concertboxd](https://console.firebase.google.com/project/concertboxd/firestore),
    click **Create database**, and create the **(default)** database. Choose the
    appropriate permanent location and production/locked rules. Do not use test
    mode. The app uses the default database, not a named database.
-2. Open [Authentication](https://console.firebase.google.com/project/rockshow420/authentication/providers),
+2. Open [Authentication](https://console.firebase.google.com/project/concertboxd/authentication/providers),
    initialize Authentication if needed, and enable **Google** under Sign-in
    method. Select a project support email. The app only accepts verified
    `@gmail.com` Google identities; Workspace/non-Gmail accounts are rejected.
 3. Under Authentication → Settings → Authorized domains, verify
-   `rockshow420.web.app` and `rockshow420.firebaseapp.com`. Add any actual custom
+   `concertboxd.web.app` and `concertboxd.firebaseapp.com`. Add any actual custom
    Hosting domain. Add `localhost` only if using production Google sign-in from
    local development; the default local test path is the Auth emulator.
-4. GitHub Actions deploys the checked-in Firestore rules before Hosting on every
-   push to `main`. If rule deployment fails, Hosting is not published. The
-   deployment service account stored in `SA_KEY` needs Firebase Rules Admin and
-   Service Usage Viewer in addition to its existing Hosting permissions. The
-   latter lets the CLI check whether the Firestore API is enabled. A project
-   owner grants these once (using the account configured by `newapp.sh`):
+4. GitHub Actions backs up and validates the six tables, then deploys the
+   checked-in Firestore rules/indexes and Hosting on each push to `main`.
+   Authentication uses Workload Identity Federation with the deployment account
+   `deployer-github@concertboxd.iam.gserviceaccount.com`; no stored service-account
+   key or local Firebase login is needed. The provider is restricted to this
+   repository's numeric ID, owner ID, and `refs/heads/main`.
 
-   ```sh
-   for role in roles/firebaserules.admin roles/serviceusage.serviceUsageViewer; do
-     gcloud projects add-iam-policy-binding rockshow420 \
-       --member="serviceAccount:deployer-github@rockshow420.iam.gserviceaccount.com" \
-       --role="$role"
-   done
-   ```
+   The deployment account has Firebase Hosting Admin, Firebase Rules Admin,
+   Cloud Datastore Viewer, Cloud Datastore Index Admin, and Service Usage
+   Consumer. Routine deployment can read application data for backup and
+   verification but cannot edit it. One-time migrations are separate console
+   operations and never run automatically on a push.
 
-   See [Firebase Rules Admin permissions](https://docs.cloud.google.com/iam/docs/roles-permissions/firebaserules).
-   See [Service Usage permissions](https://docs.cloud.google.com/iam/docs/roles-permissions/serviceusage).
-   The workflow uses its existing `SA_KEY` secret; local Firebase login is not
-   needed for automatic deployment. To deploy rules manually instead, run from
-   the repository's `app` directory:
+   To deploy manually from an authorized Firebase console Cloud Shell, use the
+   checked-in `firebase.production.json` after building the app and copying
+   `dist` to `src/app_x/backend/hosting-dist`. Do not place credentials in the repo.
 
-   ```sh
-   npm ci
-   npx firebase login
-   npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.json --only firestore:rules
-   ```
-
-   Do not place credentials in the repo.
 5. Open the deployed app and sign in as **dcep93@gmail.com**. Find this account's
    UID under Authentication → Users. In the Firestore console create
    `admins/<that UID>` containing exactly these authorization fields:
@@ -67,10 +56,10 @@ real Google sign-in is performed by automated tests.
 
 Use Node supported by the installed Firebase CLI and Java 21 or later on PATH.
 All commands below run from `app`. Fixtures and rules tests use the demo project
-`demo-rockshow420` so they cannot target the production Firebase project.
+`demo-concertboxd` so they cannot target the production Firebase project.
 
 ```sh
-npx firebase emulators:start --project demo-rockshow420 --config src/app_x/backend/firebase.json --only auth,firestore
+npx firebase emulators:start --project demo-concertboxd --config src/app_x/backend/firebase.json --only auth,firestore
 ```
 
 In a second terminal:
@@ -93,7 +82,7 @@ if that environment variable is set at build time. Stop emulators when done.
 
 ```sh
 npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/session.test.ts
-npx firebase emulators:exec --project demo-rockshow420 --config src/app_x/backend/firebase.json --only firestore 'npx tsx --test src/app_x/tests/rules.test.ts'
+npx firebase emulators:exec --project demo-concertboxd --config src/app_x/backend/firebase.json --only firestore 'npx tsx --test src/app_x/tests/rules.test.ts'
 npm run build
 npm run lint
 ```
@@ -142,8 +131,8 @@ artists, venues, concerts and users. They never connect to production. Coverage
 includes public pages on desktop/mobile, cosmetic URL slugs, Gmail-only popup
 sign-in, inline owner edits, hidden-log display and unhide, default-override cleanup, admin record creation,
 missing-reference repair, exact-timestamp and unknown-field preservation, and
-DST gap/repeat entry. Screenshots and failure traces go to `/tmp/rockshow420-checks`
-and `/tmp/rockshow420-browser-results`.
+DST gap/repeat entry. Screenshots and failure traces go to `/tmp/concertboxd-checks`
+and `/tmp/concertboxd-browser-results`.
 
 `npm test` runs the model/timezone checks. `npm run test:rules` launches an isolated
 Firestore emulator for authorization checks; stop any existing emulator on port

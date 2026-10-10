@@ -1,6 +1,6 @@
-# rockshow420 — approved design
+# concertboxd — approved design
 
-Approved with `yesi` on 2026-10-07. Firebase project: rockshow420. Sole administrator: dcep93@gmail.com.
+Approved with `yesi` on 2026-10-07. Firebase project: concertboxd. Sole administrator: dcep93@gmail.com.
 
 ## Experience
 
@@ -85,7 +85,7 @@ Escape returns to the signed-in user's log, or `/` when signed out. It works fro
 
 Concerts and festivals use six-character random lowercase alphanumeric IDs, generated with Web Crypto and checked for collisions in the create transaction. Collision retries allocate a new ID rather than overwriting any existing record. Editing preserves the existing ID. Artist and venue IDs are unchanged; user-entry IDs remain `<uid>_<concertId>` for ownership rules.
 
-All 354 concerts and 15 festivals were migrated on 2026-10-08 UTC. All 15 festival references and four user overrides moved with them. Before/after Firestore REST snapshots and the mapping are saved outside the source repository in `~/repos/_codex_output/rockshow420/id-migration-2026-10-08/`. An independent comparison verified every document field, allowing only the intended ID/reference substitutions; collection counts and unrelated records are unchanged. A fresh-server repeat verified zero remaining renames. `legacyIds.json` resolves old concert/festival links and replaces their URL without adding history. The historical Notion manifest retains original import IDs as an audit record and is not a runtime data source. The temporary admin migration control was removed after completion. Compatibility redirects and new-ID creation remain local until deployed.
+All 354 concerts and 15 festivals were migrated on 2026-10-08 UTC. All 15 festival references and four user overrides moved with them. Before/after Firestore REST snapshots and the mapping are saved outside the source repository in `~/repos/_codex_output/concertboxd/id-migration-2026-10-08/`. An independent comparison verified every document field, allowing only the intended ID/reference substitutions; collection counts and unrelated records are unchanged. A fresh-server repeat verified zero remaining renames. `legacyIds.json` resolves old concert/festival links and replaces their URL without adding history. The historical Notion manifest retains original import IDs as an audit record and is not a runtime data source. The temporary admin migration control was removed after completion. Compatibility redirects and new-ID creation remain local until deployed.
 
 
 # Portable title fonts and cancelled tickets
@@ -94,4 +94,4 @@ Keep native Comic Sans first in `--app-title-font`, with bundled OFL Comic Relie
 
 Cancellation is a `user_concerts.ticket_status` value, displayed as Cancelled and exported with `!`. The one-off import cleanup moves legacy `concerts.status == cancelled` markers into the importing user's ticket status transactionally, preserving other fields and removing the redundant event marker.
 
-The two imported markers (BottleRock 2020 and Disturbed 2020) were moved to dcep93's ticket statuses on 2026-10-08 UTC. Live rules accept the new value. Before/after snapshots under `~/repos/_codex_output/rockshow420/cancelled-migration-2026-10-08/` verified that only the intended marker fields changed. The temporary migration control was removed.
+The two imported markers (BottleRock 2020 and Disturbed 2020) were moved to dcep93's ticket statuses on 2026-10-08 UTC. Live rules accept the new value. Before/after snapshots under `~/repos/_codex_output/concertboxd/cancelled-migration-2026-10-08/` verified that only the intended marker fields changed. The temporary migration control was removed.

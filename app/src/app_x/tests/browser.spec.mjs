@@ -1,8 +1,8 @@
 import { test, expect } from "@playwright/test";
 import { mkdir } from "node:fs/promises";
 import { seed, put } from "./seed.mjs";
-const firestore = "http://127.0.0.1:8080/v1/projects/demo-rockshow420/databases/(default)/documents";
-const authURL = "http://127.0.0.1:9099/emulator/v1/projects/demo-rockshow420/accounts";
+const firestore = "http://127.0.0.1:8080/v1/projects/demo-concertboxd/databases/(default)/documents";
+const authURL = "http://127.0.0.1:9099/emulator/v1/projects/demo-concertboxd/accounts";
 
 async function login(page, email, admin = false) {
   await page.goto("/");
@@ -19,7 +19,7 @@ async function login(page, email, admin = false) {
   await expect(page).toHaveURL(new RegExp("/user/" + email.split("@")[0] + "$"));
   const accounts = await (
     await fetch(
-      "http://127.0.0.1:9099/identitytoolkit.googleapis.com/v1/projects/demo-rockshow420/accounts:batchGet",
+      "http://127.0.0.1:9099/identitytoolkit.googleapis.com/v1/projects/demo-concertboxd/accounts:batchGet",
       { headers: { Authorization: "Bearer owner" } },
     )
   ).json();
@@ -44,13 +44,13 @@ async function doc(path) {
 }
 
 test.beforeEach(async () => {
-  await fetch("http://127.0.0.1:8080/emulator/v1/projects/demo-rockshow420/databases/(default)/documents", {
+  await fetch("http://127.0.0.1:8080/emulator/v1/projects/demo-concertboxd/databases/(default)/documents", {
     method: "DELETE",
     headers: { Authorization: "Bearer owner" },
   });
   await fetch(authURL, { method: "DELETE" });
   await seed();
-  await mkdir("/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks", { recursive: true });
+  await mkdir("/Users/danielcepeda/repos/_codex_output/concertboxd/browser-checks", { recursive: true });
 });
 
 test("public pages: complete logs, detail-only notes, stale slugs and mobile layout", async ({ page }) => {
@@ -63,14 +63,14 @@ test("public pages: complete logs, detail-only notes, stale slugs and mobile lay
   await expect(page.getByText("Public note from Alice.")).toHaveCount(0);
   await expect(page.getByText("Taking the train out. Cannot wait.")).toHaveCount(0);
   await expect(page.getByRole("button", { name: /upcoming|past|browse/i })).toHaveCount(0);
-  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks/user-desktop.png", fullPage: true });
+  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/concertboxd/browser-checks/user-desktop.png", fullPage: true });
   await page.getByRole("link", { name: "Radiohead", exact: true }).click();
   await expect(page.getByText("Public note from Alice.")).toBeVisible();
   await expect(page.getByText("Taking the train out. Cannot wait.")).toBeVisible();
   await page.goto("/concert/c1/old-name");
   await expect(page.getByRole("heading", { name: "Radiohead", exact: true })).toBeVisible();
   await page.setViewportSize({ width: 390, height: 844 });
-  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks/concert-mobile.png", fullPage: true });
+  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/concertboxd/browser-checks/concert-mobile.png", fullPage: true });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
   for (const [url, heading] of [
     ["/venue/foresthills/old-name", "Forest Hills Stadium"],
@@ -82,7 +82,7 @@ test("public pages: complete logs, detail-only notes, stale slugs and mobile lay
   }
   await page.goto("/user/dcep93");
   await expect(page.locator(".rs-concert-row")).toHaveCount(4);
-  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks/user-mobile.png", fullPage: true });
+  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/concertboxd/browser-checks/user-mobile.png", fullPage: true });
   await page.goto("/concert/missing/none");
   await expect(page.getByRole("heading", { name: "Concert not found" })).toBeVisible();
   expect(errors).toEqual([]);
@@ -106,7 +106,7 @@ test("the hidden toggle shows only hidden concerts, edited inline on their conce
   await page.getByRole("button", { name: "Save", exact: true }).click();
   await expect.poll(async () => (await doc(`user_concerts/${uid}_c1`))?.fields.notes.stringValue).toBe("Keep this note");
   expect((await doc(`user_concerts/${uid}_c1`)).fields.removed.booleanValue).toBe(true);
-  await page.getByRole("link", { name: "rockshow420", exact: true }).click();
+  await page.getByRole("link", { name: "concertboxd", exact: true }).click();
   await expect(page.locator(".rs-concert-row")).toHaveCount(3);
   const hidden = page.getByRole("checkbox", { name: "Show 1 hidden" });
   await expect(hidden).not.toBeChecked();
@@ -263,7 +263,7 @@ test("festival sets default unseen, repeated artists stay independent, and reset
   await expect(choices.nth(1)).toBeChecked();
   await page.setViewportSize({ width: 390, height: 844 });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
-  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/rockshow420/browser-checks/festival-mobile.png", fullPage: true });
+  await page.screenshot({ path: "/Users/danielcepeda/repos/_codex_output/concertboxd/browser-checks/festival-mobile.png", fullPage: true });
   await choices.nth(1).uncheck();
   await expect.poll(() => doc(`user_concerts/${uid}_yyea3y`)).toBeNull();
 });

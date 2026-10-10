@@ -11,10 +11,10 @@ const apply = args.includes("--apply");
 const beforeIndex = args.indexOf("--before-manifest");
 const beforePath = beforeIndex >= 0 ? args[beforeIndex + 1] : undefined;
 if ((beforeIndex >= 0 && (!beforePath || beforePath.startsWith("--"))) || args.some((arg, index) => arg !== "--apply" && arg !== "--before-manifest" && !(beforeIndex >= 0 && index === beforeIndex + 1))) throw new Error("Usage: tsx reconcileFestivalImport.ts [--apply] [--before-manifest path]");
-const work = "/Users/danielcepeda/repos/_codex_output/rockshow420/festival-gap-review-2026-10-08";
+const work = "/Users/danielcepeda/repos/_codex_output/concertboxd/festival-gap-review-2026-10-08";
 const before = JSON.parse(await readFile(beforePath || `${work}/manifest-before-gap-corrections.json`, "utf8"));
 const after = JSON.parse(await readFile(new URL("festival-lineups-2026-10-08.json", import.meta.url), "utf8"));
-const base = "http://127.0.0.1:8080/v1/projects/demo-rockshow420/databases/(default)/documents";
+const base = "http://127.0.0.1:8080/v1/projects/demo-concertboxd/databases/(default)/documents";
 async function request(path: string, body?: Raw) {
   const result = await fetch(base + path, { method: body ? "POST" : "GET", headers: { Authorization: "Bearer owner", "Content-Type": "application/json" }, ...(body ? { body: JSON.stringify(body) } : {}) });
   if (!result.ok) throw new Error(`Local emulator HTTP ${result.status}: ${await result.text()}`);

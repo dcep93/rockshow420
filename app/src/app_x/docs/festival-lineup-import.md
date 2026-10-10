@@ -1,6 +1,6 @@
 # Festival lineup import — October 8, 2026
 
-Deployed to production through [GitHub run 37745926370](https://github.com/dcep93/rockshow420/actions/runs/37745926370), attempt 3, on October 8, 2026. Migration, Hosting/asset verification, legacy retirement and final rules all passed. All 35 production personal overrides were preserved; the separate local emulator has six fixture overrides.
+Deployed to production through [GitHub run 37745926370](https://github.com/dcep93/concertboxd/actions/runs/37745926370), attempt 3, on October 8, 2026. Migration, Hosting/asset verification, legacy retirement and final rules all passed. All 35 production personal overrides were preserved; the separate local emulator has six fixture overrides.
 
 14 existing festival concerts now have 1,387 scheduled sets. All attendance starts unselected. Added 1,067 artist records and Parc del Fòrum; preserved all 354 concert IDs, one profile and six personal overrides. User data was compared before/after and was unchanged.
 
@@ -39,7 +39,7 @@ The versioned [manifest](../imports/festival-lineups-2026-10-08.json) contains e
 
 ## Re-running locally
 
-From `rockshow420/app`:
+From `concertboxd/app`:
 
 ```sh
 npx tsx src/app_x/imports/importFestivalLineups.ts
@@ -49,11 +49,11 @@ npx tsx src/app_x/imports/importFestivalLineups.ts --apply
 The first command is a dry run. The importer is hardwired to localhost port 8080 and has no production option. It validates references, days/times and table sizes, refuses conflicting schedules, backs up fresh documents, and submits conditional field updates atomically. It never writes `users` or `user_concerts`. Re-running after import returned `Already imported; no writes.`
 
 Pre-import backup:
-`/Users/danielcepeda/repos/_codex_output/rockshow420/festival-import-2026-10-08/before-apply-1791442793386.json`
+`/Users/danielcepeda/repos/_codex_output/concertboxd/festival-import-2026-10-08/before-apply-1791442793386.json`
 
 ## Verification
 
-Build and lint passed. All 37 model, schedule, cleanup and isolated-emulator table/rules tests passed. The rules tests used `demo-rockshow420-tables`, preserving the imported preview database. Spec and code-quality reviews passed. Browser checks confirmed NOS Alive's after-midnight timestamps and Lollapalooza's day-only schedule. Import validation and readback confirmed exact record counts and unchanged personal data.
+Build and lint passed. All 37 model, schedule, cleanup and isolated-emulator table/rules tests passed. The rules tests used `demo-concertboxd-tables`, preserving the imported preview database. Spec and code-quality reviews passed. Browser checks confirmed NOS Alive's after-midnight timestamps and Lollapalooza's day-only schedule. Import validation and readback confirmed exact record counts and unchanged personal data.
 
 After import: 1,387 artists, 94 venues, 354 concerts, 14 schedules, one profile and six personal overrides. The largest table is schedules at approximately 162 KB of JSON.
 

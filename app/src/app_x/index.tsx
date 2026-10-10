@@ -35,7 +35,7 @@ function Shell() {
     return () => window.removeEventListener("popstate", reset);
   }, []);
   useEffect(() => {
-    document.title = route.kind === "user" ? `@${route.id} · rockshow420` : "rockshow420";
+    document.title = route.kind === "user" ? `@${route.id} · concertboxd` : "concertboxd";
     if (ready && viewer && route.kind === "home")
       navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
   }, [ready, viewer, route.kind, route.id]);
@@ -54,7 +54,7 @@ function Shell() {
       {route.kind !== "home" && (
         <header className="rs-header">
           <Link className="rs-brand" href={home}>
-            rockshow420
+            concertboxd
           </Link>
           <nav aria-label="Main" aria-busy={!ready}>
             {ready && (viewer ? (

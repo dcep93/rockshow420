@@ -17,7 +17,7 @@ from seed_setlists import catalog, targets_for, identity, matches, related
 from setlist_page import Tree, extract
 
 parser = argparse.ArgumentParser(description=__doc__)
-parser.add_argument("--snapshot-root", type=Path, default=Path("/Users/danielcepeda/repos/_codex_output/rockshow420"))
+parser.add_argument("--snapshot-root", type=Path, default=Path("/Users/danielcepeda/repos/_codex_output/concertboxd"))
 parser.add_argument("--catalog", type=Path, help="Current decoded catalog, with tables mapping IDs to records")
 parser.add_argument("--work", type=Path, required=True)
 parser.add_argument("--refresh", action="store_true", help="Revisit all targets; preserve cached content and revision history")

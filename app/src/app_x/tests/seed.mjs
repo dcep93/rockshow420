@@ -1,5 +1,5 @@
 // Local fixtures only. Fixed demo project and loopback host intentionally cannot target production.
-const base = "http://127.0.0.1:8080/v1/projects/demo-rockshow420/databases/(default)/documents";
+const base = "http://127.0.0.1:8080/v1/projects/demo-concertboxd/databases/(default)/documents";
 function value(input) {
   if (Array.isArray(input)) return { arrayValue: { values: input.map(value) } };
   if (typeof input === "boolean") return { booleanValue: input };
@@ -106,5 +106,5 @@ export async function seed() {
 }
 if (process.argv[1]?.endsWith("/seed.mjs")) {
   await seed();
-  console.log("Seeded local demo-rockshow420 emulator only.");
+  console.log("Seeded local demo-concertboxd emulator only.");
 }

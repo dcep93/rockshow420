@@ -9,7 +9,7 @@ import { tableNames } from "../data/tables";
 import { timestampISO } from "../data/model";
 import { adminRest, decode, documentRoot, encode, records, type FirestoreDocument, type Raw } from "./firestoreRest";
 
-const work = process.env.CUTOVER_BACKUP_DIR || "/Users/danielcepeda/repos/_codex_output/rockshow420/production-cutover-2026-10-08";
+const work = process.env.CUTOVER_BACKUP_DIR || "/Users/danielcepeda/repos/_codex_output/concertboxd/production-cutover-2026-10-08";
 const args = process.argv.slice(2);
 if (args.some(arg => !["--apply", "--offline"].includes(arg)) || (args.includes("--apply") && args.includes("--offline"))) throw new Error("Usage: tsx productionCutover.ts [--apply | --offline]");
 const apply = args.includes("--apply");

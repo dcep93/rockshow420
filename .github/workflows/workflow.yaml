@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  id-token: write
 concurrency:
   group: production
   cancel-in-progress: false
@@ -15,8 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Set temporary paths
         run: |
-          echo "GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/firebase-service-account.json" >> "$GITHUB_ENV"
-          echo "CUTOVER_BACKUP_DIR=$RUNNER_TEMP/rockshow420-backup" >> "$GITHUB_ENV"
+          echo "CUTOVER_BACKUP_DIR=$RUNNER_TEMP/concertboxd-backup" >> "$GITHUB_ENV"
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -28,7 +28,7 @@ jobs:
         working-directory: app
         run: |
           npm run lint
-          npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/schedules.test.ts src/app_x/tests/cleanSchema.test.ts src/app_x/tests/songLists.test.ts src/app_x/tests/firestoreRest.test.ts src/app_x/tests/catalogCorrections.test.ts
+          npx tsx --test src/app_x/tests/model.test.ts src/app_x/tests/exports.test.ts src/app_x/tests/session.test.ts src/app_x/tests/schedules.test.ts src/app_x/tests/cleanSchema.test.ts src/app_x/tests/songLists.test.ts src/app_x/tests/firestoreRest.test.ts src/app_x/tests/catalogCorrections.test.ts
       - name: Check music caches
         run: python3 -m unittest discover -s app/src/app_x/tests -p 'test_*.py'
       - run: bash .github/workflows/record_sha.sh
@@ -37,16 +37,15 @@ jobs:
       - name: Stage Hosting files under Firebase config directory
         working-directory: app
         run: cp -R dist src/app_x/backend/hosting-dist
-      - name: Authenticate existing deployment account
-        env:
-          SA_KEY: ${{ secrets.SA_KEY }}
-        run: |
-          umask 077
-          printf '%s' "$SA_KEY" > "$GOOGLE_APPLICATION_CREDENTIALS"
-      - name: Back up and prepare database
-        id: prepare
+      - name: Authenticate Concertboxd deployment
+        uses: google-github-actions/auth@v3
+        with:
+          project_id: concertboxd
+          workload_identity_provider: projects/565493109366/locations/global/workloadIdentityPools/github/providers/github
+          service_account: deployer-github@concertboxd.iam.gserviceaccount.com
+      - name: Back up and verify migrated database
         working-directory: app
-        run: npx tsx src/app_x/scripts/productionCutover.ts
+        run: npx tsx src/app_x/scripts/backupProduction.ts
       - name: Preserve database backup before writes
         uses: actions/upload-artifact@v4
         with:
@@ -54,49 +53,15 @@ jobs:
           path: ${{ env.CUTOVER_BACKUP_DIR }}
           if-no-files-found: error
           retention-days: 90
-      - name: Deploy migration rules and index exemptions
-        if: steps.prepare.outputs.migration_needed == 'true'
+      - name: Deploy access rules and index exemptions
         working-directory: app
-        run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.migration.json --only firestore --non-interactive
-      - name: Allow existing clients to receive migration write protections
-        if: steps.prepare.outputs.migration_needed == 'true'
-        run: |
-          # Firestore documents up to ten minutes for active listeners to adopt rules.
-          # Wait before locking/copying, while the old app remains fully usable.
-          for minute in $(seq 1 11); do
-            echo "Waiting for rules propagation ($minute/11)"
-            sleep 60
-          done
-      - name: Migrate verified database
-        if: steps.prepare.outputs.migration_needed == 'true'
-        working-directory: app
-        env:
-          CUTOVER_BACKUP_UPLOADED: 'true'
-        run: npx tsx src/app_x/scripts/productionCutover.ts --apply
-      - name: Allow catalog revision metadata
-        if: steps.prepare.outputs.migration_needed == 'false'
-        working-directory: app
-        run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.production.json --only firestore:rules --non-interactive
-      - name: Apply reviewed catalog corrections
-        if: steps.prepare.outputs.migration_needed == 'false'
-        working-directory: app
-        env:
-          CUTOVER_BACKUP_UPLOADED: 'true'
-        run: npx tsx src/app_x/scripts/applyCatalogCorrections.ts
+        run: npx firebase deploy --project concertboxd --config src/app_x/backend/firebase.production.json --only firestore --non-interactive
       - name: Deploy application
         working-directory: app
-        run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.production.json --only hosting --non-interactive
+        run: npx firebase deploy --project concertboxd --config src/app_x/backend/firebase.production.json --only hosting --non-interactive
       - name: Verify deployed app and public data
         working-directory: app
         run: npx tsx src/app_x/scripts/verifyProduction.ts
-      - name: Retire archived legacy collections
-        working-directory: app
-        env:
-          CUTOVER_BACKUP_UPLOADED: 'true'
-        run: npx tsx src/app_x/scripts/retireLegacy.ts
-      - name: Deploy final access rules and index exemptions
-        working-directory: app
-        run: npx firebase deploy --project rockshow420 --config src/app_x/backend/firebase.production.json --only firestore --non-interactive
       - name: Preserve deployment reports
         if: always()
         uses: actions/upload-artifact@v4
@@ -105,6 +70,3 @@ jobs:
           path: ${{ env.CUTOVER_BACKUP_DIR }}
           if-no-files-found: ignore
           retention-days: 90
-      - name: Remove temporary credentials
-        if: always()
-        run: rm -f "$GOOGLE_APPLICATION_CREDENTIALS"

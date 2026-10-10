@@ -53,7 +53,7 @@ before(async () => {
     throw new Error("Run through firebase emulators:exec; production tests are forbidden.");
   const [host, port] = process.env.FIRESTORE_EMULATOR_HOST.split(":");
   env = await initializeTestEnvironment({
-    projectId: "demo-rockshow420-rules",
+    projectId: "demo-concertboxd-rules",
     firestore: {
       host,
       port: Number(port),

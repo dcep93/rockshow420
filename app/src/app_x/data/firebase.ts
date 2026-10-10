@@ -4,11 +4,12 @@ import { connectFirestoreEmulator, getFirestore } from "firebase/firestore";
 
 export const useEmulators = import.meta.env.DEV && import.meta.env.VITE_USE_EMULATORS === "true";
 const app = initializeApp({
-  apiKey: "AIzaSyAjl7fvIu3JXwoRSb36K4FNNdQMYxA-6Q4",
-  authDomain: "rockshow420.firebaseapp.com",
-  messagingSenderId: "571235844591",
-  projectId: useEmulators ? "demo-rockshow420" : "rockshow420",
-  storageBucket: "rockshow420.firebasestorage.app",
+  apiKey: "AIzaSyBalhxRswpygQyNYPjqam9dzNuq54pU6FI",
+  authDomain: "concertboxd.firebaseapp.com",
+  messagingSenderId: "565493109366",
+  projectId: useEmulators ? "demo-concertboxd" : "concertboxd",
+  appId: "1:565493109366:web:99dab1081e995c4f844557",
+  storageBucket: "concertboxd.firebasestorage.app",
 });
 export const auth = getAuth(app);
 export const db = getFirestore(app);

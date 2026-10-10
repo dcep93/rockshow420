@@ -4,7 +4,7 @@ import { Timestamp } from "firebase/firestore";
 
 export type Raw = Record<string, any>;
 export type FirestoreDocument = { name: string; fields: Raw; updateTime: string };
-export const project = "rockshow420";
+export const project = "concertboxd";
 export const documentRoot = `projects/${project}/databases/(default)/documents`;
 const endpoint = `https://firestore.googleapis.com/v1/${documentRoot}`;
 
@@ -47,7 +47,7 @@ export async function adminRest() {
   // No credential contents or access tokens are written to logs or backups.
   const { GoogleAuth } = require("google-auth-library");
   const auth = new GoogleAuth({ scopes: ["https://www.googleapis.com/auth/cloud-platform", "https://www.googleapis.com/auth/firebase"] });
-  if (await auth.getProjectId() !== project) throw new Error("Deployment credential project does not match rockshow420");
+  if (await auth.getProjectId() !== project) throw new Error("Deployment credential project does not match concertboxd");
   const token = { access_token: await auth.getAccessToken() };
   if (!token.access_token) throw new Error("No deployment credential available");
   async function request(path: string, body?: Raw, method = body ? "POST" : "GET"): Promise<any> {

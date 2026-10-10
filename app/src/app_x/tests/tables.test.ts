@@ -16,7 +16,7 @@ let migrationRules = false;
 async function loadRules(migration = false) {
   const [host, port] = process.env.FIRESTORE_EMULATOR_HOST!.split(":");
   await env?.cleanup();
-  env = await initializeTestEnvironment({ projectId: "demo-rockshow420-tables", firestore: { host, port: Number(port), rules: readFileSync(new URL(migration ? "../backend/firestore.migration.rules" : "../backend/firestore.rules", import.meta.url), "utf8") } });
+  env = await initializeTestEnvironment({ projectId: "demo-concertboxd-tables", firestore: { host, port: Number(port), rules: readFileSync(new URL(migration ? "../backend/firestore.migration.rules" : "../backend/firestore.rules", import.meta.url), "utf8") } });
   migrationRules = migration;
 }
 const user = (uid = "owner", email = "owner@gmail.com", verified = true, provider: "google.com" | "password" = "google.com") => env.authenticatedContext(uid, { email, email_verified: verified, firebase: { sign_in_provider: provider } }).firestore() as unknown as Firestore;

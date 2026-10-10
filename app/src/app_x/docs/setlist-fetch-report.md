@@ -66,4 +66,4 @@ Cache: 265 performances across 208 concerts. Empty means a matching source page 
 
 ## Full outcomes
 
-The machine-readable `setlist-fetch-progress.json` includes every target, source URL, empty page, rejected candidate and search result. All 124 `no_match` records have `search_verified: true`. Original page/DOM captures are retained in the dated `_codex_output/rockshow420/setlist-bulk-2026-10-08/pages` directory.
+The machine-readable `setlist-fetch-progress.json` includes every target, source URL, empty page, rejected candidate and search result. All 124 `no_match` records have `search_verified: true`. Original page/DOM captures are retained in the dated `_codex_output/concertboxd/setlist-bulk-2026-10-08/pages` directory.

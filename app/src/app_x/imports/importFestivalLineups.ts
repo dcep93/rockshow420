@@ -12,7 +12,7 @@ type Document = { name: string; fields: Record<string, Value>; updateTime: strin
 type Festival = { concert_id: string; name: string; expected_concert: Raw; concert_patch: Raw; sets: ScheduledSet[] };
 type Manifest = { version: number; artists: Record<string, Raw>; venues: Record<string, Raw>; festivals: Festival[] };
 const root = dirname(fileURLToPath(import.meta.url));
-const base = "http://127.0.0.1:8080/v1/projects/demo-rockshow420/databases/(default)/documents";
+const base = "http://127.0.0.1:8080/v1/projects/demo-concertboxd/databases/(default)/documents";
 const tableNames = ["artists", "venues", "concerts", "schedules", "users", "user_concerts"];
 const args = process.argv.slice(2);
 if (args.some(arg => arg !== "--apply")) throw new Error("Usage: tsx importFestivalLineups.ts [--apply]. This importer only targets the local demo emulator.");
@@ -109,7 +109,7 @@ if (!changes.size) {
 } else if (!apply) {
   console.log("Dry run passed. Re-run with --apply to write the local emulator.");
 } else {
-  const backupDir = resolve(root, "../../../../../_codex_output/rockshow420/festival-import-2026-10-08");
+  const backupDir = resolve(root, "../../../../../_codex_output/concertboxd/festival-import-2026-10-08");
   await mkdir(backupDir, { recursive: true });
   const backup = resolve(backupDir, `before-apply-${Date.now()}.json`);
   await writeFile(backup, JSON.stringify(snapshot, null, 2) + "\n", { flag: "wx" });

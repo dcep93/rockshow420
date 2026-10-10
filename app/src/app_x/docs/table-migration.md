@@ -62,6 +62,6 @@ A repeated release validates existing tables without replacing them. It backs up
 
 ## Completed release evidence
 
-[GitHub release](https://github.com/dcep93/rockshow420/actions/runs/37745926370): all steps passed. Live counts: 94 venues, 1,387 artists, 354 concerts, 14 schedules, one user and 35 personal overrides. Exact built HTML and five asset hashes matched production; the final access rules deployed successfully. Public browser checks rendered the corrected Kilby schedule and music-cache controls without runtime errors.
+[GitHub release](https://github.com/dcep93/concertboxd/actions/runs/37745926370): all steps passed. Live counts: 94 venues, 1,387 artists, 354 concerts, 14 schedules, one user and 35 personal overrides. Exact built HTML and five asset hashes matched production; the final access rules deployed successfully. Public browser checks rendered the corrected Kilby schedule and music-cache controls without runtime errors.
 
-Backup and verification reports were also downloaded outside the repository to `/Users/danielcepeda/repos/_codex_output/rockshow420/production-cutover-2026-10-08/github-run-37745926370-attempt-3-reports`. The `cutover-verified.json`, `hosting-verified.json`, and `retirement-verified.json` reports record counts, commit, asset hashes and deletion totals. These are operator artifacts, not app runtime data.
+Backup and verification reports were also downloaded outside the repository to `/Users/danielcepeda/repos/_codex_output/concertboxd/production-cutover-2026-10-08/github-run-37745926370-attempt-3-reports`. The `cutover-verified.json`, `hosting-verified.json`, and `retirement-verified.json` reports record counts, commit, asset hashes and deletion totals. These are operator artifacts, not app runtime data.

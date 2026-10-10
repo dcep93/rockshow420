@@ -9,7 +9,7 @@ export function Login() {
   const [error, setError] = useState("");
   return (
     <section className="rs-login">
-      <h1>rockshow420</h1>
+      <h1>concertboxd</h1>
       <button
         className="rs-google-button"
         type="button"
