@@ -35,7 +35,7 @@ function Shell() {
     return () => window.removeEventListener("popstate", reset);
   }, []);
   useEffect(() => {
-    document.title = route.kind === "user" ? `@${route.id} · concertboxd` : "concertboxd";
+    document.title = "concertboxd";
     if (ready && viewer && route.kind === "home")
       navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
   }, [ready, viewer, route.kind, route.id]);
