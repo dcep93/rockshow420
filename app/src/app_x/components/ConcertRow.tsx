@@ -1,6 +1,7 @@
 import type { Catalog, Concert, UserConcert } from "../data/model";
 import { ticketStatusLabels, ticketStatusSymbols } from "../data/model";
-import { concertPeriod, formatConcertDate } from "../data/time";
+import { concertPeriod } from "../data/time";
+import { ConcertDate } from "./ConcertDate";
 import { Link } from "./navigation";
 import { entityPath } from "./routing";
 import { concertName } from "../data/presentation";
@@ -23,7 +24,6 @@ export function ConcertRow({
   const support = catalog.schedules.some(item => item.id === concert.id) ? [] : (log === undefined ? concert.supporting_artist_ids : selectedArtistIds(catalog, concert, log)).map(
     (id) => catalog.artists.find((item) => item.id === id)?.name || "Unavailable artist",
   );
-  const date = formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date);
   const status = log?.ticket_status || "";
   const symbol = now !== undefined && concertPeriod(concert, venue?.timezone || "UTC", now) === "upcoming" ? ticketStatusSymbols[status] : "";
   return (
@@ -32,7 +32,7 @@ export function ConcertRow({
       <div className="rs-concert-info">
         {log?.removed && <span className="rs-hidden-label">Hidden</span>}
         <p className="rs-date">
-          {status === "cancelled" ? `[${date}]` : date}
+          <ConcertDate concert={concert} timezone={venue?.timezone || "UTC"} cancelled={status === "cancelled"} />
           {symbol && <> <span title={ticketStatusLabels[status]} aria-label={ticketStatusLabels[status]}>{symbol}</span></>}
         </p>
         <h2>

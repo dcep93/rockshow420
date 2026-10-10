@@ -2,7 +2,7 @@ import { ConcertDetails } from "../components/ConcertDetails";
 import { useApp } from "../data/store";
 import type { Concert, EntityKind } from "../data/model";
 import { canonicalId } from "../data/ids";
-import { formatConcertDate } from "../data/time";
+import { ConcertDate } from "../components/ConcertDate";
 import { ConcertRow } from "../components/ConcertRow";
 import { Link } from "../components/navigation";
 import { entityPath } from "../components/routing";
@@ -35,7 +35,7 @@ export function EntityPage({
         <section className="rs-detail-heading">
           <Picture key={concert.id} src={artist?.image} name={artist?.name || ""} fallbackSrc={venue?.image} fallbackName={venue?.name} large />
           <div className="rs-detail-title">
-            <p className="rs-eyebrow">{formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date)}</p>
+            <p className="rs-eyebrow"><ConcertDate concert={concert} timezone={venue?.timezone || "UTC"} /></p>
             <h1>{concert.name || artist?.name || "Unknown artist"}</h1>
             <p className="rs-subtitle">
               {venue ? (

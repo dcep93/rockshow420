@@ -47,9 +47,6 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
       <h2>{schedule?.sets.length ? "Schedule" : "Lineup"}</h2>
       {editor && <>
       <div className="rs-ticket-control">
-        {/^https?:\/\//i.test(concert.purchase_link || "")
-          ? <a href={concert.purchase_link} target="_blank" rel="noreferrer">Ticket status</a>
-          : <span>Ticket status</span>}
         <select aria-label="Ticket status" value={editor.ticketStatus} disabled={editor.busy} onChange={event => {
           if (isTicketStatus(event.target.value)) void editor.persist({ ticket_status: event.target.value }, "controls");
         }}>

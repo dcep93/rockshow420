@@ -43,3 +43,20 @@ test("date-only events get a symbol after their date; invalid dates get none", (
   assert.match(dateLine("purchased", cutoff - 1, day), /2026 <span[^>]*>\$<\/span>$/);
   assert(!dateLine("purchased", cutoff - 1, { ...concert, date: "" }).includes("<span"));
 });
+
+test("event dates link to purchase pages with cancellation and symbols preserved", () => {
+  const linked = { ...concert, purchase_link: "https://tickets.example.com/show" };
+  const line = dateLine("cancelled", cutoff - 1, linked);
+  assert.match(line, /<a class="rs-event-date-link" href="https:\/\/tickets.example.com\/show" target="_blank" rel="noreferrer">\[.*8:00 PM EDT\]<\/a> <span/);
+  assert(line.endsWith("!</span>"));
+  assert.match(dateLine("purchased", cutoff, linked), /<a /, "purchase links remain available for past events");
+  const festival = { ...linked, date: "2026-10-09", date_precision: "day" as const, end_date: "2026-10-11" };
+  assert.match(dateLine("", cutoff - 1, festival), /<a .*Fri, Oct 9, 2026 – Sun, Oct 11, 2026<\/a>/);
+});
+
+test("missing or unsafe purchase URLs and unknown dates stay plain text", () => {
+  for (const purchase_link of [undefined, "", "javascript:alert(1)", "data:text/html,hello"]) {
+    assert(!dateLine("", cutoff - 1, { ...concert, purchase_link }).includes("<a "));
+  }
+  assert(!dateLine("", cutoff - 1, { ...concert, date: "", purchase_link: "https://tickets.example.com/show" }).includes("<a "));
+});
