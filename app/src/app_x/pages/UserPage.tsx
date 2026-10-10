@@ -49,19 +49,19 @@ export function UserPage({ username }: { username: string }) {
   return (
     <>
       <section className="rs-user-heading">
-        <div className="rs-log-controls">
-          <span className="rs-count">{count} {count === 1 ? "concert" : "concerts"}</span>
-          <label className="rs-check">
-            <input type="checkbox" checked={showHidden} onChange={(event) => setShowHidden(event.target.checked)} />
-            Show {hiddenCount} hidden
-          </label>
-        </div>
         <div className="rs-log-search" role="search" aria-label="Concerts">
           <input type="search" aria-label="Search concerts" placeholder="Search" value={query}
             onChange={event => setQuery(event.target.value)} autoComplete="off" />
           <label className="rs-check">
             <input type="checkbox" checked={searchSetlists} onChange={event => setSearchSetlists(event.target.checked)} />
             Search setlists
+          </label>
+        </div>
+        <div className="rs-log-controls">
+          <span className="rs-count">{count} {count === 1 ? "concert" : "concerts"}</span>
+          <label className="rs-check">
+            <input type="checkbox" checked={showHidden} onChange={(event) => setShowHidden(event.target.checked)} />
+            Show {hiddenCount} hidden
           </label>
         </div>
       </section>
