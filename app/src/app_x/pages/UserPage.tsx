@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useLayoutEffect, useMemo, useState } from "react";
 import { useApp } from "../data/store";
 import { userConcertRows } from "../data/model";
 import { concertPeriod } from "../data/time";
@@ -6,11 +6,15 @@ import { ConcertRow } from "../components/ConcertRow";
 import { Empty } from "../components/ui";
 import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
 import { setlistCaches } from "../data/setlistCaches";
+import { readFeedView, updateFeedView } from "../data/feedView";
 
 export function UserPage({ username }: { username: string }) {
-  const [showHidden, setShowHidden] = useState(false);
-  const [query, setQuery] = useState("");
-  const [searchSetlists, setSearchSetlists] = useState(false);
+  const [showHidden, setShowHidden] = useState(() => readFeedView(username).showHidden);
+  const [query, setQuery] = useState(() => readFeedView(username).query);
+  const [searchSetlists, setSearchSetlists] = useState(() => readFeedView(username).searchSetlists);
+  useEffect(() => {
+    updateFeedView(username, { showHidden, query, searchSetlists });
+  }, [username, showHidden, query, searchSetlists]);
   const [now, setNow] = useState(Date.now);
   useEffect(() => {
     const refresh = () => setNow(Date.now());
@@ -25,6 +29,10 @@ export function UserPage({ username }: { username: string }) {
   const search = useMemo(() => buildConcertSearch(catalog.concerts, catalog.artists, catalog.schedules, setlistCaches),
     [catalog.concerts, catalog.artists, catalog.schedules]);
   const profile = catalog.profiles.find((item) => item.username === username || item.id === username);
+  const viewReady = !loading && !!profile;
+  useLayoutEffect(() => {
+    if (viewReady) window.scrollTo({ top: readFeedView(username).scrollY, left: 0, behavior: "instant" });
+  }, [username, viewReady]);
   if (loading) return null;
   if (!profile) return <Empty title="User not found" />;
   const allRows = userConcertRows(catalog, profile.user_id, true).filter(({ concert }) =>

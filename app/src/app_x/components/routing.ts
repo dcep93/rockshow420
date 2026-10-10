@@ -1,20 +1,34 @@
 import { useEffect, useState } from "react";
 import festivalConcertIds from "../data/festivalConcertIds.json";
 import { canonicalId } from "../data/ids";
+import { updateFeedView } from "../data/feedView";
 
 export function navigate(path: string, replace = false) {
   if (replace) window.history.replaceState(null, "", path);
   else window.history.pushState(null, "", path);
   window.dispatchEvent(new PopStateEvent("popstate"));
-  window.scrollTo(0, 0);
 }
 
 export function usePath() {
   const [path, setPath] = useState(window.location.pathname);
   useEffect(() => {
-    const update = () => setPath(window.location.pathname);
+    let currentPath = window.location.pathname;
+    const restoration = window.history.scrollRestoration;
+    window.history.scrollRestoration = "manual";
+    const update = () => {
+      const nextPath = window.location.pathname;
+      if (nextPath === currentPath) return;
+      const outgoing = readRoute(currentPath);
+      if (outgoing.kind === "user") updateFeedView(outgoing.id, { scrollY: window.scrollY });
+      currentPath = nextPath;
+      setPath(nextPath);
+      window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+    };
     window.addEventListener("popstate", update);
-    return () => window.removeEventListener("popstate", update);
+    return () => {
+      window.removeEventListener("popstate", update);
+      window.history.scrollRestoration = restoration;
+    };
   }, []);
   return path;
 }
