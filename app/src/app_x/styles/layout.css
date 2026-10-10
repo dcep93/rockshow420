@@ -398,9 +398,8 @@
 .rs-user-heading {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   flex-wrap: wrap;
-  gap: 0.125rem 1.5rem;
+  gap: 0.5rem 1.5rem;
   margin-bottom: 0.75rem;
 }
 .rs-log-controls {
@@ -425,7 +424,7 @@
   cursor: pointer;
 }
 .rs-concert-hidden { opacity: 0.6; border-bottom-style: dashed; }
-.rs-log-search { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.25rem; }
+.rs-log-search { display: flex; flex: 1 1 22rem; align-items: center; gap: 0.75rem; min-width: 0; max-width: 32rem; }
 .rs-log-search > input { flex: 1; min-width: 0; max-width: 24rem; min-height: 2.75rem; padding: 0.5rem 0.75rem; border: 0.0625rem solid var(--rs-border); border-radius: 0.5rem; background: var(--rs-panel-soft); color: var(--rs-text); font: inherit; font-size: 1rem; }
 .rs-log-search > input::placeholder { color: var(--rs-muted); }
 .rs-log-search .rs-check { flex-shrink: 0; min-height: 2.75rem; gap: 0.4rem; color: var(--rs-muted); font-size: 0.75rem; cursor: pointer; }
