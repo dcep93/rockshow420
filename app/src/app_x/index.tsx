@@ -8,7 +8,6 @@ import { Link } from "./components/navigation";
 import { canonicalPath, navigate, readRoute, usePath } from "./components/routing";
 import { Empty, Message } from "./components/ui";
 import { errorMessage } from "./components/errors";
-import { Login } from "./pages/Login";
 import { UserPage } from "./pages/UserPage";
 import { EntityPage } from "./pages/EntityPage";
 import { Manager } from "./forms/Manager";
@@ -20,8 +19,9 @@ import "./styles/forms.css";
 function Shell() {
   const path = usePath();
   const route = readRoute(path);
-  const { catalog, viewer, isAdmin, ready, loading, error, signOut } = useApp();
+  const { catalog, viewer, isAdmin, ready, loading, error, signIn, signOut } = useApp();
   const [actionError, setActionError] = useState("");
+  const [signingIn, setSigningIn] = useState(false);
   const [signingOut, setSigningOut] = useState(false);
   useEffect(() => {
     const canonical = canonicalPath(path);
@@ -36,10 +36,10 @@ function Shell() {
   }, []);
   useEffect(() => {
     document.title = "concertboxd";
-    if (ready && viewer && route.kind === "home")
-      navigate(`/user/${encodeURIComponent(viewer.username)}`, true);
-  }, [ready, viewer, route.kind, route.id]);
-  const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/";
+    // Temporary showcase: send every homepage visitor to the public dcep93 log.
+    if (route.kind === "home") navigate("/user/dcep93", true);
+  }, [route.kind]);
+  const home = viewer ? `/user/${encodeURIComponent(viewer.username)}` : "/user/dcep93";
   useEffect(() => {
     const goHome = (event: KeyboardEvent) => {
       if (event.key !== "Escape" || event.isComposing || event.repeat || !ready) return;
@@ -96,17 +96,31 @@ function Shell() {
                 }}
               />
             ) : (
-              <Link className="rs-account" href="/">Sign in</Link>
+              <button
+                className="rs-account"
+                type="button"
+                disabled={signingIn}
+                onClick={async () => {
+                  setSigningIn(true);
+                  try {
+                    await signIn();
+                  } catch {
+                    // AppProvider displays sign-in errors through its shared error state.
+                  } finally {
+                    setSigningIn(false);
+                  }
+                }}
+              >
+                {signingIn ? "Signing in…" : "Sign in"}
+              </button>
             ))}
           </nav>
         </header>
       )}
-      <main className={route.kind === "home" ? "rs-main rs-main-login" : "rs-main"}>
+      <main className="rs-main">
         {actionError && <Message error>{actionError}</Message>}
         {error && <Message error>{error}</Message>}
-        {!ready ? null : route.kind === "home" ? (
-          viewer ? null : <Login />
-        ) : loading ? null : route.kind === "user" ? (
+        {!ready || route.kind === "home" || loading ? null : route.kind === "user" ? (
           <UserPage key={route.id} username={route.id} />
         ) : route.kind === "manage" ? (
           isAdmin ? <Manager catalog={catalog} /> : <Empty title="Admin access required" />

@@ -59,6 +59,8 @@
   white-space: nowrap;
 }
 .rs-account {
+  background: transparent;
+  color: inherit;
   font-size: 0.8125rem;
   border: 0.0625rem solid var(--rs-border);
   padding: 0.45rem 0.85rem;
@@ -66,6 +68,9 @@
   max-width: 15rem;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.rs-account:hover {
+  color: var(--rs-pink);
 }
 .rs-main {
   flex: 1;

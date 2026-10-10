@@ -7,7 +7,7 @@ const authURL = "http://127.0.0.1:9099/emulator/v1/projects/demo-concertboxd/acc
 async function login(page, email, admin = false) {
   await page.goto("/");
   const pop = page.waitForEvent("popup");
-  await page.getByRole("button", { name: "Continue with Google" }).click();
+  await page.getByRole("button", { name: "Sign in", exact: true }).click();
   const popup = await pop;
   await popup.waitForLoadState();
   await popup.getByRole("button", { name: "Add new account" }).click();
@@ -16,7 +16,7 @@ async function login(page, email, admin = false) {
   await popup.getByRole("button", { name: "Sign in with Google.com", exact: true }).click();
   await expect.poll(() => popup.isClosed()).toBe(true);
   if (!email.endsWith("@gmail.com")) return "";
-  await expect(page).toHaveURL(new RegExp("/user/" + email.split("@")[0] + "$"));
+  await expect(page.getByRole("button", { name: "@" + email.split("@")[0], exact: true })).toBeVisible();
   const accounts = await (
     await fetch(
       "http://127.0.0.1:9099/identitytoolkit.googleapis.com/v1/projects/demo-concertboxd/accounts:batchGet",
@@ -29,6 +29,7 @@ async function login(page, email, admin = false) {
     user_id: uid,
     username: email.split("@")[0],
   });
+  await page.goto(`/user/${email.split("@")[0]}`);
   return uid;
 }
 async function doc(path) {
@@ -205,7 +206,7 @@ test("admin creates records, repairs references and preserves exact timestamps a
 test("non-Gmail Google identity is rejected by the app", async ({ page }) => {
   await login(page, "person@example.com");
   await expect(page.getByRole("alert")).toContainText("verified Google Gmail account");
-  await expect(page).toHaveURL("http://127.0.0.1:5173/");
+  await expect(page).toHaveURL("http://127.0.0.1:5173/user/dcep93");
   await expect(page.getByRole("button", { name: "admin: Manage", exact: true })).toHaveCount(0);
 });
 
