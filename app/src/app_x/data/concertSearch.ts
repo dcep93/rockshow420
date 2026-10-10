@@ -1,7 +1,7 @@
 import type { Artist, Concert, Schedule } from "./model";
 import type { SongCaches, SongSet } from "./songLists";
 
-export type ConcertSearchEntry = { title: string; artists: string[]; songs: string[] };
+export type ConcertSearchEntry = { title: string; artists: string[]; setlistText: string[] };
 export type SetlistCaches = Pick<SongCaches, "setlists" | "musicals">;
 
 export function normalizeSearch(value: string): string {
@@ -15,11 +15,19 @@ export function buildConcertSearch(concerts: Concert[], artists: Artist[], sched
   return new Map(concerts.map(concert => {
     const scheduled = performances.get(concert.id) || [];
     const ids = [...new Set([concert.artist_id, ...concert.supporting_artist_ids, ...scheduled.map(set => set.artist_id)].filter(Boolean))];
-    const songs = new Set<string>();
-    const addSongs = (sets: SongSet[]) => {
-      for (const set of sets) for (const song of set.songs) {
-        const name = normalizeSearch(song.name);
-        if (name) songs.add(name);
+    const setlistText = new Set<string>();
+    const addText = (...values: (string | undefined)[]) => {
+      for (const value of values) {
+        const text = normalizeSearch(value || "");
+        if (text) setlistText.add(text);
+      }
+    };
+    const addSets = (sets: SongSet[]) => {
+      for (const set of sets) {
+        addText(set.name || (set.encore ? "Encore" : ""));
+        for (const song of set.songs) {
+          addText(song.name, song.artists, song.notes, song.tape ? "Tape" : undefined, song.explicit ? "Explicit" : undefined);
+        }
       }
     };
     for (const id of ids) {
@@ -29,17 +37,23 @@ export function buildConcertSearch(concerts: Concert[], artists: Artist[], sched
         const matched = scheduled.length
           ? scheduled.some(set => set.id === value.set_id && set.artist_id === id)
           : value.set_id === undefined;
-        if (matched) addSongs(value.sets);
+        if (matched && value.sets.some(set => set.songs.length)) {
+          addSets(value.sets);
+          addText(value.notes);
+        }
       }
     }
     const program = caches.musicals[concert.id];
-    if (program?.kind === "musical_program") addSongs(program.sets);
-    return [concert.id, { title: normalizeSearch(concert.name || ""), artists: ids.map(id => names.get(id) || "").filter(Boolean), songs: [...songs] }];
+    if (program?.kind === "musical_program" && program.sets.some(set => set.songs.length)) {
+      addSets(program.sets);
+      addText(program.title, program.production, program.basis, program.notes);
+    }
+    return [concert.id, { title: normalizeSearch(concert.name || ""), artists: ids.map(id => names.get(id) || "").filter(Boolean), setlistText: [...setlistText] }];
   }));
 }
 
 export function matchesConcertSearch(entry: ConcertSearchEntry | undefined, query: string, searchSetlists = false): boolean {
   const term = normalizeSearch(query);
   return !term || !!entry && (entry.title.includes(term) || entry.artists.some(name => name.includes(term))
-    || searchSetlists && entry.songs.some(name => name.includes(term)));
+    || searchSetlists && entry.setlistText.some(text => text.includes(term)));
 }
