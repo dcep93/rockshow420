@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { artistSongLists, concertSongLists, groupScheduleDays } from "../data/songLists";
+import { artistSongLists, concertSongLists, groupScheduleDays, hasCachedConcertSource } from "../data/songLists";
 import type { PerformanceSetlist, SongCaches, SpotifyTopTracks } from "../data/songLists";
 import { buildConcertSearch, matchesConcertSearch, normalizeSearch } from "../data/concertSearch";
 import { normalizeArtist, normalizeConcert, normalizeSchedule } from "../data/model";
@@ -12,6 +12,20 @@ const caches: SongCaches = {
   setlists: { "a:c": [performance], "b:c": [{ ...performance, url: "https://www.setlist.fm/setlist/support" }] },
   musicals: { musical: { kind: "musical_program", title: "Show", production: "Production", basis: "Published program", url: "https://example.org/program", sets: [{ songs: [{ name: "Number" }] }] } },
 };
+
+test("cached headliner sources replace concert footers; supporting sources only replace matching URLs", () => {
+  const concert = { id: "c", artist_id: "a", supporting_artist_ids: ["b"], setlist_fm_url: performance.url };
+  assert(hasCachedConcertSource(concert, caches.setlists));
+  assert(hasCachedConcertSource({ ...concert, artist_id: "", supporting_artist_ids: ["a"] }, caches.setlists));
+  assert(!hasCachedConcertSource(concert, {}));
+  assert(!hasCachedConcertSource(concert, { "a:c": [{ ...performance, sets: [] }] }));
+  assert(!hasCachedConcertSource(concert, { "a:c": [{ ...performance, sets: [{ songs: [] }] }] }));
+  assert(!hasCachedConcertSource(concert, { "a:c": [{ ...performance, set_id: "scheduled" }] }));
+  assert(hasCachedConcertSource({ ...concert, setlist_fm_url: "https://www.setlist.fm/other" }, caches.setlists));
+  assert(!hasCachedConcertSource({ ...concert, artist_id: "missing", supporting_artist_ids: ["a"], setlist_fm_url: "https://www.setlist.fm/other" }, caches.setlists));
+  assert(!hasCachedConcertSource({ ...concert, artist_id: "removed", supporting_artist_ids: [] }, caches.setlists));
+  assert(hasCachedConcertSource({ ...concert, id: "c:d", artist_id: "a/b" }, { "a%2Fb:c%3Ad": [performance] }));
+});
 
 test("every supporting artist has independent setlists and Spotify tracks, with duplicate artist IDs removed", () => {
   const entries = concertSongLists({ id: "c", artist_id: "a", supporting_artist_ids: ["b", "c", "a"] }, [], caches);

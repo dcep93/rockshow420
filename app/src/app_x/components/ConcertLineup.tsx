@@ -3,7 +3,8 @@ import { isTicketStatus, ticketStatusLabels } from "../data/model";
 import type { LogEditing } from "../forms/useLogEditor";
 import type { Catalog, Concert } from "../data/model";
 import { setLabel } from "../data/schedules";
-import { artistSongLists, groupScheduleDays } from "../data/songLists";
+import { artistSongLists, groupScheduleDays, hasCachedConcertSource } from "../data/songLists";
+import { setlistCaches } from "../data/setlistCaches";
 import { ConcertSetlists } from "./ConcertSetlists";
 import { useSongCaches } from "./useSongCaches";
 import { Link } from "./navigation";
@@ -69,6 +70,6 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     </>}
     {ids.filter(id => !scheduled.has(id)).map(id => row(id, id === concert.artist_id ? "Headliner" : concert.artist_id ? "Supporting" : ""))}
     {program?.sets.some(set => set.songs.length) && <ConcertSetlists entries={[{ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program }]} />}
-    {!schedule?.sets.length && /^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">Setlist.fm</a>}
+    {!schedule?.sets.length && !hasCachedConcertSource(concert, setlistCaches.setlists) && /^https:\/\/(www\.)?setlist\.fm\//i.test(concert.setlist_fm_url) && <a className="rs-outbound" href={concert.setlist_fm_url} target="_blank" rel="noreferrer">Setlist.fm</a>}
   </section>;
 }

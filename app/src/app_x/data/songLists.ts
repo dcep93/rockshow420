@@ -16,6 +16,13 @@ export type SongDisclosure = { key: string; title: string; label: string; value:
 
 type SongConcert = Pick<Concert, "id" | "artist_id" | "supporting_artist_ids">;
 
+export function hasCachedConcertSource(concert: SongConcert & Pick<Concert, "setlist_fm_url">, setlists: SongCaches["setlists"]): boolean {
+  return [concert.artist_id, ...concert.supporting_artist_ids].filter(Boolean).some(id =>
+    (setlists[`${encodeURIComponent(id)}:${encodeURIComponent(concert.id)}`] || []).some(value =>
+      value.kind === "setlist_fm" && value.set_id === undefined && (id === concert.artist_id || value.url === concert.setlist_fm_url)
+      && value.sets.some(set => set.songs.length > 0)));
+}
+
 export function artistSongLists(concertId: string, artistId: string, title: string, caches: SongCaches, setId?: string): SongDisclosure[] {
   const key = `${encodeURIComponent(artistId)}:${encodeURIComponent(concertId)}`;
   // A schedule row must only receive the performance explicitly assigned to it.

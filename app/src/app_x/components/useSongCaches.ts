@@ -11,7 +11,7 @@ function loadSongCaches(): Promise<SongCaches> {
 }
 
 export function useSongCaches() {
-  const [caches, setCaches] = useState<SongCaches | null>(null);
+  const [caches, setCaches] = useState<SongCaches>(() => ({ ...setlistCaches, spotify: {} }));
   useEffect(() => {
     let active = true;
     loadSongCaches().then(value => { if (active) setCaches(value); }).catch(() => {});
