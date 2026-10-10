@@ -1,5 +1,5 @@
 import { DateTime } from "luxon";
-import { isTicketStatus, ticketStatusLabels } from "../data/model";
+import { LogControls } from "./LogControls";
 import type { LogEditing } from "../forms/useLogEditor";
 import type { Catalog, Concert } from "../data/model";
 import { setLabel } from "../data/schedules";
@@ -28,7 +28,7 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     return <div className="rs-performance" key={setId || artistId}>
       <div className="rs-performance-heading">
         {selectable && <label className="rs-lineup-check">
-          <input type="checkbox" aria-label={set ? `Seen ${setLabel(set, catalog, concert)}` : `Seen ${name}`} checked={checked} disabled={editor.busy} onChange={event => {
+          <input type="checkbox" aria-label={set ? `Seen ${setLabel(set, catalog, concert)}` : `Seen ${name}`} checked={checked} disabled={editor.readOnly || editor.busy} onChange={event => {
             const values = setId ? editor.seen : editor.selected;
             const id = setId || artistId;
             const next = event.target.checked ? [...values, id] : values.filter(value => value !== id);
@@ -46,18 +46,7 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
   return <section className="rs-panel rs-lineup">
     {(editor || schedule?.sets.length || ids.length > 0) && <div className="rs-log-toolbar">
       <h2>{schedule?.sets.length ? "Schedule" : "Lineup"}</h2>
-      {editor && <>
-      <div className="rs-ticket-control">
-        <select aria-label="Ticket status" value={editor.ticketStatus} disabled={editor.busy} onChange={event => {
-          if (isTicketStatus(event.target.value)) void editor.persist({ ticket_status: event.target.value }, "controls");
-        }}>
-          {Object.entries(ticketStatusLabels).map(([value, label]) => <option key={value} value={value} label={label || " "}>{label}</option>)}
-        </select>
-      </div>
-      <button type="button" className="rs-text-button" disabled={editor.busy} onClick={() => void editor.persist({ removed: !editor.hidden }, "controls")}>
-        {editor.hidden ? "Unhide" : "Hide"}
-      </button>
-      </>}
+      {editor && <LogControls editor={editor} />}
     </div>}
     {!!schedule?.sets.length && <>
       {groupScheduleDays(schedule.sets, timezone).map(group => <details className="rs-schedule-day" key={group.day} open>

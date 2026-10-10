@@ -1,3 +1,6 @@
+import { useState } from "react";
+import { concertLogEntries } from "../data/concertLogs";
+import { EditableUserEntry } from "./EditableUserEntry";
 import type { Catalog, Concert, Profile, UserConcert } from "../data/model";
 import { setLabel } from "../data/schedules";
 import { ticketStatusLabels } from "../data/model";
@@ -27,14 +30,16 @@ function UserEntry({ catalog, concert, profile, log }: {
 export function ConcertEntries({ catalog, concert, viewerUid, isAdmin }: {
   catalog: Catalog; concert: Concert; viewerUid?: string; isAdmin: boolean;
 }) {
-  const records = catalog.logs.filter(log => log.concert_id === concert.id);
-  const entries = catalog.profiles
-    .filter(profile => profile.user_id !== viewerUid)
-    .map(profile => ({ profile, log: records.find(log => log.user_id === profile.user_id) }))
-    .filter(({ log }) => !log?.removed || isAdmin);
+  const hasOwnLog = catalog.logs.some(log => log.concert_id === concert.id && log.user_id === viewerUid);
+  // Keep this editor mounted after resetting to defaults deletes its sparse record.
+  const [retainViewer, setRetainViewer] = useState(hasOwnLog);
+  if (hasOwnLog && !retainViewer) setRetainViewer(true);
+  const entries = concertLogEntries(catalog, concert.id, viewerUid, isAdmin, retainViewer);
   if (!entries.length) return null;
   return <section className="rs-public-entries" aria-label="User logs">
     <h2>User logs</h2>
-    {entries.map(({ profile, log }) => <UserEntry key={profile.user_id} catalog={catalog} concert={concert} profile={profile} log={log} />)}
+    {entries.map(({ profile, log }) => profile.user_id === viewerUid
+      ? <EditableUserEntry key={profile.user_id} catalog={catalog} concert={concert} profile={profile} log={log} />
+      : <UserEntry key={profile.user_id} catalog={catalog} concert={concert} profile={profile} log={log} />)}
   </section>;
 }

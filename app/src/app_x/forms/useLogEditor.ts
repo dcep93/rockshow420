@@ -1,12 +1,13 @@
 import { useRef, useState } from "react";
-import type { UserConcert } from "../data/model";
 import { saveLog } from "../data/actions";
+import type { UserConcert } from "../data/model";
 import type { LogPatch } from "../data/tableActions";
 import { errorMessage } from "../components/errors";
 
 type Controls = Omit<LogPatch, "notes">;
 
 export function useLogEditor(concertId: string, uid?: string, log?: UserConcert) {
+  const readOnly = !uid || (!!log && log.user_id !== uid);
   const [notesDraft, setNotesDraft] = useState<string | null>(null);
   const [pending, setPending] = useState<Controls | null>(null);
   const [error, setError] = useState("");
@@ -33,7 +34,7 @@ export function useLogEditor(concertId: string, uid?: string, log?: UserConcert)
   if (notesDraft === savedNotes) setNotesDraft(null);
 
   async function persist(patch: LogPatch, kind: "notes" | "controls") {
-    if (!uid || inFlight.current) return;
+    if (readOnly || !uid || inFlight.current) return;
     inFlight.current = true;
     setSaving(kind);
     setError("");
@@ -48,7 +49,7 @@ export function useLogEditor(concertId: string, uid?: string, log?: UserConcert)
       setSaving(null);
     }
   }
-  return { notes, setNotesDraft, savedNotes, selected, seen, ticketStatus, hidden, busy, saving, error, persist };
+  return { readOnly, notes, setNotesDraft, savedNotes, selected, seen, ticketStatus, hidden, busy, saving, error, persist };
 }
 
 export type LogEditing = ReturnType<typeof useLogEditor>;

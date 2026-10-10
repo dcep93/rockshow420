@@ -310,6 +310,17 @@
 .rs-public-notes textarea { display: block; font-family: inherit; }
 .rs-public-notes > h2 { margin-bottom: 0.75rem; }
 .rs-notes-actions { display: flex; justify-content: flex-end; margin-top: 0.75rem; }
+/* Own log controls stay compact beneath the owner's notes. */
+.rs-own-entry .rs-entry-heading { gap: 0.5rem; }
+.rs-own-entry .rs-entry-heading > a { margin-right: auto; }
+.rs-entry-selections { display: grid; gap: 0.25rem; margin: 0.5rem 0; }
+.rs-entry-selections .rs-check { justify-content: flex-start; align-items: flex-start; white-space: normal; min-height: 2.75rem; padding: 0.5rem 0; }
+.rs-entry-selections .rs-check input { flex: none; margin-top: 0.15em; }
+.rs-entry-selections .rs-check span { overflow-wrap: anywhere; }
+.rs-entry-notes > h2 { font-size: 0.8125rem; font-weight: 400; }
+.rs-entry-notes textarea { min-height: 5rem; }
+.rs-ticket-control select:disabled { opacity: 0.7; cursor: not-allowed; }
+.rs-public-notes textarea:read-only { cursor: text; }
 @media (max-width: 42rem) {
   .rs-header,
   .rs-main {
