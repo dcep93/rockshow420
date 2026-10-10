@@ -17,7 +17,7 @@ export function ConcertRow({
 }) {
   const artist = catalog.artists.find((item) => item.id === concert.artist_id);
   const venue = catalog.venues.find((item) => item.id === concert.venue_id);
-  const support = (log === undefined ? concert.supporting_artist_ids : selectedArtistIds(catalog, concert, log)).map(
+  const support = catalog.schedules.some(item => item.id === concert.id) ? [] : (log === undefined ? concert.supporting_artist_ids : selectedArtistIds(catalog, concert, log)).map(
     (id) => catalog.artists.find((item) => item.id === id)?.name || "Unavailable artist",
   );
   const date = formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date);
