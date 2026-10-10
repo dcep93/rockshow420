@@ -59,13 +59,13 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
       </>}
     </div>}
     {!!schedule?.sets.length && <>
-      {groupScheduleDays(schedule.sets, timezone).map(group => <section className="rs-schedule-day" key={group.day}>
-        {group.day && <h3>{DateTime.fromISO(group.day, { zone: "UTC" }).toFormat("ccc, LLL d")}</h3>}
-        {group.sets.map(set => row(set.artist_id, [
+      {groupScheduleDays(schedule.sets, timezone).map(group => <details className="rs-schedule-day" key={group.day} open>
+        <summary><h3>{group.day ? DateTime.fromISO(group.day, { zone: "UTC" }).toFormat("ccc, LLL d") : "Date unknown"}</h3></summary>
+        {[...group.sets].reverse().map(set => row(set.artist_id, [
           set.start && DateTime.fromISO(set.start).setZone(timezone).toFormat("h:mm a"),
           set.stage,
         ].filter(Boolean).join(" · "), set.id))}
-      </section>)}
+      </details>)}
     </>}
     {ids.filter(id => !scheduled.has(id)).map(id => row(id, id === concert.artist_id ? "Headliner" : concert.artist_id ? "Supporting" : ""))}
     {program?.sets.some(set => set.songs.length) && <ConcertSetlists entries={[{ key: `musical:${concert.id}`, title: program.title, label: "Musical program", value: program }]} />}

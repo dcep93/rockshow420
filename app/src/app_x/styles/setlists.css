@@ -15,5 +15,6 @@ p.rs-song-note { margin: 0.45rem 0; }
 .rs-performance { border-bottom: 0.0625rem solid var(--rs-border); padding-bottom: 0.4rem; }
 .rs-performance .rs-lineup-item { border: 0; }
 .rs-schedule-day + .rs-schedule-day { margin-top: 1.25rem; }
-.rs-schedule-day h3 { margin: 0 0 0.25rem; font-family: var(--rs-title-font); color: var(--rs-pink); font-size: 1rem; font-weight: 400; }
+.rs-schedule-day > summary { padding: 0.5rem 0; cursor: pointer; color: var(--rs-pink); }
+.rs-schedule-day h3 { display: inline; margin: 0; font-family: var(--rs-title-font); color: var(--rs-pink); font-size: 1rem; font-weight: 400; }
 .rs-song-count { color: var(--rs-muted); }
