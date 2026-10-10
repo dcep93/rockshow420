@@ -12,7 +12,7 @@ import type { TableName } from "./tables";
 const allowedFields = {
   venue: ["name", "timezone", "location", "image"],
   artist: ["name", "image"],
-  concert: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url"],
+  concert: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url", "purchase_link"],
 };
 export type LogPatch = Partial<{ notes: string; supporting_artist_ids: string[]; removed: boolean; ticket_status: TicketStatus; seen_set_ids: string[] }>;
 function requireText(value: unknown, field: string): asserts value is string {
@@ -72,6 +72,7 @@ async function saveEntity(
           if (data.date_precision !== "day") requireText(data.venue_id, "Venue for a timed concert");
           requireIDs(data.supporting_artist_ids ?? [], "Supporting artists");
           validateURL(data.setlist_fm_url, "Setlist", true);
+          validateURL(data.purchase_link, "Purchase link");
           const [venue] = await Promise.all([
             data.venue_id ? requireReference(tables, "venues", String(data.venue_id)) : Promise.resolve(undefined),
             ...(data.artist_id ? [requireReference(tables, "artists", String(data.artist_id))] : []),

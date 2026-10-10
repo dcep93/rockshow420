@@ -9,7 +9,7 @@ import { tableNames } from "./tables";
 const fields = {
   venues: ["name", "timezone", "location", "image"],
   artists: ["name", "image"],
-  concerts: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url"],
+  concerts: ["name", "date", "date_precision", "end_date", "venue_id", "artist_id", "supporting_artist_ids", "setlist_fm_url", "purchase_link"],
   schedules: ["sets"],
   users: ["user_id", "username"],
   user_concerts: ["user_id", "concert_id", "supporting_artist_ids", "removed", "notes", "ticket_status", "seen_set_ids"],

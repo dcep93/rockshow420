@@ -41,6 +41,7 @@ export function EntityEditor({
   const [support, setSupport] = useState(
     item && "supporting_artist_ids" in item ? item.supporting_artist_ids : [],
   );
+  const [purchaseLink, setPurchaseLink] = useState(item && "purchase_link" in item ? item.purchase_link || "" : "");
   const [setlist, setSetlist] = useState(item && "setlist_fm_url" in item ? item.setlist_fm_url : "");
   const [dateOnly, setDateOnly] = useState(item && "date_precision" in item && item.date_precision === "day");
   const [endDate, setEndDate] = useState(item && "end_date" in item ? item.end_date || "" : "");
@@ -103,6 +104,7 @@ export function EntityEditor({
         artist_id: artistId,
         supporting_artist_ids: support,
         setlist_fm_url: setlist.trim(),
+        purchase_link: purchaseLink.trim(),
       };
     } else {
       if (!name.trim()) {
@@ -333,6 +335,10 @@ export function EntityEditor({
                 )}
               </div>
             </fieldset>
+            <label className="rs-field">
+              Purchase link <span className="rs-optional">optional</span>
+              <input type="url" value={purchaseLink} onChange={(event) => setPurchaseLink(event.target.value)} />
+            </label>
             <label className="rs-field">
               Setlist.fm URL <span className="rs-optional">optional</span>
               <input

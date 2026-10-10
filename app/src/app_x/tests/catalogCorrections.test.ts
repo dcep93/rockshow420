@@ -88,3 +88,25 @@ test("revision receipts skip later user edits but reject changed files and dupli
   assert.equal(onlyNew.pending.length, 1);
   assert.equal(onlyNew.prepared.concerts.new123.name, "New Festival");
 });
+
+
+test("purchase-link imports preserve data and refuse newly added links", () => {
+  const before = sample();
+  const purchase_link = "https://tickets.example.com/show/123";
+  const links: CatalogCorrections = {
+    id: "purchase-links", artists: {}, lineup_additions: [],
+    concert_updates: [{ id: "ordinary", expected: { artist_id: "a", venue_id: "v" }, expected_absent: ["purchase_link"], changes: { purchase_link }, sources: [purchase_link] }],
+  };
+  const result = projectCorrections(before, links);
+  assert.deepEqual(result.concerts.ordinary, { ...before.concerts.ordinary, purchase_link });
+  assert.deepEqual(projectCorrections(result, links), result);
+  assert.deepEqual(cleanSchema(result), result);
+  for (const name of ["venues", "artists", "schedules", "users", "user_concerts"] as const) assert.deepEqual(result[name], before[name]);
+  assert.deepEqual(result.concerts.festival, before.concerts.festival);
+  before.concerts.ordinary.purchase_link = "https://tickets.example.com/newer";
+  assert.throws(() => projectCorrections(before, links), /edited since research/);
+  before.concerts.ordinary.purchase_link = "";
+  assert.throws(() => projectCorrections(before, links), /edited since research/);
+  const replay = projectRevisions(before, [{ patch: links, hash: "hash" }], { "purchase-links": "hash" });
+  assert.equal(replay.prepared.concerts.ordinary.purchase_link, "");
+});

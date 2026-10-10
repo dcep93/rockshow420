@@ -12,7 +12,7 @@ export type CatalogCorrections = {
   artists: Record<string, Row>;
   concert_additions?: { id: string; concert: Row; schedule?: Row; sources: string[] }[];
   lineup_additions: { concert_id: string; artist_id: string; set_id: string; set: Row; sources: string[] }[];
-  concert_updates: { id: string; expected: Row; changes: Row; sources: string[] }[];
+  concert_updates: { id: string; expected: Row; expected_absent?: string[]; changes: Row; sources: string[] }[];
 };
 
 export function projectCorrections(current: TableBackup, patch: CatalogCorrections): TableBackup {
@@ -50,6 +50,7 @@ export function projectCorrections(current: TableBackup, patch: CatalogCorrectio
     if (!row || !update.sources.length) throw new Error(`Missing concert or source: ${update.id}`);
     const same = (key: string, value: unknown) => key === "date" ? Date.parse(timestampISO(row.date)) === Date.parse(value as string) : equal(row[key], value);
     if (Object.entries(update.changes).every(([key, value]) => same(key, value))) continue;
+    if (update.expected_absent?.some(key => Object.hasOwn(row, key))) throw new Error(`Concert edited since research: ${update.id}`);
     if (!Object.entries(update.expected).every(([key, value]) => same(key, value))) throw new Error(`Concert edited since research: ${update.id}`);
     const changes = { ...update.changes };
     if (typeof changes.date === "string") changes.date = Timestamp.fromDate(new Date(changes.date));

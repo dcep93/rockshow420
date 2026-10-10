@@ -63,7 +63,7 @@ service cloud.firestore {
           && (requiredText(data, 'artist_id') || requiredText(data, 'name'))
           && data.get('date_precision', 'time') in ['day', 'time']
           && (data.get('date_precision', 'time') == 'day' || requiredText(data, 'venue_id'))
-          && text(data, 'end_date') && array(data, 'supporting_artist_ids') && text(data, 'setlist_fm_url')
+          && text(data, 'end_date') && array(data, 'supporting_artist_ids') && text(data, 'setlist_fm_url') && text(data, 'purchase_link')
           && (data.get('venue_id', '') == '' || data.venue_id in table('venues'))
           && (data.get('artist_id', '') == '' || data.artist_id in table('artists'))));
     }

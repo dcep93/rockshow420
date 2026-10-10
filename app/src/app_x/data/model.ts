@@ -20,6 +20,7 @@ export interface Concert {
   artist_id: string;
   supporting_artist_ids: string[];
   setlist_fm_url: string;
+  purchase_link?: string;
 }
 export interface ScheduledSet {
   id: string;
@@ -113,6 +114,7 @@ export const normalizeConcert = (id: string, raw: Raw): Concert => ({
   artist_id: string(raw.artist_id),
   supporting_artist_ids: strings(raw.supporting_artist_ids),
   setlist_fm_url: string(raw.setlist_fm_url),
+  ...(string(raw.purchase_link) ? { purchase_link: string(raw.purchase_link) } : {}),
 });
 export const normalizeSchedule = (id: string, raw: Raw): Schedule => ({
   id,

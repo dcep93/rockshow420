@@ -232,3 +232,10 @@ test("export handles month-spanning ranges and rejects incomplete data instead o
   assert.throws(() => exportUserLog({ ...catalog, concerts: [normalizeConcert("bad", {})] }, "u"));
   assert.throws(() => exportUserLog({ ...emptyCatalog, logs: [normalizeLog("orphan", { user_id: "u", concert_id: "missing" })] }, "u"));
 });
+
+
+test("optional concert purchase links survive normalization without requiring old records to have one", () => {
+  const purchase_link = "https://tickets.example.com/show/123";
+  assert.equal(normalizeConcert("c", { purchase_link }).purchase_link, purchase_link);
+  for (const value of [undefined, null, "", 123]) assert.equal(normalizeConcert("c", { purchase_link: value }).purchase_link, undefined);
+});

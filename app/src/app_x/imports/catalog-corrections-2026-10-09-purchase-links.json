@@ -1,0 +1,325 @@
+{
+  "id": "purchase-links-2026-10-09",
+  "artists": {},
+  "lineup_additions": [],
+  "concert_updates": [
+    {
+      "id": "4ughp2",
+      "expected": {
+        "date": "2026-10-14T01:00:00.000Z",
+        "artist_id": "remi-wolf",
+        "venue_id": "webster-hall",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.axs.com/events/1580790/an-evening-of-mud-with-remi-wolf-tickets"
+      },
+      "sources": [
+        "https://www.axs.com/events/1580790/an-evening-of-mud-with-remi-wolf-tickets",
+        "https://www.remiwolf.com/gig/tuesday-october-13th-2026-webster-hall/"
+      ]
+    },
+    {
+      "id": "o0ewg8",
+      "expected": {
+        "date": "2026-10-17T00:00:00.000Z",
+        "artist_id": "sturgill-simpson",
+        "venue_id": "barclays-center",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/event/3000647C06A98131"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/event/3000647C06A98131",
+        "https://www.barclayscenter.com/events/detail/johnny-blue-skies-the-dark-clouds"
+      ]
+    },
+    {
+      "id": "z7s748",
+      "expected": {
+        "date": "2026-10-21T00:00:00.000Z",
+        "artist_id": "robert-glasper",
+        "venue_id": "blue-note-jazz-club",
+        "date_precision": "day"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.bluenotejazz.com/nyc/tm-event/robert-glasper-x-questlove-special-guest-bilal/"
+      },
+      "sources": [
+        "https://www.bluenotejazz.com/nyc/tm-event/robert-glasper-x-questlove-special-guest-bilal/"
+      ]
+    },
+    {
+      "id": "kuhoc7",
+      "expected": {
+        "date": "2026-10-25T23:30:00.000Z",
+        "artist_id": "the-story-so-far",
+        "venue_id": "terminal-5",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.axs.com/events/1413452/the-story-so-far-tickets"
+      },
+      "sources": [
+        "https://www.axs.com/events/1413452/the-story-so-far-tickets"
+      ]
+    },
+    {
+      "id": "k40frl",
+      "expected": {
+        "date": "2026-10-29T23:00:00.000Z",
+        "artist_id": "lawrence",
+        "venue_id": "brooklyn-paramount",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-29-2026/event/00006441083CECE5"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-29-2026/event/00006441083CECE5",
+        "https://www.brooklynparamount.com/"
+      ]
+    },
+    {
+      "id": "lgyitw",
+      "expected": {
+        "date": "2026-10-30T23:00:00.000Z",
+        "artist_id": "lawrence",
+        "venue_id": "brooklyn-paramount",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-30-2026/event/00006441083FECE9"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-30-2026/event/00006441083FECE9",
+        "https://www.brooklynparamount.com/"
+      ]
+    },
+    {
+      "id": "u107qn",
+      "expected": {
+        "date": "2026-10-31T22:00:00.000Z",
+        "artist_id": "lawrence",
+        "venue_id": "brooklyn-paramount",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-31-2026/event/000064410842ECEE"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/lawrence-staycation-brooklyn-new-york-10-31-2026/event/000064410842ECEE",
+        "https://www.brooklynparamount.com/"
+      ]
+    },
+    {
+      "id": "durhg9",
+      "expected": {
+        "date": "2026-11-06T00:00:00.000Z",
+        "artist_id": "sammy-rae-the-friends",
+        "venue_id": "brooklyn-paramount",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/sammy-rae-the-friends-the-get-brooklyn-new-york-11-05-2026/event/0000643700A3F2B5",
+        "https://www.brooklynparamount.com/"
+      ]
+    },
+    {
+      "id": "5vce65",
+      "expected": {
+        "date": "2026-11-07T01:00:00.000Z",
+        "artist_id": "blu-detiger",
+        "venue_id": "music-hall-of-williamsburg",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.axs.com/events/1566329/blu-detiger-tickets"
+      },
+      "sources": [
+        "https://www.axs.com/events/1566329/blu-detiger-tickets"
+      ]
+    },
+    {
+      "id": "wayaxm",
+      "expected": {
+        "date": "2026-11-13T00:30:00.000Z",
+        "artist_id": "dave-matthews-band",
+        "venue_id": "madison-square-garden",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-12-2026/event/3B0064F8E6F49510"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-12-2026/event/3B0064F8E6F49510",
+        "https://www.msg.com/events-tickets/dave-matthews-band-madison-square-garden-november-2026/3B0064F8E6EE9505"
+      ]
+    },
+    {
+      "id": "xw90qo",
+      "expected": {
+        "date": "2026-11-14T00:30:00.000Z",
+        "artist_id": "dave-matthews-band",
+        "venue_id": "madison-square-garden",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-13-2026/event/3B0064F8E6EE9505"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/dave-matthews-band-new-york-new-york-11-13-2026/event/3B0064F8E6EE9505",
+        "https://www.msg.com/events-tickets/dave-matthews-band-madison-square-garden-november-2026/3B0064F8E6EE9505"
+      ]
+    },
+    {
+      "id": "9gg7zu",
+      "expected": {
+        "date": "2026-11-20T00:00:00.000Z",
+        "artist_id": "pigeons-playing-ping-pong",
+        "venue_id": "brooklyn-bowl",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-19-2026/event/000064C3D319882C"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-19-2026/event/000064C3D319882C",
+        "https://www.brooklynbowl.com/brooklyn/events/detail/pigeons-playing-ping-pong-k7vgf_g2kkboi"
+      ]
+    },
+    {
+      "id": "52nmtf",
+      "expected": {
+        "date": "2026-11-21T00:00:00.000Z",
+        "artist_id": "pigeons-playing-ping-pong",
+        "venue_id": "brooklyn-bowl",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-20-2026/event/000064C3DA99A9EB"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-20-2026/event/000064C3DA99A9EB",
+        "https://www.brooklynbowl.com/brooklyn/events/detail/pigeons-playing-ping-pong-k7vgf_g2qjqel"
+      ]
+    },
+    {
+      "id": "fr7ehl",
+      "expected": {
+        "date": "2026-11-22T00:00:00.000Z",
+        "artist_id": "pigeons-playing-ping-pong",
+        "venue_id": "brooklyn-bowl",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-21-2026/event/000064C3E1FEC41C"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/pigeons-playing-ping-pong-brooklyn-new-york-11-21-2026/event/000064C3E1FEC41C",
+        "https://www.brooklynbowl.com/shows/all?direct=true"
+      ]
+    },
+    {
+      "id": "i6x5n1",
+      "expected": {
+        "date": "2026-11-22T00:00:00.000Z",
+        "artist_id": "tiny-habits",
+        "venue_id": "irving-plaza",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/event/000064C93163EA87"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/event/000064C93163EA87",
+        "https://tinyhabitsofficial.com/tour/"
+      ]
+    },
+    {
+      "id": "i5po81",
+      "expected": {
+        "date": "2026-12-16T00:00:00.000Z",
+        "artist_id": "haley-heynderickx",
+        "venue_id": "bowery-ballroom",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.ticketmaster.com/haley-heynderickx-new-york-new-york-12-15-2026/event/0000652FB78FEB75"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/haley-heynderickx-new-york-new-york-12-15-2026/event/0000652FB78FEB75"
+      ]
+    },
+    {
+      "id": "a88kxr",
+      "expected": {
+        "date": "2027-02-19T01:00:00.000Z",
+        "artist_id": "sammy-rae-the-friends",
+        "venue_id": "basilica-hudson",
+        "date_precision": "time"
+      },
+      "expected_absent": [
+        "purchase_link"
+      ],
+      "changes": {
+        "purchase_link": "https://www.eventim.us/event/sammy-rae-and-the-friends-the-get-down/705244"
+      },
+      "sources": [
+        "https://www.eventim.us/event/sammy-rae-and-the-friends-the-get-down/705244"
+      ]
+    }
+  ]
+}
