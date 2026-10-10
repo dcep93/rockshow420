@@ -1,0 +1,133 @@
+{
+  "id": "email-concerts-2026-10-09",
+  "artists": {
+    "cdjckn": {
+      "name": "Samantha Fish"
+    },
+    "dm87hw": {
+      "name": "Allison Russell"
+    },
+    "p54e6b": {
+      "name": "Autumn Nicholas"
+    },
+    "3v95s5": {
+      "name": "Julio Torres"
+    }
+  },
+  "concert_additions": [
+    {
+      "id": "uyorju",
+      "concert": {
+        "date": "2026-11-15T20:00:00-05:00",
+        "date_precision": "time",
+        "artist_id": "cdjckn",
+        "venue_id": "brooklyn-bowl",
+        "supporting_artist_ids": [],
+        "purchase_link": "https://www.ticketmaster.com/event/000064EFF94830C4"
+      },
+      "sources": [
+        "https://www.livenation.com/event/k7vGF_CTy3dd7/samantha-fish",
+        "https://www.ticketmaster.com/event/000064EFF94830C4"
+      ]
+    },
+    {
+      "id": "w1h272",
+      "concert": {
+        "date": "2027-05-15T20:00:00-04:00",
+        "date_precision": "time",
+        "artist_id": "carly-rae-jepsen",
+        "venue_id": "madison-square-garden",
+        "supporting_artist_ids": [
+          "sarah-kinsley"
+        ],
+        "purchase_link": "https://www.ticketmaster.com/event/3B00653BC1584829"
+      },
+      "sources": [
+        "https://www.msg.com/events-tickets/carly-rae-jepsen-madison-square-garden-may-2027/3B00653BC1584829",
+        "https://www.ticketmaster.com/event/3B00653BC1584829"
+      ]
+    },
+    {
+      "id": "xesee3",
+      "concert": {
+        "date": "2026-12-01T20:00:00-05:00",
+        "date_precision": "time",
+        "artist_id": "lucy-dacus",
+        "venue_id": "webster-hall",
+        "supporting_artist_ids": [
+          "infinity-song",
+          "3v95s5"
+        ],
+        "purchase_link": "https://www.axs.com/events/1612163/lucy-dacus-all-request-set-tickets"
+      },
+      "sources": [
+        "https://www.axs.com/uk/events/1612163/lucy-dacus-all-request-set-tickets",
+        "https://www.axs.com/events/1612163/lucy-dacus-all-request-set-tickets"
+      ]
+    },
+    {
+      "id": "os9kkr",
+      "concert": {
+        "date": "2027-05-05T20:00:00-07:00",
+        "date_precision": "time",
+        "artist_id": "john-mayer",
+        "venue_id": "sphere",
+        "supporting_artist_ids": [],
+        "purchase_link": "https://www.ticketmaster.com/event/1700653837DDD501"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/john-mayer-tickets/artist/770494?venueId=189524",
+        "https://www.ticketmaster.com/event/1700653837DDD501"
+      ]
+    },
+    {
+      "id": "nosd3x",
+      "concert": {
+        "date": "2027-05-07T20:00:00-07:00",
+        "date_precision": "time",
+        "artist_id": "john-mayer",
+        "venue_id": "sphere",
+        "supporting_artist_ids": [],
+        "purchase_link": "https://www.ticketmaster.com/event/1700653837DED503"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/john-mayer-tickets/artist/770494?venueId=189524",
+        "https://www.ticketmaster.com/event/1700653837DED503"
+      ]
+    },
+    {
+      "id": "qfvgbz",
+      "concert": {
+        "date": "2027-05-08T20:00:00-07:00",
+        "date_precision": "time",
+        "artist_id": "john-mayer",
+        "venue_id": "sphere",
+        "supporting_artist_ids": [],
+        "purchase_link": "https://www.ticketmaster.com/event/1700653837DFD505"
+      },
+      "sources": [
+        "https://www.ticketmaster.com/john-mayer-tickets/artist/770494?venueId=189524",
+        "https://www.ticketmaster.com/event/1700653837DFD505"
+      ]
+    },
+    {
+      "id": "p5q4ly",
+      "concert": {
+        "date": "2026-10-20T18:00:00-04:00",
+        "date_precision": "time",
+        "artist_id": "dm87hw",
+        "venue_id": "irving-plaza",
+        "supporting_artist_ids": [
+          "p54e6b"
+        ],
+        "purchase_link": "https://www.ticketmaster.com/event/0000650AC63E0A3F"
+      },
+      "sources": [
+        "https://www.livenation.com/event/k7vGF_8lk2OIT/allison-russell-in-the-hour-of-chaos-tour",
+        "https://www.ticketmaster.com/event/0000650AC63E0A3F"
+      ]
+    }
+  ],
+  "lineup_additions": [],
+  "concert_updates": []
+}
