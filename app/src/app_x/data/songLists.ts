@@ -47,8 +47,8 @@ export function groupScheduleDays(sets: ScheduledSet[], timezone: string): { day
   }
   return [...groups].sort(([a], [b]) => (a || "9999").localeCompare(b || "9999"))
     .map(([day, rows]) => ({ day, sets: rows.sort((a, b) => {
-      const aTime = a.start ? Date.parse(a.start) : Infinity;
-      const bTime = b.start ? Date.parse(b.start) : Infinity;
-      return aTime - bTime || (a.stage || "").localeCompare(b.stage || "") || a.id.localeCompare(b.id);
+      const aTime = a.start ? Date.parse(a.start) : -Infinity;
+      const bTime = b.start ? Date.parse(b.start) : -Infinity;
+      return bTime - aTime || (b.stage || "").localeCompare(a.stage || "") || b.id.localeCompare(a.id);
     }) }));
 }

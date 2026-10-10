@@ -51,18 +51,21 @@ test("encoded artist/concert keys and empty song lists do not create missing-dat
   assert.deepEqual(artistSongLists("c", "a", "A", { ...caches, setlists: { "a:c": [{ ...performance, sets: [] }] }, spotify: { a: { ...top, songs: [] } } }), []);
 });
 
-test("festival schedule groups by programme day and sorts start times, preserving after-midnight assignments", () => {
+test("festival days show latest times first and untimed acts last, preserving after-midnight assignments", () => {
   const input = [
     { id: "later", artist_id: "a", day: "2026-07-01", start: "2026-07-02T00:30:00-04:00" },
     { id: "next", artist_id: "b", day: "2026-07-02", start: "2026-07-02T15:00:00-04:00" },
     { id: "unknown", artist_id: "c", day: "2026-07-01" },
+    { id: "untimed", artist_id: "d", day: "2026-07-01" },
+    { id: "no-day", artist_id: "e" },
     { id: "first", artist_id: "b", day: "2026-07-01", start: "2026-07-01T19:00:00-04:00" },
     { id: "inferred", artist_id: "a", start: "2026-07-02T01:00:00Z" },
   ];
+  const before = structuredClone(input);
   assert.deepEqual(groupScheduleDays(input, "America/New_York").map(g => [g.day, g.sets.map(s => s.id)]), [
-    ["2026-07-01", ["first", "inferred", "later", "unknown"]], ["2026-07-02", ["next"]],
+    ["2026-07-01", ["later", "inferred", "first", "untimed", "unknown"]], ["2026-07-02", ["next"]], ["", ["no-day"]],
   ]);
-  assert.equal(input[0].id, "later", "grouping must not reorder source schedule");
+  assert.deepEqual(input, before, "grouping must not mutate source schedule");
 });
 
 test("search ignores case and special characters while preserving word spaces", () => {

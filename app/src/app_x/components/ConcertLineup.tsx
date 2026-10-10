@@ -64,7 +64,7 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     {!!schedule?.sets.length && <>
       {groupScheduleDays(schedule.sets, timezone).map(group => <details className="rs-schedule-day" key={group.day} open>
         <summary><h3>{group.day ? DateTime.fromISO(group.day, { zone: "UTC" }).toFormat("ccc, LLL d") : "Date unknown"}</h3></summary>
-        {[...group.sets].reverse().map(set => row(set.artist_id, [
+        {group.sets.map(set => row(set.artist_id, [
           set.start && DateTime.fromISO(set.start).setZone(timezone).toFormat("h:mm a"),
           set.stage,
         ].filter(Boolean).join(" · "), set.id))}
