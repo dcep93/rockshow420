@@ -23,7 +23,7 @@ export function ConcertRow({
   const date = formatConcertDate(concert.date, venue?.timezone || "UTC", concert.date_precision, concert.end_date);
   return (
     <article className={`rs-concert-row${log?.removed ? " rs-concert-hidden" : ""}`}>
-      <Picture src={artist?.image} name={artist?.name || ""} />
+      <Picture src={artist?.image} name={artist?.name || ""} fallbackSrc={venue?.image} fallbackName={venue?.name} />
       <div className="rs-concert-info">
         {log?.removed && <span className="rs-hidden-label">Hidden</span>}
         <p className="rs-date">{log?.ticket_status === "cancelled" ? `[${date}]` : date}</p>
