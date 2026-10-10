@@ -1,0 +1,26 @@
+{
+  "id": "2026-10-09-new-artist-images",
+  "artists": {},
+  "lineup_additions": [],
+  "concert_updates": [],
+  "artist_updates": [
+    {
+      "id": "dm87hw",
+      "expected": { "name": "Allison Russell" },
+      "expected_absent": ["image"],
+      "changes": {
+        "image": "https://concord.com/wp-content/uploads/2021/02/DSF5386-Lead-Image-Cold-April.webp"
+      },
+      "sources": ["https://concord.com/artist/allison-russell/"]
+    },
+    {
+      "id": "cdjckn",
+      "expected": { "name": "Samantha Fish" },
+      "expected_absent": ["image"],
+      "changes": {
+        "image": "https://samanthafish.com/wp-content/uploads/2025/02/Samantha-Fish-Alexis-Interiano-5.webp"
+      },
+      "sources": ["https://samanthafish.com/about/"]
+    }
+  ]
+}
