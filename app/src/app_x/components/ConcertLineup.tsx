@@ -46,13 +46,16 @@ export function ConcertLineup({ catalog, concert, editor }: { catalog: Catalog; 
     {(editor || schedule?.sets.length || ids.length > 0) && <div className="rs-log-toolbar">
       <h2>{schedule?.sets.length ? "Schedule" : "Lineup"}</h2>
       {editor && <>
-      <label className="rs-ticket-control"><span>Ticket status</span>
-        <select value={editor.ticketStatus} disabled={editor.busy} onChange={event => {
+      <div className="rs-ticket-control">
+        {/^https?:\/\//i.test(concert.purchase_link || "")
+          ? <a href={concert.purchase_link} target="_blank" rel="noreferrer">Ticket status</a>
+          : <span>Ticket status</span>}
+        <select aria-label="Ticket status" value={editor.ticketStatus} disabled={editor.busy} onChange={event => {
           if (isTicketStatus(event.target.value)) void editor.persist({ ticket_status: event.target.value }, "controls");
         }}>
           {Object.entries(ticketStatusLabels).map(([value, label]) => <option key={value} value={value} label={label || " "}>{label}</option>)}
         </select>
-      </label>
+      </div>
       <button type="button" className="rs-text-button" disabled={editor.busy} onClick={() => void editor.persist({ removed: !editor.hidden }, "controls")}>
         {editor.hidden ? "Unhide" : "Hide"}
       </button>

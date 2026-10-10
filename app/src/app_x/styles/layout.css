@@ -305,6 +305,7 @@
 .rs-log-toolbar { display: grid; grid-template-columns: minmax(0, 1fr) auto auto; align-items: end; gap: 0.75rem; padding-bottom: 1rem; margin-bottom: 1rem; border-bottom: 0.0625rem solid var(--rs-border); }
 .rs-log-toolbar > h2 { display: flex; align-items: center; min-height: 2.75rem; }
 .rs-ticket-control { display: flex; flex-direction: column; align-items: stretch; gap: 0.3rem; color: var(--rs-muted); font-size: 0.75rem; }
+.rs-ticket-control > a { color: inherit; text-decoration: underline; text-underline-offset: 0.15em; }
 .rs-ticket-control select { min-height: 2.75rem; max-width: 100%; padding: 0.4rem 0.6rem; border: 0.0625rem solid var(--rs-border); border-radius: 0.5rem; background: var(--rs-panel-soft); color: var(--rs-text); font: inherit; }
 .rs-public-notes textarea { display: block; font-family: inherit; }
 .rs-public-notes > h2 { margin-bottom: 0.75rem; }
